@@ -22,7 +22,7 @@ def parse_entry(entry):
     time = entry.find('time')['datetime']
     blog = anchors[1].text
     blog_link = anchors[1]['href']
-    description = entry.find('p').text
+    description = entry.find('p') and entry.find('p').text or ''
 
     entry_dict = {
         'title': title,
