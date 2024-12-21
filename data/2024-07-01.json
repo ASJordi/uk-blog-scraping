@@ -1,0 +1,120 @@
+[
+    {
+        "title": "2024 annual call for topics is open",
+        "authors": [
+            "Mike Harris"
+        ],
+        "posted_on": "2024-07-05T11:49:56",
+        "categories": [
+            "General"
+        ],
+        "content": [
+            {
+                "content": "The UK National Screening Committee\u2019s (UK NSC\u2019s) 2024 annual call for new screening topics has opened.",
+                "tag": "p"
+            },
+            {
+                "content": "This is our regular opportunity for you \u2013 our stakeholders \u2013 to submit proposals to the committee.",
+                "tag": "p"
+            },
+            {
+                "content": "During the 3-month annual call period, any individual or organisation can propose potential new screening programmes, new technologies we have not previously reviewed, modifications to current screening programmes, or early updates (following new evidence) to topics the committee has considered recently.",
+                "tag": "p"
+            },
+            {
+                "content": "Proposals can cover targeted and stratified screening as well as population screening.",
+                "tag": "p"
+            },
+            {
+                "content": "The annual call will close on 30 September. Proposals must be submitted before that date to be considered.",
+                "tag": "p"
+            },
+            {
+                "content": "The Fetal, Maternal, Child Health (FMCH) expert group and the Adult Reference Group (ARG) will propose next steps for submissions and a final decision will be made in collaboration with the UK NSC. The selected topics will be included in the next work plan, which will be agreed with the chief medical officers (CMOs) from the 4 countries.",
+                "tag": "p"
+            },
+            {
+                "content": "We will aim to get back to stakeholders shortly after the first 2025 meeting of the relevant expert group to update them on the progress of their proposals.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u00a0register to receive updates\u00a0direct to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u00a0uknsc@dhsc.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2024/07/05/2024-annual-call-for-topics-is-open/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "The UK NSC\u2019s 2024 annual call for new screening topics has opened, giving stakeholders the chance to propose potential new screening programmes, new technologies we have not previously reviewed, modifications to current screening programmes, or early updates to topics the committee has considered recently."
+    },
+    {
+        "title": "Improving our website search",
+        "authors": [
+            "Martin O'Brian",
+            "Rob Thomlinson"
+        ],
+        "posted_on": "2024-07-05T11:14:24",
+        "categories": [
+            "Technology",
+            "Website"
+        ],
+        "content": [
+            {
+                "content": "ONS.GOV.UK has a vast website estate. There are nearly 4 million pages and downloadable files covering an enormous range of information and statistics related to the economy, population, and society at national, regional and local levels \u2013 all published to deliver our mission: statistics for the public good. With around 2 million page views a month, our website is the primary platform for us to deliver high quality data to inform the UK, improve lives and build for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Most other government departments must use GOV.UK for their news, announcements, services, and general information, but the quantity and variety of our content is best suited to a dedicated website communicating our unique statistical content to users.",
+                "tag": "p"
+            },
+            {
+                "content": "Therefore, it\u2019s essential that our website gives our users the information they need and when they need it.",
+                "tag": "p"
+            },
+            {
+                "content": "A more natural way to search",
+                "tag": "h2"
+            },
+            {
+                "content": "A very important part in doing this is through the website search and we\u2019ve introduced a more natural way to search using Natural Language Processing (NLP) to better give users the information they need.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve been A/B testing the new search on our website where some users would get the new NLP search and others would get the previous search.\u00a0 We've now switched to full NLP search where all users will have their results generated using the new search.",
+                "tag": "p"
+            },
+            {
+                "content": "Previously, the website search took the words entered in the search bar and matched them directly to the index, providing the links to the pages in the search results.\u00a0 The new search introduces a further step \u2013 to understand better what the user is searching for.",
+                "tag": "p"
+            },
+            {
+                "content": "This means a user can use natural language in the search bar, for example, asking questions such as \u201cwhat is the inflation rate\u201d.\u00a0 Previously, the search engine would have looked for matches of all words in the index, giving each one an equal weighting when the important part of the search is really \u201cinflation\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "The new search breaks the question down, ignoring \u201cwhat\u201d, \u201cis\u201d and \u201cthe\u201d and weighting \u201cinflation\u201d higher than \u201crate\u201d because \u201crate\u201d is more present in our content than \u201cinflation\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "Once the search words have been weighted, the search then looks for what those words mean in the context of our outputs \u2013 identifying close neighbours of the words, words which regularly appear alongside them and the topics they appear in.",
+                "tag": "p"
+            },
+            {
+                "content": "Richer search results",
+                "tag": "h2"
+            },
+            {
+                "content": "The search results can be more relevant to what the user is searching for with the results also presented in order of weighting. Our aim is to provide the user with richer search results to increase the probability of them finding what they were looking for.\u00a0We\u2019ve released these changes as a Public Beta, we\u2019ll monitor and analyse search performance through July to see how much difference they\u2019ve made and to prioritise further development work.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://onsdigital.blog.gov.uk/2024/07/05/improving-our-website-search/",
+        "blog": "ONS Digital, Data and Technology",
+        "blog_link": "https://onsdigital.blog.gov.uk",
+        "description": "Rob Thomlinson, Senior Product Manager, shares how we're updating our website search with natural language processing to provide users with richer search results to increase the probability of them finding what they're looking for."
+    }
+]

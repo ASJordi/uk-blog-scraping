@@ -1,0 +1,2603 @@
+[
+    {
+        "title": "Update on childcare reforms",
+        "authors": [
+            "media officer"
+        ],
+        "posted_on": "2022-09-23T14:07:19",
+        "categories": [
+            "Childcare"
+        ],
+        "content": [
+            {
+                "content": "The Chancellor, Kwasi Kwarteng, has confirmed today that helping people access affordable childcare continues to be one of the government\u2019s top priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "The UK has some of the highest quality childcare provision in the world, but it is also one of the biggest costs facing working families today and a barrier for people remaining in the labour market.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s why the government will bring forward reforms\u00a0to improve access to affordable, flexible childcare.",
+                "tag": "p"
+            },
+            {
+                "content": "We will provide more information in due course.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2022/09/23/update-on-childcare-reforms/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "The Chancellor, Kwasi Kwarteng, has confirmed today that helping people access affordable childcare continues to be one of the government\u2019s top priorities."
+    },
+    {
+        "title": "The Accessibility in government blog returns",
+        "authors": [
+            "Samantha Merrett",
+            "Jessica Eley"
+        ],
+        "posted_on": "2022-09-23T10:15:10",
+        "categories": [
+            "Accessibility",
+            "Accessibility Monitoring",
+            "Accessibility Regulations"
+        ],
+        "content": [
+            {
+                "content": "You might have noticed that the Accessibility in government blog had grown a little quiet over the last couple of months but we are pleased to announce that we are now back and the new blog owners - Samantha Merrett, Accessibility Lead at the Food Standards Agency and Jessica Eley, Accessibility Officer at the Government Digital Service - are ready to share their plans for the future of the blog.",
+                "tag": "p"
+            },
+            {
+                "content": "We are very excited to have the opportunity to blog about accessibility best practice and share interesting information with the wider accessibility community. We thought it might be a good idea to take a moment to introduce ourselves.",
+                "tag": "p"
+            },
+            {
+                "content": "Samantha Merrett, Accessibility Lead",
+                "tag": "h2"
+            },
+            {
+                "content": "Hi, my name is Samantha and I work at the Food Standards Agency (FSA). Before starting at the FSA, I worked at the Ministry of Defence, publishing information on GOV.UK, and I learnt a lot about accessibility. I was there during the initial release of the Public Sector Bodies Accessibility Regulations so I had to learn all about it in a very short space of time.",
+                "tag": "p"
+            },
+            {
+                "content": "I started my first full time role in Accessibility in April 2021 at the FSA. In my current role, I am primarily responsible for our main FSA website; this is where we publish most of our content both scientific reports and important consumer and business guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "It is of vital importance that the information we publish is easy to understand and access. If a business owner is unable to access and understand our guidance and regulations, this could have major implications for consumer safety.",
+                "tag": "p"
+            },
+            {
+                "content": "We embarked on our HTML-first/accessible by default-journey about a year ago now, and have made great progress so far. You can read more about how we did this in my previous blog post, Accessible by default at the Food Standards Agency.",
+                "tag": "p"
+            },
+            {
+                "content": "We are now HTML-by-default when publishing content online, we have made a number of accessibility improvements to our website, and have updated our brand guidelines to ensure they are embedding accessibility at the heart of design.",
+                "tag": "p"
+            },
+            {
+                "content": "There is still a lot more work to do but we are working to create an equal and inclusive environment internally and continue to publish fully accessible external communications.",
+                "tag": "p"
+            },
+            {
+                "content": "Jessica Eley, Accessibility Officer",
+                "tag": "h2"
+            },
+            {
+                "content": "Hi, I\u2019m Jess and, as mentioned, I\u2019m an Accessibility Officer at the Government Digital Service (GDS).",
+                "tag": "p"
+            },
+            {
+                "content": "I joined GDS as a Business Apprentice with the Cabinet Office, and the topic of accessibility was completely new to me. I\u2019ve learnt a lot over the past 2 years thanks to my brilliant team and the accessibility community - so I\u2019m excited to be able to give something back by helping run this blog.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m currently part of the accessibility monitoring and reporting team, so day-to-day I test public sector websites for compliance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.",
+                "tag": "p"
+            },
+            {
+                "content": "Whilst there is a legislative requirement for public sector websites to be accessible, it is also important to appreciate that the public have to use these websites for information and services that cannot be found elsewhere. This means it is vital that the services and content on the websites we test can be used and understood by the widest possible audience.",
+                "tag": "p"
+            },
+            {
+                "content": "The team has been working hard for the past few years to make the monitoring process as efficient and effective as possible both internally and externally. For example, I have colleagues who have moved on to detailed and mobile app testing, whilst others have been busy building a bespoke platform for the monitoring and reporting team. You can read more about our work in our 2020-2021 end of year report - and hopefully we\u2019ll also appear in some future blog posts!",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019re really excited to be working together to share the excellent accessibility work going on across government and beyond, and the advancements we\u2019re making towards building an accessible future.",
+                "tag": "p"
+            },
+            {
+                "content": "We can\u2019t run this blog without you so please get in touch if you\u2019d like to share what you\u2019re working on or anything you think would be valuable to the accessibility community.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://accessibility.blog.gov.uk/2022/09/23/the-accessibility-in-government-blog-returns/",
+        "blog": "Accessibility in government",
+        "blog_link": "https://accessibility.blog.gov.uk",
+        "description": "The Accessibility in government blog is back and ready to introduce its two new owners. Find out more about who we are and what we plan to post about."
+    },
+    {
+        "title": "Splink: Fast, accurate and scalable record linkage",
+        "authors": [
+            "Robin Linacre - Data scientist, Ministry of Justice"
+        ],
+        "posted_on": "2022-09-23T10:06:14",
+        "categories": [
+            "Data Engineering",
+            "Data science",
+            "Python"
+        ],
+        "content": [
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A common data quality problem is to have multiple different records that refer to the same entity but no unique identifier that ties these entities together.\u00a0 For example, customer data may have been entered multiple times by accident, or have been entered in multiple IT systems separately.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Record linkage (sometimes known as entity resolution, or data matching) is a technique to link these records, enabling data to be deduplicated and joined between systems.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the Ministry of Justice, we have developed an open source library called Splink to improve our record linkage methodology.\u00a0 This has enabled us to share new linked datasets with accredited researchers, as part of the ADR UK-funded Data First programme.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is Splink?",
+                "tag": "p"
+            },
+            {
+                "content": "Splink is a free library for fast and accurate record linkage, which is now in its third version. It has the following key features:",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How do I get started?",
+                "tag": "p"
+            },
+            {
+                "content": "Splink is a free Python package that can be installed in the usual way - using \u2018pip install splink\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "We recommend users start by looking at our online tutorial, which is part of our main documentation website.\u00a0 The tutorial runs through a full record linkage example, from exploratory analysis right through to prediction and graph analytics, and it can even be run interactively in your web browser.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How it works",
+                "tag": "p"
+            },
+            {
+                "content": "Splink is an implementation of the Fellegi-Sunter model. The software generates pairwise record comparisons using an approach called blocking, and computes a match score for each pair which quantifies the similarity between the two records.",
+                "tag": "p"
+            },
+            {
+                "content": "The match score is determined by parameters known as partial match weights. These quantify the importance of different aspects of the comparison.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, a match on date of birth lends more evidence in favour of two records being a match than a match on gender. A mismatch on postcode may provide weak evidence against a match because people move house, whereas a mismatch on date of birth may be stronger evidence against the record being a match.",
+                "tag": "p"
+            },
+            {
+                "content": "This simple idea has a lot of power to build highly nuanced models. Partial match weights can be computed for an arbitrary number of user-defined scenarios, not just a match or non match. For example, a partial match weight can be estimated for a scenario where postcodes do not match, but are within 10 miles of each other.",
+                "tag": "p"
+            },
+            {
+                "content": "These partial match weights are combined into an overall match score, which represents the weight of evidence that the two records are a match.",
+                "tag": "p"
+            },
+            {
+                "content": "A more detailed video description of how this all works can be found here.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get in touch",
+                "tag": "p"
+            },
+            {
+                "content": "If you work for the government and would like help getting started with your data, please don\u2019t hesitate to get in touch at robin.linacre@digital.justice.gov.uk.\u00a0 You can also ask us a question or raise an issue against the main (public) github repository.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dataingovernment.blog.gov.uk/2022/09/23/splink-fast-accurate-and-scalable-record-linkage/",
+        "blog": "Data in government",
+        "blog_link": "https://dataingovernment.blog.gov.uk",
+        "description": "\u00a0 A common data quality problem is to have multiple different records that refer to the same entity but no unique identifier that ties these entities together.\u00a0 For example, customer data may have been entered multiple times by accident, or \u2026"
+    },
+    {
+        "title": "Piloting Ofsted Inspectors (OIs) in social care",
+        "authors": [
+            "Yvette Stanley"
+        ],
+        "posted_on": "2022-09-23T09:30:34",
+        "categories": [
+            "inspectors",
+            "social care professionals"
+        ],
+        "content": [
+            {
+                "content": "Yvette Stanley, our National Director for Regulation and Social Care, discusses plans to pilot the use of serving social care practitioners as Ofsted Inspectors (OIs).",
+                "tag": "p"
+            },
+            {
+                "content": "As an inspectorate and a regulator, we always want to learn from and draw on the expertise of those working in the areas we inspect and regulate. We have done this most visibly through our use of OIs, who are serving practitioners from across the schools, further education and early years sectors. They make up the majority of our workforce in these areas and I know how valuable their first-hand experience and insight into current practice have been over the years.",
+                "tag": "p"
+            },
+            {
+                "content": "For over 2 years we have employed former and retired social care practitioners as OIs to support our regulatory inspections in children\u2019s social care. But we think now is the right time to consider how currently serving social care practitioners could complement our regulatory workforce. To help us to work through the opportunities and challenges, we have developed a small-scale pilot to run for 6 to 9 months. This feels like the logical next step after the success of including OIs in our other inspection and regulatory remits.",
+                "tag": "p"
+            },
+            {
+                "content": "We are, of course, acutely aware of the significant recruitment challenges the sector continues to face. The last thing we want to do is to add to those pressures. That\u2019s why, for now, we will only use serving practitioners from some of the largest providers. These providers will have the greatest capacity to release frontline staff and can ensure that there is no impact on the children they are caring for. We would like to have included some local authority staff in the pilot, but their release at this time was too challenging.",
+                "tag": "p"
+            },
+            {
+                "content": "Following a thorough selection process, we now have a small number of serving practitioners ready to take part in our training programme. As they progress through the programme, they will shadow and work closely with our most experienced, permanent inspectors who will provide substantial oversight and support.",
+                "tag": "p"
+            },
+            {
+                "content": "Maintaining high standards",
+                "tag": "p"
+            },
+            {
+                "content": "Regardless of whether an inspector is permanently employed by Ofsted or contracted as an OI, we will hold them to the same high standards so that our inspection and regulatory activity continues to work in the best interests of children. Maintaining these high standards is our priority.",
+                "tag": "p"
+            },
+            {
+                "content": "For that reason, none of the OIs involved in the pilot will be inspecting alone until they are fully trained and have passed the necessary checks. We also have well-established procedures in place from our work with OIs in education and early years, and from consultation with provider groups, to help us manage any potential conflicts of interests. If a conflict is identified once an OI is on site, we will address it immediately. We do this for our Social Care Regulatory Inspectors, as many will have previously worked directly with children and for a regulated provider.",
+                "tag": "p"
+            },
+            {
+                "content": "We will evaluate and share the outcome of the pilot when it ends in spring 2023.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialcareinspection.blog.gov.uk/2022/09/23/piloting-ofsted-inspectors-ois-in-social-care/",
+        "blog": "Ofsted: social care",
+        "blog_link": "https://socialcareinspection.blog.gov.uk",
+        "description": "Yvette Stanley, our National Director for Regulation and Social Care, discusses plans to pilot the use of serving social care practitioners as Ofsted Inspectors (OIs). As an inspectorate and a regulator, we always want to learn from and draw on \u2026"
+    },
+    {
+        "title": "Leader\u2019s blog: Colin Banno-Thornton on the future of digital delivery in Defra",
+        "authors": [
+            "Colin Banno-Thornton"
+        ],
+        "posted_on": "2022-09-23T07:30:55",
+        "categories": [
+            "Defra digital"
+        ],
+        "content": [
+            {
+                "content": "We made some organisational changes in our Digital data and technology organisation earlier in the year to bring together our projects and digital delivery teams into a single, digital delivery portfolio.",
+                "tag": "p"
+            },
+            {
+                "content": "Why did we do this, you might be asking yourself? Essentially those moves were a necessary prelude to a piece of work aimed at standardising and simplifying our ways of working, which got underway very recently.",
+                "tag": "p"
+            },
+            {
+                "content": "It's called Future Digital Delivery (FDD), and there are four key outcomes that we will be focusing on:",
+                "tag": "p"
+            },
+            {
+                "content": "Why we\u2019re doing this",
+                "tag": "h2"
+            },
+            {
+                "content": "But first, a bit about the \u2018back story\u2019. Stick with me, though this bit might be a little dry, it\u2019s necessary to help you understand why we\u2019re doing all of this.",
+                "tag": "p"
+            },
+            {
+                "content": "We were previously set up to deliver across Defra as three separate portfolios (Group Infrastructure and Operations, Major Projects, and Digital Delivery). As separate digital portfolios we couldn't effectively prioritise work, according to business outcomes, to enable delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "Through merging projects and delivery into a single portfolio, we can transform the way that our projects are delivered, realise the full potential of our teams, and increase the level of financial control. With me so far?",
+                "tag": "p"
+            },
+            {
+                "content": "The benefits",
+                "tag": "h2"
+            },
+            {
+                "content": "Let\u2019s look at the benefits we hope to realise from this merging of teams into a single digital delivery portfolio. For me, there are many.",
+                "tag": "p"
+            },
+            {
+                "content": "The major ones are how this will help create a more joined-up working environment both with our own teams but also with policy and operations teams. Users of Defra services will also benefit from greater join up across those services.",
+                "tag": "p"
+            },
+            {
+                "content": "For our delivery teams the move will help reduce the amount of duplication, drive greater visibility, transparency, and opportunities for learning.",
+                "tag": "p"
+            },
+            {
+                "content": "Our portfolio team and the project delivery profession will have a more holistic picture of delivery status, along with clarity as to where we best deploy time and people to add the most value.",
+                "tag": "p"
+            },
+            {
+                "content": "These changes will also realise increased value from our supplier partners, reduce governance layers and result in faster and more efficient mobilisation and delivery with unnecessary steps simplified. This will be music to the ears of our delivery partners no doubt.",
+                "tag": "p"
+            },
+            {
+                "content": "And finally, there will be a clearer training and development path for civil servants, as well as opportunities to work across the portfolio.",
+                "tag": "p"
+            },
+            {
+                "content": "Aligning things together",
+                "tag": "h2"
+            },
+            {
+                "content": "This work aligns to another piece of work also underway across Defra where we are working alongside the Defra transformation and strategy leads to explore how, collectively, we can work in partnership to progress the digital and service transformation agenda.",
+                "tag": "p"
+            },
+            {
+                "content": "There was a great discussion at a recent Defra ExCo meeting around setting out a clear vision and operating model for digital transformation, and the need to establish a digital transformation programme. This will be guided by the government\u2019s CDDO Roadmap and aligned to the customer and user services that Defra provides.",
+                "tag": "p"
+            },
+            {
+                "content": "This is a real milestone in further establishing our role as trusted advisor and partner at the most senior levels of Defra. I recognise that colleagues in our teams are taking huge steps to establish these sorts of strong relationship at all levels of the organisation, and it\u2019s reassuring to know that our partnership approach is supported from the top.",
+                "tag": "p"
+            },
+            {
+                "content": "How we\u2019re bringing our people along on the journey",
+                "tag": "h2"
+            },
+            {
+                "content": "A major dependency for all of this to succeed is that everyone in our organisation understands the changes, why they are being made, and how they as individuals and teams can align to the new structure and ways of working, so that everything works as intended.",
+                "tag": "p"
+            },
+            {
+                "content": "Which is where engagement comes in, and which is why we recently kicked off our fortnightly FDD drop-in sessions. These sessions provide an opportunity for colleagues to ask any questions, and to hear how the programme of work is progressing. They will continue in the months ahead as we seek to build our partnership approach, one which is supported at all levels of the organisation, and not simply from the top.",
+                "tag": "p"
+            },
+            {
+                "content": "What next?",
+                "tag": "h2"
+            },
+            {
+                "content": "My delivery leadership team have agreed some priority areas of focus for the next quarter including portfolio analysis, demand and capability mapping and clarifying processes. These will be supported by some principles, for example adapting and learning, leveraging best practice, and working as one team.",
+                "tag": "p"
+            },
+            {
+                "content": "We want \u2013 actually, we need - everyone in Defra to get behind us on this journey. Our proverbial door is open, and we welcome ideas from anyone, including from outside Defra.\u00a0 So if you\u2019re reading this and you\u2019re thinking \u2018I\u2019ve got an idea\u2019 then do please leave me a comment on this post, or reach out to the team who will be happy to hear from you.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2022/09/23/leaders-blog-colin-banno-thornton-on-the-future-of-digital-delivery-in-defra/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "Colin Banno-Thornton, Director of Major Projects and Digital Delivery, explains how we made some organisational changes in our Digital data and technology organisation earlier in the year to bring together our projects and digital delivery teams into a single, digital delivery portfolio."
+    },
+    {
+        "title": "Funding innovative, local partnerships to tackle reoffending, through the Local Leadership and Integration Fund",
+        "authors": [
+            "Karen Asamoah"
+        ],
+        "posted_on": "2022-09-22T16:44:05",
+        "categories": [
+            "Local Leadership and Integration Fund"
+        ],
+        "content": [
+            {
+                "content": "The Prison Leavers Project (PLP) launched the Local Leadership and Integration Fund (LLIF) back in February 2020. Public and third sector organisations were invited to present joint solutions to turn repeat offenders away from crime by tackling the drivers of their offending in a bid to reduce reoffending.",
+                "tag": "p"
+            },
+            {
+                "content": "LLIF recognised that the issues experienced by those leaving prison are often specific to the local area, therefore we are empowering and supporting local leaders working together in partnerships to develop innovative ways to tackle reoffending that are tailored to their localities, across England and Wales.",
+                "tag": "p"
+            },
+            {
+                "content": "The LLIF is made up of two funding rounds, with the first group of partnerships receiving funding in June 2021.\u00a0 Their interventions include providing accommodation, peer support and employment opportunities through partnerships which create real-work environments within the prison estate \u2013 find the full scope of round one partnerships here.",
+                "tag": "p"
+            },
+            {
+                "content": "Welcome to Round Two partnerships - live now!\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Applications for the second round of funding closed last year and four new exciting partnerships have now been successful in their bid - amongst strong competition!\u00a0 So how will these successful partnerships support prison leavers to build productive lives that will contribute to the communities they are released into? Let us introduce you to the who, what, and where of the partnerships we are funding:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In launching a second round of LLIF partnerships, we\u2019re able to expand the locations in which these innovative and local solutions to reoffending can contribute to their communities. And, with these partnerships, motivated by supporting prison leavers with specific needs, we look forward to seeing their pilots live in action over the coming months.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The road to success - Round 1",
+                "tag": "h2"
+            },
+            {
+                "content": "We are already seeing the exceptional efforts of the partnership led by Change, Grow, Live, based in the West Midlands and one of our partnerships from Round One.\u00a0 Change, Grow, Live are helping to motivate a positive mindset change in prison leavers to actively engage with workshops geared towards self-improvement.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Change, Grow, Live - West Midlands\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Having identified an opportunity to help prison leavers post-release across the West Midlands, the partnership led by Change, Grow, Live wanted to support those with experience of the care system through training, peer mentoring and employment coaching, in and out of custody.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Change, Grow, Live have already demonstrated the positive success their approach can achieve through one participant\u2019s journey, Nigel \u2013 who was initially resistant to receiving any help or support. However, through Nigel\u2019s participation in their Mental Health workshop, he was able to engage with other people and discuss this reluctance, positively changing his perspective on receiving support post release.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Nigel has since gone on to complete an accredited Level 1 employability and education training course called \u2018Realise Your Vision\u2019. This empowers prison leavers to rethink negative thought and behaviour patterns which, until now, have stood in their way. Nigel has also participated in workshops on Mental Health, Rights and Accessing Social Care Records which supports prison leavers to understand and navigate their records and rights whilst in custody. Nigel has since continued his efforts post release, with the determination to stay out of prison.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Stay tuned",
+                "tag": "h2"
+            },
+            {
+                "content": "As partnerships continue to deliver their fantastic interventions over the coming months, it is our intention to not only support, but to listen, learn and share our findings across the services offered.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In learning from our partnerships and understanding the challenges of working collaboratively across sectors, it is our hope to influence systemic change in the way voluntary sector and public sector work together to deliver services. The project will test a wide range of interventions at a small scale initially. Whilst being supported by evaluation experts, we\u2019re set to gain a better understanding of what works, with the view to scale up\u202fthe approaches that prove effective in the future.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://prisonleaversproject.blog.gov.uk/2022/09/22/funding-innovative-local-partnerships/",
+        "blog": "The Prison Leavers Project",
+        "blog_link": "https://prisonleaversproject.blog.gov.uk",
+        "description": "As round two of the Local Leadership and Integration Fund goes live, here\u2018s a glimpse at the four new partnerships we are funding and the impact one of our partnerships is already having on individuals. "
+    },
+    {
+        "title": "Senior Analyst",
+        "authors": [
+            "Selina Khan"
+        ],
+        "posted_on": "2022-09-22T14:58:05",
+        "categories": [
+            "GSE Opportunities"
+        ],
+        "content": [
+            {
+                "content": "This is a key role within the Strategy and Analysis Team. We are seeking an enthusiastic and passionate Senior Data Analyst to lead and develop systems for monitoring and analysing data to identify areas of concern around compliance or the effectiveness of environmental law.",
+                "tag": "p"
+            },
+            {
+                "content": "This will include engagement with a wide range of public authorities and NGOs on environmental data.",
+                "tag": "p"
+            },
+            {
+                "content": "The role will also support ESS with its own performance monitoring.",
+                "tag": "p"
+            },
+            {
+                "content": "You will work in an interdisciplinary evidence team comprising colleagues with a range of backgrounds including legal, regulation enforcement, research, scientists and policy specialists.",
+                "tag": "p"
+            },
+            {
+                "content": "You will need to be able to develop analytical plans, engage senior colleagues and stakeholders, access, manage and analyse data, and clearly communicate key insights to influence the direction of ESS\u2019 work. Your work will be guided be environmental priorities set out in ESS\u2019 final strategic plan, to be published in the Autumn.",
+                "tag": "p"
+            },
+            {
+                "content": "The postholder will be working closely with other statisticians in Scottish Government and its Agencies and will be expected to quickly become the informed analyst on environmental standards.",
+                "tag": "p"
+            },
+            {
+                "content": "Key duties and responsibilities will include:",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to find out more, visit the job advert here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2022/09/22/senior-analyst/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "This is a key role within the Strategy and Analysis Team. We are seeking an enthusiastic and passionate Senior Data Analyst to lead and develop systems for monitoring and analysing data to identify areas of concern around compliance or the \u2026"
+    },
+    {
+        "title": "Graduates, join our Tax Specialists Programme: Hear Jonny\u2019s story",
+        "authors": [
+            "Jonny Brown"
+        ],
+        "posted_on": "2022-09-22T14:55:12",
+        "categories": [
+            "General"
+        ],
+        "content": [
+            {
+                "content": "Applications for our graduate Tax Specialist Programme (TSP) are now open! You have until 26 October to apply. Get inspired by reading our blog from one of the TSP\u2019s newest intakes, Jonny Brown, as he shares his story about what it\u2019s like to work at HMRC and why he decided to join the programme. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What's it like working for HMRC\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "It\u2019s an interesting and challenging job. I am currently a compliance caseworker in AAS (attacks against the system) in the individuals and small business compliance team. This involves investigating tax returns that have been fraudulently inflated and stopping payments that aren\u2019t due. No two days are the same and no two cases are the same. There is a lot to learn as it all evolves and changes so rapidly, so you can never be in a situation where you know it all. However, there are plenty of opportunities for continued professional development and my colleagues have been a big support. HMRC has also been very supportive through the COVID-19 pandemic, and now that we have returned to the office, the support has continued with morale boosting team activities to try and bond teams who haven\u2019t seen each other for the past 2 years.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What your favourite thing about your team?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I like the fact that we come from all different age groups and backgrounds and yet everyone is made to feel welcome. We bond so well and work together as one cohesive unit, pulling on each other\u2019s points of view and experience to deliver a positive experience for the taxpayer. I think this also helps in supporting each other through our work and social lives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why did you join the TSP programme?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I started the TSP on 14 September 2022. I decided to apply as it provides a fantastic opportunity to accelerate your knowledge and push you through a couple of promotions to a higher grade in a shorter amount of time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What piece of advice would you give someone starting on the TSP?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "My advice for anyone applying would be to take a deep breath and dive in! Jokes aside, it is a challenging programme due to the fact it is designed to stretch and develop you to the maximum of your potential. I would say use the benefit of your colleagues and wider workplace to help support you, make the most of the revision time, be very organised and stay focused on what you need to do to complete the course. Its 3 years of hard work for a great result at the end.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What else are you involved in at HMRC, beyond the day job?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "At the minute I am not involved in any other \u201cextra-curricular\u201d activities, however the potential for these for anyone interested is huge. From sports and social clubs, to volunteering, continuous development, and communities (LGBTQIA+, race, mental health) \u2013 there\u2019s something for everyone. HMRC is so supportive, for example, they have schemes to release members of staff to volunteer at the Commonwealth Games and for reserve armed forces. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Were you worried about anything before starting with HMRC? How has that worked out in reality?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I joined HMRC during the pandemic when we were all working from home, so I was slightly worried that there wouldn\u2019t be the same level of interaction as there would be in the office. I wondered how that would impact the quality of training and support in our job, but I didn\u2019t need to be concerned. The level of preparation, support and training has been excellent, and the support between teams and from the trainers has been both timely and useful.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Is there a good work-life balance at HMRC?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Yes, after working for 17 years in retail and having a poor work life balance, the difference at HMRC is amazing. The availability of flexi -time and a real focus on employee welfare is refreshing to see. As an example of this, I had a dentist appointment and as I was worried and pre-occupied, so I forgot to take my break. My manager noticed and said, \u201cyou need to take time away to ensure you are not neglecting your welfare.\u201d This is a prime example of how well you will be looked after by HMRC during your career.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Come work for us!\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "You can apply for the programme on Civil Service Jobs. Applications open on 28 September 2022 and close on 26 October 2022. \u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://lifeathmrc.blog.gov.uk/2022/09/22/graduates-join-our-tax-specialists-programme-hear-jonnys-story/",
+        "blog": "Life at HMRC",
+        "blog_link": "https://lifeathmrc.blog.gov.uk",
+        "description": "Applications for our graduate Tax Specialist Programme (TSP) are now open! You have until 26 October to apply. Get inspired by reading our blog from one of the TSP\u2019s newest intakes, Jonny Brown, as he shares his story about what \u2026"
+    },
+    {
+        "title": "HEO Electrical Engineer",
+        "authors": [
+            "Selina Khan"
+        ],
+        "posted_on": "2022-09-22T14:54:24",
+        "categories": [
+            "GSE Opportunities"
+        ],
+        "content": [
+            {
+                "content": "The Role:\nWe require an Electrical Engineer to lead on product testing in our new electrical laboratories, collaborating with other technical specialists and ensuring OPSS continues to deliver high-quality technical services. You will apply your technical expertise to undertake and deliver relevant work programmes, ensuring appropriate risk assessments and training have been completed, and verifying the validity and robustness of test processes and outputs. This is a key post at our newly refurbished Teddington site, requiring close collaboration with various teams to ensure the effective, efficient and safe operation of our laboratories.",
+                "tag": "p"
+            },
+            {
+                "content": "Our Team:\nWe are a multidisciplinary team of scientists and engineers delivering testing capability across the broad portfolio of OPSS regulatory requirements. The team works across our new laboratories at the Centre of Product Testing and Research which include metrology, mechanical, electrical, chemical and flammability facilities. We seek to implement fit for purpose practices and procedures to deliver robust, scientific outputs. In collaboration with other internal evidence teams including those in science, engineering, research and analysis, our outputs inform policy development, incident investigation and the delivery and enforcement of product regulations.",
+                "tag": "p"
+            },
+            {
+                "content": "Vacancy reference: 238631 Teddington; closing date: \u00a011:55 pm on Wednesday 12th October 2022.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2022/09/22/heo-electrical-engineer/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "The Role: We require an Electrical Engineer to lead on product testing in our new electrical laboratories, collaborating with other technical specialists and ensuring OPSS continues to deliver high-quality technical services. You will apply your technical expertise to undertake and \u2026"
+    },
+    {
+        "title": "G7 Laboratory Operations Manager",
+        "authors": [
+            "Selina Khan"
+        ],
+        "posted_on": "2022-09-22T14:50:14",
+        "categories": [
+            "GSE Opportunities"
+        ],
+        "content": [
+            {
+                "content": "The Role:\nWe require two Laboratory Operations Managers to lead a team of technical experts and help shape the function and vision for our new testing facilities. You will apply your strong technical expertise to manage the delivery of relevant work programmes, acting as lead reviewer to ensure laboratory policies and outputs provide effective outcomes and impact for the organisation. Your contribution will be critical in ensuring that our scientists and engineers can work in the most functional and safe laboratory environment, enabling them to deliver a high-quality and efficient service. Success in this role will be enabled by collaboration with existing team members and measured by minimising any downtime caused by equipment failure, safety issues or delayed orders. This is a key post at our newly refurbished Teddington site, requiring close collaboration with other evidence and H&S teams to ensure the effective, efficient and safe operation of our laboratories.",
+                "tag": "p"
+            },
+            {
+                "content": "Our Team:\nWe are a multidisciplinary team of scientists and engineers delivering testing capability across the broad portfolio of OPSS regulatory requirements. The team works across our new laboratories at the Centre of Product Testing and Research which include metrology, mechanical, electrical, chemical and flammability facilities. We seek to implement fit for purpose practices and procedures to deliver robust, scientific outputs. In collaboration with other internal evidence teams including those in science, engineering, research and analysis, our outputs inform policy development, incident investigation and the delivery and enforcement of product regulations.",
+                "tag": "p"
+            },
+            {
+                "content": "Vacancy reference:\u00a0238916 Teddington; closing date: \u00a011:55 pm on Sunday 9th October 2022. For more info, or to apply, view the job ad.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2022/09/22/g7-laboratory-operations-manager/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "The Role: We require two Laboratory Operations Managers to lead a team of technical experts and help shape the function and vision for our new testing facilities. You will apply your strong technical expertise to manage the delivery of relevant \u2026"
+    },
+    {
+        "title": "Factsheet: Economic Crime and Corporate Transparency (ECCT) Bill",
+        "authors": [
+            "Home Office news team"
+        ],
+        "posted_on": "2022-09-22T14:29:32",
+        "categories": [
+            "Fact sheet"
+        ],
+        "content": [
+            {
+                "content": "Why do we need the Economic Crime and Corporate Transparency (ECCT) Bill?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The UK is one of the world\u2019s most open and most attractive places for doing business. This same openness means that the UK is exposed to criminal activities, such as money laundering, corruption, and terrorist financing, that can all have a devastating impact on our businesses and citizens.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Government acted quickly in response to Russia\u2019s invasion of Ukraine in February 2022 and introduced the Economic Crime Transparency and Enforcement (ECTE) Act to crack down on dirty Russian money and other foreign elites abusing our open economy. This legislation:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Government committed to bringing forward this further Bill to deliver a suite of wider-ranging reforms to tackle economic crime and improve the transparency of corporate entities.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Key measures of the Economic Crime and Corporate Transparency Bill\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The ECCT Bill will deliver:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These provisions will bear down further on kleptocrats, criminals and terrorists, strengthening the UK\u2019s reputation as a place where legitimate business can thrive, whilst driving dirty money out of the UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reforms to Companies House\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The Bill will reform the role of Companies House and improve transparency over UK companies and other legal entities. The reforms include:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reforms of limited partnerships\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The ECCT Bill will tackle the misuse of limited partnerships, including Scottish limited partnerships, to make them more transparent. One of the key measures will be a requirement for limited partnerships to maintain a connection to the UK. The Bill will also enable the Registrar to deregister any limited partnerships that are dissolved or which are no longer conducting business. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Seizure and recovery of suspected cryptoassets\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The Bill will provide additional powers to law enforcement so they are able to more quickly and easily seize and recover cryptoassets which have been acquired through illegal routes such as money laundering, fraud and ransomware attacks. The Bill will introduce amendments to the Proceeds of Crime Act 2002 to enable law enforcement to tackle criminal use of cryptoassets more effectively.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Strengthening Anti-Money laundering measures\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The Bill will strengthen anti-money laundering measures for suspected money laundering, fraud and other economic crimes. The reforms will:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://homeofficemedia.blog.gov.uk/2022/09/22/factsheet-economic-crime-and-corporate-transparency-ecct-bill/",
+        "blog": "Home Office in the media",
+        "blog_link": "https://homeofficemedia.blog.gov.uk",
+        "description": "Why do we need the Economic Crime and Corporate Transparency (ECCT) Bill?\u00a0 The UK is one of the world\u2019s most open and most attractive places for doing business. This same openness means that the UK is exposed to criminal activities, \u2026"
+    },
+    {
+        "title": "What we are doing to tackle companies selling driving tests for profit",
+        "authors": [
+            "Lianne Parkinson"
+        ],
+        "posted_on": "2022-09-22T14:03:00",
+        "categories": [
+            "Driving instructors",
+            "Driving test",
+            "Feature"
+        ],
+        "content": [
+            {
+                "content": "We want to update you on the measures we\u2019ve introduced so far to help learner drivers from being exploited by people and companies selling them driving tests at an inflated price and on the impact, they are having on learners and our service.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I also want to update you on our plans to update the terms and conditions for using the book and manage your pupil\u2019s tests service and the ADI code of conduct.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What our insight is telling us\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Over the last few months, we\u2019ve been asking learners in our \u2018unable to attend a car practical test\u2019 survey if they have used any non-DVSA apps for their driving test booking. More than 1 in 4 learners said they had \u2013 26.6% to be exact.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "41.8% of you also told us in our ADI demand survey carried out in January that your candidates' tests were also being moved by unofficial companies.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s clear that this is a real issue, and we have already made steps to address it.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What we have done\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Since we put in place measures to crack down on unofficial companies using our book and manage your pupils test service, we have seen a decrease in the number of learners who failed to attend their driving test.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Between June 2022 and August 2022, the number of learners who did not turn up for their test fell from 6,598 to 4,625. This is lowest it's been since September 2021. This meant that an extra 1973 tests went ahead.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve carried out a number of measures to protect learners and the driving test service to reduce the number of wasted tests.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will continue to work tirelessly to crack down on people and companies that are exploiting learner drivers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Updating terms and conditions\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before we can update the terms and conditions for using the book and manage your pupil\u2019s test service, we need to carry out a review to see how businesses are swapping tests.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the moment the 2 ways of doing this are:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To help us to gather your feedback we plan to include questions in next ADI demand survey to find out how you are using the service to swap driving tests.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0We need this insight to help us better understand how the service is being used so that we can set controls to monitor the service and identify any businesses or individuals who are selling driving tests at a profit. We are also keen to make sure we are providing you with the service you need and are asking for feedback on ways we could improve the service.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll update you again in the coming weeks to let you know when the survey is live.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll also be running a separate survey for businesses who are using our services to book and swap large amounts of tests. To find out how more information about how they use the service now and also get their views on ways we could improve it.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This survey will go live at the same time as the ADI demand survey.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How you can help us now\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "On average we are receiving 7200 number of calls per month. This has doubled since the pre-pandemic average of 3500. We now carry out over 4000 swaps per month via the customer service centre up from 560 per month (pre-pandemic).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0The number of test swaps carried out via the book and manage your pupil;s tests service has also increase from 3,200 swaps per month (pre-pandemic) to over 17,000 per month.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Due to the high volume of calls we are receiving, if you have access to the book and manage your pupil\u2019s tests service and have booked tests via the service you can also swap tests using the service.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Using our online business service only takes a matter of minutes to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you want to register for the 'book and manage your pupils test booking' service you'll need to contact DVSA.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For all other swaps you can call our dedicated ADI priority telephone number on 0300 200 1122 (press the 2-digit fast track code) from Monday to Friday, 8am to 6pm to fast track your call.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://despatch.blog.gov.uk/2022/09/22/what-we-are-doing-to-tackle-companies-selling-driving-tests-for-profit/",
+        "blog": "Despatch for driver and rider trainers",
+        "blog_link": "https://despatch.blog.gov.uk",
+        "description": "We want to update you on the measures we\u2019ve introduced so far to help learner drivers from being exploited by people and companies selling them driving tests at an inflated price and on the impact, they are having on learners \u2026"
+    },
+    {
+        "title": "The death of Asta, a Natural England-tagged hen harrier",
+        "authors": [
+            "Natural England"
+        ],
+        "posted_on": "2022-09-22T13:46:33",
+        "categories": [
+            "Biodiversity",
+            "Hen Harriers",
+            "Protected sites and species",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By: John Holmes, NE Strategy Director",
+                "tag": "p"
+            },
+            {
+                "content": "Hen harriers are currently extremely rare in England due to illegal persecution and nest disturbance, primarily in areas associated with grouse shooting. Natural England satellite-tracks hen harriers in order to investigate patterns of dispersal and survival, and the causes of any deaths. I said in my last blog that some areas of Natural England\u2019s hen harrier recovery work remain controversial, and this is especially so because illegal persecution rightly evokes strong feelings for all of us. This is the story of one of our tagged hen harriers, Asta, and what happened to her.",
+                "tag": "p"
+            },
+            {
+                "content": "Asta was one of four chicks fledged from a nest in Northumberland in 2020 in an area managed by Forestry England. She had spent almost all of her short life in the north Pennines, and before her death had established a defined home range in an area managed for grouse shooting, centred on Gilmonby Moor, County Durham, ranging onto other nearby moors.",
+                "tag": "p"
+            },
+            {
+                "content": "As with all our tagged hen harriers, our staff were constantly checking up on Asta. Concerns were raised when Asta appeared to suddenly move to a new location \u2013 near Arrathorne, south-east of Richmond \u2013 and stopped moving. As always, the police were immediately informed, and no efforts were spared in tracking down the tag. Finding tags calls for considerable expertise, and our dedicated staff spent many long hours chasing the signals. What they eventually found was shocking and unexpected: the tag, which they had last seen on the healthy nestling Asta, attached to the scavenged carcass of a carrion crow. It was hard to make sense of this finding, but our staff acted fast, involving the police and other specialists.",
+                "tag": "p"
+            },
+            {
+                "content": "Here is what we know: it was quickly and clearly established that the tag and harness were intentionally fitted to the crow by a person. We know that Asta must have died before or soon after her tag was removed, because the harness straps were not cut or broken, and there would have been no way to remove the harness intact from a live bird without severe injury.",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s what we do not know:",
+                "tag": "p"
+            },
+            {
+                "content": "We are clear that the evidence points to a crime being committed, and that this will be shocking to anyone interested in improving the prospects for birds of prey in our uplands. This has been upsetting for all of our staff involved, especially those who had been monitoring and tracking Asta all her life.",
+                "tag": "p"
+            },
+            {
+                "content": "Our focus since this discovery has been to maximise the chances of finding the person who fitted the tag to the crow. The police launched a criminal investigation, which by its nature, has taken a long time to play out to its full conclusion; over a year. We have had many discussions during this time about whether sharing the details of this event with the public would increase or decrease the chances of a successful conviction, and the consistent advice of the police has been that this would decrease the chances. Therefore, on the specific request of the police, no statements were made, as is often the case when there are ongoing and sensitive police investigations, and we are still not sharing the details of the police investigation to avoid influencing future police work.",
+                "tag": "p"
+            },
+            {
+                "content": "Unfortunately, we have recently been informed that the police investigation did not gather enough information to identify a suspect. We remain deeply distressed and angered by this evidence of a wildlife crime, and an apparent effort to attempt to deceive or frustrate our monitoring programme, but without further evidence the police and Natural England have no basis for further action. Any requests for more details about this case, or new evidence, should be directed to North Yorkshire Police.",
+                "tag": "p"
+            },
+            {
+                "content": "Accusations that we have unduly withheld information ",
+                "tag": "p"
+            },
+            {
+                "content": "Despite the decision of the police to not publicise the details of the case, the full information was passed, by someone familiar with all the details, to anti-raptor-persecution campaigners. These campaigners have claimed that Natural England has not shared the information publicly in order to protect the grouse shooting industry. On 25th August 2022 these campaigners published a blog, accusing Natural England of being reluctant to share information because of alleged biases toward the shooting industry, because by that point the investigation had been closed and Natural England had not shared the facts of the case.",
+                "tag": "p"
+            },
+            {
+                "content": "Our work must always be open to scrutiny and criticism and we share and support the aims of anyone who wants to see an end to raptor persecution, but unfounded allegations are insulting and upsetting to our dedicated staff. The details of the case were not shared before now in order to maximise chances of a conviction and on the express request of the police. Natural England was only informed by the police that the case was closed, and no further action would be possible, on 31 August 2022, after the publication of this blog, so this claim has no substance.",
+                "tag": "p"
+            },
+            {
+                "content": "Furthermore, it has been alleged by the same campaigners that a contribution by The British Association for Shooting and Conservation (BASC) of \u00a375,000 to Natural England\u2019s hen harrier work is related to our decision to not publicise details of this case, and has influenced our wider work tackling persecution. This is a serious allegation which we strongly reject. As published in March 2022, the BASC funding supports some Natural England staff time spent on monitoring, and on liaising with shooting land managers, and we welcome this support. As clearly set out in our agreement with BASC, this funding in no way constrains our wider statutory functions, and is not related to our work on cases of suspected persecution.",
+                "tag": "p"
+            },
+            {
+                "content": "What next? ",
+                "tag": "p"
+            },
+            {
+                "content": "We will continue our work tracking hen harriers and will make every effort to track down tags that stop transmitting. Some dead birds will be found, and investigations will conclude that they died naturally. Some birds will be found in suspicious circumstances, and the police will investigate, fully supported by our fieldwork and enforcement teams. In many cases the birds and tags will never be found \u2013 some of these losses will be birds that have been shot or trapped, and the bodies and tags hidden or disposed of, while others will be due to natural mortality, with low battery levels or topography meaning that the final signals are too imprecise for the tag to be tracked down. Still others could be due to tags failing while the birds are still alive. Whatever the possible reason, all tags that stop transmitting will continue to be referred to the police, and will be kept on file by the National Wildlife Crime Unit and local police forces, who monitor patterns of disappearances and take action where warranted. We will tirelessly continue this work, alongside all other work with our partners under the Hen Harrier Action Plan to tackle and discourage hen harrier persecution.",
+                "tag": "p"
+            },
+            {
+                "content": "Though the evidence continues to show hen harriers remain persecuted in parts of their range, we are pleased to be working with organisations including the Moorland Association, BASC and the Game and Wildlife Conservation Trust, as well as individual landowners and gamekeepers, to return breeding hen harriers across our uplands. The illegal acts perpetrated by criminals \u2013 whoever they may be \u2013 continue to cast a shadow over these efforts. Despite this, and the unfounded allegations that our staff are sometimes subjected to, we are approaching our work with renewed determination, recognising that there is much work to be done to address illegal persecution but encouraged by this year\u2019s hen harrier breeding figures, with over 100 young fledged for the first time in 100 years.",
+                "tag": "p"
+            },
+            {
+                "content": "Note: this blog was prepared for publication in early September 2022. However, publication was postponed due to the national mourning period.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2022/09/22/the-death-of-asta-a-natural-england-tagged-hen-harrier/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By: John Holmes, NE Strategy Director Hen harriers are currently extremely rare in England due to illegal persecution and nest disturbance, primarily in areas associated with grouse shooting. Natural England satellite-tracks hen harriers in order to investigate patterns of dispersal \u2026"
+    },
+    {
+        "title": "How I helped at HM Queen Elizabeth\u2019s lying-in-state",
+        "authors": [
+            "Kitty Buchanan-Gregory"
+        ],
+        "posted_on": "2022-09-22T12:31:36",
+        "categories": [
+            "A great place to work",
+            "A Skilled Civil Service",
+            "An Ambitious Civil Service",
+            "An Innovative Civil Service"
+        ],
+        "content": [
+            {
+                "content": "Cabinet Office marshal Kitty Buchanan-Gregory was one of more than 600 volunteer civil servants supporting mourners queuing to see Queen Elizabeth\u2019s lying-in-state at Westminster Hall. Below, we publish Kitty\u2019s diary of her experiences\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Shift 1",
+                "tag": "p"
+            },
+            {
+                "content": "Wednesday. I\u2019ve been posted to the prime post of Westminster Hall and I\u2019m one of the first people you see as you exit onto Parliament Square. \u2018The emotional shift\u2019 as I call it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So many mourners come out crying softly. Some are so overwhelmed, they crumple sobbing into the gates. Part of our job is to help them recover, giving them space and a few kind words before pointing them onto tubes, or the nearest pub.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Many are too emotional to speak. \u201cThank you,\u201d they whisper, and we acknowledge each other with a British nod. I bite my lower lip many times.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Police are brilliant , they\u2019ve allowed me to escort the disabled to easier areas. It\u2019s heartwarming to see impeccably behaved assistant dogs in bow ties, I sneak ear fuss and tell them Her Majesty would be thrilled. An assistance cat yesterday - who knew!\u00a0 We agreed that she was most likely the first ever feline to see a monarch lying-in-state.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The gun carriage arrived late in the night with busloads of soldiers ready to rehearse the final farewell. Not just another ceremonial rehearsal - but the final journey.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I am desperate to go and see the Queen myself, but a 10 hour wait on top of a 8.5 hour shift felt too much last night. I need to buckle up. Seven decades of hard shifts, she put in for us all. I\u2019m just the tiniest of cogs in the machine doing what I can.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Shift 2",
+                "tag": "p"
+            },
+            {
+                "content": "Thursday, Westminster Hall. people come out exhausted\u00a0 - their emotion is palpable. The blue Marshals are the faces of comfort, along with the Samaritans, British Red Cross and faith teams dotted along the queue. When the police cordon is removed, the press are everywhere - we try to console and give directions whilst battling 'Coming live to you from NBC where the British Public are grieving' in-your-face broadcasts. We exchange a few words* and\u00a0 they protest to the Police.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cDon't ask me mate, she's the boss,\u201d and they nod at me and wink.\u00a0 The BBC are delightfully polite. My tactic is to PROJECT MY VOICE and talk in my firmest British accent. \u201cPlease keep moving, thank you so much ladies and gentlemen.\u201d The back of my jacket and headmistress voice is big in LA. NBC exit in a strop, police high-five me. God, I love the police.",
+                "tag": "p"
+            },
+            {
+                "content": "The assistance queue is moving well, I help the most beautiful family, including young David resplendent in his crown and wheelchair. I get a hug from his parents. \u201cYou've all made our day so special, everyone helping us\u201d and they start a long journey home, departing to\u00a0 waves from us all.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dramas solved, - a lady lost her expensive watch. \u201cI wanted to wear my best diamonds for the Queen,' she sobs \u201c but\u00a0 now it's gone.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cFollow me,\u201d I say. The\u00a0 amazing Parliamentary staff and Police find it to tears of gratitude.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cA present from the Queen for coming today,\u201d I whisper and wave her off. Someone hands me flowers and a card for the King, \u201cIt's very personal\u201d and they\u2019re crying and beg me to give it to him. I promise to send it to the Palace - I will. Promises like this carry weight.",
+                "tag": "p"
+            },
+            {
+                "content": "Westminster is a family, and we all work together - Parliament, police from over the UK, and TfL tube are fantastic as I wheel the infirm to their journey home as they take retired and tired old soldiers to the District Line.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Inspector finds a \u00a320 note on the floor. \u201cRight you're in charge,'\u201d he says.\u00a0 A City Police and Cabinet debate ensues on what would the Queen prefer - a dog or horse charity. We decide on horse, and the Fell Pony Association gets a bank transfer.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "SHIFT 3",
+                "tag": "p"
+            },
+            {
+                "content": "Friday: Tower Bridge.\u00a0The Timeshift.\u00a0 The queue is vast and desperate for a wristband to be issued. On the far side, The Tower of London is missing its jewels, resting upon HM\u2019s coffin. Soon to be returned to the Tower, soon worn by a new Monarch. We will no longer have a Queen in our lifetime. History stands firm amidst a skyline of skyscrapers, a skyline changed over her reign. I wave people forward, the queue continues, we continue.",
+                "tag": "p"
+            },
+            {
+                "content": "SHIFT 4",
+                "tag": "p"
+            },
+            {
+                "content": "Saturday: Oxo Tower. The Practical and cold shift. This time it's all about keeping HMS Queue EII moving. I'm stationed by the river and TALKING LOUDLY.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cLadies and Gentlemen! The wait time is about six hours from here, the portaloos are over to your right. Please ensure you have your wristbands safe. The nearest cafes are to your right, please stock up on hot drinks. Thank you for your patience.\" The queue shuffles forward and every few minutes I repeat the whole thing again. For hours.",
+                "tag": "p"
+            },
+            {
+                "content": "Sunsets on rooftops and London basks in golden sunshine, the river police cruise by and we wave back. Friendly counter terrorism is paying off. Autumn is here and in the shadows of the Oxo Tower it gets bitterly cold. I find a sunny spot and repeat the patter.",
+                "tag": "p"
+            },
+            {
+                "content": "This is the middle section of\u00a0 the queue, 6-7 hours in with the same to go. I advise on a six hour wait and get groans, so I say the same thing differently. \"Ladies and Gentlemen we estimate you\u2019ll arrive at midnight tonight\" - to cheers. I stick with arrival times trying not to sound like a flight attendant.",
+                "tag": "p"
+            },
+            {
+                "content": "People walk by with 'thank you \" nods. Diet flies out the window as children, egged on by parents, shyly offer me donuts. I crouch down and we talk about the stuffed corgis they carry, and isn't the Queen special. A\u00a0 real corgi walks past and allows me an ear fuss. I'm pretty sure HMQ is silently walking through the queue, thrilled at the turnout.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It gets dark and cold. The Salvation Army hand out blankets, LFB hand out water and I stand on Westminster Bridge - the Houses of Parliament, a beacon of 'You're nearly there' with the end in sight. No one wants the queue to end -\u00a0 if the queue continues, the Queen contines. But the hours are slipping by and it will all end. Sunday will be my final shift.",
+                "tag": "p"
+            },
+            {
+                "content": "Shift 5\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sunday: Last Post. My Final Shift",
+                "tag": "p"
+            },
+            {
+                "content": "'What would the Queen wear to stand in a queue? I decide on tweed skirt, Skyfall Barbour and coronation scarf.\u00a0 James Bond with a pocket of dog biscuits. I hope this gets nods of approval from above.",
+                "tag": "p"
+            },
+            {
+                "content": "4pm.\u00a0 Today MP's are on shift and I find myself next to the former Home Secretary. Priti Patel stays for hours, quietly ushering people until someone notices; 'Is that who I think it is?'. She lets the line go wobbly so I shout, 'No this way', and with her protection officer she's back on track smiling, pleased to be one of the crew, all grades compressed under a high-vis vest.",
+                "tag": "p"
+            },
+            {
+                "content": "The queue has a magnetic pull, everyone wants to watch it, film it, meet friends in it - queue without queuing. For many this is the closest they'll get to Her Majesty. Just witnessing 'the queue' makes people feel involved.",
+                "tag": "p"
+            },
+            {
+                "content": "7pm. The shift is hard, medical issues are rife with the old and infirm. We wrap them in DMCS blankets, fetch cups of tea and check, 'Are you sure?' But their determination is admirable, so we rally wheelchairs and taxis, and ensure they don't miss out on their own goodbyes to one of their own.",
+                "tag": "p"
+            },
+            {
+                "content": "Sunset,he pinkest of skies, our final night of the second Elizabethan age. I catch\u00a0 it just as it fades behind Westminster. The sands are slipping through the hourglass; sunrise will bring a new mourning.",
+                "tag": "p"
+            },
+            {
+                "content": "At 8pm we stand on the bridge. No chime from Big Ben, but a ripple of applause and 'THREE CHEERS.'",
+                "tag": "p"
+            },
+            {
+                "content": "22.38. The queue has closed, he first of the endings. Further down someone is the last mourner, barriers are taken down and roads swept. We end our shift soon, but this all feels the 'new normal' so we carry on longer than needed.",
+                "tag": "p"
+            },
+            {
+                "content": "1am. I\u2019m at the top of the steps looking at her. The Queen\u2019s final day with us, the grains of time all but disappeared. The Duty Officer taps his sword for the changing of the guard, the sound echoing through history. In candlelight they march in ancient ceremonies. We are back 700 years. Now I stand in front of her, 'Thank you for your service Ma'am,' I bow. It's been a pleasure,a moment in history, you shaped OUR history. My final act of service was in a blue Marshall Vest.",
+                "tag": "p"
+            },
+            {
+                "content": "RIP HMQ and give those Corgis some ear fuss from me.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://civilservice.blog.gov.uk/2022/09/22/how-i-helped-at-hm-queen-elizabeths-lying-in-state/",
+        "blog": "Civil Service",
+        "blog_link": "https://civilservice.blog.gov.uk",
+        "description": "Cabinet Office marshal Kitty Buchanan-Gregory was one of more than 600 volunteer civil servants supporting mourners queuing to see Queen Elizabeth\u2019s lying-in-state at Westminster Hall. Below, we publish Kitty\u2019s diary of her experiences\u00a0 Shift 1 Wednesday. I\u2019ve been posted to \u2026"
+    },
+    {
+        "title": "Making policy inclusive",
+        "authors": [
+            "Selvin Brown"
+        ],
+        "posted_on": "2022-09-22T12:00:16",
+        "categories": [
+            "Events",
+            "PublicPolicyDesign",
+            "Thought leadership"
+        ],
+        "content": [
+            {
+                "content": "I have worked in the Civil Service, for government and across enough departments to know that equalities\u00a0considerations and inclusive practices\u00a0must\u00a0become part of the day-to-day thinking of all policy makers. For me, the bottom line is that being a good policy maker means knowing who your policies are affecting, in what ways and how these impacts differ for different groups of people. This is not a nice-to-have nor an add-on, but a core part of the role.",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s why I am delighted to be part of the team kicking off a new learning campaign which encourages and helps policy makers do exactly that. The campaign is going to spotlight case studies from across government which have incorporated inclusive policy making practices into their work. It will also provide practical guidance on how to develop the relevant skills and knowledge and apply these to your own policy area.",
+                "tag": "p"
+            },
+            {
+                "content": "Inclusive policy is good policy",
+                "tag": "h2"
+            },
+            {
+                "content": "Our goal as policy makers should be to design and deliver policy which improves outcomes for citizens and society through the realising of government intentions. Therefore, the most effective and successful policies will be the ones that consider how different groups of people will be impacted and adjust to mitigate the negatives. This is how we\u2019ll tackle the\u00a0disproportionate impacts that some policies have on certain groups and improve policy overall for all. Not only is this an obvious way to make effective and efficient policy, it is also a legal requirement placed on every public sector worker under the Public Sector Equality Duty (PSED). It requires all public authorities to pay due regard to the need to eliminate unlawful discrimination, advance equality of opportunity and foster good relations between people. Considering equalities in policy design is also important to achieve fairness and remain in accordance with Civil Service values, particularly to act with integrity.",
+                "tag": "p"
+            },
+            {
+                "content": "During COVID-19 there was some good practice to understand equalities impacts and consider PSED \u2013 including working in multidisciplinary teams,\u00a0collaborating across departments, and adding standard paragraphs about PSED considerations into submissions. However, this sort of practice was not done uniformly across departments.\u00a0For example, we quickly discovered that the masks given to frontline workers were tested on the \u2018Sheffield head\u2019, a mannequin head modelled on a 6\u20191\u2019\u2019 Caucasian male, meaning it was not effective on a large number of staff who did not fit this description. Brilliant teams from the Department for Health and Social Care and the NHS collected data on the diverse range of staff from across the NHS via an online survey and used the findings to engage effectively with different manufacturers. The result was the use of a broader range of face shapes and sizes in manufacture design and prototypes (including men and women, different ethnicities and different ages) and testing of masks on a diverse range of people including glasses wearers and deaf people.",
+                "tag": "p"
+            },
+            {
+                "content": "While the team recognised the importance of having an individual rather than a one-size-fits-all approach for the protection of front-line staff, this policy was developed under huge pressure in the early days of the pandemic. The team used their experience to identify work they would do differently in future. This included:",
+                "tag": "p"
+            },
+            {
+                "content": "One of the key lessons from this sort of case study is that in a crisis it is difficult to gather new intel and evidence in a robust, high-quality and consistent way. Leaving these important considerations until a crucial moment means that, in a best-case scenario, some people will already have been disadvantaged.",
+                "tag": "p"
+            },
+            {
+                "content": "In a crisis we can really only use what we already know, and so it is imperative that we use non-crisis times to do the work. Equalities\u00a0considerations\u00a0must\u00a0become part of the day-to-day thinking of policymakers, they must see it as a basic tenet of good policy-making.",
+                "tag": "p"
+            },
+            {
+                "content": "Diversity adds value to the policy design process",
+                "tag": "h2"
+            },
+            {
+                "content": "As well as inclusive policy making, it is also important for us to strive toward a diverse and policy workforce. Not only is this important for inclusion and representation, but it should also have knock-on benefits for our policy-making. The more diverse our workforce is, the more representative of the public we\u2019re delivering for, the more likely those voices and experiences are brought into policy-making and the more likely policy will take into account differential impacts. I therefore really advocate for diverse and inclusive teams and leadership and promoting a culture that values the lived experience of staff in the policy making process.",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved",
+                "tag": "h2"
+            },
+            {
+                "content": "Helping policy professionals develop their skills and knowledge in inclusive policy making and promoting ways to improve inclusion in policy teams is what the learning campaign that I\u2019m launching next week is all about. The question I most often get asked on Equality, Diversity and Inclusion is \u2013 \u2018I really want to make my policy more inclusive, but I don\u2019t know how? How do I do this?\u2019\u00a0 Much of this campaign is about supporting you as a policy professional practitioner, the \u2018how to do this\u2019 stuff.",
+                "tag": "p"
+            },
+            {
+                "content": "There will be seminars, blogs and other resources continually available to showcase and share the innovative and effective work already going on across government. The campaign also includes specialist support for Senior Civil Servants to assist them in their leadership and role modelling of an inclusive Civil Service, and a wider action-based offer for all civil servants to develop their skills and knowledge.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about the campaign here (from when it launches on Monday 26th September) and register your interest by signing up to the Policy Profession website now. I hope you get involved!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://publicpolicydesign.blog.gov.uk/2022/09/22/making-policy-inclusive/",
+        "blog": "Public Policy Design",
+        "blog_link": "https://publicpolicydesign.blog.gov.uk",
+        "description": "Selvin Brown, Deputy Race Champion for the Civil Service, writes about how good policymakers clearly understand the impact of their work on the citizens they serve. "
+    },
+    {
+        "title": "Cardiff: community, culture and creating opportunities",
+        "authors": [
+            "Andy Davies, Lead Interaction Designer",
+            "Kai Hellstrom, Senior Product Manager",
+            "Micha\u0142 Por\u0119ba, Chief Data Architect"
+        ],
+        "posted_on": "2022-09-22T11:54:49",
+        "categories": [
+            "People"
+        ],
+        "content": [
+            {
+                "content": "Cardiff is one of the new regional hub offices we have been recruiting to as part of the cross-government Places for Growth programme. This is in addition to our existing locations across the UK and the world. DIT\u2019s Digital, Data and Technology (DDaT) team are excited to be working closer to the communities we build services for and products to serve. Read on to find out all there is to love about living and working in and around Cardiff!",
+                "tag": "p"
+            },
+            {
+                "content": "Community in and around Cardiff",
+                "tag": "h2"
+            },
+            {
+                "content": "Cardiff offers all the benefits and convenience of a modern capital city. Yet, it\u2019s only an hour away from some of the UK\u2019s finest beaches in the Gower, or the picturesque rolling mountains of the Brecon Beacons \u2013 some of the finest landscapes the UK has to offer.",
+                "tag": "p"
+            },
+            {
+                "content": "The city has undergone significant development over the last decade, with heavy investment in the centre transforming the city\u2019s skyline. This development has created growth, jobs and significant opportunities for the surrounding communities. Much of this development has come through government investment and the creation of government jobs in the area. Furthermore, Cardiff houses the Senedd, the home of the Welsh Government. The Welsh Parliament is located at the heart of Cardiff Bay, another area which has undergone significant development. It\u2019s a great place to go to relax, enjoy great food, beautiful views, and maybe even learn a thing or two about Roald Dahl or Doctor Who!",
+                "tag": "p"
+            },
+            {
+                "content": "Cardiff has a vibrant city culture. As the country famous for Tom Jones, Shirley Bassey and many others, Wales has long punched well above its weight in the arts. This is reflected in the local music scene. On the one hand, there are world-renowned artists and shows drawn to the Principality Stadium and the Wales Millennium Centre. On the other, there are an array of independent venues hosting up-and-coming artists, established indie artists, and traditional music within the city. Cardiff truly has something for all tastes.",
+                "tag": "p"
+            },
+            {
+                "content": "Cardiff is an easy place to love. It is a small, intimate city, wrapped up in the status and the amenities of a capital city. It is an area steeped in a rich cultural and social heritage, populated by a diverse, friendly, welcoming community.",
+                "tag": "p"
+            },
+            {
+                "content": "Life at T\u0177 William Morgan",
+                "tag": "h2"
+            },
+            {
+                "content": "T\u0177 William Morgan is the name of the building we occupy and share with other departments. Close to Cardiff Central train station, right next to the Principality Stadium and a minute\u2019s walk from an array of pubs and restaurants, the Cardiff office is an easy commute and even better for socialising after work.",
+                "tag": "p"
+            },
+            {
+                "content": "One of the big advantages of working at T\u0177 William Morgan is that the building is shared with other government departments, such as HMRC and the Cabinet Office. This gives the opportunity to build cross-departmental relationships. There is also a balcony on the eleventh floor which is shared between all staff in the building, so you never know who you might end up talking to.",
+                "tag": "p"
+            },
+            {
+                "content": "Our home in the building is a 10 -floor lift ride up, which gives a lovely view of the city centre and has lots of spaces for collaboration, meeting rooms, quiet spaces or little nooks to escape for online meetings. The desk space for DIT is inhabited by staff from many other directorates, including colleagues from DIT Wales, UK Exports and Trade, Business Intelligence and more. With remote working and team members being in different locations, it gives the opportunity to make the Cardiff office feel like a team away from our day-to-day product teams. In some cases, this means that we see the products and services we are working on in DDaT being used in real time by DIT colleagues. It also helps give insight into the wider picture of how DIT operates and enables us to see the good work that\u2019s being done across different parts of the department.",
+                "tag": "p"
+            },
+            {
+                "content": "With the Cardiff office being fairly new, and staff numbers based in Cardiff steadily growing, there is an appetite for creating a culture in the office. This has kicked off recently with the Cardiff Working Group. The group consists of members from different areas of DIT to look at ways of working, collaborating with other departments and raising DIT\u2019s profile in the area. Most importantly, it has also started plans for the Cardiff office Christmas party!",
+                "tag": "p"
+            },
+            {
+                "content": "Creating opportunities ",
+                "tag": "h2"
+            },
+            {
+                "content": "With the UK Government\u2019s commitment to address regional imbalance over the last few years, there are more and more local opportunities in many places of the UK. This includes Cardiff and South Wales. It used to be the case that to make a career in government, or big business, you would have to move to London. Not anymore. Now, there is a real commitment to move Civil Service jobs out of London at all levels. This includes goals for half of all senior civil servants to be based outside of London by 2030, in order to deliver services closer to the people they are aimed at serving.",
+                "tag": "p"
+            },
+            {
+                "content": "This opens a host of opportunities for people at all stages in their careers. People who wanted to work for the Civil Service, but didn\u2019t want to relocate from South Wales, can now do so. Students from all 5 of the universities in South Wales can now consider a career supporting international trade without the need to move to London. People already in London and other big cities, both in Civil Service and the public sector, can consider progressing their careers in a place where they can enjoy the different quality of life a smaller capital city offers.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2022/09/22/cardiff-community-culture-and-creating-opportunities/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "DDaT colleagues share what they love about living and working in and around Cardiff "
+    },
+    {
+        "title": "Be a voice for change on our accessibility panel",
+        "authors": [
+            "markworkman"
+        ],
+        "posted_on": "2022-09-22T11:44:02",
+        "categories": [
+            "legal aid agency"
+        ],
+        "content": [
+            {
+                "content": "What sort of people do we want?",
+                "tag": "h2"
+            },
+            {
+                "content": "We recognise that there are individuals who may need to:",
+                "tag": "p"
+            },
+            {
+                "content": "Achieving good outcomes in these areas is more likely if we can recruit a panel of volunteers with a range of different accessibility needs. The idea is to put ourselves on the same page as the user so we can help as many people as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s all about giving people the right tools to do their jobs. So, if someone has trouble using assistive technologies with our products, we want to know.",
+                "tag": "p"
+            },
+            {
+                "content": "It would be great to have people working in all aspects of legal aid. But you do not necessarily need to work in legal aid to take part. We welcome people from all areas of the law.",
+                "tag": "p"
+            },
+            {
+                "content": "Why is this important?",
+                "tag": "h2"
+            },
+            {
+                "content": "There is increasing awareness of the wide spectrum of obstacles that life throws up for people and the importance of being responsive as a society. At least 1 in 5 people in the UK have a long-term illness, impairment or disability.",
+                "tag": "p"
+            },
+            {
+                "content": "Some people may have issues with vision or motor functions. There may be cognitive or learning issues. Others may have deafness or impaired hearing. And these problems may be life-long, or they may have arrived later in life. Others may face short-term difficulties. For example, someone who has broken an arm or temporary loss of vision.",
+                "tag": "p"
+            },
+            {
+                "content": "How will the panel work?",
+                "tag": "h2"
+            },
+            {
+                "content": "When we start a research project, we select a sample of appropriate people from our panel and contact them explaining what the project is about and what their involvement would look like. This could range from online surveys to interviews or group work, in person or by phone or video call. There is no commitment \u2013 people can always say no.",
+                "tag": "p"
+            },
+            {
+                "content": "Why are we doing this now?",
+                "tag": "h2"
+            },
+            {
+                "content": "Our digital systems are constantly evolving. We\u2019re working hard on developing services that are reliable, intuitive and based on user needs. As this happens, we need to make sure that everyone working with us can do so as effectively as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "We will be constantly designing, testing and then trying new approaches based on user feedback. This isn\u2019t just altruistic, it\u2019s also sound business. If we want people to use our systems, then they have to be universally accessible.",
+                "tag": "p"
+            },
+            {
+                "content": "We will also be working to ensure that addressing accessibility needs is integrated into the planning and design of our systems as we move forwards. This is in line with our:",
+                "tag": "p"
+            },
+            {
+                "content": "How do I take part?",
+                "tag": "h2"
+            },
+            {
+                "content": "You can volunteer by using this online form:",
+                "tag": "p"
+            },
+            {
+                "content": "Accessibility research panel registration",
+                "tag": "p"
+            }
+        ],
+        "link": "https://legalaid.blog.gov.uk/2022/09/22/be-a-voice-for-change-on-our-accessibility-panel/",
+        "blog": "Legal aid",
+        "blog_link": "https://legalaid.blog.gov.uk",
+        "description": "Legal practitioners with accessibility needs are wanted as volunteers for a digital user research panel, writes Holly Challenger, from the Legal Aid Agency. We're recruiting these volunteers because we need their help designing digital services which are inclusive and universally \u2026"
+    },
+    {
+        "title": "Focus on mental health: how to help students navigate their education",
+        "authors": [
+            "Professor David Putwain"
+        ],
+        "posted_on": "2022-09-22T10:02:36",
+        "categories": [
+            "A levels and GCSEs"
+        ],
+        "content": [
+            {
+                "content": "School and college qualifications are important, whether GCSEs, A levels, Applied Generals or other vocational and technical qualifications. It is no surprise, then, that teachers and parents spend a lot of time talking to young people about the importance of achievement \u2013 and often the flip side: what failure can result in.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "All these messages are well-intentioned. After all, who does not want young people to achieve their potential and take the next step of their lives and careers?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For 2022 Youth Mental Health Day, we asked Professor David Putwain of Liverpool John Moores University how teachers and parents can approach talking to young people about their education and exams in ways that support their mental wellbeing.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the research shows",
+                "tag": "h2"
+            },
+            {
+                "content": "There is now an accumulated body of evidence to show that students can react in remarkably different ways to messages about the importance of their GCSEs and other important exams. On the one hand there are students who respond well to such messages, which act as a reminder for why it is important to work hard. On the other hand, there are students for whom such messages intensify pressure around study and act as a trigger for anxiety. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Consider, for example, what a Year 11 student told me when I asked if this was a topic worth researching:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Research studies of students in Years 10 and 11 have shown that the different ways in which students respond to messages about the importance of exams do matter. Students\u2019 responses can, and do, impact motivation, engagement, and ultimately achievement. Students who respond positively to such messages are more hopeful and optimistic about their exams, are more motivated and engaged, and achieve higher grades. Students who respond negatively to these messages are more anxious about their exams, which interferes with motivation and engagement, and they achieve lower grades.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Different students need different messages",
+                "tag": "h2"
+            },
+            {
+                "content": "So what, if anything, can we do to ensure we are talking to and advising students in the most effective way?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The answer is not simply to stop using such messages. That would be denying those students who respond positively the benefit. The solution is to get the right message to the right student, and at the right time. This may mean reconsidering those messages delivered in a group setting, such as an assembly or whole class as there will inevitably be some students for whom this will result in negative emotional and motivational reactions. However, individualised messages could be directed to specific students, or even those in small groups, who will respond positively. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So do we know which students will respond effectively? As students\u2019 reactions to these messages are largely private experiences, they can be difficult to gauge from how someone is behaving. The answer to this question can, in part, be drawn from the theme of 2022 Youth Mental Health Day: \u201cconnect meaningfully\u201d. Those best placed to be able to anticipate, and judge, students\u2019 reactions are those that know them the best. At home this is likely parents, carers, or other family members. And in a school or college setting \u2013 at least in relation to learning \u2013 it ought to be their teachers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Connecting meaningfully",
+                "tag": "h2"
+            },
+            {
+                "content": "There is no substitute for teachers getting to know their students the best that they can within a professional and supportive context. Teachers who do this will be able to understand students\u2019 motivations, aspirations and fears more effectively, and judge how and when to use motivating messages to their greatest effect. Taking the time to talk to students, showing an interest in them, and being non-judgemental, empathetic and supportive will help to build these important positive relationships.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the educational literature, developing positive teacher-student relationships is described as \u201crelational\u201d support. Alongside instructional support (effective teaching and learning) and behavioural support (effective classroom structure and behaviour management), relational support is the cornerstone of developing motivated, engaged, and positive students. All of which contribute to a student\u2019s sense of wellbeing at school or college. That setting is the place where they feel valued, can flourish, and achieve their aspirations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It therefore follows that it is important for teachers to take a little time to reflect on what they say, when they say it, and to whom.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The best way to judge all this is by getting to know a student well in a professional capacity. In doing so, it is possible to make a positive contribution to not only their learning and achievement, but also their mental wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "Professor David Putwain, School of Education, Liverpool John Moores University",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ofqual.blog.gov.uk/2022/09/22/focus-on-mental-health-how-to-help-students-navigate-their-education/",
+        "blog": "The Ofqual blog",
+        "blog_link": "https://ofqual.blog.gov.uk",
+        "description": "School and college qualifications are important, whether GCSEs, A levels, Applied Generals or other vocational and technical qualifications. It is no surprise, then, that teachers and parents spend a lot of time talking to young people about the importance of \u2026"
+    },
+    {
+        "title": "What it\u2019s like working as a Community Payback placement coordinator",
+        "authors": [
+            "Ministry of Justice"
+        ],
+        "posted_on": "2022-09-22T09:30:42",
+        "categories": [
+            "Community Payback",
+            "Personal stories",
+            "Probation"
+        ],
+        "content": [
+            {
+                "content": "Community Payback placement coordinators play a key role in ensuring people sentenced to Community Payback are allocated to appropriate unpaid work projects. If you have good organisational and communication skills, plus an eye for detail, read what Mia has to say about her work and see if it\u2019s for you.\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Visit our website to find out more and to apply.",
+                "tag": "p"
+            },
+            {
+                "content": "Why did you decide to become a Community Payback (CP) placement coordinator?",
+                "tag": "p"
+            },
+            {
+                "content": "Following my degree in health and social care, I worked as a support officer with people with mental health, substance misuse and homelessness issues. Many of them had been to prison and I was interested in their experiences after leaving custody. The CP placement coordinator role gave me an opportunity to learn more about Probation\u2019s role in working with ex-offenders. The risk assessment part of the role was particularly attractive to me as it builds on the skills I developed in my last job.",
+                "tag": "p"
+            },
+            {
+                "content": "What is the main focus of your role as a CP placement coordinator?",
+                "tag": "p"
+            },
+            {
+                "content": "I source projects that provide people on probation, who have been sentenced to CP, with an opportunity to do meaningful unpaid work that benefits the community. I assess each project to make sure it\u2019s suitable, ensuring the necessary risk and health and safety assessments are done. Once they are, I let the admin team know so they can start allocating CP supervisors and people on probation to them.",
+                "tag": "p"
+            },
+            {
+                "content": "What does a typical working week look like for you?",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s a very varied role and every single day is different.",
+                "tag": "p"
+            },
+            {
+                "content": "On a typical week, I\u2019ll spend some time looking for, and planning, new CP projects. Initially, this might involve doing some internet research to find potential organisations \u2013 such as local authorities or charities \u2013 that might be able to provide suitable unpaid work for our people on probation. I also spend time speaking to contacts, who we refer to as beneficiaries, at organisations I\u2019ve found though my research. The next few days, I might be out doing site visits to assess what work needs doing at CP projects, how long it will likely take, and to identify any potential risks. And the rest of the week might be spent attending meetings, reviewing current projects to make sure all the relevant documentation is up-to-date, and doing admin.",
+                "tag": "p"
+            },
+            {
+                "content": "I have set admin tasks \u2013 such as such as preparing mileage reports for the minibuses CP supervisors use to transport equipment and people on probation \u2013 that I need to do every month. So, I always set aside a couple of days to do them. Plus, I go to a monthly meeting with the local Community Safety Partnership, that\u2019s attended by a wide range of organisations such as the police.",
+                "tag": "p"
+            },
+            {
+                "content": "What are some of the key skills you need to be a CP placement coordinator?",
+                "tag": "p"
+            },
+            {
+                "content": "You need to be organised and able to plan ahead. But often things come up which mean you need to change your plans and re-prioritise. So, you need to be flexible, be able to\u00a0think on your feet, make decisions, and act quickly too. And you need to be resilient.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s important you have good communication skills and are confident talking to a wide range of people. You need to be able to promote the benefits of CP to potential beneficiaries and answer any questions they may have.",
+                "tag": "p"
+            },
+            {
+                "content": "Teamwork is also important as you work closely with other CP placement coordinators in your region, CP supervisors, the admin team and probation officers.",
+                "tag": "p"
+            },
+            {
+                "content": "You also need to have good IT skills.",
+                "tag": "p"
+            },
+            {
+                "content": "What do you like about your work?",
+                "tag": "p"
+            },
+            {
+                "content": "I like the fact that every day is different. And that, while I obviously have to complete priority tasks when they need to be done, I can pretty much plan out my own schedule.",
+                "tag": "p"
+            },
+            {
+                "content": "I also enjoy getting out and about visiting CP project sites.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://prisonjobs.blog.gov.uk/2022/09/22/what-its-like-working-as-a-community-payback-placement-coordinator/",
+        "blog": "Working in the Prison and Probation Service",
+        "blog_link": "https://prisonjobs.blog.gov.uk",
+        "description": "Community Payback placement coordinators play a key role in ensuring people sentenced to Community Payback are allocated to appropriate unpaid work projects. If you have good organisational and communication skills, plus an eye for detail, read what Mia has to \u2026"
+    },
+    {
+        "title": "Transport and logistics - route review",
+        "authors": [
+            "Institute for Apprenticeships"
+        ],
+        "posted_on": "2022-09-22T09:12:35",
+        "categories": [
+            "have your say",
+            "Route review"
+        ],
+        "content": [
+            {
+                "content": "Following a successful pilot of our new approach to route reviews earlier this year in the construction route, we are pleased to announce the launch of the route review for transport and logistics.",
+                "tag": "p"
+            },
+            {
+                "content": "The aim of the route review is to provide an opportunity to listen to employers and stakeholders within the transport and logistics sector and sub-sectors to ensure they get the technical qualifications and apprenticeships they need, both now and in the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Partnered with the implementation of our new revisions prioritisation approach and our restructure into route specific teams, we hope that employers and stakeholders will be keen to engage with us to make sure our suite of technical education products provide the best possible experience for apprentices and students.",
+                "tag": "p"
+            },
+            {
+                "content": "Consultation with employers and industry is at the heart of the route review and you can use our online survey to give us your views. This will run from September to November and will be supported by five sub-sector specific online consultation events to encourage conversation and provide clarification.",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside this, we will be consulting with the sector to understand what the key principles and characteristics are, which should be reflected in all occupational standards. As per previous route reviews, these can be over-arching or sector specific, ranging from sustainability to providing opportunity for neurodiversity.",
+                "tag": "p"
+            },
+            {
+                "content": "We anticipate the route review will conclude in the spring of 2023 when we publish the final report including recommendations for changes to our occupational maps as well as the principles and characteristics we expect to be included in future occupational standards.",
+                "tag": "p"
+            },
+            {
+                "content": "We will then support trailblazer groups to implement these recommendations as swiftly and easily as possible. This is a growing sector with exciting occupations already available and more to come. We want to support you to attract new talent to support this growth and look forward to working with you to design the technical education products needed to support this.",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like us to meet with you to discuss any aspects of the route review, please do not hesitate to contact us on construction.transport@education.gov.uk. In the meantime, please do take a look at our occupational map ahead of completing the online survey.",
+                "tag": "p"
+            },
+            {
+                "content": "You can also book on on of our webinars:",
+                "tag": "p"
+            },
+            {
+                "content": "Rail Webinar \u2013 Monday 3 October 2022 at 1pm",
+                "tag": "p"
+            },
+            {
+                "content": "Maritime Webinar \u2013 Thursday 6 October 2022 at 10am",
+                "tag": "p"
+            },
+            {
+                "content": "Aviation webinar \u2013 Thursday 6 October 2022 at 1pm",
+                "tag": "p"
+            },
+            {
+                "content": "Logistics and Supply Chain Webinar \u2013 Friday 7 October 2022 at 9am",
+                "tag": "p"
+            },
+            {
+                "content": "Warehousing Webinar \u2013 Friday 7 October 2022 at 11am",
+                "tag": "p"
+            }
+        ],
+        "link": "https://apprenticeships.blog.gov.uk/2022/09/22/transport-and-logistics-route-review/",
+        "blog": "Institute for Apprenticeships and Technical Education",
+        "blog_link": "https://apprenticeships.blog.gov.uk",
+        "description": "Following a successful pilot of our new approach to route reviews earlier this year in the construction route, we are pleased to announce the launch of the route review for transport and logistics. The aim of the route review is \u2026"
+    },
+    {
+        "title": "Staying safe beyond the pandemic",
+        "authors": [
+            "Vickie Peters"
+        ],
+        "posted_on": "2022-09-22T09:06:54",
+        "categories": [
+            "Care and support",
+            "coronavirus",
+            "Workforce"
+        ],
+        "content": [
+            {
+                "content": "A campaign to protect us all",
+                "tag": "h2"
+            },
+            {
+                "content": "At Cygnet Health Care, we have just launched a flu campaign which will run from September 2022 to February 2023. We\u2019re calling for flu vaccination volunteers to provide jabs at local services to help us make vaccinations available to as many of our staff, patients and residents as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "Social contact has now returned to pre-pandemic levels, which means there is likely to be a resurgence in influenza activity in winter. The potential for co-circulation of influenza, COVID-19 and other respiratory viruses, could add substantially to pressures in health and social care services.",
+                "tag": "p"
+            },
+            {
+                "content": "It is, therefore, no surprise vaccination remains an important priority for us this autumn and winter to protect those we care for and to reduce hospitalisations.",
+                "tag": "p"
+            },
+            {
+                "content": "For most healthy adults, the common symptoms of flu - fever, chills, headache, aches and pains in the joints and muscles, and extreme tiredness \u2013 usually disappear after two to seven days and a full recovery is made.",
+                "tag": "p"
+            },
+            {
+                "content": "But for some, including the individuals we care for, this kind of infection can lead to hospitalisation, permanent disability or even death. That is why we take our annual vaccination rollout extremely seriously and encourage all frontline health and social care workers to have both flu and COVID-19 booster jabs in order to protect the individuals in their care.",
+                "tag": "p"
+            },
+            {
+                "content": "Vaccination volunteers",
+                "tag": "h2"
+            },
+            {
+                "content": "To be a flu vaccination volunteer in our health and social care services, we are asking for staff who are registered nurses or doctors, willing to vaccinate colleagues in their service and other local facilities and who have up to date intermediate life support training.",
+                "tag": "p"
+            },
+            {
+                "content": "We will also be asking our volunteer staff to complete an online educational module about flu.",
+                "tag": "p"
+            },
+            {
+                "content": "While pandemic restrictions have long been lifted and we have returned to more familiar ways of life, we know coronavirus is still present in our communities. That\u2019s why all our colleagues at Cygnet Health Care continue to act carefully to protect each other and those in their care.",
+                "tag": "p"
+            },
+            {
+                "content": "It is vital we continue to do all we can to prevent the virus spreading and mitigate the risk of infection. Our teams support some of the most vulnerable people in society and I am immensely proud of how everyone has worked hard to protect all our residents and patients.",
+                "tag": "p"
+            },
+            {
+                "content": "On this point, we\u2019ll be encouraging all staff and service users to receive the COVID-19 booster vaccine. Across many of our services, we have excellent community partnerships with local GP practices, many of which have already arranged to attend our facilities and administer vaccines to service users and staff.",
+                "tag": "p"
+            },
+            {
+                "content": "My message to everybody is that booking a vaccine, whether it be for flu, a Covid-19 booster, or both, is easy and we encourage everyone to do so to keep friends, family, colleagues and the wider community safe. Please book your appointment without delay.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialcare.blog.gov.uk/2022/09/22/staying-safe-beyond-the-pandemic/",
+        "blog": "Social care",
+        "blog_link": "https://socialcare.blog.gov.uk",
+        "description": "Vickie Peters, Deputy Director of Infection Prevention and Control at Cygnet Health Care, explains what the healthcare company is doing to protect its service users and staff from the impact of seasonal flu and the potential resurgence of COVID-19."
+    },
+    {
+        "title": "Inclusivity in the Ministry of Defence Engineering Profession",
+        "authors": [
+            "MOD Engineering"
+        ],
+        "posted_on": "2022-09-21T19:43:00",
+        "categories": [
+            "Diversity & Inclusion",
+            "Guest Blog"
+        ],
+        "content": [
+            {
+                "content": "\u201cDefence Engineers build bridges under enemy fire; Defence Engineers deliver some of the most complex projects there are from computer networks to warships. It requires diverse skills and diverse thinking, drawing talent from all walks of life\u201d \u2013 Vice Admiral P Marshall CBE: Head of Profession (Engineering)",
+                "tag": "p"
+            },
+            {
+                "content": "This National Inclusion Week, a new video campaign is showcasing Defence\u2019s commitment to developing an agile, skilled and diverse engineering profession, placing diversity and inclusivity at the heart of the recruitment and retention agenda.",
+                "tag": "p"
+            },
+            {
+                "content": "Hear from some of our amazing MOD Engineers here.",
+                "tag": "p"
+            },
+            {
+                "content": "Pro-actively supporting the identification and removal of institutional / unconscious barriers to retention and advancement which disproportionately impacts across the diversity spectrum. As part of this commitment the team have worked with MOD Civilian HR to produce several products showcasing inclusivity within the MOD.",
+                "tag": "p"
+            },
+            {
+                "content": "With keen volunteers from engineering specialisms across the MOD, representing all aspects of inclusivity, the creative team has provided videos and imagery to support future events/social media.\u00a0 Showcasing these products through National Inclusion Week will highlight the inclusive culture within the MOD Engineering Profession.",
+                "tag": "p"
+            },
+            {
+                "content": "For further Information on the Engineering Profession please contact: DefEngChamp-Multiuser@mod.gov.uk \u00a0or follow @DefenceEng \u00a0for further updates.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2022/09/21/inclusivity-in-the-ministry-of-defence-engineering-profession/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "\u201cDefence Engineers build bridges under enemy fire; Defence Engineers deliver some of the most complex projects there are from computer networks to warships. It requires diverse skills and diverse thinking, drawing talent from all walks of life\u201d \u2013 Vice Admiral \u2026"
+    },
+    {
+        "title": "GSE Customer Charter",
+        "authors": [
+            "Selina Khan"
+        ],
+        "posted_on": "2022-09-21T18:16:02",
+        "categories": [
+            "GSE Offer"
+        ],
+        "content": [
+            {
+                "content": "The Government Science & Engineering (GSE) Profession Team sits within the Government Office for Science. Our purpose is to deliver the GSE\u00a0Profession Strategy for\u00a0its 10,000 strong and growing membership.\u00a0 We also want to increase our reach in\u00a0government, showcase science and engineering in government and build science and engineering skills\u00a0capability.\u00a0 Visit our\u00a0blog\u00a0 for our latest updates and to see what else we\u2019re up to.\u200b",
+                "tag": "p"
+            },
+            {
+                "content": "This customer charter sets out how we will treat and work with our members and stakeholders and reflects\u00a0the Government Office for Science\u2019s people values. We have one request, that our members and stakeholders treat us in the same way.",
+                "tag": "p"
+            },
+            {
+                "content": "The GSE Customer Charter commitments are:",
+                "tag": "p"
+            },
+            {
+                "content": "Collaboration: We pride ourselves on\u00a0collaborating with our members\u00a0to develop GSE products and\u00a0interventions.",
+                "tag": "p"
+            },
+            {
+                "content": "Openness: Like our members we are curious\u00a0and open minded to new\u00a0ideas.\u00a0 We also seek\u00a0to\u00a0improve\u00a0the way we\u00a0 work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Kindness: We are inclusive, respectful, and\u00a0compassionate at all times to\u00a0our members and stakeholders.",
+                "tag": "p"
+            },
+            {
+                "content": "Integrity: We always strive to do the right\u00a0thing, act with integrity remain\u00a0moral, honest and transparent.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sir Patrick Vallance, Head of the Government Science & Engineering Profession, has outlined his support the charter:\n'This customer charter sets\u00a0\u200b out how the Profession Team\u00a0\u200b will work with GSE members and\u00a0stakeholders.\u00a0 Responding in kind\u00a0will ensure we achieve our shared\u00a0agenda and create an inclusive\u00a0culture.\u2019\u00a0\u200b",
+                "tag": "p"
+            },
+            {
+                "content": "We recognise that from time to time you may have a request, a query, an idea or a complaint.\u00a0Our\u00a0governance\u00a0has been set up to capture your input with these values in mind by feeding back on how we\u00a0can improve at the monthly GSE Community of Practice meetings (details found in each GSE\u00a0newsletter).\u00a0Or for small items sending us an email at\u00a0gse@go-science.gov.uk\u200b",
+                "tag": "p"
+            },
+            {
+                "content": "For\u00a0complaints\u00a0send us an email at\u00a0gse.complaints@go-science.gov.uk\u00a0and these will be reviewed by the\u00a0team's SLT.\u00a0\u00a0\u00a0Please visit the GSE\u00a0blog\u00a0for more info on our governance and offer.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2022/09/21/gse-customer-charter/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "The Government Science & Engineering (GSE) Profession Team sits within the Government Office for Science. Our purpose is to deliver the GSE\u00a0Profession Strategy for\u00a0its 10,000 strong and growing membership.\u00a0 We also want to increase our reach in\u00a0government, showcase science and \u2026"
+    },
+    {
+        "title": "Partnering with local authorities to design family hubs",
+        "authors": [
+            "Claire Folan, product manager for family hubs"
+        ],
+        "posted_on": "2022-09-21T13:26:50",
+        "categories": [
+            "multidisciplinary teams",
+            "Service design",
+            "User-centred design"
+        ],
+        "content": [
+            {
+                "content": "Family hubs allow local authorities to offer help to families, from \u2018early years\u2019 support to parenting classes, all of which can make a difference \u2013 particularly to those families going through a tough time.",
+                "tag": "p"
+            },
+            {
+                "content": "People can access vital services, from advice on pregnancy and infant feeding to help with benefits, domestic abuse and substance misuse.",
+                "tag": "p"
+            },
+            {
+                "content": "To make sure people can access and navigate the family hub services, our team needed to partner with local authorities (LAs) on the service design. This was a first for us.",
+                "tag": "p"
+            },
+            {
+                "content": "This post is about how it went and what we learned.",
+                "tag": "p"
+            },
+            {
+                "content": "The importance of partnering with users",
+                "tag": "h2"
+            },
+            {
+                "content": "Researching the views, knowledge, and input from LA colleagues from the get-go was essential. They are one of our 2 main user groups.",
+                "tag": "p"
+            },
+            {
+                "content": "We wanted LAs to use family hubs to give out information about various groups, classes and activities that run in their local area. For example: playgroups, child development clinics, and mental health support.",
+                "tag": "p"
+            },
+            {
+                "content": "We wanted to share our ideas with LAs to get their feedback and to make sure the service we designed would work for them.",
+                "tag": "p"
+            },
+            {
+                "content": "How the partnerships grew",
+                "tag": "h2"
+            },
+            {
+                "content": "LAs interested in working with us and being part of our discovery could apply to join.",
+                "tag": "p"
+            },
+            {
+                "content": "\u200b\u200bWe teamed up with Salford and Tower Hamlets LAs. Early introductions to people working in strategy and planning helped us connect with lots more people working at a more operational level.",
+                "tag": "p"
+            },
+            {
+                "content": "We soon had a network of 40 experts working in LA \u2018early help\u2019 services involved in our discovery.",
+                "tag": "p"
+            },
+            {
+                "content": "Different culture and ways of working",
+                "tag": "h2"
+            },
+            {
+                "content": "It took time to figure out who our main contacts would be and how we would work together.",
+                "tag": "p"
+            },
+            {
+                "content": "There were differences between how LAs worked and how we did.",
+                "tag": "p"
+            },
+            {
+                "content": "Each LA has its own way of working, its own level of formality. The way our team communicates is relaxed and collaborative. This was surprising for some of the LA staff who had not worked in digital delivery before.",
+                "tag": "p"
+            },
+            {
+                "content": "Because we were working with external organisations, we could not use fast messaging services like Slack or Teams. What did work though was setting up weekly meetings for 1 or 2 hours.",
+                "tag": "p"
+            },
+            {
+                "content": "We also had to make it clear early on, that digital teams have no say in policy decisions about bids or funding.",
+                "tag": "p"
+            },
+            {
+                "content": "The value of partnerships",
+                "tag": "h2"
+            },
+            {
+                "content": "The input from our LA colleagues was as valuable as anyone else\u2019s in our team, in fact they were very much a part of our multidisciplinary team.",
+                "tag": "p"
+            },
+            {
+                "content": "Our multidisciplinary team enjoyed co-designing with the LA experts, especially as we got to know people. There was a feeling that everyone was able to express themselves, and react honestly and informally as often as they needed to each other's ideas.",
+                "tag": "p"
+            },
+            {
+                "content": "LA colleagues helped us find people from their pool of service users to take part in our user research. They sensitively arranged interviews, which was extremely helpful.",
+                "tag": "p"
+            },
+            {
+                "content": "After 5 months of close working, we had a much better understanding of how LAs work, especially the \u2018early help\u2019 service teams. We had insight on how LAs would be able to use the family hubs.",
+                "tag": "p"
+            },
+            {
+                "content": "The local authority\u2019s perspective",
+                "tag": "h2"
+            },
+            {
+                "content": "Katie Kelleher, service manager for \u2018Helping families\u2019 at Salford Council, gave us this feedback.",
+                "tag": "p"
+            },
+            {
+                "content": "What we would do differently next time",
+                "tag": "h2"
+            },
+            {
+                "content": "Relationships take time to build. We'd factor more time in for this in the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Now it\u2019s possible to meet in person, we\u2019d like to have some face to face meetings, and visit the family hubs.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "h2"
+            },
+            {
+                "content": "Partnering with LAs and working with them in a rich mixed multidisciplinary team has brought us closer.",
+                "tag": "p"
+            },
+            {
+                "content": "On a practical level we have invited representatives from LAs to our wider team's Slack channel. We share our work with them and invite them to join our meetings, as we would with any other team member.",
+                "tag": "p"
+            },
+            {
+                "content": "And crucially working with LAs gives us a chance to be closer to the ground, closer to our users\u2013LAs and families alike. By joining up we will collectively continue to make sure the service is fit for purpose for everyone involved.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dfedigital.blog.gov.uk/2022/09/21/family-hubs/",
+        "blog": "DfE Digital, Data and Technology",
+        "blog_link": "https://dfedigital.blog.gov.uk",
+        "description": "Claire Folan talks about the value of teaming up with subject matter experts from local authorities to design an important service for families. Differences in working culture were soon overcome and a rich multidisciplinary team was formed. "
+    },
+    {
+        "title": "National Highways is helping veterans build a new future",
+        "authors": [
+            "Howard Rhoades"
+        ],
+        "posted_on": "2022-09-21T12:57:32",
+        "categories": [
+            "A great place to work",
+            "A Modern Civil Service",
+            "A Skilled Civil Service",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "A life-changing initiative is\u00a0 giving armed forces veterans a foot on the ladder to a new career.",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cYou\u2019ve protected our country, now help us to keep it connected.\u201d That\u2019s the message from the dedicated team within National Highways to military veterans keen to start their civilian career with confidence. There are five people working in the team here in the South East, and I\u2019m based in Guildford, Surrey, covering an area from Kings Lynn in the East to Bournemouth in the South East.",
+                "tag": "p"
+            },
+            {
+                "content": "Supportive route",
+                "tag": "h4"
+            },
+            {
+                "content": "National Highways is the organisation which operates and maintains England\u2019s motorways and major A-roads, and has established an ex-military recruitment programme offering a supportive route into a civilian career.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Civvy Street\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Former service personnel can often find the transition to \u2018civvy street\u2019 challenging, with many employers failing to recognise the true value of their transferable skills and experience.",
+                "tag": "p"
+            },
+            {
+                "content": "Chris Ashworth, Chair of the armed forces Network, is proud to have signed the Armed Forces Covenant. He is equally passionate about their work with Buildforce, which acknowledges our responsibility to support the transition of serving, and former, members of the armed forces into new careers.",
+                "tag": "p"
+            },
+            {
+                "content": "Immediate contribution",
+                "tag": "h4"
+            },
+            {
+                "content": "Chris said: \u201cWe believe National Highways is an excellent career for those leaving the armed forces as we recognise ex-service personnel are highly skilled, meaning they can make an immediate contribution and help us to deliver our Road Investment Strategy.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe\u2019re also linked into the Civil Service Veterans Network, and can collaborate with our colleagues across government in the wider armed forces community.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Since the programme started, on average, we support 200 armed forces personnel into the sector. In addition, we provide mentors, work placements, mental health support and 1-2-1 support to circa 500 candidates a year.\u00a0 And then there\u2019s our virtual career chats and insight days reaching even more service leavers and veterans \u2013 so it\u2019s really so much more than jobs!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re looking to work even closer with armed forces recruitment bodies to further boost National Highways\u2019 offering and approach and grow our links with the military to offer support and expertise.  \u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Veteran Amy Hargreaves was initially offered a work placement with the Kier communications team. She has since secured full-time work with the A585 team as their Safety Health & Environment and Learning & Development Coordinator.",
+                "tag": "p"
+            },
+            {
+                "content": "Helping veterans",
+                "tag": "h4"
+            },
+            {
+                "content": "A former RAF Stewardess, Amy soon adapted her military skills. She is now, through the Kier Armed Forces Network, helping other service leavers and veterans to join the company or take up other opportunities in the construction sector through BuildForce.",
+                "tag": "p"
+            },
+            {
+                "content": "Amy said: \u201cThe skills you learn in the military stay with you for life, and I\u2019d encourage anyone wondering whether a career in construction might be for them to go for it. When I left the RAF, I had a hard time finding where I fit into the civilian world and now, with the help of BuildForce, I\u2019ve joined Kier. I feel like I have found where I fit; there really is a role for you and BuildForce will support you to find it.\"",
+                "tag": "p"
+            }
+        ],
+        "link": "https://civilservice.blog.gov.uk/2022/09/21/national-highways-is-helping-veterans-build-a-new-future/",
+        "blog": "Civil Service",
+        "blog_link": "https://civilservice.blog.gov.uk",
+        "description": "A life-changing initiative is\u00a0 giving armed forces veterans a foot on the ladder to a new career. \u201cYou\u2019ve protected our country, now help us to keep it connected.\u201d That\u2019s the message from the dedicated team within National Highways to military \u2026"
+    },
+    {
+        "title": "Passion, perseverance and the will to succeed",
+        "authors": [
+            "Mark Bird",
+            "Deborah Sturdy"
+        ],
+        "posted_on": "2022-09-21T10:39:49",
+        "categories": [
+            "Care and support",
+            "Leadership",
+            "Recognition",
+            "Workforce"
+        ],
+        "content": [
+            {
+                "content": "Not always easy but never dull",
+                "tag": "h2"
+            },
+            {
+                "content": "I am often asked by friends what it\u2019s really like to work in social care. My reply can be very complicated. It\u2019s hard work and frustrating at times, but it is also very rewarding. There are many challenges, yet they drive me to stay and make a difference.",
+                "tag": "p"
+            },
+            {
+                "content": "I come from a large working class family. My parents worked hard to provide things in life to survive with hand me downs, bread and butter and a big pan of stew for tea. This was family life as I knew it. Nowadays, this would be seen as not having much, but my childhood was happy and content.",
+                "tag": "p"
+            },
+            {
+                "content": "My parents were especially proud when a letter arrived on the doorstep saying I was going to nursing school. I was going to gain a qualification - the first one in the family to go onto further education.",
+                "tag": "p"
+            },
+            {
+                "content": "I walked into Royal Victoria Infirmary Newcastle Upon Tyne to begin my training like a cat who had got the cream. I felt so proud in my uniform but also a bit nervous. Was I up to it? The other students seemed so knowledgeable. Should I be here? Looking back now on a career spanning 33 years, I think \u201cwow\u201d, that lad from Newcastle, who barely had the qualifications to enter nursing, has been successful through sheer determination.",
+                "tag": "p"
+            },
+            {
+                "content": "My passion and perseverance led me to become a ward manager, matron, divisional manager and now a peer quality manager supporting others to achieve their goals, including a former policeman who patrolled one of London\u2019s most challenging boroughs, Holloway, for eight years.",
+                "tag": "p"
+            },
+            {
+                "content": "Someone had obviously seen my potential, but I\u2019ve always had imposter syndrome. Nonetheless, I have been able to achieve my goals without believing I am better or above others. I come from humble beginnings, so this gives me an insight into the struggles of others, allowing me to be more empathic in the way I provide care and support.",
+                "tag": "p"
+            },
+            {
+                "content": "I always tell the younger generation of career nurses if I can do it then anyone can. All you need is determination, faith in yourself, no matter what anyone says to you. If someone tries to block you or won\u2019t support you then look for a new route, but don\u2019t ever give up - you will be amazing in the end. Good leaders support anyone with ambition and potential. You may not consider yourself to be academic or a forward thinker, but we all have something to give.",
+                "tag": "p"
+            },
+            {
+                "content": "A wonderful surprise",
+                "tag": "h2"
+            },
+            {
+                "content": "In August this year, I was presented with a Gold Award from Chief Nurse for Adult Social Care, Deborah Sturdy at the Brent Adult Social Care Awards. When Deborah called my name, I felt so humbled. Did she really say I'd received an award for outstanding services to social care?",
+                "tag": "p"
+            },
+            {
+                "content": "The award means so much to me. I am in the latter stages of my career and to be recognised is amazing. I only wish my mum was here so I could say \u201cMam, look at your little lad\u2019s achievement.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "I felt very emotional writing that sentence as it means so much to me. If it wasn\u2019t for my mum\u2019s encouragement, I wonder what I would be doing now. So Mum, thank you for being pushy, clever and so supportive in telling me I could do it. I\u2019m now the cat who got the cream AND the Gold Award!",
+                "tag": "p"
+            },
+            {
+                "content": "The COVID-19 pandemic has been incredibly hard on our social care colleagues and communities. In Brent, we have been supportive with the vaccination programme. The take up has been amazing to help protect those we care for.",
+                "tag": "p"
+            },
+            {
+                "content": "My present role in the London Borough Brent is Peer Quality Manager. I work with home managers to support, coach, educate, share ideas from Care Quality Commission\u2019s Brent Commissioning team to address provider concerns.",
+                "tag": "p"
+            },
+            {
+                "content": "My role is to help improve the services they provide to Brent residents at grass roots level. The role is amazing. It makes me remember the times I needed help. I can now do the same for those who really want to make a difference in social care.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialcare.blog.gov.uk/2022/09/21/passion-perseverance-and-the-will-to-succeed/",
+        "blog": "Social care",
+        "blog_link": "https://socialcare.blog.gov.uk",
+        "description": "If you want to know why we present Chief Nurse for Adult Social Care Awards throughout the year, you could do no worse than read this lovely blog from Peer Quality Manager, Mark Bird. He is just one of many colleagues making the care sector a great place to work, supporting and inspiring others, each and every day."
+    },
+    {
+        "title": "What does revaluation mean for businesses?",
+        "authors": [
+            "Alan Colston - Chief Valuer and Head of Surveying Profession"
+        ],
+        "posted_on": "2022-09-21T09:58:51",
+        "categories": [
+            "Valuation"
+        ],
+        "content": [
+            {
+                "content": "The Valuation Office Agency (VOA) creates and maintains lists of the \u2018rateable value\u2019 of over two million non-domestic properties (properties that aren\u2019t just private homes) in England and Wales.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rateable values are essentially the amount of rent a property could have been let for on a set valuation date. Local councils can then use this information to calculate business rates bills.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We carry out a \u2018revaluation\u2019 of all non-domestic properties on\u00a0a regular basis in order to reflect any changes in the property market.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why we revalue\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Business rates bills are calculated using specific valuations, rather than a banded system like council tax. Revaluations ensure that rateable values reflect any upturns or downturns in the property market.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These valuations are used by local authorities to calculate and issue business rates bills.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Revaluations don\u2019t generate any extra revenue; they help to redistribute the total amount of business rates paid to local councils. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How we deliver\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During a revaluation, we use the data that we have gathered, which is mainly rental information, to assess how rental values have changed since the previous revaluation. All valuations are based on the open market annual rental value of that property at a set point in time set in law known as the Antecedent Valuation Date (AVD).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To arrive at a valuation, we use three main methods:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To collect\u00a0the evidence we need, we use rental and trade data gathered from occupiers and landlords.\u00a0 We analyse the information collected and undertake valuations. We agree the approach for certain classes with industry where possible.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We then provide our valuations to central and local government bodies and publish the draft lists of our valuations. At this stage, ratepayers can use our digital service \u2018Find my business rates valuation\u2019 on GOV.UK to see their future valuation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Impact on business rates\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Business rates apply to a wide range of properties, even if they\u2019re not actually used for business purposes. This is because we are required by law to value all non-domestic properties, with certain exceptions, like agricultural premises and places of worship. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, business rates can apply to beach huts and village halls as well as shops, offices, and factories. Local councils calculate business rates bills by multiplying the rateable value provided by the VOA by what\u2019s known as a multiplier. They can then apply any relevant rate reliefs. In England the multiplier is set by the Department for Levelling Up, Housing and Communities (DLUHC). In Wales the multiplier is set by the Welsh Government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At revaluation, the multiplier is adjusted by DLUHC or the Welsh Government to ensure the same amount of tax is collected as at the previous revaluation, only allowing for inflation. This means a change in the rateable value does not necessarily result in a change to your business rates bill, particularly when any reliefs have been considered.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Staying informed \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A breakdown of what the VOA and local councils can help you with is shown below. Broadly the Valuation Office is responsible for the valuation of your property and your local council is responsible for anything to do with your business rates bill.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you occupy a non-domestic property in England or Wales and want to find the rateable value, you can use our Find My Business Rates Valuation service. If your property is in Wales, you can also use this service to report any changes to your property that might affect its rateable value or challenge the rateable value.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If your property is in England, you can sign in or set up a business rates valuation account to report changes through our Check service or notify the VOA that you have appointed an agent. You can also submit a challenge to your rateable value once you have completed a Check.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For any questions about business rates bills, reliefs, or payments, you should contact your local council.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://valuationoffice.blog.gov.uk/2022/09/21/what-does-revaluation-mean-for-businesses/",
+        "blog": "Valuation Office Agency",
+        "blog_link": "https://valuationoffice.blog.gov.uk",
+        "description": "Alan Colston is our Chief Valuer and Head of Surveying Profession. In this blog he explains what a revaluation is and what it means for businesses.\u00a0"
+    },
+    {
+        "title": "\u201cI absolutely love my job. Seeing the difference I can make is so special.\u201d",
+        "authors": [
+            "Ministry of Justice"
+        ],
+        "posted_on": "2022-09-20T17:14:10",
+        "categories": [
+            "Community Payback",
+            "Personal stories",
+            "Probation"
+        ],
+        "content": [
+            {
+                "content": "Read on to see if it\u2019s for you, find out more and take a look at our current vacancies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why did you decide to become a Community Payback (CP) supervisor?",
+                "tag": "p"
+            },
+            {
+                "content": "Having been a self-employed book-keeper and accountant for a number of years, and now that my family have grown up, I wanted a change. I was looking for a secure job where I could work regular hours and take paid leave.",
+                "tag": "p"
+            },
+            {
+                "content": "I also wanted to help people. An opportunity to make a difference at a difficult time in their lives.",
+                "tag": "p"
+            },
+            {
+                "content": "What does a typical day as a CP supervisor look like for you?",
+                "tag": "h4"
+            },
+            {
+                "content": "What skills and experience do you bring to the role?",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m a mother, a grandmother, a sister and a daughter. I have a lot of life experience to draw on. I can see how people get into trouble, and how they stay out of it.",
+                "tag": "p"
+            },
+            {
+                "content": "My job is about being human: recognising that we can all make mistakes but can learn from them and change. I can\u2019t make people change, but I can help plant the seed and support them to do so. Sometimes, all people need is a bit of one-to-one attention and a chat about their personal circumstances to make them stop and think. And I\u2019m good at that, I\u2019ve done it all my life.",
+                "tag": "p"
+            },
+            {
+                "content": "I see my job as helping people see what they\u2019re capable of and building on it. Learning new skills and the discipline of going to work while on Community Payback can really help them focus on turning their lives around.",
+                "tag": "p"
+            },
+            {
+                "content": "What makes a good CP supervisor?",
+                "tag": "p"
+            },
+            {
+                "content": "What do you like about working as a CP supervisor?",
+                "tag": "p"
+            },
+            {
+                "content": "Getting the people on probation in the groups I\u2019m supervising interacting and working well together.",
+                "tag": "p"
+            },
+            {
+                "content": "The real job satisfaction is when someone takes the time to say, \u2018see you next week\u2019 and asks how I am the next time they see me. Then I know I\u2019ve made a connection with them and that they\u2019re more motivated to complete their Community Payback. It\u2019s great when you see that change in someone who was previously dragging their feet and not co-operating.",
+                "tag": "p"
+            },
+            {
+                "content": "I really enjoy working outside on projects. I\u2019ve learnt a lot more about gardening since I started in this job, and my health is so much better now I\u2019m more active.",
+                "tag": "p"
+            },
+            {
+                "content": "I absolutely love my job. Seeing the people on my groups keep turning up for their unpaid work, and how they react to me is so special \u2013 knowing that something I\u2019ve done or said has made a positive difference.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://prisonjobs.blog.gov.uk/2022/09/20/i-absolutely-love-my-job-seeing-the-difference-i-can-make-is-so-special/",
+        "blog": "Working in the Prison and Probation Service",
+        "blog_link": "https://prisonjobs.blog.gov.uk",
+        "description": "\"I can\u2019t make people change, but I can help plant the seed and support them to do so.\" Community Payback (CP) supervisor Jane gives us an insight into her work, the skills she brings to the role, and what she \u2026"
+    },
+    {
+        "title": "Areas of Research Interest - The Food Standard Agency\u2019s research priorities",
+        "authors": [
+            "Dr Adam Cook, Dr Adam Cook, Head of Science Strategy, Capability and Research"
+        ],
+        "posted_on": "2022-09-20T12:23:27",
+        "categories": [
+            "Science"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "Dr Adam Cook, Head of Science Strategy, Capability and Research, introduces the latest update to our Areas of Research Interest.",
+                "tag": "p"
+            },
+            {
+                "content": "The fundamental mission of the Food Standards Agency (FSA), as laid out in our strategy, is food you can trust. In delivering this mission we have developed seven guiding principles. These include being science and evidence-led, being transparent and working with others. We talked more about the strategy and what it means for science in a previous blog. In that blog, we mentioned that we would be publishing revised Areas of Research Interest (ARI) and I am pleased to say that we have now done this.",
+                "tag": "p"
+            },
+            {
+                "content": "The aims of the ARI are to set out the research questions that we want to answer to ensure a safer food system. These are not the first set of ARI that the FSA has published, our first were in 2017, but are a refresh and revision of our priorities based on an evolving food system. This shows the FSA\u2019s continued commitment to addressing the recommendations of the Government Science Capability Review (SCR).",
+                "tag": "p"
+            },
+            {
+                "content": "The updated FSA strategy expands our mission to support access to safe, healthy and sustainable food for everyone. Therefore, in addition to the previous themes addressing food standards and safety, our revised ARI also consider a new focus on food that is healthier and more sustainable.",
+                "tag": "p"
+            },
+            {
+                "content": "Our four strategic priorities",
+                "tag": "h2"
+            },
+            {
+                "content": "The issues surrounding the food we all eat are broad and, as such, so are the research questions we wish to address. Our ARI are 14 research questions grouped under four strategic priorities:",
+                "tag": "p"
+            },
+            {
+                "content": "Assuring food and feed safety and standards \u2013 this is integral to our role and considers the risks to the public through the food they consume. These risks include chemical hazards, foodborne pathogens, food hypersensitivity, food crime, novel foods and how differences in food standards across the globe may impact trade and the food available to UK consumers.",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding consumers and our wider society \u2013 by understanding what consumers think, feel, and do we can better protect them and play our part in supporting safe, healthy, sustainable diet choices. Our research areas in this priority relate to how consumers view and understand the food system, the role behaviour and perception play in food standards and the impact of food insecurity on food safety.",
+                "tag": "p"
+            },
+            {
+                "content": "Adapting to the food and feed system of the future \u2013 our world is rapidly changing, and we need to predict risks and opportunities that arise, including those associated with new technologies, and how we can continue to adapt to them when developing and implementing food regulations.",
+                "tag": "p"
+            },
+            {
+                "content": "Addressing global grand challenges \u2013 the food system does not exist in isolation and we need to understand the role food plays in these wider challenges. These challenges include Antimicrobial Resistance, climate change and the move to more sustainable and healthy living.",
+                "tag": "p"
+            },
+            {
+                "content": "Collaborating and protecting the public",
+                "tag": "h2"
+            },
+            {
+                "content": "These are a broad set of challenges and go far beyond what a single organisation can deliver, so we intend on using them to enable and enhance our collaborations, working with others who are undertaking or funding research on aspects of the food system. These collaborations will be with other government departments, the academic community, industry and consumers so that we can obtain an integrated understanding of the food system and the impact of interventions.",
+                "tag": "p"
+            },
+            {
+                "content": "By increasing our collaborations, we can ensure we continue to have access to an even more substantial evidence base to inform our decisions, in the most cost-effective manner. Providing assurance that not only are we protecting the public, but we are doing it whilst delivering the best value for money for taxpayers.",
+                "tag": "p"
+            },
+            {
+                "content": "The Research Excellence Framework (REF) is the UK\u2019s system for assessing the quality of research in our Higher Education Institutions and informs the allocation of public research funds across them. The REF considers the impact of research performed by academics on public policy. Publishing our ARI enables us to give researchers access to a government regulator, to ensure that their research not only benefits the FSA but also helps ensure UK research spending can have a real-world impact and have a positive effect on the wider public.",
+                "tag": "p"
+            },
+            {
+                "content": "We have a great deal of research underway or already published related to scientific challenges we face and will be commissioning research in due course. However, addressing the challenges that we all face should not be a supplier-customer relationship. If you are planning or currently undertaking any research related to our 14 ARI please get in touch with us to let us know more about it.",
+                "tag": "p"
+            },
+            {
+                "content": "Dr Adam Cook, Pennaeth Strategaeth Gwyddoniaeth, Gallu ac Ymchwil, yn cyflwyno\u2019r diweddaraf am ein Meysydd o Ddiddordeb Ymchwil.",
+                "tag": "p"
+            },
+            {
+                "content": "Cenhadaeth sylfaenol yr Asiantaeth Safonau Bwyd (ASB), fel y nodir yn ein strategaeth, yw bwyd y gallwch ymddiried ynddo. Wrth gyflawni\u2019r genhadaeth hon rydym wedi datblygu saith egwyddor sy\u2019n llywio ein gwaith. Mae\u2019r rhain yn cynnwys cael ein harwain gan wyddoniaeth a thystiolaeth, bod yn dryloyw a gweithio gydag eraill. Gwnaethom drafod rhagor am y strategaeth a\u2019r hyn y mae\u2019n ei olygu i wyddoniaeth mewn blog blaenorol. Yn y blog hwnnw, fe wnaethom s\u00f4n y byddem yn cyhoeddi meysydd o ddiddordeb ymchwil diwygiedig, ac rwy\u2019n falch o ddweud ein bod bellach wedi gwneud hyn.",
+                "tag": "p"
+            },
+            {
+                "content": "Amcanion y meysydd o ddiddordeb ymchwil yw nodi\u2019r cwestiynau ymchwil yr ydym am eu hateb er mwyn sicrhau system fwyd mwy diogel. Cyhoeddodd yr ASB y set gyntaf o feysydd o ddiddordeb ymchwil yn 2017. Mae\u2019r set newydd yn adnewyddu ac yn adolygu ein blaenoriaethau sy\u2019n seiliedig ar system fwyd sy\u2019n datblygu. Mae hyn yn dangos ymrwymiad parhaus yr ASB i fynd i\u2019r afael ag argymhellion Adolygiad Gallu Gwyddoniaeth y Llywodraeth (SCR).",
+                "tag": "p"
+            },
+            {
+                "content": "Mae strategaeth ddiwygiedig yr ASB yn ehangu ar ein cenhadaeth i gefnogi bwyd sy\u2019n ddiogel, yn iachus ac yn gynaliadwy i bawb. Felly, yn ogystal \u00e2\u2019r them\u00e2u blaenorol sy\u2019n mynd i\u2019r afael \u00e2 safonau a diogelwch bwyd, mae ein meysydd o ddiddordeb ymchwil diwygiedig hefyd yn ystyried ffocws newydd, sef bwyd sy\u2019n iachach ac yn fwy cynaliadwy.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r materion sy\u2019n ymwneud \u00e2\u2019r bwyd rydym yn ei fwyta yn eang, ac felly hefyd y\u00a0 cwestiynau ymchwil yr ydym am fynd i\u2019r afael \u00e2 hwy. Mae ein meysydd o ddiddordeb ymchwil yn cynnwys 14 cwestiwn ymchwil sydd wedi\u2019u grwpio o dan bedair blaenoriaeth strategol:",
+                "tag": "p"
+            },
+            {
+                "content": "Sicrhau diogelwch a safonau bwyd a bwyd anifeiliaid \u2013 mae hyn yn rhan annatod o\u2019n r\u00f4l ac yn ystyried y risgiau i\u2019r cyhoedd trwy\u2019r bwyd y maent yn ei fwyta. Mae\u2019r risgiau hyn yn cynnwys peryglon cemegol, pathogenau a gludir gan fwyd, gorsensitifrwydd i fwyd, troseddau bwyd, bwydydd newydd a sut y gall gwahaniaethau mewn safonau bwyd ledled y byd effeithio ar fasnach a\u2019r bwyd sydd ar gael i ddefnyddwyr y Deyrnas Unedig (DU).",
+                "tag": "p"
+            },
+            {
+                "content": "Deall defnyddwyr a\u2019n cymdeithas ehangach \u2013 trwy ddeall beth mae defnyddwyr yn ei feddwl, yn ei deimlo, ac yn ei wneud, gallwn eu diogelu\u2019n well a chwarae ein rhan wrth gefnogi dewisiadau deiet diogel, iachus a chynaliadwy. Mae ein meysydd ymchwil yn y flaenoriaeth hon yn ymwneud \u00e2 sut mae defnyddwyr yn gweld ac yn deall y system fwyd, y r\u00f4l y mae ymddygiadau a chanfyddiadau yn ei chwarae mewn perthynas \u00e2 safonau bwyd ac effaith diffyg diogeledd bwyd (food insecurity) ar ddiogelwch bwyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Addasu i system fwyd a bwyd anifeiliaid y dyfodol \u2013 mae ein byd yn newid yn gyflym, ac mae angen i ni ragweld risgiau a chyfleoedd sy\u2019n codi, gan gynnwys y rheiny sy\u2019n gysylltiedig \u00e2 thechnolegau newydd, a sut y gallwn barhau i addasu iddynt wrth ddatblygu a gweithredu rheoliadau bwyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Mynd i\u2019r afael \u00e2 heriau mawr byd-eang \u2013 nid yw\u2019r system fwyd yn bodoli ar ei phen ei hun ac mae angen i ni ddeall y r\u00f4l y mae bwyd yn ei chwarae yn yr heriau ehangach hyn. Mae\u2019r heriau hyn yn cynnwys Ymwrthedd Gwrthficrobaidd (Antimicrobial Resistance), newid yn yr hinsawdd a symud i fyw\u2019n fwy cynaliadwy ac yn iach.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae\u2019r rhain yn gyfres eang o heriau, ac yn mynd y tu hwnt i\u2019r hyn y gall un sefydliad ei gyflawni. Felly rydym yn bwriadu eu defnyddio i alluogi a gwella ein cydweithrediadau, gan weithio gydag eraill sy\u2019n cynnal neu\u2019n ariannu ymchwil ar agweddau ar y system fwyd. Byddwn yn cydweithio ag adrannau eraill y llywodraeth, y gymuned academaidd, y diwydiant a defnyddwyr er mwyn sicrhau dealltwriaeth integredig o\u2019r system fwyd ac effaith ymyriadau.",
+                "tag": "p"
+            },
+            {
+                "content": "Drwy gynyddu ein cydweithrediadau, gallwn sicrhau ein bod yn parhau i gael mynediad at sylfaen dystiolaeth, sydd hyd yn oed yn fwy sylweddol, i lywio ein penderfyniadau, a hynny yn y modd mwyaf effeithiol o ran cost. Mae hyn yn rhoi sicrwydd, nid yn unig ein bod yn diogelu\u2019r cyhoedd, ond ein bod yn gwneud hynny gan sicrhau\u2019r gwerth gorau am arian i drethdalwyr.",
+                "tag": "p"
+            },
+            {
+                "content": "Y Fframwaith Rhagoriaeth Ymchwil (REF) yw system y DU ar gyfer asesu ansawdd ymchwil yn ein Sefydliadau Addysg Uwch ac mae\u2019n llywio\u2019r broses o ddyrannu cyllid ymchwil cyhoeddus iddynt. Mae\u2019r REF yn ystyried effaith ymchwil a wneir gan academyddion ar bolisi cyhoeddus. Mae cyhoeddi ein meysydd o ddiddordeb ymchwil yn ein galluogi i roi mynediad i ymchwilwyr at reoleiddiwr y llywodraeth, er mwyn sicrhau bod eu hymchwil o fudd i\u2019r ASB ond hefyd yn helpu i sicrhau y gall gwariant ymchwil y DU gael effaith go iawn yn y byd ac effaith gadarnhaol ar y cyhoedd ehangach.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae gennym lawer o waith ymchwil ar y gweill, neu ymchwil sydd eisoes wedi\u2019i gyhoeddi, sy\u2019n ymwneud \u00e2\u2019r heriau gwyddonol sy\u2019n ein hwynebu, a byddwn yn comisiynu ymchwil maes o law.\u00a0 Fodd bynnag, ni ddylai mynd i\u2019r afael \u00e2\u2019r heriau sy\u2019n ein hwynebu i gyd fod yn berthynas cyflenwr i gwsmer. Os ydych chi\u2019n cynllunio, neu\u2019n cynnal unrhyw ymchwil sy\u2019n ymwneud \u00e2\u2019n 14 o feysydd o ddiddordeb ymchwil ar hyn o bryd, cysylltwch \u00e2 ni i roi rhagor o wybodaeth.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2022/09/20/areas-of-research-interest-the-food-standard-agencys-research-priorities/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "We have updated our Areas of Research Interest (ARI) to include a focus on food that is healthier and more sustainable."
+    },
+    {
+        "title": "Taking double precautions ahead of winter",
+        "authors": [
+            "Deborah Sturdy"
+        ],
+        "posted_on": "2022-09-20T11:59:51",
+        "categories": [
+            "Care and support",
+            "coronavirus",
+            "Workforce"
+        ],
+        "content": [
+            {
+                "content": "Insulating against risk",
+                "tag": "h2"
+            },
+            {
+                "content": "You don\u2019t have to be a fan of Game of Thrones to know \u2018winter is coming\u2019. And while we might wish we had a few fire breathing dragons around to help with the heating, the issues we face as a health and care system require some real world resolve and practical solutions to match.",
+                "tag": "p"
+            },
+            {
+                "content": "Luckily, one of those practical solutions is already tried and tested: vaccination. When the first COVID-19 vaccine was approved for roll out two years ago, vulnerable residents and frontline care and health staff were rightly among the first cohorts to be offered the jab.",
+                "tag": "p"
+            },
+            {
+                "content": "I am so grateful many of you agreed to be vaccinated and continue to keep yourselves, your residents and colleagues safe.",
+                "tag": "p"
+            },
+            {
+                "content": "Even before coronavirus became an unwelcome and seemingly permanent guest at the feast of seasonal infections, we already had the annual flu surge to contend with. Although infections have been suppressed for the last couple of years, data emerging from Australia and other territories suggests the lifting of covid restrictions means flu and other illnesses are more likely to circulate and take hold among the general population.",
+                "tag": "p"
+            },
+            {
+                "content": "This may seem an obvious point. However, when you consider general immunity to influenza is likely to be weaker due to lack of exposure, as a workforce about to enter a period of intense service pressure, we simply cannot be complacent.",
+                "tag": "p"
+            },
+            {
+                "content": "Vaccinations underway",
+                "tag": "h2"
+            },
+            {
+                "content": "As I hope many of you are aware, care home residents and housebound people in England began receiving the COVID-19 booster from 5 September. Where possible and practical, the booster is being co-administered with the flu vaccine and I urge you to make sure you have both. Please book your vaccination appointments through the national booking service.",
+                "tag": "p"
+            },
+            {
+                "content": "I am sure your managers will work with you to make sure you have the time to keep your appointments. In tandem with maintenance of the highest standards of infection prevention and control (IPC), this really is the best way to maximise your chances of staying well, protecting others and not placing extra burden on your care teams.",
+                "tag": "p"
+            },
+            {
+                "content": "Having spent decades on the frontline in a variety of care settings and clinical spaces, I know as well as you that keeping contagion at bay is a battle fought on multiple fronts. I know you\u2019re up to the task, but your confidence will be boosted \u2013 literally - by the protective shield of vaccination.",
+                "tag": "p"
+            },
+            {
+                "content": "Everything you need to know",
+                "tag": "h2"
+            },
+            {
+                "content": "For those of you still concerned about getting your jabs, or wish to help spread the word by signposting to advice and further information, a suite of resources have been updated and made available here.",
+                "tag": "p"
+            },
+            {
+                "content": "The wider rollout has been gathering pace from earlier this month, prioritising the oldest and most vulnerable in our communities. The JCVI will doubtless advise who, when and why the next groups will be invited to have their vaccinations in due course. In the meantime, I know you are doing all you can to keep your residents, friends, loved ones and colleagues safe.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you for your strength and resilience over the last three years. Rest assured, we will do all we can to maintain your resilience and wellbeing in the months, years - and winters - to come.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialcare.blog.gov.uk/2022/09/20/taking-double-precautions-ahead-of-winter/",
+        "blog": "Social care",
+        "blog_link": "https://socialcare.blog.gov.uk",
+        "description": "You don\u2019t have to be a fan of Game of Thrones to know \u2018winter is coming\u2019. And while we might wish we had a few fire breathing dragons around to help with the heating, the issues we face as a health and care system require some real world resolve and practical solutions to match."
+    },
+    {
+        "title": "Saving the red squirrel: an update from the field",
+        "authors": [
+            "Sarah Beatham"
+        ],
+        "posted_on": "2022-09-20T11:39:36",
+        "categories": [
+            "Wildlife",
+            "Women in science"
+        ],
+        "content": [
+            {
+                "content": "The presence of the non-native grey squirrel carries a significant economic and environmental impact in the UK. In this blog we hear from APHA ecologist Sarah Beatham, as she updates on the progress made in her work developing the delivery of contraceptives to grey squirrels.",
+                "tag": "p"
+            },
+            {
+                "content": "Last year I wrote about the research the APHA Wildlife team are conducting on developing an oral contraceptive to control populations of grey squirrels in the UK, to reduce the damaging effects they have on the native red squirrel and trees. Since my last blog, we have made progress in developing a feeder that can prevent access by red squirrels while delivering a bait containing contraceptives to most grey squirrels.",
+                "tag": "p"
+            },
+            {
+                "content": "The story so far\u2026",
+                "tag": "h3"
+            },
+            {
+                "content": "In 2021, in two woodland areas in Northumberland, we carried out field trials to see if a heavy weight placed on the doors to feeders we designed, could be used to exclude red squirrels. We found that, despite their smaller size, the reds were tenacious enough and strong enough to open the heaviest doors tested and we concluded that we would need something more sophisticated to keep them out.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of the same trials, using colour sensors attached to the feeders, we also recorded red squirrel coat colour to compare with grey squirrel coat colour, to see if this could be used to select between the two. Although this method has a lot of potential, we concluded that a system based on colour would need a fair bit of development, to overcome the complexity of the data recorded.",
+                "tag": "p"
+            },
+            {
+                "content": "Promising results",
+                "tag": "h3"
+            },
+            {
+                "content": "In 2022, we decided to test whether body weight could be a better squirrel selection method.",
+                "tag": "p"
+            },
+            {
+                "content": "Barry Bickerton, one of the red squirrel practitioners I have been working with, designed a feeder that automatically records the body weight of a red squirrel, or anything else, that feeds from it. The results so far have been very promising. Thankfully, the red squirrels, unlike many humans, were not too sensitive about having their weight taken!",
+                "tag": "p"
+            },
+            {
+                "content": "During the Northumberland winter, we monitored these adapted feeders with remote cameras, recording 719 red squirrel weights from 20-30 individuals. The red squirrel body weights ranged between 200g and 319g, significantly lower than those we recorded for 50 grey squirrels (422-760g) in Yorkshire at the same time of year.",
+                "tag": "p"
+            },
+            {
+                "content": "To account for seasonal and geographical differences in weights, this summer we deployed the feeders in woods in Cumbria and the Yorkshire Dales and we will deploy them in more areas this winter.",
+                "tag": "p"
+            },
+            {
+                "content": "The Yorkshire Dales trial was recently featured in a\u00a0 positive BBC News report on the squirrel contraceptive project, which was well received and has increased support for the work.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you!",
+                "tag": "h3"
+            },
+            {
+                "content": "This has been a great study to be involved in, working in some beautiful areas of the UK with charismatic red squirrels and people who are both passionate and knowledgeable about red squirrel conservation.",
+                "tag": "p"
+            },
+            {
+                "content": "I would like to thank the many landowners, practitioners and volunteers who have helped with the study so far and to the UK Squirrel Accord for funding and supporting the work.",
+                "tag": "p"
+            },
+            {
+                "content": "How to report red squirrel sightings",
+                "tag": "h3"
+            },
+            {
+                "content": "If you are lucky enough to spot a red squirrel in one of the following key areas in the United Kingdom: Scotland, Northern Ireland, Northern England, and Northern and Mid Wales, please\u00a0report sightings to the UK Squirrel Accord. Or, for those happy to record other mammal sightings, you can download and use the\u00a0Mammal Society app. Doing so will help conservation efforts as well as important population monitoring.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2022/09/20/saving-the-red-squirrel/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "The presence of the non-native grey squirrel carries a significant economic and environmental impact in the UK. In this blog we hear from APHA ecologist Sarah Beatham, as she updates on the progress made in her work developing the delivery of contraceptives to grey squirrels."
+    },
+    {
+        "title": "Celebrating a decade of the Project Delivery Profession",
+        "authors": [
+            "jaychauhan"
+        ],
+        "posted_on": "2022-09-20T09:21:52",
+        "categories": [
+            "IPA Project Profession and Standards",
+            "Major projects",
+            "Project Delivery",
+            "Transformation"
+        ],
+        "content": [
+            {
+                "content": "Above, (from left to right) Nick Borwell, Fiona Spencer, Tim Banfield, and Karina Singh.",
+                "tag": "p"
+            },
+            {
+                "content": "The Project Delivery Profession has been in existence for a decade now. It\u2019s one of the youngest professions in government, and as you would expect it is the most delivery-focused. As the profession enters its second decade of development, a lineage of Heads of Profession (HoPs), Tim Banfield, Nick Borwell, Fiona Spencer and I, Karina Singh, met to reminisce about the changes they have led and built upon.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A couple of themes became very apparent as we talked - a strong sense of joint endeavour and community, spearheading real change that can take years to deliver, and systematically upskilling our people, is key to delivering our ambitions as a nation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our first HoP, Tim Banfield, joined us from the National Audit Office in 2013, in the recently formed Major Projects Authority (MPA). Having reviewed and assured major projects for years, he brought with him an understanding of the key ingredients of good delivery - strong sponsorship, energetic, empowered teams and structured capability development. During Tim\u2019s time, the accountability of Senior Responsible Owners (SROs) for major programmes was strengthened, making them directly accountable to Parliament. Tim also introduced the first ever Project Delivery Fast Stream and the Fast Track apprenticeship scheme. He started the work on codifying the capabilities needed for particular roles in delivering projects. Tim started making real progress when instead of trying to do things within the MPA, he turned his delivery model inside out and started co-creating with departments. Speaking of this work, Tim recollects \u201cthe progress we started making was phenomenal. The number who identified as project delivery professionals numbered about 10,000 by 2015.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Nick Borwell took over from Tim in 2016. Nick joined the then re-formed Infrastructure and Projects Academy (IPA) from Mott Macdonald, with extensive delivery experience from both the private and public sectors. Nick and his small team were immediately pulled into EU Exit transition planning, plugging significant skills gaps across the government by redeployment and upskilling. The team launched the first ever cross-departmental project delivery recruitment campaigns that successfully drew in significant numbers of new project delivery professionals to the Civil Service. At this time, he commissioned and ran the EU Exit Programme and Project Leadership (PPL) training. Building on this work, the team formalised the Project Delivery Capability Framework (PDCF), which articulates the competencies required for all project delivery roles. Nick also led the development of a new government online skills assessment tool, Government Online Skills Tool (GOST), that helps government project delivery professionals assess their skills against their current roles and ambitions in a structured way. Nick introduced the first version of the Government Project Delivery Standard and created the highly sought-after development programme \u2018Orchestrating Major Programmes\u2019, aimed at Director Generals and Chief Executive Officers overseeing significant portfolios of change in their departments. HM Treasury also agreed to send spending teams on major project development programmes run by the Major Projects Leadership Academy faculty. The departmental HoPs continued to be the engine for project delivery development over this period. By the end of Nick\u2019s tenure, the government project delivery profession adopted the symbol of a black swan as its emblem, in recognition of those improbable, but highly impactful events that experienced project delivery teams get adept at managing.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Fiona Spencer succeeded Nick in 2019, joining with extensive experience in managing complex projects, programmes and portfolios. As the Home Office\u2019s HoP, Fiona had worked closely with both Nick and Tim in the IPA to establish the fast stream, develop the standards agenda and shape the profession. Her time in the IPA saw a concerted effort to build on these foundations to develop a more systemic framework of standards and guidance for government project delivery, with a range of products co-created with the profession. These included guidance for SROs and the \u2018Art of Brilliance\u2019 SRO handbook, the Principles for Project Success, reissue of the Project Routemap series, development of the Government Project Delivery Framework and a range of other supporting guidance and tools. She also led creation of the Government Projects Academy, bringing together project delivery training, with Nick\u2019s investment in the GOST tool and the PDCF to establish a comprehensive toolkit for developing and externally validating the skills and experience of government project delivery professionals through the new government professional accreditation scheme.\u00a0 Fiona also introduced the first training programme for ministers sponsoring major projects and oversaw the introduction of Chief Project Delivery Officers in departments to advise Accounting Officers and Executive Boards, to help improve standards and build project delivery capability.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we enter the second decade of the profession, there is a lot to look forward to. Taking over from Fiona in July 2022, I have brought my expertise in project delivery, my experience in building diverse capabilities and my passion for making project delivery the profession of choice across government. As I consult on and finesse where I want to take the profession next, I can say I am proud to be building on such solid foundations, have a brilliant community around me to work with and of course a lineage of HoPs to turn to for advice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s to the next decade. ",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipa.blog.gov.uk/2022/09/20/celebrating-a-decade-of-the-project-delivery-profession/",
+        "blog": "Infrastructure and Projects Authority",
+        "blog_link": "https://ipa.blog.gov.uk",
+        "description": "Above, (from left to right) Nick Borwell, Fiona Spencer, Tim Banfield, and Karina Singh. The Project Delivery Profession has been in existence for a decade now. It\u2019s one of the youngest professions in government, and as you would expect it \u2026"
+    }
+]

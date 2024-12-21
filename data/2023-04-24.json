@@ -1,0 +1,2430 @@
+[
+    {
+        "title": "Google\u2019s Privacy Sandbox commitments: Implementation and what comes next",
+        "authors": [
+            "Chris Jenkins",
+            "Angela Nissyrios"
+        ],
+        "posted_on": "2023-04-28T14:00:03",
+        "categories": [
+            "Competition Act 1998 and cartels"
+        ],
+        "content": [
+            {
+                "content": "We have published our latest quarterly update on the implementation of Google\u2019s Privacy Sandbox commitments.",
+                "tag": "p"
+            },
+            {
+                "content": "Google plans to remove third-party cookies from its Chrome browser and replace them with new Privacy Sandbox tools.",
+                "tag": "p"
+            },
+            {
+                "content": "These changes aim to reduce the sharing of personal data in the online advertising ecosystem. We welcome efforts to improve privacy where this would benefit consumers. However, the changes need to be made in a way which does not lead to a competitive advantage for Google.",
+                "tag": "p"
+            },
+            {
+                "content": "Working with the Information Commissioner\u2019s Office (ICO) we accepted commitments from Google in February 2022, creating a legally-binding framework to address our competition concerns.",
+                "tag": "p"
+            },
+            {
+                "content": "Key features of the commitments:",
+                "tag": "h4"
+            },
+            {
+                "content": "What have we achieved so far? ",
+                "tag": "h2"
+            },
+            {
+                "content": "Since we accepted the commitments in February 2022, we have focused on three main priorities.",
+                "tag": "p"
+            },
+            {
+                "content": "Scrutinising design",
+                "tag": "h3"
+            },
+            {
+                "content": "We have scrutinised the design of Google\u2019s Privacy Sandbox tools and likely market impacts.\u00a0 A key priority is engaging with market participants to understand their concerns \u2013 we have spoken to more than 40 firms and stakeholder groups, and highlighted issues they have raised with us to Google.",
+                "tag": "p"
+            },
+            {
+                "content": "We have published regular quarterly update reports from Google , summarising stakeholder feedback and how this has been reflected in the Privacy Sandbox design. For example:",
+                "tag": "p"
+            },
+            {
+                "content": "Testing and trialling",
+                "tag": "h3"
+            },
+            {
+                "content": "We have been developing a framework for assessing the likely impacts of the Privacy Sandbox changes including through testing and trialling the new tools before third-party cookies are removed.",
+                "tag": "p"
+            },
+            {
+                "content": "In November last year, we published a summary of our proposed approach for Google and third parties to test the impact of the Privacy Sandbox through experiments.",
+                "tag": "p"
+            },
+            {
+                "content": "Since then we have been working with Google on its own tests of the Privacy Sandbox tools (for example the recent test of the Topics API) and speaking to third parties who have started testing.",
+                "tag": "p"
+            },
+            {
+                "content": "Monitoring compliance",
+                "tag": "h3"
+            },
+            {
+                "content": "We are monitoring Google\u2019s compliance with its obligation not to design or operate Chrome in a way that favours its own activities, and Google\u2019s approach to the restrictions on use of data within Google\u2019s ecosystem which will take effect once third-party cookies are removed.",
+                "tag": "p"
+            },
+            {
+                "content": "These parts of the commitments are overseen by an independent Monitoring Trustee, ING Bank, supported by a Technical Expert, S-RM.",
+                "tag": "p"
+            },
+            {
+                "content": "We receive quarterly reports from the Monitoring Trustee and have been working closely with them throughout the period to ensure there are robust compliance processes in place.",
+                "tag": "p"
+            },
+            {
+                "content": "What comes next? ",
+                "tag": "h2"
+            },
+            {
+                "content": "Google plans to remove third-party cookies from Chrome in the second half of 2024. We do not want to see the deadline extended further, provided competition concerns are addressed.",
+                "tag": "p"
+            },
+            {
+                "content": "We are aware that uncertainty over the timetable can deter investment by publishers and other market participants, not just in integrating the Privacy Sandbox tools but also in developing other alternatives to third-party cookies.",
+                "tag": "p"
+            },
+            {
+                "content": "Participating in tests",
+                "tag": "h3"
+            },
+            {
+                "content": "The main Privacy Sandbox tools, including Topics, FLEDGE (now Protected Audience API), and the Attribution Reporting APIs are due to move to General Availability in the summer.",
+                "tag": "p"
+            },
+            {
+                "content": "Between then and the middle of 2024, Google will carry out tests of the impacts of the Privacy Sandbox tools, working closely with us and the ICO.",
+                "tag": "p"
+            },
+            {
+                "content": "We will also take account of tests carried out by other market participants.\u00a0 We are keen to encourage firms to test the Privacy Sandbox tools and alternative technologies so that we can assess wider market impacts.",
+                "tag": "p"
+            },
+            {
+                "content": "We are not planning a single, industry-wide test. Instead, we want to facilitate testing environments and provide guidance on metrics that are relevant to us.",
+                "tag": "p"
+            },
+            {
+                "content": "We will publish further details on testing approaches over the coming months. In the meantime we encourage firms not to delay testing, and to get in touch if they would like to discuss their plans with us.",
+                "tag": "p"
+            },
+            {
+                "content": "Gathering views",
+                "tag": "h3"
+            },
+            {
+                "content": "Alongside this testing work, Google will need to demonstrate the effectiveness of its Privacy Sandbox against the criteria set out in the commitments.",
+                "tag": "p"
+            },
+            {
+                "content": "We will continue to gather views and evidence from market participants. The aim will be both to address concerns at the design stage, and build evidence of likely impacts of the removal of third-party cookies before the standstill period.",
+                "tag": "p"
+            },
+            {
+                "content": "Ongoing monitoring",
+                "tag": "h3"
+            },
+            {
+                "content": "Finally, we will be continuing to work with the Monitoring Trustee to ensure that there is a robust framework for ensuring compliance with the commitments.",
+                "tag": "p"
+            },
+            {
+                "content": "In all of this work our ambition is to be as open as possible with market participants, through our published quarterly updates, other publications and through talking directly to stakeholders.",
+                "tag": "p"
+            },
+            {
+                "content": "We always welcome any views and comments on the Privacy Sandbox process, to PrivacySandbox@cma.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://competitionandmarkets.blog.gov.uk/2023/04/28/googles-privacy-sandbox-commitments-implementation-and-what-comes-next/",
+        "blog": "Competition and Markets Authority",
+        "blog_link": "https://competitionandmarkets.blog.gov.uk",
+        "description": "We have published our latest quarterly update on the implementation of Google\u2019s Privacy Sandbox commitments. Google plans to remove third-party cookies from its Chrome browser and replace them with new Privacy Sandbox tools. These changes aim to reduce the sharing \u2026"
+    },
+    {
+        "title": "Ensuring Child Vaccine Safety at Every Step",
+        "authors": [
+            "Shiva Ramroop"
+        ],
+        "posted_on": "2023-04-28T13:06:00",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Shiva Ramroop, Medical Assessor at the Medicines and Healthcare products Regulatory Agency (MHRA), and paediatric specialist, discusses how we ensure the safety of vaccines for children in the UK as new survey data reported by Meningitis Now shows the majority of parents trust that vaccines are safe and effective.",
+                "tag": "p"
+            },
+            {
+                "content": "Following the COVID-19 pandemic, health systems have made great progress in developing safe and effective vaccines and delivering them to people across the world. However, while the world was focused on COVID, other viruses did not go away. This World Immunisation Week, the World Health Organisation (WHO) is collaborating with global partners for \u2018The Big Catch-up\u2019 to address what they estimate to be 30 years of vaccination progress lost due to the COVID-19 pandemic.",
+                "tag": "p"
+            },
+            {
+                "content": "In the UK, NHS data for the year 2021/22 showed that, for the first time since 2010/11, the 95% national vaccine coverage target for children under the age of five was not met. And this week, UKHSA\u2019s latest update showed an equally concerning drop of 7% in uptake for adolescents receiving the vaccine protecting against tetanus, diphtheria and polio in 2021/22 compared with the previous year.",
+                "tag": "p"
+            },
+            {
+                "content": "We are therefore encouraged by the findings from a recent survey reported by the Meningitis Now, finding that over 90% of parents of under-fives trust vaccines and believe they are safe and effective and three quarters of parents surveyed said they had heard or seen something that made them feel it was important to have their child vaccinated.",
+                "tag": "p"
+            },
+            {
+                "content": "From smallpox and flu to meningitis and HPV, vaccines have been the most effective way to boost immunity and fight viruses for generations.",
+                "tag": "p"
+            },
+            {
+                "content": "At the MHRA, we are committed to helping all parents and healthcare professionals have confidence that the vaccines being delivered in the UK are effective against disease and safe for use by the general public and the most vulnerable, including our children.",
+                "tag": "p"
+            },
+            {
+                "content": "We also know that children have unique needs that must be considered when assessing the safety of vaccines, such as whether the dose and route of administration are appropriate.",
+                "tag": "p"
+            },
+            {
+                "content": "Therefore, long before a vaccine reaches a child or is added to the routine childhood immunisation schedule, we are involved in testing and monitoring a vaccine\u2019s development.",
+                "tag": "p"
+            },
+            {
+                "content": "This starts when researchers apply to us for authorisation of their clinical trial, where we review how it will be conducted, whether it will provide useful information and whether we think it is safe to conduct. Over the past 5 years, we have assessed and authorised over 4,000 clinical trials in the UK, supporting innovation and ensuring the safety of the public is always front of mind.",
+                "tag": "p"
+            },
+            {
+                "content": "Throughout clinical trials, all side effects must be reported so we can assess the benefits and risks before making a recommendation for how the trial should proceed, if at all.",
+                "tag": "p"
+            },
+            {
+                "content": "At completion, we thoroughly review all the data from the lab and clinical trial results as well as manufacturing and quality controls. Once reviewed, we then seek advice from the independent Commission on Human Medicines, who also assess the data before advising the government on the safety, quality and effectiveness of any potential vaccine.",
+                "tag": "p"
+            },
+            {
+                "content": "Following these assessments, we provide reports including a Summary of Product Characteristics, giving healthcare professionals a description of a vaccine\u2019s properties and the conditions attached to its use. We also provide a Patient Information Leaflet on using the medicine safely and share a Public Assessment Report explaining how each product was assessed and authorised.",
+                "tag": "p"
+            },
+            {
+                "content": "After we approve a vaccine for children, we continue to monitor it. We test every single batch of vaccines in the UK to ensure that each one is exactly the same as the one we approved before it can go to the health centres that immunise your child.",
+                "tag": "p"
+            },
+            {
+                "content": "Our role doesn\u2019t stop there. We constantly collaborate with healthcare authorities around the world, sharing information to monitor a vaccine\u2019s effectiveness and remain vigilant for any potential safety concerns. Our most important partner in that, is you.",
+                "tag": "p"
+            },
+            {
+                "content": "The Yellow Card Reporting Scheme is our system that allows you to flag any suspected side effects with a medicine, vaccine or medical device. We encourage everyone to monitor any side effects and report them immediately to us. Reports are reviewed by our safety experts who analyse the risks and then make a recommendation for any necessary updates to the safety information or how the vaccine is used in children.",
+                "tag": "p"
+            },
+            {
+                "content": "Reporting by parents and adolescents through the Yellow Card Reporting Scheme, combined with reports from healthcare professionals and other data sources, means we are able to continuously monitor and review vaccine safety and act quickly to protect public health.",
+                "tag": "p"
+            },
+            {
+                "content": "As the WHO aims to deliver \u2018The Big Catch-up\u2019, the MHRA will continue working with researchers, healthcare authorities and the public to make sure safety and quality standards are met from trials to clinics, to ensure vaccine safety for our children at every step.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://medregs.blog.gov.uk/2023/04/28/ensuring-child-vaccine-safety-at-every-step/",
+        "blog": "MedRegs",
+        "blog_link": "https://medregs.blog.gov.uk",
+        "description": "Shiva Ramroop, Medical Assessor at the Medicines and Healthcare products Regulatory Agency (MHRA), and paediatric specialist, discusses how we ensure the safety of vaccines for children in the UK as new survey data reported by Meningitis Now shows the majority \u2026"
+    },
+    {
+        "title": "Exams in 2023 \u2013 everything you need to know",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2023-04-28T11:45:51",
+        "categories": [
+            "Exams and qualifications"
+        ],
+        "content": [
+            {
+                "content": "This article was originally published on 29 September 2022 and has been updated to reflect the latest information.",
+                "tag": "p"
+            },
+            {
+                "content": "Exams and formal assessments in England, including GCSE, AS level, A level and T Level, are going ahead as normal this summer.",
+                "tag": "p"
+            },
+            {
+                "content": "This is important to prepare students for college, university or employment in the best possible way, and to help them make choices about their future.",
+                "tag": "p"
+            },
+            {
+                "content": "In recognition of the disruption that students have experienced, support has been put in place for students taking GCSE and A level exams and assessments",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s what you need to know about exams in 2023.",
+                "tag": "p"
+            },
+            {
+                "content": "When are exams in 2023?",
+                "tag": "h3"
+            },
+            {
+                "content": "GCSE, AS level and A level exams will start on 15 May 2023 with the final exam due to take place on 27 June 2023.",
+                "tag": "p"
+            },
+            {
+                "content": "VTQ (vocational technical qualifications) exams and formal assessments have been taking place throughout the year and continue this term.",
+                "tag": "p"
+            },
+            {
+                "content": "T Level assessments began in February and will continue throughout this term.",
+                "tag": "p"
+            },
+            {
+                "content": "When are 2023 results days? ",
+                "tag": "h3"
+            },
+            {
+                "content": "AS level, A level and T Level results day will be on 17 August 2023.",
+                "tag": "p"
+            },
+            {
+                "content": "GCSE students will be able to find out their results on 24 August 2023.",
+                "tag": "p"
+            },
+            {
+                "content": "Students will receive results for level 3 VTQs on or before 17 August and will receive results for level 2 VTQs on or before 24 August 2023.",
+                "tag": "p"
+            },
+            {
+                "content": "What is the latest on exam arrangements for 2023?",
+                "tag": "h3"
+            },
+            {
+                "content": "AS level, A level and VTQ exams and assessments in England will return to pre-pandemic arrangements this summer. Most GCSE exams are also returning to normal.",
+                "tag": "p"
+            },
+            {
+                "content": "To acknowledge that students may still have experienced some disruption they will continue to be supported in GCSE maths, physics and combined science with formulae and equation sheets during exams.",
+                "tag": "p"
+            },
+            {
+                "content": "There will also be protection for students taking GCSEs, AS levels and A levels when it comes to grading, which we explain below.",
+                "tag": "p"
+            },
+            {
+                "content": "The GCSE, AS level and A level exam timetable has also been designed to space out exam papers in the same subject to give students more time to revise between papers than before the pandemic.",
+                "tag": "p"
+            },
+            {
+                "content": "Normal assessment arrangements remain in place for T Levels, for both core assessments and occupational specialism assessments.",
+                "tag": "p"
+            },
+            {
+                "content": "More information on what support is available, how to prepare for exams and who marks your work is available on Gov.uk and through the Joint Council for Qualifications.",
+                "tag": "p"
+            },
+            {
+                "content": "We are also ensuring that students continue to have access to high-quality tutoring, through the\u00a0National Tutoring Programme\u00a0and\u00a016-19 Tuition Fund.",
+                "tag": "p"
+            },
+            {
+                "content": "How will exams be graded?",
+                "tag": "h3"
+            },
+            {
+                "content": "In September 2021, when students began studying their GCSE and A level course, Ofqual set out a two year plan for grading.",
+                "tag": "p"
+            },
+            {
+                "content": "Last September, Ofqual confirmed\u00a0a return to pre-pandemic grading in 2023, with protection in place for GCSEs, AS and A levels against the impact of disruption, including from the COVID-19 pandemic.",
+                "tag": "p"
+            },
+            {
+                "content": "This\u00a0year grading will include an allowance for disruption so that overall results will be similar to those of 2019. So where national performance is found to be lower than it was prior to the\u00a0pandemic, senior examiners will make allowances when setting grade boundaries.",
+                "tag": "p"
+            },
+            {
+                "content": "Broadly speaking, this means that a student should be just as likely to achieve a particular grade this year as they would have been before the pandemic.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s important to remember there is no limit or cap on the number of students who can achieve each grade. Students will be awarded a grade that reflects their performance.",
+                "tag": "p"
+            },
+            {
+                "content": "As always, exams will be marked by independent examiners, using the published mark schemes. Grading happens after marking, and to ensure fairness is done year by year because the papers change from one year to the next.",
+                "tag": "p"
+            },
+            {
+                "content": "Ofqual makes sure it is no easier or harder to get a grade in a subject between one board and another.",
+                "tag": "p"
+            },
+            {
+                "content": "For more on grading and how it works see Ofqual's website.",
+                "tag": "p"
+            },
+            {
+                "content": "As VTQs use a range of different assessment approaches, awarding organisations will use suitable grading arrangements for the qualifications they offer. They will take into account the grading approach used in GCSE, AS level and A levels where appropriate.",
+                "tag": "p"
+            },
+            {
+                "content": "For T Levels, Ofqual has asked awarding organisations to be generous in the first years of awards for the Technical Qualification component. This is to reflect that they are new qualifications.",
+                "tag": "p"
+            },
+            {
+                "content": "This year will be the first year that Technical Qualifications in T Levels are based fully on exams, whereas some previously included teacher assessed grades in 2021. This means that the profile of results may look different in some subjects, and it will be important not to compare them with last year\u2019s results.",
+                "tag": "p"
+            },
+            {
+                "content": "Will this affect my university application?",
+                "tag": "h3"
+            },
+            {
+                "content": "Universities make sure their entry requirements and offers reflect the grades students are likely to receive in the summer.",
+                "tag": "p"
+            },
+            {
+                "content": "This is something they do every year and 2023 is no different. It means there will be plenty of high-quality options for students, and grading does not affect the number of places available.",
+                "tag": "p"
+            },
+            {
+                "content": "While grades play a big part in university applications, admissions teams also consider a broad range of information about a student, including their predicted grades, personal statement, teacher references or other assessments and interviews.",
+                "tag": "p"
+            },
+            {
+                "content": "Of course, every year there is competition for the top places or on the most popular courses but there will always be plenty of options for students at another university, through clearing.",
+                "tag": "p"
+            },
+            {
+                "content": "While higher education opens many doors for those who study at this level, it is by no means the right option for everyone, including those who achieve the highest grades.",
+                "tag": "p"
+            },
+            {
+                "content": "There are now many exciting options outside of a three-year degree, including technical and vocational courses, and degree apprenticeships.",
+                "tag": "p"
+            },
+            {
+                "content": "You can find out more about what options are available to you here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2023/04/28/exams-in-2023-everything-you-need-to-know/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "This article was originally published on 29 September 2022 and has been updated to reflect the latest information. Exams and formal assessments in England, including GCSE, AS level, A level and T Level, are going ahead as normal this summer. \u2026"
+    },
+    {
+        "title": "Calling Economists: Returners Programme at the CMA",
+        "authors": [
+            "Martina Prosperetti"
+        ],
+        "posted_on": "2023-04-28T10:35:09",
+        "categories": [
+            "Life at the CMA"
+        ],
+        "content": [
+            {
+                "content": "Are you an economist who's taken a career break from working as a professional economist and would like to get back into the swing of things?",
+                "tag": "p"
+            },
+            {
+                "content": "If so, the Econ Returners Programme, a new initiative from the Competition and Markets Authority (CMA), is the right place for you to start. We have exciting opportunities for professionals who have taken a career break and are keen to contribute with their knowledge, technical skills, and experience to a diverse and inclusive organisation dedicated to promoting competition for the benefit of consumers.",
+                "tag": "p"
+            },
+            {
+                "content": "The programme",
+                "tag": "h2"
+            },
+            {
+                "content": "The programme offers successful applicants a flexible fixed-term contract (minimum of 6 months and maximum of 12 months to be discussed at the offer stage) with the possibility of transitioning into a permanent role.",
+                "tag": "p"
+            },
+            {
+                "content": "With the opportunity to work flexibly across the full range of our projects, or to specialise in certain areas, you will be the lead economist on some cases, or lead on a particular area of analysis in more complex cases. You will be responsible for carrying out and/or supervising economic analysis relevant to the project, including presenting results and providing economic advice to colleagues across different professions and decision makers. You will have opportunities to manage and develop others, and to contribute to the development of the CMA\u2019s economics capability. You will be working in an environment with autonomy, responsibility and direct access to key decision makers.",
+                "tag": "p"
+            },
+            {
+                "content": "Our training opportunities",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the key features of the programme is the dedicated additional time you will have to carry out the extensive training we offer. You will have the initial and ongoing support of an experienced mentor and some dedicated time to pursue training opportunities to support your successful transition into the workplace. These include internal and external training courses, lunchtime seminars, practical skills sessions, career development talks, and reading and discussion groups. You will also be encouraged to access wider learning and development opportunities on \u2018soft skills\u2019 such as communication and leadership skills, and technology and digital skills (Stata and other programming software).",
+                "tag": "p"
+            },
+            {
+                "content": "This means you'll have plenty of opportunities to learn and grow, and you'll be able to build your confidence as you refresh your skills and stay up to date with the latest developments in the field.",
+                "tag": "p"
+            },
+            {
+                "content": "Flexibility",
+                "tag": "h2"
+            },
+            {
+                "content": "At the CMA we work flexibly in many ways. You will have the freedom and technology to enable you to work outside of the office for 60% of your contracted hours and you can choose to work from any of our offices (Belfast, Cardiff, Edinburgh, London or Manchester) for the remaining of your hours.",
+                "tag": "p"
+            },
+            {
+                "content": "You will also be able to choose among different working patterns (including part-time, compressed hours and flexible patterns) to allow you to work around any non-work commitments you may have. Many people in the economist team, and the wider CMA, have working patterns different from full-time.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, Martina says:",
+                "tag": "p"
+            },
+            {
+                "content": "Michal says:",
+                "tag": "p"
+            },
+            {
+                "content": "Inclusivity and culture",
+                "tag": "h2"
+            },
+            {
+                "content": "The CMA is a great place to work, and we thrive to create an inclusive and diverse environment where we value the contribution that everyone brings. We have a number of staff networks which support this culture, such as the Carers\u2019 network, Women network, Race network and VisAbility network. We also have a working parent buddy scheme, where working parents support new parents recently returned to work.",
+                "tag": "p"
+            },
+            {
+                "content": "Come and join us",
+                "tag": "h2"
+            },
+            {
+                "content": "If you are interested in the programme, find out more by visiting Civil Service Jobs and apply by 11.55pm on Tuesday 30th May 2023.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have questions or want more details, we are planning an online event where you will have the opportunity to hear from CMA staff who was hired through previous CMA returners programme, and other colleagues with current and previous flexible working arrangements about their experience of working at the CMA. At the event, we will also give some useful information on the recruitment and interview process, and you will have opportunity to ask questions.",
+                "tag": "p"
+            },
+            {
+                "content": "Sign up to the online event on the Eventbrite website. The event will be recorded and be available on the CMA\u2019s YouTube channel.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://competitionandmarkets.blog.gov.uk/2023/04/28/calling-economists-returners-programme-at-the-cma/",
+        "blog": "Competition and Markets Authority",
+        "blog_link": "https://competitionandmarkets.blog.gov.uk",
+        "description": "Are you an economist who's taken a career break from working as a professional economist and would like to get back into the swing of things? If so, the Econ Returners Programme, a new initiative from the Competition and Markets \u2026"
+    },
+    {
+        "title": "Off Mute Women in Cyber Podcast - Episode 2",
+        "authors": [
+            "Angela Fisher"
+        ],
+        "posted_on": "2023-04-28T10:15:15",
+        "categories": [
+            "Government Security",
+            "Guest blog",
+            "Security and Diversity",
+            "Women and security"
+        ],
+        "content": [
+            {
+                "content": "In this episode, the Off Mute team speak with Bella, who is Cyber Director at Government Security Group. Bella is one of the most senior women in government security, with a fascinating career history. She\u2019s always been interested in tech and has held a variety of roles in the public and private sector before her appointment as Cyber Director. She tells us about Government Security Group\u2019s plans to address diversity imbalances in the profession, her leadership journey and her experiences of motherhood.",
+                "tag": "p"
+            },
+            {
+                "content": "Episode 2 transcript (pdf)",
+                "tag": "h3"
+            },
+            {
+                "content": "The creators",
+                "tag": "h3"
+            },
+            {
+                "content": "Off Mute was created by three fast streamers (Sam, Sophie and Isabella). They are at the start of their careers in cyber security on the Digital, Data and Technology and cyber stream. Their aim is to inspire others and highlight the accessibility of the profession and its necessity in the modern world.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://securityprofession.blog.gov.uk/2023/04/28/off-mute-women-in-cyber-podcast-episode-2/",
+        "blog": "Government security",
+        "blog_link": "https://securityprofession.blog.gov.uk",
+        "description": "The second episode of Off Mute is now available to listen to. Off Mute is a series of 30-minute in-depth interviews with women working in the security profession. Those featured will come from a variety of backgrounds including senior leadership as well as those who are not from a cyber or technical background. The interviews will cover topics such as career progression, leadership, what a career in cyber entails, and what it\u2019s like to be a woman in the cyber sector. Tune-in whether you\u2019re already in the cyber profession or are interested in a career within it. Episodes will be published periodically on this blog."
+    },
+    {
+        "title": "Welcoming His Majesty The King to APHA Weybridge",
+        "authors": [
+            "Heather O'Sullivan"
+        ],
+        "posted_on": "2023-04-28T09:53:10",
+        "categories": [
+            "APHA news",
+            "Events"
+        ],
+        "content": [
+            {
+                "content": "We were delighted to welcome His Majesty King Charles III to APHA Weybridge on 9 March. His Majesty The King met with scientists and staff to learn more about their contribution to protecting animal, plant and bee health, including their work associated with the largest-ever outbreak of avian influenza in the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "APHA\u2019s world-leading scientists and staff have played a vital role in supporting avian influenza diagnostics and disease control. Their work to tackle the outbreak helps protect animal and public health but also supports our international trading relationships.",
+                "tag": "p"
+            },
+            {
+                "content": "His Majesty The King undertook a full tour of Weybridge joined by Geraint Richards from the Duchy of Cornwall estate, Edward Parsons from the Sandringham estate, and Paul Sedgewick from the Crown estate.",
+                "tag": "p"
+            },
+            {
+                "content": "Also in attendance were Lord Benyon, Minister for Biosecurity, Marine and Rural Affairs, David Holdsworth, our Chief Executive and Professor Ian Brown, our Director of Scientific Services.",
+                "tag": "p"
+            },
+            {
+                "content": "The tour involved briefings on some of most difficult animal health diseases the world faces including avian influenza and bovine TB as well as plant health challenges including invasive non-native species.",
+                "tag": "p"
+            },
+            {
+                "content": "His Majesty The King also visited dedicated specialist research laboratories to see genome mapping and a mosquito laboratory where he was shown APHA\u2019s vector-borne disease (VBD) programme.",
+                "tag": "p"
+            },
+            {
+                "content": "His Majesty The King spent a generous amount of time meeting and speaking with a wide range of staff from across the network of GB sites, including those working on the import of pets from Ukraine, before personally addressing all in attendance and via a live video link.",
+                "tag": "p"
+            },
+            {
+                "content": "Staff have shared their reflections on the historic visit:",
+                "tag": "h3"
+            },
+            {
+                "content": "We issued a press release to mark the announcement \u2013 read more here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2023/04/28/his-majesty-the-king-visits-apha-weybridge/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "His Majesty King Charles III visited APHA Weybridge on 9 March to congratulate scientists and staff for their work in combating the largest-ever avian influenza outbreak in the UK."
+    },
+    {
+        "title": "Leader's blog: Chris Howes - why I\u2019ll be at COP27",
+        "authors": [
+            "Chris Howes - Chief Digital and Information Officer"
+        ],
+        "posted_on": "2023-04-27T16:45:57",
+        "categories": [
+            "Sustainable ICT"
+        ],
+        "content": [
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://sustainableict.blog.gov.uk/2023/04/27/leaders-blog-chris-howes-why-ill-be-at-cop27/",
+        "blog": "UK Government Sustainable ICT",
+        "blog_link": "https://sustainableict.blog.gov.uk",
+        "description": "\u00a0 Defra Chief Digital and Information Officer Chris Howes looks ahead to COP27 and sets out the benefits of the new Government Digital Sustainability Alliance charter. Last year, at COP26, we hosted our ground-breaking Technology for Climate event in Glasgow. \u2026"
+    },
+    {
+        "title": "Improving support for children going to court as witnesses",
+        "authors": [
+            "Trudy Lewis"
+        ],
+        "posted_on": "2023-04-27T15:30:24",
+        "categories": [
+            "Court and tribunal reform",
+            "Crime",
+            "Digital services"
+        ],
+        "content": [
+            {
+                "content": "Every year hundreds of child witnesses pass through our court system.",
+                "tag": "p"
+            },
+            {
+                "content": "Courts can be an uncomfortable environment for children and giving evidence in a courtroom can cause nervousness and stress.",
+                "tag": "p"
+            },
+            {
+                "content": "The role of the Crime Live Service team is to reduce the burden felt by these witnesses, working with criminal justice partners to provide better support, tailored to their needs. That\u2019s one of the reasons introducing the ability to pre-record cross examination before the trial was so important.",
+                "tag": "p"
+            },
+            {
+                "content": "Under this process, a child will attend a court building in advance of the main trial, and be cross examined from a video witness room located in the non-public side of the building. The judge, lawyers, defendant, and any necessary court staff remain in the courtroom, as at trial. I explain more about how we use this service to protect the vulnerable in an earlier blog post.",
+                "tag": "p"
+            },
+            {
+                "content": "Our new animated video guides",
+                "tag": "h2"
+            },
+            {
+                "content": "Our partners work tirelessly to provide advice and support to help child witnesses give their best evidence in this situation. But our partners also told us children would benefit from more visual and engaging guidance, directed at their age group. Something they could review at their own pace.",
+                "tag": "p"
+            },
+            {
+                "content": "With this vital insight we have created two new animated video guides and published them on the HMCTS YouTube channel. One is aimed at children aged under 5 years old, and the other is aimed at slightly older children from 5 to 8 years old.",
+                "tag": "p"
+            },
+            {
+                "content": "We made these videos with input from professionals who support witnesses when giving evidence. They place the child front and centre, thinking about things from their perspective and creating something that works for them.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m immensely proud of the way in which criminal justice partners and support services have worked collaboratively to produce these videos. I\u2019m confident they will improve the experience and understanding of the court for many children in the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting our most vulnerable users",
+                "tag": "h2"
+            },
+            {
+                "content": "Thanks to the dedication and commitment of many people across the criminal justice system, there\u2019s been significant progress on pre-recorded cross examination over the last year.",
+                "tag": "p"
+            },
+            {
+                "content": "We completed roll out of the service to all Crown Courts in 2022. This met a pledge within the government\u2019s Rape Review Action Plan to help reduce the number of victims withdrawing from the process and to increase the number of cases reaching court.",
+                "tag": "p"
+            },
+            {
+                "content": "1,800 victims and witnesses used the pre-recorded cross examination process in the last 12 months, meaning over 4,300 people have used this service since 2020.",
+                "tag": "p"
+            },
+            {
+                "content": "We also launched a pilot of the pre-recorded cross examination service at Leeds Youth Court. This will help protect some of our most vulnerable on the most sensitive cases.",
+                "tag": "p"
+            },
+            {
+                "content": "And a recent government report into the experience of intimidated witnesses found that pre-recorded cross examination improved their experience. This delivers on plans promised in a previous blog post by my colleague Daniel Flury.",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping up the good work ",
+                "tag": "h2"
+            },
+            {
+                "content": "We continually review feedback about what can be done to support the most vulnerable users of our courts from across the justice system. We will continue to roll out additional support where needed and provide specialist, thorough and essential advice to our most vulnerable users.",
+                "tag": "p"
+            },
+            {
+                "content": "Across the criminal justice system we share a collective purpose and responsibility to support every person, none more so than the most vulnerable. We\u2019re at our best when working together, and I\u2019m confident that together we will continue to improve the experience for countless witnesses and improve justice for all.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2023/04/27/improving-support-for-children-going-to-court-as-witnesses/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "We\u2019ve launched animated video guides to support children going to court and improve the experience for the most vulnerable."
+    },
+    {
+        "title": "8 tips for a great Civil Service application",
+        "authors": [
+            "Simone King"
+        ],
+        "posted_on": "2023-04-27T15:29:28",
+        "categories": [
+            "Careers at OPSS",
+            "Civil Service Applications"
+        ],
+        "content": [
+            {
+                "content": "Our work makes a real difference to society, and we\u2019re looking for talented people who can put the public at the heart of what they do.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re recruiting for a number of roles in the Construction Products team, we also need Business Compliance Team Leaders, Business Compliance Officers, and more.",
+                "tag": "p"
+            },
+            {
+                "content": "Writing a Civil Service job application can be difficult if you\u2019re unfamiliar with Success Profiles and the application process \u2014 it\u2019s not only the content that\u2019s important, but also how the application is written.",
+                "tag": "p"
+            },
+            {
+                "content": "Here are eight top tips to overcome the most common mistakes people make when applying for jobs in the Civil Service.",
+                "tag": "p"
+            },
+            {
+                "content": "Need help with Success Profiles? You can find out more on this GOV.UK page.",
+                "tag": "p"
+            },
+            {
+                "content": "Click here to see our current vacancies.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://opss.blog.gov.uk/2023/04/27/8-tips-for-a-great-civil-service-application/",
+        "blog": "Office for Product Safety and Standards",
+        "blog_link": "https://opss.blog.gov.uk",
+        "description": "Our work makes a real difference to society, and we\u2019re looking for talented people who can put the public at the heart of what they do. We\u2019re recruiting for a number of roles in the Construction Products team, we also need Business Compliance Team Leaders, Business Compliance Officers, and more."
+    },
+    {
+        "title": "Coverage on South West Water\u2019s record \u00a32.1 million",
+        "authors": [
+            "Defra Press Office"
+        ],
+        "posted_on": "2023-04-27T15:28:22",
+        "categories": [
+            "Pollution",
+            "water"
+        ],
+        "content": [
+            {
+                "content": "There is coverage in multiple outlets including The Telegraph, The Times, BBC Spotlight, BBC News, i News and ITV, after South West Water (SWW) received a fine of more than \u00a32 million for a series of environmental offences across Devon and Cornwall.",
+                "tag": "p"
+            },
+            {
+                "content": "It is the largest ever fine imposed for environmental offences in the region.",
+                "tag": "p"
+            },
+            {
+                "content": "Handing down her sentence yesterday (26 April), District Judge Matson said \u2018incidents of pollution will no longer be tolerated by these courts\u2019 and fined the water company \u00a32,150,000.",
+                "tag": "p"
+            },
+            {
+                "content": "The company pleaded guilty to a total of 13 charges - spanning a period of four years - before Plymouth Magistrates\u2019 Court.",
+                "tag": "p"
+            },
+            {
+                "content": "Today\u2019s sentence \u2018shows the shareholders and management of South West Water the importance of compliance\u2019, said the judge.",
+                "tag": "p"
+            },
+            {
+                "content": "Water Minister Rebecca Pow, said:",
+                "tag": "p"
+            },
+            {
+                "content": "Alan Lovell, Chair of the Environment Agency, said:",
+                "tag": "p"
+            },
+            {
+                "content": "Clarissa Newell, Environment Agency environment manager for Devon and Cornwall, said:",
+                "tag": "p"
+            },
+            {
+                "content": "Follow Defra on Twitter, and sign up for email alerts here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://deframedia.blog.gov.uk/2023/04/27/coverage-on-south-west-waters-record-2-1-million/",
+        "blog": "Defra in the media",
+        "blog_link": "https://deframedia.blog.gov.uk",
+        "description": "Today, we are looking at coverage following South West Water\u2019s prosecution yesterday (26 April), which saw the company fined more than \u00a32 million. "
+    },
+    {
+        "title": "NHS workforce: Record numbers of doctors and nurses in NHS",
+        "authors": [
+            "DHSC Media Team"
+        ],
+        "posted_on": "2023-04-27T15:25:50",
+        "categories": [
+            "NHS",
+            "Workforce"
+        ],
+        "content": [
+            {
+                "content": "*Updated 27 April*",
+                "tag": "p"
+            },
+            {
+                "content": "There are a record number of doctors, nurses and other healthcare staff working in NHS trusts in England helping to deliver extra appointments, speed up diagnoses and tackle the Covid backlog.",
+                "tag": "p"
+            },
+            {
+                "content": "This is what you need to know.",
+                "tag": "p"
+            },
+            {
+                "content": "How many NHS staff do you have?",
+                "tag": "h2"
+            },
+            {
+                "content": "What about general practice?",
+                "tag": "h2"
+            },
+            {
+                "content": "What are you doing to recruit and retain more health workers?",
+                "tag": "h2"
+            },
+            {
+                "content": "What have you already done to boost the workforce?",
+                "tag": "h2"
+            },
+            {
+                "content": "We have:",
+                "tag": "p"
+            },
+            {
+                "content": "Where can I access the figures?",
+                "tag": "h2"
+            },
+            {
+                "content": "The latest figures for February 2023 can be found in full below:",
+                "tag": "p"
+            },
+            {
+                "content": "NHS workforce: NHS Workforce Statistics - January 2023 (Including selected provisional statistics for February 2023) - NDRS (digital.nhs.uk)",
+                "tag": "p"
+            },
+            {
+                "content": "General practice workforce: https://digital.nhs.uk/data-and-information/publications/statistical/general-and-personal-medical-services#latest-statistics",
+                "tag": "p"
+            },
+            {
+                "content": "Our latest statement",
+                "tag": "h2"
+            },
+            {
+                "content": "Health and Social Care Secretary, Steve Barclay, said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"Today\u2019s figures demonstrate the clear progress being made to train and recruit record numbers of staff across the NHS and in primary care. Cutting waiting lists is a key priority for this government and we are committed to ensuring we have the workforce in place to achieve that. ",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe will soon be publishing a long term workforce plan focused on recruiting and retraining more staff \u2013 to help tackle the backlogs and improve patient care. We will also be publishing a plan outlining further support for primary care.\u201d",
+                "tag": "p"
+            }
+        ],
+        "link": "https://healthmedia.blog.gov.uk/2023/04/27/nhs-workforce-record-numbers-of-doctors-and-nurses-in-nhs/",
+        "blog": "Department of Health and Social Care Media Centre",
+        "blog_link": "https://healthmedia.blog.gov.uk",
+        "description": "*Updated 27 April* There are a record number of doctors, nurses and other healthcare staff working in NHS trusts in England helping to deliver extra appointments, speed up diagnoses and tackle the Covid backlog. This is what you need to \u2026"
+    },
+    {
+        "title": "Girl Power: Why we chose a career in ICT",
+        "authors": [
+            "Fay Toward",
+            "Iris Faraway"
+        ],
+        "posted_on": "2023-04-27T14:00:01",
+        "categories": [
+            "Defra digital",
+            "Defra service design",
+            "Software tools"
+        ],
+        "content": [
+            {
+                "content": "On International Day of Girls in ICT we hear from two colleagues about why and how they have built a tech career in Defra.",
+                "tag": "p"
+            },
+            {
+                "content": "Before joining Defra, I was a waitress at a local pub, while completing A-Levels in Science, IT and Business Studies. ICT always interested me growing up, and I also knew I was good at it. I only needed to be shown how to do something once, and I could continue to replicate it over and over.",
+                "tag": "p"
+            },
+            {
+                "content": "At school ICT was always such a broad subject. From taking a desktop apart and putting it back together without breaking it, to designing animations; there was always something different and exciting so you could never get bored. I decided that\u2019s how I wanted my career to be.",
+                "tag": "p"
+            },
+            {
+                "content": "On the fast track",
+                "tag": "h2"
+            },
+            {
+                "content": "My route into Defra was through the Rural Payment Agency (RPA) Fast Track ICT apprentice scheme. I spent 3-6 months in different areas of the ICT department, learning how the whole department fits together and the range of roles that exist.",
+                "tag": "p"
+            },
+            {
+                "content": "Recently I have been working on some of the internal software that has been around for many years, some of which is no longer fit for purpose. Working with stakeholders to use modern approaches and meet the needs of the end user, speeding up the process and reducing the reliance on us as developers to complete tasks along the way.",
+                "tag": "p"
+            },
+            {
+                "content": "A helpful and friendly workplace takes you a long way",
+                "tag": "h2"
+            },
+            {
+                "content": "Everyone is very friendly here and will help you where they can, and if they can\u2019t, they will always try to help find someone who can. I also find that no two days are the same; there is always something different to be doing so I never get bored.",
+                "tag": "p"
+            },
+            {
+                "content": "When I\u2019m not working, I love to bake, mainly cakes and bread, but I\u2019m rubbish at the decorating part. I have a two-year-old German shepherd called Nala, who is crazy and always full of energy, so most of my evenings and weekends are spent trying to wear her out just enough that she will snuggle up on the sofa and let me watch a Disney film with no interruptions.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I'm a lead developer working on user-facing digital services. I mostly work with JavaScript and Ruby on Rails. I initially joined the Environment Agency, after applying for a developer position through the website, and then moved over to Defra not long after.",
+                "tag": "p"
+            },
+            {
+                "content": "Like a lot of my colleagues, I took a slightly roundabout route into development. I graduated with a degree in English Literature and eventually took a job as a content designer for a university.",
+                "tag": "p"
+            },
+            {
+                "content": "It was my first time working in a multi-disciplinary agile team and I loved the energy \u2013 but I also found myself constantly eyeing up what the developers in the team were doing and picking up whatever knowledge I could.",
+                "tag": "p"
+            },
+            {
+                "content": "So, when a junior developer position became available, I jumped on the chance to apply and haven't looked back. A year later, I applied for a job with the Environment Agency and joined Defra.",
+                "tag": "p"
+            },
+            {
+                "content": "Computers have always fascinated me",
+                "tag": "h2"
+            },
+            {
+                "content": "I was fascinated by computers and the internet from an early age and made my first website when I was 9 (a fan site for my favourite book series at the time), but I didn't have a lot of ICT education at school, and at first, I didn't think it was a professional option for me.",
+                "tag": "p"
+            },
+            {
+                "content": "I always thought you needed a Computer Science degree, but many developers I've worked with have very different backgrounds. There are lots of ways to get into the profession, and everyone brings their own unique skillset, which is great. I think my nine-year-old self would think it was pretty cool that I've made a career from the web.",
+                "tag": "p"
+            },
+            {
+                "content": "Defra has given me plenty of variety",
+                "tag": "h2"
+            },
+            {
+                "content": "Right now, I'm working on the \"Get a rod fishing licence\" service, but I've previously worked on several other services, including \"Register as a waste carrier\" and \"Register your waste exemptions\".",
+                "tag": "p"
+            },
+            {
+                "content": "Working for the public good is really important to me, and the most satisfying part of the job is managing to make it quicker and easier for people to get things done. Feedback from a happy user always makes my day!",
+                "tag": "p"
+            },
+            {
+                "content": "Outside of work, if it was up to me, I'd spend all my free time on the sofa with a book, but I have a very stubborn dog who gets me out for a walk every day, whatever the weather. I also like knitting and playing board games, and tabletop role-playing games such as Dungeons & Dragons.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2023/04/27/girl-power-why-we-chose-a-career-in-ict/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "On International Day of Girls in ICT we hear from two colleagues about why and how they have built a tech career in Defra."
+    },
+    {
+        "title": "Expanding the UK\u2019s Sovereign Sensor Network to the British Antarctic Territory and Beyond",
+        "authors": [
+            "UK Space Agency Space Surveillance and Tracking team"
+        ],
+        "posted_on": "2023-04-27T10:53:46",
+        "categories": [
+            "Space surveillance and tracking"
+        ],
+        "content": [
+            {
+                "content": "The UK Space Agency Space Surveillance and Tracking (SST) team is collaborating with the British Antarctic Survey (BAS) on a study exploring the feasibility of building and operating a satellite tracking sensor in the British Antarctic Territory (BAT).",
+                "tag": "p"
+            },
+            {
+                "content": "The Southernmost Sensor in the World",
+                "tag": "h2"
+            },
+            {
+                "content": "We depend on a global network of satellite tracking sensors to support space-based services essential to our everyday lives.",
+                "tag": "p"
+            },
+            {
+                "content": "These sensors are used to predict possible collisions between satellites and other space debris, as well as object fragmentation and re-entry. As our dependence grows, so does the requirement for accurate and reliable SST data.",
+                "tag": "p"
+            },
+            {
+                "content": "The first phase of a feasibility study completed in 2021 confirming that operating a sensor in the South Polar region is feasible, environmentally sustainable and would offer distinct SST value for UK registered satellites in Low Earth Orbit (LEO). Currently, the UK has 675 Resident Space Objects in LEO.",
+                "tag": "p"
+            },
+            {
+                "content": "There are currently no operational sensors deployed south of New Zealand. This project, therefore, is an opportunity for the UK Space Agency to make a significant global contribution to SST data by plugging a gap in the worldwide distribution of sensors.",
+                "tag": "p"
+            },
+            {
+                "content": "The White Horizon",
+                "tag": "h2"
+            },
+            {
+                "content": "There are stark similarities between the Antarctic continent and outer space. The ferocious in-hospitability, as well as the human fascination regarding their exploration and habitation is increasingly shadowed by humanity\u2019s negative impact on both environments.",
+                "tag": "p"
+            },
+            {
+                "content": "Ice mass loss in Antarctica is driven by global warming associated with human-driven climate change and increasing amounts of dangerous human-made space debris in Earth orbit threaten the future of these environments.",
+                "tag": "p"
+            },
+            {
+                "content": "The BAT is one of fourteen British Overseas Territories (OTs); while it is 4.2x larger than mainland UK, its population is limited to around 250 science and maintenance personnel, and a native population of emperor and Ad\u00e9lie penguins.",
+                "tag": "p"
+            },
+            {
+                "content": "The BAS is responsible for the administration of BAT, including the operation of two research stations (Halley & Rothera) and two field sites (Sky Blu & Fossil Bluff).",
+                "tag": "p"
+            },
+            {
+                "content": "Pole to Pole",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK is not the only country looking to enhance SST capability at Earth\u2019s poles. NASA are developing a satellite laser ranging (SLR) sensor station on the Norwegian island of Svalbard in the Arctic.",
+                "tag": "p"
+            },
+            {
+                "content": "The operation of sensors at both North and South poles will enable all-year round coverage to account for long periods of darkness and light, greatly improving SST data for polar orbiting satellites.",
+                "tag": "p"
+            },
+            {
+                "content": "From 2023, the SST team will conduct similar feasibility studies elsewhere and kick off the next phase of the BAS study.",
+                "tag": "p"
+            },
+            {
+                "content": "During this phase, we aim to provide final suitability and environmental assessments for both locations within BAT (Rothera and Sky Blu - identified as optimal sites in the Phase A study) and define which type of sensor is best suited for Antarctic deployment.",
+                "tag": "p"
+            },
+            {
+                "content": "Current estimates place the deployment of a sensor to Antarctica as achievable within a 3\u20134-year time frame.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://space.blog.gov.uk/2023/04/27/expanding-the-uks-sovereign-sensor-network-to-the-british-antarctic-territory-and-beyond/",
+        "blog": "UK Space Agency blog",
+        "blog_link": "https://space.blog.gov.uk",
+        "description": "The UK Space Agency Space Surveillance and Tracking team is collaborating with the British Antarctic Survey on a study exploring the feasibility of building and operating a satellite tracking sensor in the British Antarctic Territory."
+    },
+    {
+        "title": "What is a trustee and how to become one?",
+        "authors": [
+            "Becky Kelly"
+        ],
+        "posted_on": "2023-04-26T16:13:08",
+        "categories": [
+            "Trustees",
+            "Volunteering"
+        ],
+        "content": [
+            {
+                "content": "The Big Help Out aims to help people experience volunteering and make a difference in their communities. Getting On Board and the Charity Commission are here to support.",
+                "tag": "p"
+            },
+            {
+                "content": "Volunteering can be incredibly rewarding, and there are many ways in which you can devote some of your time to charitable work.",
+                "tag": "p"
+            },
+            {
+                "content": "Have you ever considered helping to run a charity? ",
+                "tag": "p"
+            },
+            {
+                "content": "Trustees are the volunteers who lead charities and decide how they are run. You may have heard them called board members or the board. Trusteeship is a great way of contributing to causes you care about and developing strategic and leadership skills at the same time.",
+                "tag": "p"
+            },
+            {
+                "content": "Anyone can be a trustee, regardless of how junior or senior you are in your career, whether you\u2019re in paid employment or not, regardless of your ethnicity, class, gender orientation, sexuality or any other difference. Boards thrive when they have a diversity of skills, knowledge, age and experience on their board.",
+                "tag": "p"
+            },
+            {
+                "content": "Did you know?",
+                "tag": "p"
+            },
+            {
+                "content": "Getting on Board also has other useful resources to support you. You can read their guide on How to Become a Trustee Guide, they also have a series of useful webinars, Getting on Board Events",
+                "tag": "p"
+            },
+            {
+                "content": "You can find hundreds of trustee vacancies listed on the Reach Volunteering search platform.",
+                "tag": "p"
+            },
+            {
+                "content": "The Charity Commission also has a series of guides to support you on your Trustee Journey. Advice and guidance for Charity Trustees \u2013 Getting the most out of being a charity trustee",
+                "tag": "p"
+            }
+        ],
+        "link": "https://charitycommission.blog.gov.uk/2023/04/26/what-is-a-trustee-and-how-to-become-one/",
+        "blog": "Charity Commission",
+        "blog_link": "https://charitycommission.blog.gov.uk",
+        "description": "The Big Help Out aims to help people experience volunteering and make a difference in their communities. Getting On Board and the Charity Commission are here to support. Volunteering can be incredibly rewarding, and there are many ways in which \u2026"
+    },
+    {
+        "title": "Taking a digital approach to the COVID infection survey",
+        "authors": [
+            "Martin O'Brian"
+        ],
+        "posted_on": "2023-04-26T14:38:44",
+        "categories": [
+            "COVID-19",
+            "Digital surveys",
+            "Ways of working"
+        ],
+        "content": [
+            {
+                "content": "The COVID-19 survey collected and analysed more than 11 million swab tests and 3 million blood tests from households, and in line with the changing path of the pandemic, the UK Health Security Agency (UKHSA) are currently reviewing their approach to COVID-19 surveillance to ensure it is proportionate and considered alongside other respiratory illnesses.",
+                "tag": "p"
+            },
+            {
+                "content": "With the survey data collection pausing whilst these discussions take place, we wanted to take the time to reflect on our digital approach and share some of the insights.",
+                "tag": "p"
+            },
+            {
+                "content": "Government needs to be able to respond quickly",
+                "tag": "h2"
+            },
+            {
+                "content": "Understanding more about the rate of COVID-19 infection in the general population, and the longer-term prevalence of antibodies, was a vital part of the Government response to the virus and to minimise the burden on NHS resources and personnel, tests were undertaken by nurses from the data science company IQVIA UK in participants\u2019 own homes. By mobilising a dedicated nationwide team of IQVIA nurses to undertake the COVID-19 tests in the community, frontline NHS staff continued to focus on providing care for those who need it.",
+                "tag": "p"
+            },
+            {
+                "content": "To provide a more flexible approach for participants and to help reduce costs to the taxpayer and the carbon footprint, we introduced a digital questionnaire in July 2022 and partnered with IQVIA again to deliver it as the ONS owned platforms on which we run our surveys, wouldn\u2019t have been ready in time.",
+                "tag": "p"
+            },
+            {
+                "content": "To expedite the delivery of the digital questionnaire, we took the decision use a proprietary platform and the successful beta service assessment acknowledged that \u201cthe service had to be quickly turned around with limited resources and the team has done a good job with producing a service that solves most of the challenges.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "As with most beta service assessments there are recommendations, and our quick response and turnaround largely reflected the comments.\u00a0 Being able to deliver the digital service quickly and successfully whilst acknowledging the things that can improved given more time, is a careful balance but one we managed to achieve.",
+                "tag": "p"
+            },
+            {
+                "content": "People will only choose to use government services digitally if they are more straightforward and convenient",
+                "tag": "h2"
+            },
+            {
+                "content": "At the outset of the survey, field workers would visit homes to gather the samples and then send them on for analysis and there were nearly 5 million unique home visits conducted across the nations.\u00a0\u00a0The digital questionnaire allowed participants to package their swab and blood kit samples and to take them to their nearest post box.\u00a0 To ensure the data continued to be representative, other options were available for those who were unable to take part online or by post.",
+                "tag": "p"
+            },
+            {
+                "content": "The data was recognised as \u201ccritical surveillance\u201d in line with the UK government\u2019s Living with COVID plan and so moving to the more flexible approach and reducing the burden on participants further helped to provide vital weekly data on virus positivity levels across the UK, details on new variants, the characteristics of those who had the virus and their antibody levels and details of long COVID prevalence.",
+                "tag": "p"
+            },
+            {
+                "content": "Defining what good looks like and identifying appropriate metrics is an important part of the government service standard as it indicates how well the service is solving the problem it\u2019s meant to solve.\u00a0 Some of the metrics captured that we think showed the successful move of the survey to digital include:",
+                "tag": "p"
+            },
+            {
+                "content": "To provide some context for the above metrics, the 2020 statistical release of internet use in the UK showed that 92% of adults were recent internet users and Census 2021 showed that nearly 90% of households in England and Wales responded on-line.\u00a0 Additionally, Census 2021 showed that 97% of households took part)",
+                "tag": "p"
+            },
+            {
+                "content": "Effective contract management is essential to drive value for money and deliver successful outcomes",
+                "tag": "h2"
+            },
+            {
+                "content": "Ensuring all stakeholders were working from the same information and towards the same outcome was most important. Communication is at the heart of any successful project and programme, and this was especially the case for the digital elements of the survey where technical, legal, commercial, and statistical language all combined, and so getting this right enabled us to make good decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "Collaboration, openness, transparency and flexibility was also important, and we found the following to be particularly helpful in delivering and incentivising the desired behaviours and outcomes:",
+                "tag": "p"
+            },
+            {
+                "content": "Open, interoperable, and visible data is a must",
+                "tag": "h2"
+            },
+            {
+                "content": "The ability to exchange and share information and data between the ONS, IQVIA, UKHSA and the University of Oxford whilst protecting users\u2019 privacy, was essential to the success of the survey as it empowered others to make timely and informed analysis and decisions for the public good.",
+                "tag": "p"
+            },
+            {
+                "content": "Data was shared securely using consistent methods and data standards, enabling us to collect, ingest and analyse large amounts of data and publish statistical releases weekly. \u00a0(IQVIA were securely transferring around 725,000 rows of participant response data daily to the ONS.)",
+                "tag": "p"
+            },
+            {
+                "content": "In December 2020 ONS launched a new interactive tool to allow people to access a range of COVID-19 data, graphs and data visualisations in one place and it frequently became the most visited ONS webpage.\u00a0 It gave people an easy way to navigate all of the data and more - important visualisations and narrative on the level of the virus in the community, the number of deaths involving the virus, and its impact on individuals and society. Allowing users to drill down to get more information on a chosen theme or topic - for example looking at the percentage of people testing positive for COVID-19 by region, the number of deaths involving the coronavirus by age group, or preventative measures in different areas of England.",
+                "tag": "p"
+            },
+            {
+                "content": "New ways of presenting data were also developed to communicate complex models, including interactive charts that showed progression over time to be displayed (some of these charts were used in televised briefings on national television).",
+                "tag": "p"
+            },
+            {
+                "content": "Users expect to be able to use online services 24 hours a day, 365 days a year",
+                "tag": "h2"
+            },
+            {
+                "content": "Many users have limited choice over how and when they access government services. For example, they may be a carer who only has time to complete a survey in the early hours of the morning. If a survey is unavailable or slow, it can mean those users won\u2019t be able to submit their survey and the statistics we produce won\u2019t be truly representative.\u00a0 It was essential that the digital questionnaire maximised the uptime and speed of response, could be deployed regularly when changes were introduced, and had appropriate monitoring in place.\u00a0 Making the survey available for 24 hours a day, 7 days a week helped to get the 90% response.",
+                "tag": "p"
+            },
+            {
+                "content": "Some of the notable metrics we captured from August 2022 were:",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?",
+                "tag": "h2"
+            },
+            {
+                "content": "Recognising that we need to respond to any future surveillance or survey data collection that may be required at short notice, we\u2019ve been further developing our ONS platforms to be able to quickly meet the needs and expectations of our users.\u00a0 The platform we use for business surveys has been enhanced to collect health and population data and we\u2019ve been",
+                "tag": "p"
+            },
+            {
+                "content": "The CRIS survey aims to understand and manage COVID-19 and other respiratory infections in the long term and is mainly online.\u00a0 Swabs and blood samples aren\u2019t being collected and telephone appointments are available for help to complete it if required.",
+                "tag": "p"
+            },
+            {
+                "content": "We sent invitations to a subset of the COVID infection survey respondents in early April and we\u2019re getting ready to send the survey to more respondents in the coming weeks and months.\u00a0 The data from the study are important in helping us understand the impact of COVID-19, long COVID and other respiratory infections on the lives of individuals, the community and on health services and how they are changing.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://onsdigital.blog.gov.uk/2023/04/26/taking-a-digital-approach-to-the-covid-infection-survey/",
+        "blog": "ONS Digital, Data and Technology",
+        "blog_link": "https://onsdigital.blog.gov.uk",
+        "description": "Set up in April 2020, the COVID-19 Infection Survey, led by the Office for National Statistics in partnership with the University of Oxford and the UK Health Security Agency, tracked the rates of COVID-19 infections, reinfections, and levels of immunity in the general population.  This blog shares our digital approach, some of the insights, and what we've been doing to respond to future surveillance or survey data collection requests that may be required at short notice."
+    },
+    {
+        "title": "ERS \u2013 A tale of two trainers",
+        "authors": [
+            "Mark Jaffe",
+            "Mike Desmond"
+        ],
+        "posted_on": "2023-04-26T14:28:01",
+        "categories": [
+            "Learning to ride",
+            "Motorcycle test",
+            "Motorcycle trainers"
+        ],
+        "content": [
+            {
+                "content": "As part of our commitment to a lifetime of safe riding, we want to encourage people who have passed their full test to keep improving their riding skills and knowledge.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "DVSA\u2019s Enhanced Rider Scheme (ERS) is a great way for riders to continue the develop of their skills in environments they don\u2019t ride in day to day.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mark Jaffe - Phoenix Motorcycle Training\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Mark Jaffe of Phoenix Motorcycle Training has been delivering ERS training in London for over a decade. The school actively promotes ERS training to pupils as a gateway into developing new skills. He says:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Many of Mark\u2019s ERS pupils are familiar with the challenges of riding safely in a city, however, they\u2019re not so confident riding in unfamiliar surroundings.",
+                "tag": "p"
+            },
+            {
+                "content": "To change this, Mark takes them out on training rides to Kent and Sussex to develop the forward vision, planning skills and motorcycle control they need to ride safely and successfully on narrow, twisting country roads. He says:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mark and his colleagues at Phoenix do the ERS course once a year themselves as a refresher. They find that teaching the wide variety of skills involved in ERS helps keeps their own skills and motivation fresh.",
+                "tag": "p"
+            },
+            {
+                "content": "Mike Desmond - Practical Bike Training\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Practical Bike Training, based in Morecambe, Lancashire close to the Lake District and the Pennines. The business has been running for 13 years.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mike Desmond has been a motorcycle trainer for three years and is in his second year of delivering ERS training. Like Mark, he actively promotes ERS to pupils as a way of developing skills that will enable them to ride safely and with confidence on the most challenging of roads. He says:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For Mike, the small group format of ERS training enables him to tailor training to suit his pupils\u2019 needs. He finds it a particularly effective way to build the skills that will enable them to enjoy the thrills of riding a high-performance bike without compromising safety:",
+                "tag": "p"
+            },
+            {
+                "content": "He believes that the skills people learn in ERS training build their confidence to take on new challenges successfully. He also finds that it deepens their enjoyment and appreciation of riding. Like Mark, he feels he gets as much out of teaching ERS as his pupils:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can find out more about ERS and how to become an ERS trainer here:\u00a0 Take the DVSA enhanced rider scheme assessment and training - GOV.UK (www.gov.uk)\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://despatch.blog.gov.uk/2023/04/26/ers-a-tale-of-two-trainers/",
+        "blog": "Despatch for driver and rider trainers",
+        "blog_link": "https://despatch.blog.gov.uk",
+        "description": "Mark Jaffe and Mike Desmond, both Enhanced Rider Scheme (ERS) trainers, discuss delivering ERS training, the benefits the scheme brings to riders skills and how it improves their pupils confidence. As part of our commitment to a lifetime of safe riding, we want to encourage people who have passed their full test to keep improving their riding skills and knowledge.\u00a0ERS is a great way for riders to continue the develop of their skills in environments they don\u2019t ride in day to day."
+    },
+    {
+        "title": "STEM CHALLENGE: 2023",
+        "authors": [
+            "gseprofession"
+        ],
+        "posted_on": "2023-04-26T13:34:00",
+        "categories": [
+            "Blog Series",
+            "Outreach"
+        ],
+        "content": [
+            {
+                "content": "A schools outreach initiative aiming to inspire secondary school students to get involved in science and policy making",
+                "tag": "p"
+            },
+            {
+                "content": "The GSE Profession, in collaboration with Civil Service Fast Streamers, is proud to announce the launch of the STEM Challenge 2023. Running for its second year, the Challenge encourages secondary school students to act as policy makers tackling Net Zero, aiming to communicate the real-world relevance of STEM and to demonstrate that STEM careers are about much more than just working in a lab. The Challenge has been designed to align with the Government\u2019s Levelling Up agenda and ultimately reduce the disparity in STEM uptake across the country.",
+                "tag": "p"
+            },
+            {
+                "content": "This year, we are asking teams of four to six secondary school students to explore their vision of a carbon neutral day in 2050, focusing on creative scientific solutions to one of the following sustainability-related topics:",
+                "tag": "p"
+            },
+            {
+                "content": "Benefits of participating",
+                "tag": "p"
+            },
+            {
+                "content": "Students will submit a report or poster to be judged by a panel of cross-government civil servants, including policy experts. Participating students will receive certificates and careers resources about STEM in Government, while top entries will receive prizes such as Amazon vouchers and site visits!",
+                "tag": "p"
+            },
+            {
+                "content": "The Challenge will target Good Career Guidance Gatsby Benchmarks 4 and 5 and will develop key skills in the Skills Building Partnership Framework, including problem solving, creativity, teamwork and writing skills.",
+                "tag": "p"
+            },
+            {
+                "content": "Schools from the following regions are participating in the Challenge:",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any questions about the STEM challenge or would like to sign your school up, please get in touch with stemchallenge@faststream.civilservice.gov.uk and use the subject line \u2018STEM Challenge Enquiries\u2019 when contacting us. We are accepting school sign-ups until 26th May 2023 and entry submissions until 7th July 2023.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Resource Pack Downloads",
+                "tag": "p"
+            },
+            {
+                "content": "Student pack 2023 ",
+                "tag": "p"
+            },
+            {
+                "content": "Teacher pack 2023",
+                "tag": "p"
+            },
+            {
+                "content": "Sign up to the GSE blog to receive an email when a new blog is published and keep up to date with the work of the GSE Profession.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://governmentscienceandengineering.blog.gov.uk/2023/04/26/stem-challenge-2023/",
+        "blog": "Government Science and Engineering",
+        "blog_link": "https://governmentscienceandengineering.blog.gov.uk",
+        "description": "A schools outreach initiative aiming to inspire secondary school students to get involved in science and policy making The GSE Profession, in collaboration with Civil Service Fast Streamers, is proud to announce the launch of the STEM Challenge 2023. Running \u2026"
+    },
+    {
+        "title": "Coverage on pledge to enshrine storm overflow target in law",
+        "authors": [
+            "Defra Press Office"
+        ],
+        "posted_on": "2023-04-26T11:27:08",
+        "categories": [
+            "water"
+        ],
+        "content": [
+            {
+                "content": "There is coverage in multiple outlets including the Financial Times, BBC Online, Sky News, the Telegraph, the Times, the Express, i News, and City AM following yesterday\u2019s announcement (Tuesday 25 April) that the government\u2019s target to reduce storm overflows will be enshrined in law.",
+                "tag": "p"
+            },
+            {
+                "content": "The Storm Overflows Discharge Reduction Plan, published in August 2022, set out stringent targets to protect people and the environment, backed up by up to \u00a356 billion capital investment \u2013 the largest infrastructure programme in water company history.",
+                "tag": "p"
+            },
+            {
+                "content": "The government has now confirmed that it will enshrine the Plan further in law through the Environment Act 2021. Its costed and credible target to reduce storm overflows will be made legally binding, in line with the Plan.",
+                "tag": "p"
+            },
+            {
+                "content": "This will be backed by existing separate interim milestones for bathing waters and high priority nature sites.",
+                "tag": "p"
+            },
+            {
+                "content": "Environment Secretary Th\u00e9r\u00e8se Coffey said:",
+                "tag": "p"
+            },
+            {
+                "content": "Follow Defra on Twitter, and\u00a0sign up for email alerts here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://deframedia.blog.gov.uk/2023/04/26/coverage-on-pledge-to-enshrine-storm-overflow-target-in-law/",
+        "blog": "Defra in the media",
+        "blog_link": "https://deframedia.blog.gov.uk",
+        "description": "Today, we are looking at coverage following our announcement that the government's target to reduce storm overflows will be enshrined in law."
+    },
+    {
+        "title": "Toddle Born Wild: \u2018big innovation for little hands\u2019",
+        "authors": [
+            "Jenny Manders"
+        ],
+        "posted_on": "2023-04-26T11:12:00",
+        "categories": [
+            "Business",
+            "IP",
+            "Trade marks"
+        ],
+        "content": [
+            {
+                "content": "Entrepreneur Hannah Saunders\u00a0pitched her range of child-friendly, eco-friendly, ethically-sourced skincare products to the Dragons' Den investors during Series 19 in March 2022. Her presentation attracted high praise from the Dragons, and gained the support of investors Deborah Meaden and Steven Bartlett, which she says really helped her on her way.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We spoke to Hannah about her\u00a0success as a woman in business and how registering her IP\u00a0has helped her protect and add value to her brand, \u2018Toddle Born Wild\u2019. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What was the inspiration for Toddle Born Wild?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "After being in the RAF for 9 years and loving the travel and adventure, Hannah became a mum in 2014. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cI was planning on leaving the British Armed Forces as I didn\u2019t want to have to deploy away from him for six months at a time. I\u2019m quite an outdoorsy person and really wanted my children to come on adventures with me. However, my son would get windburned cheeks and his lips would get chapped from the cold air. I couldn\u2019t find any products on the market for children under 3 that could help. So, I decided to make my own. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": " \u201cThings all came together at the right time.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How did Toddle start?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "\"I started making lip balm in my kitchen, then sunscreen followed pretty soon after that. I\u00a0looked at different routes to market, selling online to consumers initially.\u00a0To attract investment I knew I needed a much broader range and I needed to be able to demonstrate growth, so that's when we brought in the hand gel.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Hannah\u2019s business now produces a range of 15 natural eco-friendly skincare products for children, from dribble-proof lip balm to probiotic hand gel. Vegan and natural and refillable, sustainability is important too. \u201cWe reduce our carbon footprint by using UK businesses for our ingredients, formulations and packaging,\u201d she told us.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What intellectual property do you have, and how have you protected it? \u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Hannah\u00a0knew early on that intellectual property protection needed to be a fundamental part of her business plan. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cI attended an IP workshop to get some practical business advice. I know that IP is sometimes overlooked, and in terms of protecting yourself commercially, it\u2019s so important to protect your brand when you\u2019ve spent all that time, money and effort building up customer loyalty. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cIt just really made me think that, you know, we are being quite innovative and different with what we're doing. As these products become more and more popular, I really do want to try and protect them, and protect ourselves.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe've got trade marks for our Toddle Dribble-proof Lip and Cheek Balm, the bear logo along with the name Toddle, the Happy Gut Hand Gel. Then we've got registered designs for\u00a0our Toddle design, and for our magic mist bottle, which has stood us in really good stead. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe also have trade secrets. We ask everyone to sign a non-disclosure agreement (NDA). The ingredients list tells you what\u2019s in our products, but it\u2019s actually quite hard to replicate somebody else\u2019s product if you don't know the percentages. We guard those well.\u201d \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Have you got any IP advice for entrepreneurs just starting out?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "\u201cI think IP is sometimes overlooked. Two or three times now the registered designs or trade marks we have in place have protected us from losing a lot of money. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cIf you are going to build a successful company, it's going to make money. People are going to start to look at you, and in some cases, they're going to copy you. So definitely, protect your IP.\u201d \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What advice do you have for women in business? \u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "\u201cFrom my own experience, we do need to be more confident. Men are really good at backing themselves, even when they may not be the best prepared in terms of cash flow forecast and business plan. My confidence comes from being well prepared - I will have worked on my pitch and my business plan for many months and have a meticulous cash flow forecast for the next three years.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cYou can\u2019t be what you can\u2019t see\u201d\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "\u201cThe thing is, over the last 50 years, as markets have deregulated, the start-up landscape has mainly been driven by men. As women, you can't be what you can't see. Women haven\u2019t had the role models, the networks. Luckily that is all changing.\"",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cI do think women need a mindset change though. While there is definitely room for humility, we just need to understand that we belong in the room, we're qualified to be in that room and needn\u2019t\u00a0feel uncomfortable asking people for money. Investors want to give you money. They want to see returns. They want to work with an interesting range of people.\u201d \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And your thoughts on getting where you are today?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "There's a lot to learn. I think one of the best assets that I have is my ability not to have any ego, but just do what's best for the business. I've always got my ears open and I'm very fortunate to have some incredible mentors that give me great advice. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reflecting on where I am now, I can say that I'm a successful business-woman. It's all a bit crazy when I stop to think about it, but absolutely brilliant!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can hear more from Hannah when she tells us all about her Dragons' Den experience in next week's blog.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dragonsden.blog.gov.uk/2023/04/26/toddle-born-wild-big-innovation-for-little-hands/",
+        "blog": "Dragons' Den: the Intellectual Property blog",
+        "blog_link": "https://dragonsden.blog.gov.uk",
+        "description": "Dragons' Den entrepreneur Hannah Saunders, creator of Toddle Born Wild, a range of ethically-sourced, eco-friendly products for children, tells us how registering her IP has helped her protect and grow her business. "
+    },
+    {
+        "title": "Managing intellectual property and confidentiality - GOTT's top 5 takeaways",
+        "authors": [
+            "riannastone1"
+        ],
+        "posted_on": "2023-04-25T13:47:03",
+        "categories": [
+            "Intellectual Property",
+            "Policy"
+        ],
+        "content": [
+            {
+                "content": "On 26th April, the GOTT team is celebrating World Intellectual Property Day. This day is about raising awareness of patents, copyright, trade marks and designs.",
+                "tag": "p"
+            },
+            {
+                "content": "GOTT is working to support innovators across the public sector understand how they can protect their inventions, ideas and other knowledge assets.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve pulled together the top five takeaways from our guide \u2018Managing Intellectual Property and Confidentiality\u2019",
+                "tag": "p"
+            },
+            {
+                "content": "If you work with knowledge assets (KAs), or intangible assets, you might want to find out more about the basics of intellectual property (IP), including how it\u2019s owned, protected and how it can be commercialised.",
+                "tag": "p"
+            },
+            {
+                "content": "We are surrounded by IP every day!",
+                "tag": "h2"
+            },
+            {
+                "content": "Topping our list is that you might not be aware of the valuable IP that you use every day, or that is being created within your team.",
+                "tag": "p"
+            },
+            {
+                "content": "Put simply, IP is a creation of the mind, it\u2019s all around us and can be a valuable public asset. It could be a database that you\u2019ve created, a new technology you\u2019ve developed, a new way of doing something, a creative work such as your department\u2019s logo, or content in a report or booklet.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "IP is central to innovation ",
+                "tag": "h2"
+            },
+            {
+                "content": "IP can be protected, for example through patents, trade marks, design rights or copyright. The security or protection afforded by IP rights stimulates innovation, as it gives Government, researchers, inventors and businesses the confidence to invest in doing something new.",
+                "tag": "p"
+            },
+            {
+                "content": "The creation of new and innovative products often requires a significant investment in time, money or expertise and creators and inventors want assurance that they can reap the benefits of their hard work.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s important to manage IP ",
+                "tag": "h2"
+            },
+            {
+                "content": "IP can be a valuable asset so it\u2019s vital that it is properly identified and managed. If IP isn\u2019t protected, there is no way to stop someone else benefitting from the innovation \u2013 or controlling the process of how the IP is developed, or by whom. This could mean that benefits for the UK are missed.",
+                "tag": "p"
+            },
+            {
+                "content": "The process of protecting IP depends on the type of IP which has been created. The GOTT guide to IP provides practical tips on what to do to reap the benefits for different types of IP.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Consider confidentiality ",
+                "tag": "h2"
+            },
+            {
+                "content": "If the created IP could be patentable, or registered as a design, details about it must not have been disclosed anywhere in the world before seeking to protect the IP.",
+                "tag": "p"
+            },
+            {
+                "content": "The best way to keep something confidential is not to disclose it in the first place. But there will be some situations where disclosure may be protected through a confidentiality agreement, often called a Non-Disclosure Agreement (NDA). Play it safe and seek advice from a legal expert in your organisation or the GOTT team.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The GOTT team is here to help you keep innovating!",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019re here to support the better management, development and exploitation of knowledge assets and IP held across UK central government and its public bodies.",
+                "tag": "p"
+            },
+            {
+                "content": "So if you require further advice on managing IP in relation to Knowledge Asset Management or need advice for an invention you can contact us by email at: KAguidance@beis.gov.uk or find more online resources by visiting the Intellectual Property Office (IPO) website.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Further guidance",
+                "tag": "h3"
+            },
+            {
+                "content": "For more practical advice, visit The Rose Book: Guidance on Knowledge Asset Management in Government",
+                "tag": "p"
+            },
+            {
+                "content": "Other useful sources:",
+                "tag": "h3"
+            }
+        ],
+        "link": "https://gott.blog.gov.uk/2023/04/25/managing-intellectual-property-and-confidentiality/",
+        "blog": "Government Office for Technology Transfer",
+        "blog_link": "https://gott.blog.gov.uk",
+        "description": "Read our top 5 takeaways from GOTT's  'Managing intellectual property and confidentiality' guide"
+    },
+    {
+        "title": "MoJ Digital Strategy: One Year On",
+        "authors": [
+            "Gina Gill"
+        ],
+        "posted_on": "2023-04-25T13:03:05",
+        "categories": [
+            "MoJ Digital Strategy 2025",
+            "Our People",
+            "Our services",
+            "our users"
+        ],
+        "content": [
+            {
+                "content": "One year ago, we launched the MoJ\u2019s Digital Strategy. It was unusual in that it was a sum of a number (over 40) of existing strategies rather than a top down strategy based on a vision of a future. We said we would make justice services simpler, faster and better for all users; and that we would do this by making the MoJ a more flexible organisation, driven by data and led by users.",
+                "tag": "p"
+            },
+            {
+                "content": "Anyone who knows me would tell you that it would be impossible to say everything I\u2019d like to say about the first anniversary of our strategy in a single blog. So I\u2019m going to do 3.",
+                "tag": "p"
+            },
+            {
+                "content": "Part 1: One year on, three stories",
+                "tag": "p"
+            },
+            {
+                "content": "We had some Justice Digital all hands meetings recently and instead of, as we usually would do, sharing long lists of great delivery, we heard from real people who are using our services so that we could understand and celebrate the difference we are making. I\u2019m going to share those with you.",
+                "tag": "p"
+            },
+            {
+                "content": "The Prisoner",
+                "tag": "p"
+            },
+            {
+                "content": "Firstly, we had a person in prison dial-in live to talk about his experience of in-cell technology. In-cell technology consists of WiFi to each cell, basic devices, software that allows prisoners to manage their own admin, and The Hub which is a sort of intranet site. It is now available in 15 prisons to over 10,000 prisoners. We heard that the technology had given him the ability to take control of his own admin like canteen purchases, medical appointments, or work assignments. It doesn\u2019t sound like much, but we heard that simple tasks like this help to reduce a \u201clearned helplessness\u201d from reliance on the institution, and provide a sense of hope and preparedness for the outside world. We learned how important the technology is for those who aren\u2019t able to read or write well, and previously had to rely on filling in forms to engage with the regime. And we learned that he was developing his skills by creating content for The Hub, and that it was not only becoming an important source of information and educational content, but a hub in the real sense of word by creating a sense of community.",
+                "tag": "p"
+            },
+            {
+                "content": "The Probation Officers",
+                "tag": "p"
+            },
+            {
+                "content": "We were also joined by not one but two probation colleagues. The first was a simple story (via some very cute dog pictures!) of being provided with reliable network connectivity and basic technology that works at an Approved Premises site. For those who don\u2019t know, these are residential units that house offenders in the community. This means that not only can he and his colleagues get more dependable access to systems that enable them to understand the person in their care, but also allows them to provide better support in terms of finding employment for those people for example. It\u2019s a conversation that we shouldn\u2019t need to have in 2023, but we have a very large estate and not all of it (yet) has reliable WiFi.",
+                "tag": "p"
+            },
+            {
+                "content": "We then heard from a colleague about the Prepare a Case for Sentence service we launched last year. It does what it says on the tin, allowing probation officers to collate information that is pertinent to making sentencing decisions. This service is saving colleagues up to 50% of their time in finding the right information and bringing it together, which means that they can now properly reflect on what that information is telling them and therefore make better recommendations.",
+                "tag": "p"
+            },
+            {
+                "content": "The Deputy",
+                "tag": "p"
+            },
+            {
+                "content": "Finally, we heard the story of a young deputy through their case manager. This person was in their first year of university when he suddenly found himself responsible for his parents estate and care after a tragic accident. Can you imagine at the age of 18 or 19, being left with the responsibility of managing your parents estate, finances and care? I certainly can\u2019t. Part of that responsibility means he had to provide regular, detailed and complex financial and health reporting. However, because of the work of Justice Digital, he was able to use our Digital Deputies service, which we integrated into our internal case management system last year to make this reporting simpler and faster. This removed an extra layer of complexity and stress for him at a time of unimaginable emotional upheaval.",
+                "tag": "p"
+            },
+            {
+                "content": "There are many, many more stories like this: from colleagues who we\u2019ve given time back to across the organisation, to victims of crime who for whom we\u2019ve reduced trauma, to prison governors who are able to engage better with those in their care. In an organisation of our size and complexity, this human impact can sometimes be lost to the big numbers and major announcements. In delivering this strategy over the past year, and the journey to more user-centred services, hearing those stories is as important as ever.",
+                "tag": "p"
+            },
+            {
+                "content": "But hopefully, this gives you a sense of the work that we do - making a genuine, sustained and transformative difference to people\u2019s lives. That is what motivates me to get out of bed every morning, and why I am so proud to be part of the Justice Digital team.",
+                "tag": "p"
+            },
+            {
+                "content": "Look out for Part II: One year on, Changing the conversation.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2023/04/25/moj-digital-strategy-one-year-on/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "One year ago, we launched the MoJ\u2019s Digital Strategy. It was unusual in that it was a sum of a number (over 40) of existing strategies rather than a top down strategy based on a vision of a future. We \u2026"
+    },
+    {
+        "title": "Energy management: Smart meters \u2013 helping you make better informed decisions about energy use",
+        "authors": [
+            "Kathryn Swanson, DfE Project Manager"
+        ],
+        "posted_on": "2023-04-25T10:11:43",
+        "categories": [
+            "Advice and support"
+        ],
+        "content": [
+            {
+                "content": "In this blog post, Kathryn Swanson, DfE Project Manager, explains more about how smart meters could help you better understand and manage energy use in your school or trust.",
+                "tag": "p"
+            },
+            {
+                "content": "Chances are, if the electricity meter in your school has not been replaced since 2017, then you probably don\u2019t have a smart meter. Managing your electricity can be confusing, so I\u2019m going right back to basics.",
+                "tag": "p"
+            },
+            {
+                "content": "What is a smart meter and why should your school consider one",
+                "tag": "p"
+            },
+            {
+                "content": "You\u2019ve probably heard of smart meters; you may have one in your own home. You also probably know that they are replacing traditional analogue gas and electricity meters across Great Britain. Smart meters are one part of an essential infrastructure upgrade that will make our energy system cheaper, greener, and more efficient. Other methods include LED lighting, solar panels, low-carbon boilers etc. but we will look at them another time.",
+                "tag": "p"
+            },
+            {
+                "content": "Installing an electricity smart meter in your school will help to monitor usage in real time, the advantage of this will be no more estimated billing. How you use the data and the frequency its monitored is up to you, for example monthly, termly, annually.",
+                "tag": "p"
+            },
+            {
+                "content": "How to identify if your school has a smart meter",
+                "tag": "p"
+            },
+            {
+                "content": "Let\u2019s start at the beginning, how to identify if you already have an electricity smart meter. This is not an uncommon question that we and energy suppliers are frequently asked. I think one of the easiest ways to know (though it can vary),\u00a0 is to check if your meter has a digital display, that probably means it\u2019s a smart meter. If your meter has a traditional clock, then it is more likely an old analogue meter. To be absolutely sure, I recommend you contact your current electricity supplier who will be able to tell you.",
+                "tag": "p"
+            },
+            {
+                "content": "There is a lot of confusing information out there about types of smart meter that talks about SMETS, profile classes and smart meter mandate - let me try and break this down for you:",
+                "tag": "p"
+            },
+            {
+                "content": "If in any doubt, contact your existing electricity supplier and they will be able to tell you what meter you have.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019ve produced this short Smart meter video that includes some quick tips on how to identify what electric meter you have. If you are still unsure, contact your current electricity supplier.",
+                "tag": "p"
+            },
+            {
+                "content": "If your school has more than one meter",
+                "tag": "p"
+            },
+            {
+                "content": "If your school currently has more than one electric meter, you may be able to upgrade to one smart meter, but I would recommend you take advice from your current supplier.",
+                "tag": "p"
+            },
+            {
+                "content": "Why you should consider getting a smart meter",
+                "tag": "p"
+            },
+            {
+                "content": "We are all aware of how much the cost of energy has increased over the last few months and I\u2019m sure that your school will have seen an increase in its bill. Installing a smart meter, isn\u2019t going to reduce the unit cost of the electricity your school uses, but it will give you more information and control.",
+                "tag": "p"
+            },
+            {
+                "content": "A smart meter will remove estimated billing, and this means only paying for the electricity actually used, which should help you to budget and make informed decisions. Once you have a smart meter installed, talk to your electricity supplier who will be able to provide instructions on how to access your data. Energy suppliers are required, under energy supply licence conditions, to ensure that consumers have timely access to their half-hourly electricity data.",
+                "tag": "p"
+            },
+            {
+                "content": "If you know how much energy you use and what influences it, you can target and prioritise the best ways to reduce consumption. Many suppliers provide a dashboard that allows you to view usage over specific periods e.g., over a term, a year etc. It will let you see peaks and troughs of usage; including how much electricity is being used when your school is empty, and this will help inform how you can become more energy efficient.",
+                "tag": "p"
+            },
+            {
+                "content": "As a department, the DfE\u2019s ambition is to be world-leading education sector in sustainability and climate change by 2030. Reducing direct and indirect emissions from education and care buildings, driving innovation to meet legislative targets and providing opportunities for children and young people to engage practically with the net-zero goal. Good Estate Management for Schools has published some tips to reduce your energy usage, that includes teachers bringing energy usage into lesson plans that could influence longer-term behaviour both at school and in the home.",
+                "tag": "p"
+            },
+            {
+                "content": "If your electricity contract is managed through the Local Authority, talk to them about installation of smart meters.",
+                "tag": "p"
+            },
+            {
+                "content": "The department also has some useful information on GOV.UK you can read at your leisure:",
+                "tag": "p"
+            },
+            {
+                "content": "An introductory guide to smart meters in the public sector",
+                "tag": "p"
+            },
+            {
+                "content": "Sustainability and climate change: a strategy for the education and children\u2019s services systems",
+                "tag": "p"
+            },
+            {
+                "content": "Energy efficiency: guidance for the school and further education college estate",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://buyingforschools.blog.gov.uk/2023/04/25/energy-management-smart-meters-helping-you-make-better-informed-decisions-about-energy-use/",
+        "blog": "Buying for Schools",
+        "blog_link": "https://buyingforschools.blog.gov.uk",
+        "description": "In this blog post, Kathryn Swanson, DfE Project Manager, explains more about how smart meters could help you better understand and manage energy use in you school or trust."
+    },
+    {
+        "title": "UK government support for resettled Afghans in bridging accommodation factsheet \u2013 September 2023",
+        "authors": [
+            "Home Office news team"
+        ],
+        "posted_on": "2023-04-24T14:53:10",
+        "categories": [
+            "Fact sheet"
+        ],
+        "content": [
+            {
+                "content": "Why did individuals need to leave hotels?",
+                "tag": "p"
+            },
+            {
+                "content": "Details of the support Afghans receive:",
+                "tag": "p"
+            },
+            {
+                "content": "The government support Afghans have received and will continue to benefit from in the UK:",
+                "tag": "p"
+            },
+            {
+                "content": "Enhanced government support:",
+                "tag": "p"
+            },
+            {
+                "content": "How were Afghans supported to find homes?",
+                "tag": "p"
+            },
+            {
+                "content": "What about people going through healthcare treatments?\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "How will Afghans pay for private rented accommodation?\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "What about those Afghans who did not find housing at the end of their Notices to Quit?",
+                "tag": "p"
+            },
+            {
+                "content": "What support is available to Afghans in temporary accommodation?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How many hotels have closed?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How will this affect future arrivals under Afghan Citizens Resettlement Scheme (ACRS) and Afghan Relocations and Assistance Policy (ARAP)?",
+                "tag": "p"
+            }
+        ],
+        "link": "https://homeofficemedia.blog.gov.uk/2023/04/24/uk-government-support-for-resettled-afghans-in-bridging-accommodation-factsheet-august-2023/",
+        "blog": "Home Office in the media",
+        "blog_link": "https://homeofficemedia.blog.gov.uk",
+        "description": "We stand by the people of Afghanistan. Through Op Pitting we undertook the largest and fastest emergency evacuation in recent history to help thousands of people to safety. The UK made an ambitious and generous commitment to help resettle those \u2026"
+    },
+    {
+        "title": "A day in the life - IPA Leadership and Learning Coordinator",
+        "authors": [
+            "Lyle Anderson"
+        ],
+        "posted_on": "2023-04-24T14:45:40",
+        "categories": [
+            "Construction",
+            "Infrastructure",
+            "Major Projects Leadership Academy"
+        ],
+        "content": [
+            {
+                "content": "Lyle Anderson tells us about a typical day as a Leadership and Learning Coordinator and why he chose to work in government learning and development.",
+                "tag": "p"
+            },
+            {
+                "content": "I am a Leadership & Learning Coordinator at the Infrastructure and Projects Authority (IPA) and joined the organisation in September 2019. My team manages the delivery of our project delivery leadership development programmes, including the Major Projects Leadership Academy (MPLA), Project Leadership Programme (PLP) and Orchestrating Major Projects (OMP).",
+                "tag": "p"
+            },
+            {
+                "content": "What is a Leadership & Learning Coordinator?",
+                "tag": "p"
+            },
+            {
+                "content": "As Leadership and Learning Coordinator, my role is to ensure that the PLP, MPLA and OMP programmes are delivered to a high standard, and support the learning and development of the government project delivery profession.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I also work on the procurement and mobilisation of new contracts for the PLP, MPLA and OMP, that look to refresh and develop existing and new content.",
+                "tag": "p"
+            },
+            {
+                "content": "Why did you choose learning and development?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Prior to the IPA, I worked for the NHS as a domestic assistant in a local trust, before moving into roles supporting the delivery of leadership development programmes for NHS staff across the country. I then moved into a small project team within Cabinet Office/IPA to procure the contracts for the PLP, MPLA and OMP, and more recently was appointed in the service delivery role.",
+                "tag": "p"
+            },
+            {
+                "content": "I enjoy working in learning and development as it enables me to speak to a variety of people across the public sector, gaining knowledge and insights into how they work.",
+                "tag": "p"
+            },
+            {
+                "content": "Describe a typical day?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I wake up at 7am and get ready for work, then I feed my cat before he starts shouting at me. On this day, I was working from home. At the IPA, we operate under hybrid working to allow staff the flexibility of the benefits of home working, while still having an office base.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My day began with responding to emails in our MPLA inbox. The MPLA is the IPA\u2019s flagship programme, aimed primarily at developing the skills of senior responsible owners and directors of projects on the Government Major Project Portfolio. Our Leadership & Learning Support Team handle the day to day enquiries, however, some of the more complex enquiries had been flagged that the support team can\u2019t resolve and require my response.",
+                "tag": "p"
+            },
+            {
+                "content": "I then spent the rest of the morning attending a workshop on one of our programmes - something I really enjoy about the role is the opportunity to observe different learning interventions. The workshop was around different thinking styles of leaders. During the workshop we discussed the variation of each other\u2019s results. This ranged from whether we were more adaptive (prefer to improve on current systems, respect rules and norms and get stuck into the detail) or more innovative (like to break the mould, challenge the rules and look at the bigger picture). This was valuable learning and something that I can take back into my role.",
+                "tag": "p"
+            },
+            {
+                "content": "In the afternoon, I put together some data for a government department who wanted information on the total number of participants that had enrolled and graduated from our programmes. Following this, I had a meeting with my line manager to look at the participant feedback on our programmes to check if there were any areas for improvement - we regularly look at this to ensure the programmes are providing the learning that participants need.",
+                "tag": "p"
+            },
+            {
+                "content": "I then began forward planning the applications for our next cohort of the MPLA by blocking out time for my team to sift and review, before organising the admissions panel between the Oxford Sa\u00efd Business School Programme Director and the IPA Director of Function, Profession and Standards, Karina Singh.",
+                "tag": "p"
+            },
+            {
+                "content": "At the end of the day, I had a meeting with one of our suppliers to discuss how we could streamline the application process for our programmes. I finished by organising my inbox ready for the following day.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s the best thing about working for the IPA?",
+                "tag": "p"
+            },
+            {
+                "content": "Working in the IPA, I\u2019ve been able to develop my knowledge and understanding of project delivery within government and the wider public sector. This has enabled me to pick up more challenging work, while also leaving me feeling that I\u2019m making a positive impact on the professional capabilities of the Civil Service and wider public sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Does a role in learning and development appeal to you? The IPA Function, Profession and Standards (FP&S) team is recruiting a Leadership and Learning Support role. Click here to find out more.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To learn more about the IPA, click here.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipa.blog.gov.uk/2023/04/24/a-day-in-the-life-leadership-learning-coordinator/",
+        "blog": "Infrastructure and Projects Authority",
+        "blog_link": "https://ipa.blog.gov.uk",
+        "description": "Lyle Anderson tells us about a typical day as a Leadership and Learning Coordinator and why he chose to work in government learning and development. I am a Leadership & Learning Coordinator at the Infrastructure and Projects Authority (IPA) and \u2026"
+    },
+    {
+        "title": "A \u2013 Z of terms used in bankruptcy",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2023-04-24T09:45:30",
+        "categories": [
+            "Bankruptcy"
+        ],
+        "content": [
+            {
+                "content": "If you can\u2019t pay your debts, there are various solutions that can help, ranging from: informal solutions like a consolidation loan or a debt management plan to formal like a debt relief order, individual voluntary arrangement (IVA) or bankruptcy.",
+                "tag": "p"
+            },
+            {
+                "content": "One way of dealing with debt is bankruptcy.",
+                "tag": "p"
+            },
+            {
+                "content": "Bankruptcy can be an option that some people choose as a solution for dealing with problem debt. In some cases, bankruptcy can be a route that is brought about as a solution by a person\u2019s creditors \u2013 that is, the people or organisations to whom you owe money \u2013 can apply to make you bankrupt, rather than it being your choice.",
+                "tag": "p"
+            },
+            {
+                "content": "In our bankruptcy blogs we\u2019ve been taking a look at the fears, facts and features of bankruptcy as a choice of solution by someone in debt, to help you understand whether it might be the right or wrong way out of debt for you.",
+                "tag": "p"
+            },
+            {
+                "content": "Here we provide an A-Z overview and definition of the common terms you may often hear associated with bankruptcy.",
+                "tag": "p"
+            },
+            {
+                "content": "A",
+                "tag": "h3"
+            },
+            {
+                "content": "Adjudicator",
+                "tag": "h4"
+            },
+            {
+                "content": "A government official who works for the\u00a0Insolvency Service, and whose role is to review people\u2019s bankruptcy applications and decide whether you can be made bankrupt. The Adjudicator is not a judge but he can make a bankruptcy order like a judge.",
+                "tag": "p"
+            },
+            {
+                "content": "Assets",
+                "tag": "h4"
+            },
+            {
+                "content": "Anything that you own or have a financial interest in. This includes your house or flat if you are a homeowner. It also includes your car and any money that might be owed to you including a claim for compensation. Your assets could be sold to pay off your debts as part of the bankruptcy. Certain assets can be exempt from being sold, including essentials such as household equipment, furniture, bedding, clothes and tools/equipment needed for your job.",
+                "tag": "p"
+            },
+            {
+                "content": "B",
+                "tag": "h3"
+            },
+            {
+                "content": "Bankruptcy Order",
+                "tag": "h4"
+            },
+            {
+                "content": "An order made by the Court or the Adjudicator, stating that a person has been made bankrupt.",
+                "tag": "p"
+            },
+            {
+                "content": "Bankruptcy restrictions",
+                "tag": "h4"
+            },
+            {
+                "content": "These are things you are not allowed to do when you\u2019re bankrupt, including borrowing \u00a3500 or more without letting the lender know you\u2019re bankrupt, running or managing a company or working as an insolvency practitioner.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are self-employed or are going to start your own business (sole trader), you must use the same name(s) the bankruptcy order was made in. Or you must clearly show that name in all correspondence, invoices or advertising. It\u2019s a criminal offence to break the restrictions and you might be prosecuted if you do.",
+                "tag": "p"
+            },
+            {
+                "content": "The restrictions last until the end of your bankruptcy (discharge) which usually happens after 12 months. However, restrictions can be extended beyond the end of your bankruptcy if you don\u2019t carry out your duties as a bankrupt or are found to have acted carelessly or dishonestly. The restrictions will be extended by you signing a bankruptcy restrictions agreement or the court making a bankruptcy restrictions order.",
+                "tag": "p"
+            },
+            {
+                "content": "C",
+                "tag": "h3"
+            },
+            {
+                "content": "Citizens Advice",
+                "tag": "h4"
+            },
+            {
+                "content": "A network of independent charities offering free and confidential advice, either in person, online or by phone. They offer advice to help you make the right choices for dealing with money issues.",
+                "tag": "p"
+            },
+            {
+                "content": "Creditor",
+                "tag": "h4"
+            },
+            {
+                "content": "A person, company or other entity \u2013 to whom you owe a debt including certain debts due in the future. In bankruptcy, the Official Receiver will notify your creditors of your bankruptcy.\u00a0 If you have sufficient assets, payments will be made from those assets by the trustee to your creditors.",
+                "tag": "p"
+            },
+            {
+                "content": "Credit rating",
+                "tag": "h4"
+            },
+            {
+                "content": "A score system that lenders use to work out how reliable you are at paying back money. Bankruptcy affects your credit rating. It will stay on your credit file for six years after the bankruptcy order is made. The three main UK credit agencies are Equifax, Experian and TransUnion. A person\u2019s credit rating can also be affected by other insolvency measures, such as Individual Voluntary Arrangements (IVAs), Bankruptcy Restriction (BRUs/BROs) and Debt Relief Restriction Orders (DRRUs/DRROs). In these cases, your details are listed on the Individual Insolvency Register until the measure ends.",
+                "tag": "p"
+            },
+            {
+                "content": "D",
+                "tag": "h3"
+            },
+            {
+                "content": "Discharge",
+                "tag": "p"
+            },
+            {
+                "content": "Officially being freed from bankruptcy restrictions and most of your bankruptcy debts. You will usually be discharged after 12 months. Discharge ends the bankruptcy restrictions, unless you are subject to a bankruptcy restrictions order or undertaking and releases you from most of the debts you had when the bankruptcy order was made. However, assets which you had when you were made bankrupt or claimed by your trustee during bankruptcy can still be used to pay debts once the bankruptcy has ended.",
+                "tag": "p"
+            },
+            {
+                "content": "E",
+                "tag": "h3"
+            },
+            {
+                "content": "Equity",
+                "tag": "h4"
+            },
+            {
+                "content": "The value of the property you own after deducting any secured debts (like a mortgage). If you jointly own your home the equity is usually split between the joint owners. Your interest in your home will be part of the bankruptcy and can be used to pay your creditors.",
+                "tag": "p"
+            },
+            {
+                "content": "F",
+                "tag": "h3"
+            },
+            {
+                "content": "Frozen bank accounts ",
+                "tag": "h4"
+            },
+            {
+                "content": "When a bankruptcy is made, your bank accounts will most likely be frozen by the bank. You will not be able to access money in your bank account if it is frozen. This is because any money in your account may be an asset and may be claimed by the trustee. The trustee can ask the bank release some money for your daily living needs or to the other person if you are in a joint account.\u00a0 The bank may keep the money if you owe other debts to them.",
+                "tag": "p"
+            },
+            {
+                "content": "H",
+                "tag": "h3"
+            },
+            {
+                "content": "Hearing for a bankruptcy order ",
+                "tag": "h4"
+            },
+            {
+                "content": "In the past, you had to attend court to make yourself bankrupt. Since 2016 you no longer have to attend a hearing and can apply online to be made bankrupt.",
+                "tag": "p"
+            },
+            {
+                "content": "Your creditors may apply to court for a bankruptcy petition to make you bankrupt. In this case, there will be a court hearing, which you should attend. The judge may make a bankruptcy order at the hearing.",
+                "tag": "p"
+            },
+            {
+                "content": "I",
+                "tag": "h3"
+            },
+            {
+                "content": "Income Payments Agreement (IPA)",
+                "tag": "h4"
+            },
+            {
+                "content": "A payment \u2013 usually made monthly \u2013 which you make towards your debts if you earn enough to have money left over after paying your essential living costs. You could be asked to pay money towards your debts through an IPA, during and for up to three years after bankruptcy.",
+                "tag": "p"
+            },
+            {
+                "content": "Income Payments Order (IPO)",
+                "tag": "h4"
+            },
+            {
+                "content": "A court order for payments towards your debts (if you can afford it) during your bankruptcy. Your trustee can apply for an IPO if you can\u2019t agree on payment amounts for an IPA (see IPA, above). However, the court won\u2019t make an IPO if it leaves you without enough money to meet reasonable everyday needs. If you do get an IPO and don\u2019t meet the payments, the trustee can apply to extend your bankruptcy.",
+                "tag": "p"
+            },
+            {
+                "content": "Individual Insolvency Register (IIR)",
+                "tag": "h4"
+            },
+            {
+                "content": "The Individual Insolvency Register shows details of people who are in formal arrangements (including bankruptcy) to deal with their debts in England and Wales. It also lists details of individuals who have extended bankruptcy restrictions or debt relief restriction. Anyone can search the insolvency register on the internet.",
+                "tag": "p"
+            },
+            {
+                "content": "L",
+                "tag": "h3"
+            },
+            {
+                "content": "London Gazette/The Gazette",
+                "tag": "h4"
+            },
+            {
+                "content": "Bankruptcies are published in The Gazette. The Gazette is the combination of three publications: The London Gazette, The Belfast Gazette and The Edinburgh Gazette. The Gazettes are official journals of record. The Gazette consists largely of statutory notices where there is a legal requirement to advertise an event or proposal in The Gazette.",
+                "tag": "p"
+            },
+            {
+                "content": "N",
+                "tag": "h3"
+            },
+            {
+                "content": "National Debtline",
+                "tag": "h4"
+            },
+            {
+                "content": "The National Debtline is a charity that provides free, impartial and confidential debt advice to people in England, Scotland and Wales. You can phone, webchat or use their Digital Advice Tool to get free debt advice from the charity\u2019s expert debt advisers.",
+                "tag": "p"
+            },
+            {
+                "content": "Nil tax code",
+                "tag": "h4"
+            },
+            {
+                "content": "HMRC will apply a \u2018nil tax code\u2019 (which will show as NT on your pay details) when you\u2019re bankrupt. This tells your employer not to take any further income tax from your wages for the rest of the tax year (ending on 5 April). The extra money in your pay that results from this can be claimed by the trustee to form part or all of an IPA or IPO.",
+                "tag": "p"
+            },
+            {
+                "content": "The NT will not tell your employer you\u2019re bankrupt as an NT can be applied for a number of reasons.",
+                "tag": "p"
+            },
+            {
+                "content": "O",
+                "tag": "h3"
+            },
+            {
+                "content": "Official Receiver",
+                "tag": "p"
+            },
+            {
+                "content": "A civil servant employed in the Insolvency Service and an officer of the court, who will manage at least the first stage of your bankruptcy. Official Receivers do not give debt advice, but will:",
+                "tag": "p"
+            },
+            {
+                "content": "A person in bankruptcy has a legal duty to co-operate with the Official Receiver.",
+                "tag": "p"
+            },
+            {
+                "content": "P\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Person at risk of violence (PARV) order",
+                "tag": "h4"
+            },
+            {
+                "content": "If having your address published will put you at risk of violence, you can apply to the court for a person at risk of violence (PARV) order. Your name will still be published, but your address will not be. You can apply for the PARV order before the bankruptcy order is made",
+                "tag": "p"
+            },
+            {
+                "content": "Petition",
+                "tag": "h4"
+            },
+            {
+                "content": "An application to the court for a person to be made bankrupt by their creditors. Creditors can present a bankruptcy petition to the court against someone who owes them \u00a35,000 or more.",
+                "tag": "p"
+            },
+            {
+                "content": "R",
+                "tag": "h3"
+            },
+            {
+                "content": "Realise assets",
+                "tag": "h4"
+            },
+            {
+                "content": "This means to sell your assets to raise money to pay your debts to your creditors. Your trustee will realise your assets as part of their duties to pay your creditors.",
+                "tag": "p"
+            },
+            {
+                "content": "T",
+                "tag": "h3"
+            },
+            {
+                "content": "Trustee",
+                "tag": "h4"
+            },
+            {
+                "content": "Someone who manages the bankruptcy. The assets transfer to the trustee who collects or sells them to make payments to creditors. The Official Receiver can act as trustee, but trustees can also be private sector insolvency practitioners \u2013 usually accountants or solicitors \u2013 who are authorised by a regulator. A person in bankruptcy has a legal duty to co-operate with the trustee.",
+                "tag": "p"
+            },
+            {
+                "content": "V",
+                "tag": "h3"
+            },
+            {
+                "content": "Vested assets",
+                "tag": "h4"
+            },
+            {
+                "content": "The assets that belonged to you, but whose ownership has now passed to your trustee. These do not include exempt belongings that you need for essential household and day-to-day living.",
+                "tag": "p"
+            },
+            {
+                "content": "Remember: It is important to seek free debt advice from a money adviser before making any decision on problem debt solutions.",
+                "tag": "p"
+            },
+            {
+                "content": "You can find out where to find free, expert debt advice here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insolvencyservice.blog.gov.uk/2023/04/24/a-z-of-terms-used-in-bankruptcy/",
+        "blog": "Insolvency Service",
+        "blog_link": "https://insolvencyservice.blog.gov.uk",
+        "description": "If you can\u2019t pay your debts, there are various solutions that can help, ranging from: informal solutions like a consolidation loan or a debt management plan to formal like a debt relief order, individual voluntary arrangement (IVA) or bankruptcy. One \u2026"
+    },
+    {
+        "title": "Protecting your children through vaccination",
+        "authors": [
+            "Vanessa Saliba"
+        ],
+        "posted_on": "2023-04-24T09:14:27",
+        "categories": [
+            "immunisations"
+        ],
+        "content": [
+            {
+                "content": "Vaccines save lives. They prevent around three million deaths worldwide every year and the World Health Organization states that after clean water, vaccination has the greatest impact on health globally.",
+                "tag": "p"
+            },
+            {
+                "content": "In the UK, we are incredibly fortunate to be able to offer our children the best protection against serious and life-threatening infections through our routine childhood immunisations. The immunisation programme is designed to offer us the best protection throughout our lives, with more vaccines such as shingles and flu offered to our elderly population now.",
+                "tag": "p"
+            },
+            {
+                "content": "The NHS vaccine programme",
+                "tag": "h2"
+            },
+            {
+                "content": "The NHS vaccination programme is a world-leader and designed to protect us throughout our lives, for free.",
+                "tag": "p"
+            },
+            {
+                "content": "When you have a baby, keeping them safe and well is a priority. Vaccination is one of the most important things we can do to protect their health, and shortly after they are born, you\u2019ll be given information about their first immunisations, which take place when the baby is 8 weeks old.",
+                "tag": "p"
+            },
+            {
+                "content": "These first jabs protect against a number of infections that can cause pneumonia, meningitis and sepsis. The vaccines offered to babies and toddlers protect them from serious illness such as whooping cough and diphtheria that used to cause so much suffering to families, but thanks to immunisation are now rare.",
+                "tag": "p"
+            },
+            {
+                "content": "As your child gets older, they\u2019ll be offered more appointments to get vaccinated, right up until they are teenagers. When they are little, these tend to be done at their GP surgery, but as they grow up some vaccines will be offered at school. It\u2019s important to look out for and return consent forms for vaccines that are given at school.",
+                "tag": "p"
+            },
+            {
+                "content": "The full childhood immunisation programme protects your child against many different illnesses. It\u2019s best to have vaccines on time, but you can still catch up on most vaccines if you miss them. You can see the full schedule here, and if you are concerned that your child, or any family member, has missed out on certain vaccines you can speak to your GP practice about catching up. You can also use your child\u2019s red book to look back at which vaccines they have received and if there are any gaps.",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping each other safe",
+                "tag": "h2"
+            },
+            {
+                "content": "We now see far less cases of some very nasty infections that used to cause a lot of suffering and death, such as whooping cough, rubella and polio. However, the key to keeping cases low, controlling outbreaks and keeping our children well is to ensure they are vaccinated.",
+                "tag": "p"
+            },
+            {
+                "content": "By vaccinating your child you give them protection, but this also helps to build herd immunity and protect others who may not be able to get vaccinated or have weaker immune systems.",
+                "tag": "p"
+            },
+            {
+                "content": "Remember that your child will be offered vaccines into their teenage years, with the HPV vaccine, the teenage booster (Td/IPV - offering protection from tetanus, diphtheria, and polio) and MenACWY vaccines offered to adolescents in schools.",
+                "tag": "p"
+            },
+            {
+                "content": "When your child grows up and enters into new environments, such as university, they mix with a new, wide group of people and can be more at risk of some infections. Keeping up with the full vaccination schedule and ensuring your child has caught up with any missed vaccines can help to keep them well as they go off and build their adult lives.",
+                "tag": "p"
+            },
+            {
+                "content": "More information",
+                "tag": "p"
+            },
+            {
+                "content": "The NHS website has lots of information about the free vaccines on offer. By clicking on each vaccine you can see detailed information about it, such as safety, side effects and catching up on missed doses.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2023/04/24/protecting-your-children-through-vaccination/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Vaccines save lives. This blog looks at the free NHS vaccination programme and why it's so important to get vaccinated and catch up on missed vaccines. "
+    }
+]
