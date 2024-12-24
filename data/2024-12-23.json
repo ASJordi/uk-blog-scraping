@@ -1,0 +1,593 @@
+[
+    {
+        "title": "Thank you and best wishes for 2025!",
+        "authors": [
+            "karlharvey1"
+        ],
+        "posted_on": "2024-12-23T14:00:00",
+        "categories": [
+            "#GFIEsuccessstory",
+            "Life Chances"
+        ],
+        "content": [
+            {
+                "content": "As 2024 draws to a close, we wanted to take the opportunity to thank you all for your continued dedication and support in helping make GFiE Life Chance recruitment the success that it is.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With your support, we have been able to offer talented individuals within our communities across the UK a role in the Civil Service.\u00a0 Our candidates have flourished and many have gone on to develop their careers further in the Civil Service and be promoted.",
+                "tag": "p"
+            },
+            {
+                "content": "It was wonderful to see our work mentioned by Simon Case, outgoing Cabinet secretary in his 'valedictory speech\u2019 showcasing the impact that employment within the Civil Service has and how the Civil Service is benefiting from the experiences of individuals in improving the service that the Departments offer to our customers",
+                "tag": "p"
+            },
+            {
+                "content": "We wish you all the very best this holiday season and look forward to working with you in 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "\n",
+                "tag": "p"
+            },
+            {
+                "content": "On behalf of the GFiE team - thank you and best wishes for 2025!",
+                "tag": "p"
+            },
+            {
+                "content": "\n",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gfie.blog.gov.uk/2024/12/23/thank-you-and-best-wishes-for-2025/",
+        "blog": "Life Chance Recruitment - Going Forward into Employment (GFiE)",
+        "blog_link": "https://gfie.blog.gov.uk",
+        "description": "As 2024 draws to a close, we wanted to take the opportunity to thank you all for your continued dedication and support in helping make GFiE Life Chance recruitment the success that it is.\u00a0 With your support, we have been \u2026"
+    },
+    {
+        "title": "Using hypotheses to improve our content review process",
+        "authors": [
+            "Lauren Stopps"
+        ],
+        "posted_on": "2024-12-23T12:03:12",
+        "categories": [
+            "Defra content design",
+            "Defra digital",
+            "User centred design"
+        ],
+        "content": [
+            {
+                "content": "Continuing our series on Defra content community projects, content designer Lauren Stopps writes about a project to improve the content team's internal review process.",
+                "tag": "p"
+            },
+            {
+                "content": "Did you know, every piece of content or change published by a member of the Defra content team must be reviewed by a second content designer? They make sure the original editor hasn\u2019t missed anything and give the final nod to publish. We call this a \u2018second pair of eyes\u2019 or \u20182i\u2019 for short.",
+                "tag": "p"
+            },
+            {
+                "content": "Our community project team found the content review process lacked consistency and clarity, with no standard approach among Defra content design teams.",
+                "tag": "p"
+            },
+            {
+                "content": "A better 2i process",
+                "tag": "h2"
+            },
+            {
+                "content": "We found the current 2i process is:",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately, this affects both Defra stakeholders and our users.",
+                "tag": "p"
+            },
+            {
+                "content": "How we approached the problem",
+                "tag": "h2"
+            },
+            {
+                "content": "As content designers we regularly set and test hypotheses to make improvements.",
+                "tag": "p"
+            },
+            {
+                "content": "Hypotheses help us explore different ways to solve a problem. They include:",
+                "tag": "p"
+            },
+            {
+                "content": "They should also be based on data and evidence.",
+                "tag": "p"
+            },
+            {
+                "content": "Creating hypotheses",
+                "tag": "h2"
+            },
+            {
+                "content": "Hypotheses can be based on outcomes for users or changes to key performance indicators. They help us make sure the changes we make have the effect we wanted.",
+                "tag": "p"
+            },
+            {
+                "content": "We based ours on solving the problems we\u2019d identified with the current 2i process. For example, through surveys and focus groups we found:",
+                "tag": "p"
+            },
+            {
+                "content": "As a project group we used these results to create our hypotheses. These address bottlenecks and pain points in the current 2i process.",
+                "tag": "p"
+            },
+            {
+                "content": "We used the formula:",
+                "tag": "p"
+            },
+            {
+                "content": "We believe \u2026 will \u2026We\u2019ll know this is true when \u2026We believe this will ultimately help improve \u2026",
+                "tag": "p"
+            },
+            {
+                "content": "Essentially, our hypotheses were based on potential solutions to user pain points.",
+                "tag": "p"
+            },
+            {
+                "content": "An \u2018internal review\u2019 rota",
+                "tag": "h2"
+            },
+            {
+                "content": "Our initial hypothesis said:",
+                "tag": "p"
+            },
+            {
+                "content": "We believe a rota will ensure balanced workloads and reduce workload-related blockers for the 2i\u2019er and the requester.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll know this is true when there\u2019s a reduced timeframe between a 2i request being submitted and it being actioned.",
+                "tag": "p"
+            },
+            {
+                "content": "We believe this will ultimately help improve the overall amount of time it takes to 2i.",
+                "tag": "p"
+            },
+            {
+                "content": "A ticketing system",
+                "tag": "h2"
+            },
+            {
+                "content": "Our second hypothesis said:",
+                "tag": "p"
+            },
+            {
+                "content": "We believe a ticketing system with templates for requests will ensure the requester knows exactly what information is needed by the 2i\u2019er and why.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll know this is true when there is a drop in requests for missing or additional information and the reviewer knows what level of review is needed.",
+                "tag": "p"
+            },
+            {
+                "content": "We believe this will ultimately help improve the overall amount of time it takes to 2i, make 2i\u2019ing easier, and improve the quality of 2i\u2019s.",
+                "tag": "p"
+            },
+            {
+                "content": "Training and guidance",
+                "tag": "h2"
+            },
+            {
+                "content": "Our third hypothesis said:",
+                "tag": "p"
+            },
+            {
+                "content": "We believe training and guidance on the end-to-end process of 2i\u2019ing will standardise the 2i process and improve confidence and understanding for the 2i\u2019er and requester.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll know this is true when pulse checks after the training result in a reduction on mistakes missed in 2i\u2019s.",
+                "tag": "p"
+            },
+            {
+                "content": "We believe this will ultimately help improve the length of time to 2i and quality of 2i\u2019s as well as democratisation of the 2i process.",
+                "tag": "p"
+            },
+            {
+                "content": "Reduce jargon",
+                "tag": "h2"
+            },
+            {
+                "content": "Our final hypothesis said:",
+                "tag": "p"
+            },
+            {
+                "content": "We believe a clear and plainer describing process will make communication easier for stakeholders and new starters.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll know this is true when there is a reduction in errors being missed in 2i\u2019s and increased engagement with crits and peer reviews.",
+                "tag": "p"
+            },
+            {
+                "content": "We believe this will ultimately help improve the quality of published content and understanding of the process.",
+                "tag": "p"
+            },
+            {
+                "content": "Next up",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ll check our hypotheses with the wider content team. After gathering their feedback, we can test the hypotheses and analyse the data to understand the effect of the proposed solutions. Did we get it right? We\u2019ll blog again when the results are in.",
+                "tag": "p"
+            },
+            {
+                "content": "Check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2024/12/23/using-hypotheses-to-improve-our-content-review-process/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "Content designer Lauren Stopps writes about a project to improve the content team's internal review process."
+    },
+    {
+        "title": "Top 10 technologies \u2013 a CMA horizon scanning perspective",
+        "authors": [
+            "Lindsay Taylor"
+        ],
+        "posted_on": "2024-12-23T11:33:41",
+        "categories": [
+            "CMA Technology Horizon Scanning"
+        ],
+        "content": [
+            {
+                "content": "In today's rapidly evolving technological and digital landscape, staying ahead of emerging trends is more important than ever. Being on the front foot \u2013 so that regulators and governments can keep pace with fast-moving markets \u2013 will help ensure that consumers and businesses can benefit from the incredible innovation and growth that new and emerging technologies bring, whilst being confident they are getting high-quality products and services.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Each year our technology horizon scanning function looks ahead to provide strategic insights into the future of technology and digital markets. In 2023 we explored 10 Trends in Digital Markets, and our 2022 scan focused on emerging technologies, which helped to identify Foundation Models as a pivotal technology and informed our Foundation Models Initial Review and AI work.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This year we delved again into the dynamic world of emerging technologies to explore how these technologies are shaping the future over the next five years and beyond, including the potential impacts for competition and consumers.\u00a0We prioritised 10 technologies to explore further and have provided, in no particular order, a brief overview of these \u2013 and our approach \u2013 below.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Emerging technology trends",
+                "tag": "h2"
+            },
+            {
+                "content": "Generative AI: crafting new content",
+                "tag": "p"
+            },
+            {
+                "content": "Generative AI is a type of AI that can create novel output that is potentially indistinguishable from human-generated content. It can be found in applications such as chatbots and web-based tools that use user prompts to produce or augment written text, images, videos, audio, and code.",
+                "tag": "p"
+            },
+            {
+                "content": "AI Agents and Assistants: solving tasks in dynamic environments",
+                "tag": "p"
+            },
+            {
+                "content": "AI agents and assistants include various types of software designed to accomplish goals on people\u2019s behalf. On one end of the spectrum, there are AI assistants that engage in conversational interactions with users to perform simple tasks or provide information. At the other end of the spectrum, there are more sophisticated AI agents that can employ advanced AI and computer vision to operate independently from human involvement. This type of agentic AI technology may be found in autonomous vehicles, commercial drones and robots that perform complex tasks.",
+                "tag": "p"
+            },
+            {
+                "content": "Robotics: programming machines to act in the physical world",
+                "tag": "p"
+            },
+            {
+                "content": "Robotics is a field that deals with the design, manufacturing and operation of hardware to perform complex sequences of movements. This relies on technical components such as sensors and motors to interact with the physical environment. Robots are increasingly being used in fields such as manufacturing, medicine, and defence to perform tasks that are too repetitive, too delicate or too dangerous for humans.",
+                "tag": "p"
+            },
+            {
+                "content": "Quantum Computing: promising unprecedented computational power",
+                "tag": "p"
+            },
+            {
+                "content": "Quantum computing uses advanced physics to solve problems beyond the ability of most traditional computers. It can be used to develop complex AI models, simulations, and robust cybersecurity methods. While quantum computing is still too expensive for widespread use, it has potential to drive advances in fields like finance, biology and physical sciences in future.",
+                "tag": "p"
+            },
+            {
+                "content": "Machine Learning: leveraging historical data to enhance predictions and decisions",
+                "tag": "p"
+            },
+            {
+                "content": "Machine learning is a field that uses statistical algorithms to learn from past data to improve the accuracy and efficiency of predictive models. It is used in a broad range of industries such as healthcare, finance, and retail to identify risks and opportunities.",
+                "tag": "p"
+            },
+            {
+                "content": "AI-Powered Productivity Software and Tools: maximising human efficiency",
+                "tag": "p"
+            },
+            {
+                "content": "AI-powered productivity applications are designed to automate and enhance the effectiveness of people\u2019s professional and personal activities. These technologies may be used in planning and scheduling software, virtual work assistants, and collaboration tools.",
+                "tag": "p"
+            },
+            {
+                "content": "Spatial computing: facilitating interaction between physical and digital realities",
+                "tag": "p"
+            },
+            {
+                "content": "Spatial computing uses sensors, computer vision, and AI technologies to map real-world environments. This allows users to visualise and manipulate digital information in 3D space using interactive devices such as headsets.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Virtual Reality (VR): immersing users in computer-generated environments",
+                "tag": "p"
+            },
+            {
+                "content": "VR technologies use spatial computing to immerse users in simulated environments. The field of VR includes physical devices such as headsets as well as virtual worlds that users can visit.",
+                "tag": "p"
+            },
+            {
+                "content": "Synthetic data generation: filling in missing information to enhance AI",
+                "tag": "p"
+            },
+            {
+                "content": "Synthetic data refers to artificially generated material such as images, videos, audio, text, and numeric data. It is used alongside real data for the purposes of training, tuning, and testing AI models.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Digital identity: strengthening security, accessibility and trust in digital services",
+                "tag": "p"
+            },
+            {
+                "content": "Digital identity relies on the collection of various information attributes about a person or entity. Along with authorisation technology, digital identity can be used to grant people or organisations easier access to the resources that they are entitled to use, while simultaneously protecting their assets from unauthorised access.",
+                "tag": "p"
+            },
+            {
+                "content": "Competition and consumer themes\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "These technologies can have a transformative impact on the UK. To fully realise the opportunities that these technologies bring, it is important to consider the potential competition and consumer concerns that they raise. If industry, regulators and wider stakeholders are aware of these challenges then we can work together to provide more clarity and certainty so companies using these technologies have the confidence to innovate and contribute to UK growth. We recently set out at the Chatham House Competition Policy 2024 conference and the Financial Times Artificial Intelligence (AI) Summit how the benefits from promoting competition are profound and far-reaching \u2013 not just for lower prices, but also to create more innovation, choice, quality, security of supply, productivity, investment and growth.",
+                "tag": "p"
+            },
+            {
+                "content": "Several technologies in our shortlist are an important input for, or rely on, AI as a key component. With strong competition, these technologies also have the potential to drive significant innovation and growth across the UK economy, increase efficiency and reduce costs across multiple industries. They could result in beneficial new products and services, and increased choice for consumers.",
+                "tag": "p"
+            },
+            {
+                "content": "The deployment of these technologies also has the potential to pose harm to competition and consumers. Larger firms may be able to restrict access to essential inputs such as data and compute or reinforce dominant positions by bundling products and capabilities across multiple sectors. This could, in turn, limit consumer choice and make it harder for new firms to enter the market to compete. There could also be negative implications for consumers if they do not sufficiently understand the performance of technologies they\u00a0depend on and are not empowered to take well informed decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "In addition, several technologies in our list present other potential challenges for UK firms that stem from hardware integration requirements. For example, the cost and complexity of developing and deploying technologies such as quantum computing, spatial computing, and VR could result in established companies with greater access to resources having more control over intellectual property, talent, and standards in these fields. The hardware in these technologies also has potential to create new ways that sensitive consumer data could be compromised or leave firms or consumers open to cyber-attacks. It is important that the market develops in a way that benefits all players in the digital ecosystem \u2013 including large and small firms, and consumers.",
+                "tag": "p"
+            },
+            {
+                "content": "We considered some of these themes in in our initial review of AI Foundation Models and the subsequent update report, where we identified potential concerns and set out 6 key principles to help guide the AI sector towards positive outcomes for consumers, businesses, and the UK economy, and to maximise the innovation opportunities of AI.",
+                "tag": "p"
+            },
+            {
+                "content": "The Digital Markets, Competition and Consumers Act (DMCCA) will commence in January 2025. The Act establishes a new pro-competition regime for digital markets, which will provide the CMA the ability to respond quickly and flexibly to the rapid developments of emerging technology markets, including AI. These developments will inform our decisions to prioritise investigations and take action under the new regime, to ensure that innovation delivers opportunities and benefits for UK consumers and businesses and drives productivity and growth in the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Our approach\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We conducted a \u2018scan of scans\u2019 of credible existing sources on emerging technologies, alongside surveying experts across digital markets, technology, policy and competition to gather analysis on critical technologies. From this research we produced a longlist of technologies and prioritised them using criteria significant to CMA interests, such as time to market and technology hype, to create this top 10.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside our manual scan, this year we also experimented with data science approaches to complete an automated \u2018scan of scans\u2019 longlist of technologies which we could compare to our manual scan. The automated scan recalled around 85% of the technologies identified through manual scanning which suggests some potential efficiencies can be gained in the future by undertaking more focused manual scanning. We will continue to explore and exploit data science tools within our horizon scanning.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Implications and next steps\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The technologies identified hold significant potential for driving innovation, reshaping consumer and business experiences, and contributing to UK growth by creating dynamic and competitive markets now and in the future. The CMA will continue to use horizon scanning and other strategic tools to stay abreast of fast changing developments and ensure our work reflects a deep understanding of technologies and their implications for consumers and competition.",
+                "tag": "p"
+            },
+            {
+                "content": "We extend our gratitude to both our external and internal experts who contributed their insights to this project. Your invaluable expertise positively shaped our analysis and understanding.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://competitionandmarkets.blog.gov.uk/2024/12/23/top-10-technologies-a-cma-horizon-scanning-perspective/",
+        "blog": "Competition and Markets Authority",
+        "blog_link": "https://competitionandmarkets.blog.gov.uk",
+        "description": "In today's rapidly evolving technological and digital landscape, staying ahead of emerging trends is more important than ever. Being on the front foot \u2013 so that regulators and governments can keep pace with fast-moving markets \u2013 will help ensure that \u2026"
+    },
+    {
+        "title": "Highlights of 2024: FMP milestones and what to expect in 2025",
+        "authors": [
+            "Claire Dyer - Policy Advisor, Defra",
+            "Eleanor Pettitt-Fergusson - Senior Policy Advisor, Defra"
+        ],
+        "posted_on": "2024-12-23T10:40:06",
+        "categories": [
+            "-Defra FMPs"
+        ],
+        "content": [
+            {
+                "content": "As 2024 concludes, it feels like the perfect time to reflect on what we\u2019ve achieved together.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s been a year full of challenges, change, and exciting milestones, all driven by your collaboration and support. None of this would have been possible without your engagement, insights, and commitment\u2014thank you!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A strong start to the year",
+                "tag": "h2"
+            },
+            {
+                "content": "January began with momentum as we had recently published the government\u2019s summary of responses to our first five Fisheries Management Plans (FMPs). \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Marine Management Organisation (MMO) also raised the Minimum Conservation Reference Size for crawfish in ICES area 7, to support the sustainability of the stock.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Over February and March we held face to face and online workshops with stakeholders to promote a common understanding of the emerging FMP evidence gaps and support a collaborative approach to progressing FMP evidence development and delivery.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Springing forward with new initiatives",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0In April, under the previous government, we introduced four new FMPs through a webinar.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile our delivery partners progressed the implementation of the published plans: MMO hosted a cuttlefish workshop which was followed by coastal events in Newlyn, Brixham, Shoreham and Hastings, and Seafish held discussions on the principles and options of a new national whelk permit.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Casting the net wide through summer to autumn",
+                "tag": "h2"
+            },
+            {
+                "content": "In late August, we relaunched our FMP blog- a new way to share how we\u2019re taking FMPs forward.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In September MMO introduced new codes on the Catch Recording App to differentiate between species of octopus and cuttlefish and gather evidence of catches.\u00a0 Flashcards to help with identification are available from your local MMO office.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "October brought further announcements:\u00a0 the flatfish FMP was published, and we laid legislation in Parliament to implement measures from the published FMPs.",
+                "tag": "p"
+            },
+            {
+                "content": "We also launched consultations for five new FMPs and amendment to Annex A of the Joint Fisheries Statement (JFS) proposing to review timelines.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile we supported a three-day pilot fisheries event held in Cornwall by Defra in partnership with the commercial fishing industry, to engage with stakeholders in shaping the future of fisheries management including several relevant FMPs for the area. We will be publishing a report summarising this workshop in early 2025- stay tuned to the blog for updates.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Closing the year with a bang",
+                "tag": "h2"
+            },
+            {
+                "content": "By November, Defra wrapped up the JFS consultation, with 40 positive responses\u2014an encouraging sign of continued support.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In December, we celebrated yet another milestone as the legislation laid in Parliament in October took effect.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also published the list of evidence statements and evidence gaps for the first six plans; you can explore the list here. These gaps were identified because of our engagement with communities, including commercial fishers and recreational anglers. We\u2019ll be talking about evidence and your further involvement in a blog post in the new year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have now established the implementation groups for crab and lobster, whelk, scallop, as well as the new Bass Management Group.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Finally, we shared the outcome to the consultation proposing amendments to Annex A of the JFS.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s been an ambitious year with many milestones reached. There is a lot more progress to make as we move into 2025.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "2024 has taught us so many lessons through all the stages of FMP development.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our five open consultations will end on 19 January 2025, and we\u2019ll analyse your responses to inform the proposals and share a Government response later in the year\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The last four plans are currently being developed, and we\u2019ll be engaging with stakeholder, so keep an eye out for opportunities.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will continue to progress the implementation of the FMPs. You can continue to get involved in this process in various ways, including through management groups advisory committees, Regional Fisheries Groups, and workshops.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you for being part of this journey. Your engagement remains vital as we work together to deliver sustainable fisheries. Here\u2019s to more progress in 2025.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u200b\u200bGet involved",
+                "tag": "h2"
+            },
+            {
+                "content": "\u200b\u200bStay informed, share your insights, and help shape the future of sustainable fisheries. Follow our blog for updates, and don\u2019t hesitate to get in touch with your ideas and feedback. Let\u2019s keep the conversation going!\u200b\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2024/12/23/highlights-of-2024-fmp-milestones-and-what-to-expect-in-2025/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "2024 was packed with activity across our fisheries management plans. Read about our milestones and what\u2019s coming up in 2025! "
+    },
+    {
+        "title": "Cornish daffodils without the muddy floods\u00a0",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2024-12-23T08:59:02",
+        "categories": [
+            "agriculture",
+            "Environment Agency",
+            "Flood",
+            "Sustainability"
+        ],
+        "content": [
+            {
+                "content": "Stephen Webster is a land management officer in Cornwall and has worked with daffodil growers over the last two years to reduce flood risk and soil erosion.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cornwall is the home of daffodils, with four out of five flowers cut and sold globally coming from this beautiful county. That works out at roughly 900 million daffodil stems grown in Cornwall per year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The humble daffodil also contributes to the UK economy, generating more than \u00a3100 million in retail sales. And from a sustainability point of view, these home-grown flowers have a significantly lower carbon footprint when compared with the rest of the UK cut flower market of which 86% is imported, usually via air freight.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That\u2019s just a handful of the facts I\u2019ve picked up in my job as an officer who is lucky enough to visit rolling yellow fields and work with knowledgeable growers to make sure the daffodil crop has a bright future in Cornwall, with as little environmental and flooding risk as possible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What can be done to help prevent pollution and flooding? The most used technique by daffodil growers throughout Cornwall is the use of a fast-growing nurse crop to stabilise the soil in the first year after bulb planting. This first year is when the soil is bare and loose and most at risk of run off.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Other measures (and there are many) include the use of a tied ridging, as seen in the photo below. This machine create ridges in the tramlines (impressions left by the wheels of tractors), to disrupt any overland water flows \u2013 allowing them to soakaway naturally into the flower ridges.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One of the growers I work with is Varfell Farms in Penzance. Varfell is the world\u2019s largest daffodil farm and managed by Farms director Simon Gardner. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Varfell and Simon, over the last decade, have looked to improve soil and plant health, reduce soil erosion and water runoff. A longer and more diverse crop rotation has been planned to include cover cropping in the place of some cash crops, with species carefully chosen to enhance soil health. Varfell also controls the amount of farming traffic to minimise soil compaction. The farm uses appropriate tillage not just to address soil compaction but also to promote beneficial microbes, which are all part of the farm\u2019s regenerative approach.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Simon welcomes the new approach that the Environment Agency has adopted to work more proactively with growers like Varfell. He says its great working with competent officers to discuss cropping and how land management practises can be tweaked to reduce environmental risks in an ever-changing climate.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The proactive work together includes using the free Environment Agency mapping tool called \ufffcALERT which stands for The Agricultural Land & Environment Risk and Opportunity Tool, to help assess a field\u2019s risk for causing pollution or surface water flooding. ALERT takes slope, LiDAR data - which shows where water will flow in extreme weather events, and soil type to indicate the inherent risk of a field. We then discuss if a high-risk crop like daffodils should or shouldn\u2019t be grown, and if the field is suitable what in-field mitigations can be put in place to prevent any adverse impacts. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "ALERT isn\u2019t just for daffodils and is publicly available on the farming advice service website to help all land managers.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Environment Agency is a regulatory body. If you cause pollution, appropriate enforcement action will be taken. But it is the aim that using a best practice approach, as used by the Cornish daffodil growers, will reduce the likelihood of enforcement occurring.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2024/12/23/cornish-daffodils-without-the-muddy-floods/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Stephen Webster is a land management officer in Cornwall and has worked with daffodil growers over the last two years to reduce flood risk and soil erosion.\u00a0\u00a0 Cornwall is the home of daffodils, with four out of five flowers cut \u2026"
+    }
+]
