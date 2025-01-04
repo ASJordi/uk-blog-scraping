@@ -1,5 +1,272 @@
 [
     {
+        "title": "Are schools closed because of snow? Everything parents need to know",
+        "authors": [
+            "Media Officer"
+        ],
+        "posted_on": "2025-01-03T10:23:04",
+        "categories": [
+            "Schools"
+        ],
+        "content": [
+            {
+                "content": "On snowy days schools make every effort to stay open but sometimes they must close or partially close if it\u2019s unsafe for pupils and teachers to attend.",
+                "tag": "p"
+            },
+            {
+                "content": "When there is a cold weather warning in place, many parents will be wondering whether their child's school will open. ",
+                "tag": "p"
+            },
+            {
+                "content": "Here we answer your questions about snow days.",
+                "tag": "p"
+            },
+            {
+                "content": "Is my school closed today because of snow?",
+                "tag": "h3"
+            },
+            {
+                "content": "Schools will have their own approaches to contacting parents, in many circumstances they have their own apps and/or messaging services.",
+                "tag": "p"
+            },
+            {
+                "content": "Schools will try to give parents as much notice as possible but sometimes decisions will be made quite late as circumstances change.",
+                "tag": "p"
+            },
+            {
+                "content": "It is always best to check your email, school app or school social media accounts regularly for updates.",
+                "tag": "p"
+            },
+            {
+                "content": "Who decides if schools should close?",
+                "tag": "h3"
+            },
+            {
+                "content": "Schools and other education settings set their own plans and policies on how to deal with adverse weather conditions.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s up to schools to decide on whether it is safe for them to open or close based on their own risk assessment and taking local issues into account.",
+                "tag": "p"
+            },
+            {
+                "content": "What things should schools consider when deciding whether to close?",
+                "tag": "h3"
+            },
+            {
+                "content": "Decisions will be made locally based on common sense and there are a large range of things that schools will consider",
+                "tag": "p"
+            },
+            {
+                "content": "This could include where staffing levels can\u2019t be met because transport issues are preventing teachers from getting to work.",
+                "tag": "p"
+            },
+            {
+                "content": "Other examples include safety conditions around the school, temperatures in school buildings and more.",
+                "tag": "p"
+            },
+            {
+                "content": "If they do decide to temporarily close during severe weather, they should consider moving to remote learning for pupils until it is safe to reopen.",
+                "tag": "p"
+            },
+            {
+                "content": "What if it\u2019s unsafe to travel to school in the snow and ice?",
+                "tag": "h3"
+            },
+            {
+                "content": "In exceptional circumstances, a pupil may be unable to attend school because a local or national emergency has resulted in widespread disruption to travel.",
+                "tag": "p"
+            },
+            {
+                "content": "If parents believe it would be unsafe to travel, they should inform the school as soon as possible to let them know their child won't be attending and why (in line with the schools absence policy).",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/01/schools-closed-for-snow-days-information-for-parents/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "On snowy days schools make every effort to stay open but sometimes they must close or partially close if it\u2019s unsafe for pupils and teachers to attend. When there is a cold weather warning in place, many parents will be \u2026"
+    },
+    {
+        "title": "Certification: independent assurance that the rules are being followed",
+        "authors": [
+            "John Peart"
+        ],
+        "posted_on": "2025-01-03T10:00:00",
+        "categories": [
+            "Certification",
+            "Digital identity"
+        ],
+        "content": [
+            {
+                "content": "Our trust framework sets out the rules digital identity and attribute services should meet. How can we be confident that those rules are being followed? That\u2019s the role of \u201cconformity assessment\u201d \u2013 or, more colloquially, certification. Our legislation \u2013 the Data (Use and Access) Bill \u2013 will require us to operate a process rooted in accredited conformity assessment, with a structure of standards, governance and oversight to help people know which digital identity services are trustworthy and secure.",
+                "tag": "p"
+            },
+            {
+                "content": "Assurance built on processes you already trust",
+                "tag": "h2"
+            },
+            {
+                "content": "We all rely on certification every day, whether we know it or not. The eggs we eat, seatbelts in our cars, locks on our front doors, phones in our pockets, and thousands of other things we use all the time are quality assured through a process of conformity assessment to ensure they are safe to use and work as intended.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re applying those same robust processes that keep you safe in every other area of your life \u2013\u00a0and that we all already implicitly trust \u2013\u00a0to the digital identity and attribute services market.",
+                "tag": "p"
+            },
+            {
+                "content": "Services are evaluated by independent experts",
+                "tag": "h2"
+            },
+            {
+                "content": "Our certification process is based on \u201cthird-party conformity assessment\u201d. That means that a service provider can\u2019t just self-declare its services meet our rules; it has to get an independent third party, with no connections to its service, to attest that it complies with the rules.",
+                "tag": "p"
+            },
+            {
+                "content": "Those independent third parties are called Conformity Assessment Bodies; organisations that specialise in objectively evaluating products, services and processes. We currently have 3 organisations that are approved to conduct certification. Each of them employs specialist auditors with specific expertise in technical areas covered by our trust framework.",
+                "tag": "p"
+            },
+            {
+                "content": "Certification based on international best practice",
+                "tag": "h2"
+            },
+            {
+                "content": "Whilst the trust framework defines \u2018what\u2019 is being evaluated, a Conformity Assessment Body needs to know \u2018how\u2019 to evaluate it too.",
+                "tag": "p"
+            },
+            {
+                "content": "For the UK digital identity and attributes trust framework, we\u2019ve created a \u2018certification scheme\u2019 based on the ISO/IEC 17065 standard. The certification scheme is a series of documents that define what Conformity Assessment Bodies have to do in order to evaluate services against the trust framework.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve chosen to base our certification scheme on the 17065 standard because it sets a clear baseline for how to evaluate products, services and processes and the minimum quality standards that Conformity Assessment Bodies must follow. Under our certification scheme, services must be evaluated at least annually to check that they continue to meet the rules in the trust framework.",
+                "tag": "p"
+            },
+            {
+                "content": "Independent assurance of independent certification",
+                "tag": "h2"
+            },
+            {
+                "content": "So we have rules in the trust framework for service providers to follow when building and operating their services, and we have rules for Conformity Assessment Bodies to follow when they provide certification.",
+                "tag": "p"
+            },
+            {
+                "content": "Who checks the checkers? That\u2019s the role of the UK Accreditation Service (or \u2018UKAS\u2019); the national accreditation body for the United Kingdom, appointed by government, to independently assess organisations that provide certification, testing, inspection and calibration services.",
+                "tag": "p"
+            },
+            {
+                "content": "UKAS does several things to ensure that this entire certification process we\u2019ve created is sufficiently robust, objective and well-managed.",
+                "tag": "p"
+            },
+            {
+                "content": "First, they hold OfDIA to account for the quality of the certification scheme that we have developed and against which services are being certified. This is a process called \u2018recognition\u2019; a detailed technical process where UKAS assessors scrutinise the work we\u2019ve done, and ensure it aligns to international standards and best practice.",
+                "tag": "p"
+            },
+            {
+                "content": "The non-statutory UK digital identity and attributes trust framework and its associated certification scheme were first \u2018recognised\u2019 by UKAS in April 2024. We\u2019ll be continually working with them to ensure the certification process remains of a high quality and maintains recognition going forward and this will continue following the Data (Use and Access) Bill coming into force.",
+                "tag": "p"
+            },
+            {
+                "content": "Once UKAS \u2018recognises\u2019 our certification scheme, UKAS then \u2018accredits\u2019 Conformity Assessment Bodies, auditing them to check they\u2019re implementing our certification scheme correctly.",
+                "tag": "p"
+            },
+            {
+                "content": "But the checks and balances don\u2019t stop there. UKAS itself is regularly assessed by its peer organisations worldwide, to ensure that it is performing recognition and accreditation activities in line with internationally agreed standards.",
+                "tag": "p"
+            },
+            {
+                "content": "Layers of checks and balances that you can trust",
+                "tag": "h2"
+            },
+            {
+                "content": "We know creating trust in digital identity services requires clear rules and assurance those rules are being followed. Our certification process is rooted in international best practice, and it has robust checks and balances in place.",
+                "tag": "p"
+            },
+            {
+                "content": "But you shouldn\u2019t have to understand this level of detail as a member of the public or as a business who needs to check identity in the economy to rely on a digital identity service.\u00a0 In the same way that a \u201cgas safe\u201d symbol and register make it easy to find a trusted heating engineer, we\u2019re creating a register of providers and, once the Data (Use and Access) Bill comes into force, we will start to issue a government trust mark; we\u2019ll be publishing more on that, soon.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2025/01/03/certification-independent-assurance-that-the-rules-are-being-followed/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "How can we be confident that the trust framework rules are being followed? That\u2019s the role of \u201cconformity assessment\u201d."
+    },
+    {
+        "title": "Historic rights of way saved",
+        "authors": [
+            "Environment blog team"
+        ],
+        "posted_on": "2025-01-03T09:36:27",
+        "categories": [
+            "Access and engagement",
+            "Community",
+            "Protected Landscapes"
+        ],
+        "content": [
+            {
+                "content": "Wishing you a very happy New Year from the Defra Environment blog team.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s a time of year when many of us enjoy a brisk winter\u2019s walk with our families.",
+                "tag": "p"
+            },
+            {
+                "content": "On Boxing Day, a favourite day for rambling, the government announced that it will repeal the 2031 cut-off date for recording historic rights of way.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "England has thousands of miles of unrecorded rights of way which are well used by walkers, cyclists and equestrians, but aren\u2019t officially recorded or protected.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These paths are some of the oldest inscriptions on our landscapes \u2013 a tangible record of people\u2019s movements over the centuries, with many paths and roads we use today dating back hundreds or thousands of years. For many walkers, the knowledge that you\u2019re on an ancient path trodden by generations of our ancestors is one of walking\u2019s great pleasures.",
+                "tag": "p"
+            },
+            {
+                "content": "However, local authorities have struggled under the burden of recording historic rights of way, which are estimated to stretch over 40,000 miles, by the 2031 cut-off date introduced by the last government. The government\u2019s move to reverse that decision means these paths will no longer be lost to the public.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Local authorities will now have the required time to assess whether paths meet the requirements to be added to the \u201cdefinitive map\u201d. This is the legal record of public rights of way and was established by the Atlee government when they passed the National Parks and Access to the Countryside Act 75 years ago this month.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once a right of way has been established the relevant local authority will then be legally responsible for maintaining them along with the appropriate landowner.\u00a0 This will ensure paths are maintained properly allowing more people to experience the benefits of spending time in the outdoors.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Exposure to green and blue space is associated with improved wellbeing, physical activity and health outcomes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In 2020, the value of health benefits associated with outdoor recreation within the UK was estimated to be between \u00a36.2 billion and \u00a38.4 billion.\u00a0 An estimated annual saving of \u00a32.1 billion would be achieved through averted health costs if everyone in England had good access to nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Repealing the cut-off date for historical rights of way is just one of the ways we\u2019re improving access to nature. There\u2019s lots of exciting work happening to help more families enjoy the benefits of nature.",
+                "tag": "p"
+            },
+            {
+                "content": "We are continuing to progress delivery of the King Charles III England Coast Path (now expected to be completed by Spring 2026) and the Coast to Coast National Trail.",
+                "tag": "p"
+            },
+            {
+                "content": "We also have the green social prescribing programme, which embeds nature into the delivery of preventative healthcare. And there\u2019s our Access for All programme in Protected Landscapes and the forestry estate, plus our Generation Green programme to connect disadvantaged children to Protected Landscapes.",
+                "tag": "p"
+            },
+            {
+                "content": "And, speaking of Protected Landscapes \u2013 the rights of way announcement follows earlier action to mark the 75th anniversary of the National Parks and Access to the Countryside Act, which included announcing strengthened powers for our National Parks and National Landscapes.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2025/01/03/historic-rights-of-way-saved/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "Wishing you a very happy New Year from the Defra Environment blog team. It\u2019s a time of year when many of us enjoy a brisk winter\u2019s walk with our families. On Boxing Day, a favourite day for rambling, the government \u2026"
+    },
+    {
         "title": "The King\u2019s New Year Honours list 2025: honours for contributions to education, skills and children\u2019s social care",
         "authors": [
             "mediaofficer"
@@ -148,6 +415,187 @@
             }
         ],
         "link": "https://educationhub.blog.gov.uk/2024/12/30/the-kings-new-year-honours-list-2025-honours-for-contributions-to-education-skills-and-childrens-social-care/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "Over 100 Brits who have made outstanding contributions to education, skills and children\u2019s social care in the UK have been recognised by the King in his New Year Honours. The nominees in the King\u2019s New Year\u2019s Honours List 2025 represent \u2026"
+    },
+    {
+        "title": "The King\u2019s New Year Honours list 2025: honours for contributions to education, skills and children\u2019s social care",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2024-12-30T23:04:09",
+        "categories": [
+            "Honours",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Over 100 Brits who have made outstanding contributions to education, skills and children\u2019s social care in the UK have been recognised by the King in his New Year Honours. ",
+                "tag": "p"
+            },
+            {
+                "content": "The nominees in the King\u2019s New Year\u2019s Honours List 2025 represent those working to improve lives through education at every stage \u2013 from early years workers to the individuals shaping higher education \u2013 as well as those striving to give more opportunities to disadvantaged families.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who is named in the honours list for education?",
+                "tag": "h2"
+            },
+            {
+                "content": "Amongst those who took top honours for services to education were Professor Julia Buckingham, vice-chancellor of Brunel University and president of Universities UK and Professor Alison Fuller from University College London. Both will be made Dames Commander of the Order of the British Empire. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Stuart Carlton, corporate director of Children\u2019s Services at North Yorkshire County Council, is to be knighted.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are also dozens of unsung heroes who have been honoured with an OBE, MBE, DBE, CBE or BEM from the King for their work making a positive difference to the lives of families and people in education. We spoke to a few of them to find out what this honour means to them:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alastair Da Costa, CBE\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Alastair, former chair of Capital City College Group, shaped further education at a national level as\u00a0lead commissioner for further education and adult skills on the government's Social Mobility Commission between 2018 and 2021.\u00a0\u00a0\u00a0In 2014 he became the first Chief Executive of the Princes Trust International, successfully establishing the charity which focuses on addressing youth unemployment around the world, improving the lives of over 10,000 young people annually across 19 different countries. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Alastair, said: \u201cI was honoured to have the recognition, humbled that people had gone out of their way to make the recommendation but also really pleased further education gets this recognition too. Further education is seeing social mobility in action, it\u2019s about providing opportunities for 16-year-olds through to adults to help them through their lives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cIf you\u2019ve got passion and commitment you can succeed, and in further education\u00a0there is a lot of passion and commitment shown by many, often unheralded, that allows the sector to succeed in providing great opportunities for learners.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Tracey Hemming, BEM\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Tracey is the director\u00a0of\u00a0Freedom Day Centre for children, young people and adults with special educational needs (SEND) in Worcestershire. When receiving her nomination letter, Tracey joked that she was so shocked she had to read it twice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Tracey says her personal experiences caring for family with extra needs has inspired her and given her the passion to care and look after others. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "She said: \u201cThe best part of my career is being able to make a difference to not only the service users but the families and parents. Purchasing Freedom Forever home has enabled all service users to have a permanent place where they can come and be themselves with no judgement. They are surrounded by people and happiness and love.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Remembering everyone is an individual and \u201cacting in a person-centred way\u201d is what Tracey says she and her team strive to do daily. Her plans for next year include setting up supported living accommodation with respite care.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Florence Kroll, CBE\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Florence is the director of Children Services, Royal Borough of Greenwich London. She is the adolescent safeguarding lead for London Directors of Children\u2019s Services and chairs the London Adolescent Safeguarding Overview Board. She leads and champions Greenwich Council\u2019s equality, diversity and inclusion work.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Florence said: \u201cI was absolutely delighted when I found out about my nomination for services to education. I am proud to accept this reward on behalf of all those colleagues I have worked with in the past and present. None of what we do is possible without the hard work of others. I have loved working with amazing, talented and dedicated people who strive for excellence with unwavering determination.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"Having the opportunity to repair difficult and traumatic children's experiences and doing all that we can to have make positive lasting memories for children is one of the greatest gifts and privileges. Whenever I have felt frustrated by something at work, a visit to a school or children's home lifts my spirits. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cI am proud of the progress that has been made in Greenwich and being relentlessly interested in people, being curious about them, listening to their stories, making sense of their life experiences, the adversity they face and always putting children\u2019s experiences and their developments first is at the heart of it all\u201d.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Purnima Tanuku, CBE\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Purnima is an advocate for early education and childcare and has been instrumental at Kirklees Council in the\u00a0development of its National Early Years Enterprise Centre which enables early years practitioners to meet and share best practice. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "She said: \u201cWhen I first found out I was going to be receiving the CBE it was quite a shock. I really wasn\u2019t expecting anything like this, and I went through several emotions, and it still hasn\u2019t sunk in yet. In the early years sector, people work so hard education very young children, and their childhood experiences really shape their lives for the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cI\u2019m always in awe of the wonderful work that they do, and the passion and commitment they demonstrate day-in-day-out in caring for young children \u2013 and that\u2019s really what drives me. I feel very proud and honoured to be representing such a wonderful sector.\u201d \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Susan Dawson, OBE\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Susan works as a schools commercial and operations director for the Department for Education. She has contributed to and overseen work to support schools make billions of pounds in savings.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "She said: \u201cI was surprised, thrilled and extremely proud to receive the news that I had been awarded the Order of the British Empire in the New Years Honours list. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\"I would never have imaged when I joined the civil service as an admin assistant exactly 35 years ago today that I would be given this recognition. This means more than words can express, but I could not have achieved this without the support of my colleagues, family, and friends throughout my career. I am incredibly proud of the work we do in the civil service and in particular the positive impact we make in Department for Education and across the Government Commercial Function. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAs a proud Yorkshire woman, I have been privileged to progress my career in the region, and I hope that this recognition inspires others to believe they can do the same.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beverley Campbell, MBE",
+                "tag": "h3"
+            },
+            {
+                "content": "Beverley is an advocate for kinship care with relatives and friends. She has been a leader in the development of family participation initiatives, which has been instrumental engaging families with child welfare policies like the Independent Review of Children's Social Care and the Government's Kinship strategy.",
+                "tag": "p"
+            },
+            {
+                "content": "She said: \u201cI feel so honoured to receive recognition for my work with Family Rights Group.\u00a0Our charity is committed to supporting both parents and kinship carers involved in the child welfare system, helping keep children and families safely together. It is being a part of that which makes a significant difference to my professional and personal life.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Timothy \u2018Beech\u2019 Williamson, BEM ",
+                "tag": "h3"
+            },
+            {
+                "content": "The Department for Education pays special tribute to Beech Williamson, who tragically died shortly after finding out about his honours nomination.",
+                "tag": "p"
+            },
+            {
+                "content": "Beech, an architect in the department\u2019s Design, Operations and Infrastructure group, was known to those in the wider education building world for his forensic knowledge and early adoption of technology in design. He joined the department in 1986 as an architectural assistant and was instrumental in cross-government work around standardisation, modern methods of construction, and net zero carbon. More recently, Beech worked to get better outdoor spaces on school sites and improve the standard of building provision to benefit children with special educational needs (SEND).",
+                "tag": "p"
+            },
+            {
+                "content": "A devoted father and husband, Beech died over the festive period after a period of illness, surrounded by his family.",
+                "tag": "p"
+            },
+            {
+                "content": "Who else is on the honours list?",
+                "tag": "h2"
+            },
+            {
+                "content": "The importance of literature and reading was celebrated with this year\u2019s highest honours including a Companion of Honour to author Sir Kazuo Ishiguro and a Dame Grand Cross of the Order of the British Empire for author Dame Jacqueline Wilson. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Companion of Honour has only 65 members at any one time and is reserved for those who have made a major contribution to their field over a long period. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Knight or Dame Grand Cross is rarely awarded and is the highest rank in the Order of the British Empire and is usually awarded to those who were previously knighted or made a Dame at a lower level.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can read more about Education Secretary Bridget Phillipson\u2019s mission to get more children reading for pleasure here.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2024/12/the-kings-new-year-honours-list-2025-honours-for-contributions-to-education-skills-and-childrens-social-care/",
         "blog": "The Education Hub",
         "blog_link": "https://educationhub.blog.gov.uk",
         "description": "Over 100 Brits who have made outstanding contributions to education, skills and children\u2019s social care in the UK have been recognised by the King in his New Year Honours. The nominees in the King\u2019s New Year\u2019s Honours List 2025 represent \u2026"
