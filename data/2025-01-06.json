@@ -1,5 +1,373 @@
 [
     {
+        "title": "Meningitis: I underwent multiple surgeries, including the amputation of several fingers",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2025-01-07T17:17:05",
+        "categories": [
+            "Immunisation and vaccination",
+            "immunisations",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Things were going well during my first weeks at university. I was living independently and enjoying the freedom, attending classes, and meeting new people. The previous 2 years of stress and preparation had led to this moment. But one weekend, while a friend from home was visiting, everything changed dramatically.",
+                "tag": "p"
+            },
+            {
+                "content": "We hadn\u2019t been out drinking - as you might expect - and went to bed at a reasonable time, feeling perfectly fine. In the middle of the night, I woke up vomiting uncontrollably. After hours of it not stopping, alarm bells rang. We contacted NHS 111, who directed me to A&E.",
+                "tag": "p"
+            },
+            {
+                "content": "By the early hours of the morning, I was still vomiting relentlessly, but there weren\u2019t any other warning signs. The doctors gave me anti-sickness tablets and were preparing to discharge me when my condition suddenly deteriorated. I became feverish, clammy and disoriented. I vaguely recall getting up to go to the bathroom, but I\u2019m told I collapsed and possibly had a seizure. Within hours, I\u2019d gone from healthy to hospitalised.",
+                "tag": "p"
+            },
+            {
+                "content": "Doctors worked frantically to cool me down, surrounding me with fans and ice packs. My parents arrived, visibly worried, and  I was placed in an induced coma for 2 weeks and moved to intensive care. By Monday evening, my condition had worsened, and my family were warned I might not survive the night due to sepsis. Yet somehow, I made it through.",
+                "tag": "p"
+            },
+            {
+                "content": "By Tuesday, my chances were still grim. My parents had to explain the situation to my 2 younger sisters, and my family said their goodbyes. My condition remained touch and go, and scans revealed swelling in my brain caused by meningitis. Doctors told my family that if the swelling increased, I wouldn\u2019t survive.",
+                "tag": "p"
+            },
+            {
+                "content": "When I eventually woke up 2 weeks later, I had no idea what had happened. I was disoriented, foggy from medications, and frustrated at not being able to enjoy simple pleasures like a hot chocolate. I gradually learned that I had been battling meningitis and sepsis, and looking down, I saw that my hands and patches of skin were completely black. The texture was unreal, almost like the surface of a brick.",
+                "tag": "p"
+            },
+            {
+                "content": "Over the next six weeks in intensive care, I underwent multiple surgeries, including the amputation of several fingers and the debridement of necrotic skin. My hands were bandaged, and I remember asking a nurse to draw on my godmother\u2019s hand to show how much I had left. Seeing her hand covered in pen - the reality hit me.",
+                "tag": "p"
+            },
+            {
+                "content": "Friends sent care packages - mostly socks, which seemed silly, as I was preparing to have my feet amputated. By December, I was on the trauma and orthopaedics ward, undergoing more skin grafts and surgeries. The pain was excruciating. After one procedure, I screamed from the burning sensation, like sitting in acid. Small joys, like opening advent calendars with my mum and godmother in the middle of the night, became my lifeline.",
+                "tag": "p"
+            },
+            {
+                "content": "At Christmas, I managed to leave the hospital for 6 hours to spend the day with my family in a house the university provided. In January, I was transferred to Salisbury for specialist surgery, where both legs were amputated. The operations were agonising, but once they were done, my focus shifted to rehabilitation.",
+                "tag": "p"
+            },
+            {
+                "content": "I threw myself into prosthetic rehab with determination. Monday to Friday, I was in the gym all day, learning to use my prosthetics and regaining strength. By the weekends, I was eager to go home and enjoy a sense of normality. After 7 weeks, I was walking independently with my prosthetics.",
+                "tag": "p"
+            },
+            {
+                "content": "In 2020, I returned to university to restart my medicine degree. It was the right time, and I was proud to reclaim my life. Despite my disability, I was determined not to let it change my path. In the midst of my studies, I joined the hand transplant list. Last year, I received a donor hand in Leeds. This was a major step forward, and the experience was much more positive since it was a choice I made while healthy.",
+                "tag": "p"
+            },
+            {
+                "content": "Now, I\u2019m pursuing a Master of Medical Science, with plans to complete my degree and become a doctor. I\u2019m grateful that despite the permanent effects of meningitis, I can manage my disability and lead an independent life.",
+                "tag": "p"
+            },
+            {
+                "content": "Meningitis is so easily preventable now with a vaccine. To any parents with young children or those eligible for the catch-up programme, I urge you to take this simple, life-saving step. If I could have prevented my infection, my life might have taken a very different course. While I feel incredibly lucky to be here today, I know not everyone gets that chance.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2025/01/07/meningitis-i-underwent-multiple-surgeries-including-the-amputation-of-several-fingers/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "In this blog post, Becca shares her story of how meningitis changed her life and disrupted her plans just weeks into her starting her degree."
+    },
+    {
+        "title": "Unlocking Accessibility: User researchers share their approach to digital accessibility and recruiting people with disabilities",
+        "authors": [
+            "Kelly Clarkson, Senior Accessibility Specialist, Government Digital Services",
+            "Samantha Merrett, Senior Accessibility Specialist, Ministry of Justice"
+        ],
+        "posted_on": "2025-01-07T08:46:59",
+        "categories": [
+            "Unlocking Accessibility",
+            "User research"
+        ],
+        "content": [
+            {
+                "content": "Image courtesy of Government Digital Services.",
+                "tag": "p"
+            },
+            {
+                "content": "Our Unlocking Accessibility series focuses on asking various professions or teams specific questions about digital accessibility.",
+                "tag": "p"
+            },
+            {
+                "content": "In the second instalment of this series, we asked user researchers from various government departments and public sector organisations about their role in making digital services accessible, recruiting people with access needs, and sharing best practices for integrating accessibility into the user research process.",
+                "tag": "p"
+            },
+            {
+                "content": "Traditionally, User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use  public services.",
+                "tag": "p"
+            },
+            {
+                "content": "Question 1 - What do user researchers do to help make digital services accessible?",
+                "tag": "h2"
+            },
+            {
+                "content": "Jenifer Klepfer, Senior User Researcher, Ministry of Justice",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cWe advocate for all users - especially those with access needs. We help teams understand the impact of design and development decisions on the people who use our services. We help teams gain empathy for users of our service and ensure digital products and services are designed to be truly inclusive and everyone can use them with ease - and we conduct research with users with access needs to ensure this is the case.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Sally Rogan, User Researcher Lead, Registers of Scotland",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cHere at Registers of Scotland our user research team takes a wide range of actions to make our digital services accessible.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe regularly raise awareness inside teams and across the business about the legal requirements. On hearts and minds we work collaboratively across multi discipline teams to support and build knowledge around accessibility. Our User Research team gathers insights into the diverse needs of our public and business customers. Then work closely with our testing community to understand how our services interact with common assistive tools.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Priyanca Dsouza, Senior User Researcher, Department for Business & Trade",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cService design is incomplete if it doesn't consider the needs of disabled people. Accessible services are better services.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe can use our positions in teams to represent and advocate for users, leading to better public services and experiences for users. Retrofitting accessibility can be expensive and time consuming; early user research can help identify gaps and challenges before they become larger problems.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe can challenge assumptions of who our users are and their needs. Internal or specialist services often assume that they don't have disabled users. Anyone can have or develop access needs, including scientists! Some services are used by millions of people so it's highly likely that a variety of access needs will be present in this population.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe team may not initially understand why we need to do research 'with deaf people' or 'users of assistive technology' but we can show them why it's important. We bring our teams closer to our users.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe can enable our team to observe the experiences of a person who needs to use a screen reader or speech recognition. UR can inspire people to problem solve and see the impact of their work on real people. Listen to your users and your user researchers!\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Kirsty Agyemang, User Researcher, Delivery and Schemes, OfGem",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cUser researchers ensure that accessibility is considered from the start by identifying the barriers that users with access needs face. These needs are identified through various methods like accessibility testing and co-design. We use these to gather insights into how people with access needs interact with our services. Researchers also work closely with designers and technical roles to ensure findings are actionable, aligning with accessibility standards and regulations such as WCAG and PSBAR to create inclusive experiences for all.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Sian Dunn, Senior User Researcher, Department for Environment Food and Rural Affairs",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cUser researchers ensure accessibility is proactively thought about throughout, we begin by recruiting a range of users including those with varying access needs. In addition, we can do some accessibility testing ourselves like relying on plug-ins like WAVE or screen readers to immerse ourselves as much as possible on the users behalf while also continuously testing our prototypes with users with access needs and sharing the findings. One of the most powerful things a user researcher can do is ask the question \u2018is it accessible?\u2019 throughout the development of a digital service, this organically encourages other team members to keep thinking about accessibility in a proactive way.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Natasha Peters, Senior User Researcher, Home Office",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cI currently work with our internal digital services at the Home Office to ensure we deliver accessible products and services for both the public and our colleagues. By conducting user research with members of staff, some of which have access needs or use assistive technology, I am able to capture real user experiences and understand how staff interact with our digital services. This supplements the theoretical accessibility testing taking place in earlier phases of delivery. Having these real-life insights helps our delivery teams empathise with a diverse set of users, enabling them to deliver more accessible digital services.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Scarlett Rowland, User Researcher, HM Revenue and Customs",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cAs a researcher, I am responsible for making sure that the user group I am testing with is as representative of the real population of end users as possible. I also help connect my team to the feelings and experiences of users who have access needs by inviting my team to watch sessions in real time, and include video and audio clips during playbacks. Our role is to ensure that all users are considered within the lifecycle of a project so that we can ultimately build something that meets the needs of our users.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Abhilaasha Kaul, User Researcher, Hackney Council",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cGood digital services are born from a deep understanding of the diverse needs and challenges faced by their users, service providers, and people affected by them. User researchers play a critical role in uncovering this understanding and weaving it throughout the design process\u2014from defining the problem to crafting the solutions.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cOn a strategic level, user researchers foster a shared understanding among their teams and organisations about who their users are, how they interact with services, and what factors enable or hinder their experiences. On a more granular level, they can create an empowering environment where every individual who needs and wants to engage can do so.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Question 2 - How do you go about recruiting people with access needs/disabilities?",
+                "tag": "h2"
+            },
+            {
+                "content": "Jenifer Klepfer, Senior User Researcher, Ministry of Justice",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cThis is a real challenge - especially when your service is designed for people with a certain type of specialist domain knowledge (for example an understanding of legal terminology). There are many great professional networks for people with access needs - we have found connecting with these really effective. Sometimes it takes creativity to connect with the right people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAnother thing we have found is that sometimes people are reluctant to self-identify as having an access need but once you are in a session they disclose that they need to make adaptations to do their work. This gives you an opportunity to dig deeper and try to understand a bit more.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cIn user research sessions we discuss being inclusive in how we design and ask not only about whether a participant has accessibility needs, but also whether anyone they work with needs to make any adaptations or has any accessibility needs. This can lead to useful connections, further user research sessions, and invaluable insights.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sally Rogan, User Researcher Lead, Registers of Scotland",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cFor internal systems we\u2019ll work with colleagues that may be using assistive technology, or neurodiverse colleagues who are comfortable participating in user research. We have a colleague within IT enablement who supports our work, coaching colleagues that may require Teams accessibility tools. This helps us get closer to colleagues inside our business we may not be aware of.\u00a0 For public customers we use a participant recruitment agency to help us find people with accessibility needs. We also try to use a variety of platforms to reach people on social media.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Priyanca Dsouza, Senior User Researcher, Department for Business & Trade",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cIdentify the criteria of the people you need and anticipate how these needs may interact with your research tasks or stimuli.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cYou could use screening questions that pick up on barriers people face, challenging interactions as an alternative to specifying participants have 'X medical condition'. Something like brain fog can be experienced by people going through many different situations. Successfully recruited participants via specific forums and groups. Also provided briefs to agencies.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cOn GOV.UK One Login, we tested complex journeys where navigation and orientation were challenging. So screened for working memory and executive function issues to stress test our designs.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Kirsty Agyemang, User Researcher, Delivery and Schemes, OfGem",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cI ensure people with access needs are included in every round of the research. I do this by involving target user groups of our service, which I identify through optional questions added to the consent forms about needs and capabilities, in addition to partnering with specialist recruitment agencies. I ensure research materials are inclusive to different access needs, provide multiple contact methods and offer accommodations like flexible scheduling. Being transparent about how their insights will be used helps build trust and encourages participation.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Sian Dunn, Senior User Researcher, Department for Environment Food and Rural Affairs",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cIt\u2019s important to establish who will be using the service first, to then hone into that user group. Once we have a pool to recruit from, we\u2019ll then start to recruit so that we ensure we have representation of users with access needs (at least 1/5). It\u2019s often the case that some people might have faced poor accessibility from services or workplaces and therefore they\u2019re not part of those groups. In that case, we outsource recruitment to specialist agencies who work with users with access needs and disabilities.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Natasha Peters, Senior User Researcher, Home Office",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cBy collaborating with our department\u2019s fantastic accessibility specialists, we continue to understand how we can quickly and effectively reach participants with access needs. For example, I often share research opportunities in our internal staff disability networks, or in wide-reaching communication channels like our staff newsletters. Both approaches enable me to reach staff with a variety of access needs, as well as ensuring representation across other relevant aspects. I find explaining the benefits clearly to staff helps recruit participants - so for example, how my research will help drive change, and how getting involved can have a positive impact for staff with access needs across the organisation.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Scarlett Rowland, User Researcher, HM Revenue and Customs",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cMy favourite way of diversifying my participant group is by getting out into the community. You\u2019ll often find me scrolling event websites, or looking on local notice boards to try and find places my users might be going. If I find one that seems right, I\u2019ll get in touch with the organiser to see if it\u2019s okay for me to come along to the event. Depending on the structure of the event, you may be able to do recruitment or pop up research too.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Abhilaasha Kaul, User Researcher, Hackney Council",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cA great starting point is tapping into existing organisational touchpoints with individuals who have additional needs. As a researcher at a Local Authority, I have the unique advantage of collaborating with both internal teams and external partners (like charities and community organisations) dedicated to supporting those with additional needs. Involving partners who have specialised knowledge and established trust within these communities, allows me to prioritise the safety and comfort of all participants.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAdditionally, our organisation has invested in creating online forums where we can share lighter touch research methods like surveys and communicate upcoming research projects with residents. This helps us offer participants greater flexibility in how they engage with the research and also encourages wider participation.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Question 3 - Can you share any best practices for incorporating accessibility into the user research process?",
+                "tag": "h2"
+            },
+            {
+                "content": "Jenifer Klepfer, Senior User Researcher, Ministry of Justice",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cNormalise talking about accessibility and inclusion. Accessibility and inclusion start at the very beginning of a project and continue throughout all phases of the design cycle - not as an afterthought.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe have checklists on all our Jira tickets - one of these is about whether accessibility has been considered and if it is impacted by changes being made, ensuring this is an ongoing discussion for the team for every ticket we create.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cIf new members join the team or there is a feeling the inclusive mindset has slipped, you can do cognitive walkthroughs of your service using the GDS accessibility personas. These help increase empathy and make very real the impact of design/development choices.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe also ensure the team observes/notetakes for sessions with users with access needs which also really helps bring accessibility to life for the team.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cBest of luck!\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sally Rogan, User Researcher Lead, Registers of Scotland",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cTaking inspiration from Richard Morton and his team, we attended an accessibility clinic a few years ago. We have now set up our own clinic working alongside colleagues from the Scottish Government. We run these through our monthly Tester Community of Practice meetings where colleagues can bring us their accessibility conundrums. We also have an accessibility checklist based on Wcag 2.2 and this produces an automated report for testers that helps update our accessibility statements. Accessibility Scotland is a must for us to attend and\u00a0 the accessibility cross government quarterly meet ups online.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Priyanca Dsouza, Senior User Researcher, Department for Business & Trade",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cThroughout 2024 on GOV.UK One Login, each round of user research I did included people with access needs or lower digital confidence, often both. Accessibility can be something that is embedded in your research. I also ran workshops with the wider identity UR community to understand challenges URs had experienced or anticipated doing research with these groups. Captured a real variety of valuable responses ranging from practical things like recruitment briefs and prototype maturity to buy-in from teams. We generated ideas and actions of how to address these challenges and issues before prioritising next steps. You could do this in your own organisation.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Kirsty Agyemang, User Researcher, Delivery and Schemes, OfGem",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cIncorporate accessibility at every stage of research - don\u2019t treat it as a mere checklist or afterthought. Design materials in accessible formats and ensure research tools and platforms are inclusive. Ensure diverse representation of access needs. Remember accessibility isn't just about disabilities or impairments - it's about removing barriers that exclude people, whether due to low digital capabilities, having English as an additional language, or lacking access to the internet or Wi-Fi. It's also important to create an environment where participants feel comfortable sharing their experiences and provide accommodations as needed. Lastly, involve the entire project team in accessibility discussions to embed inclusivity into research findings and subsequent designs.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Sian Dunn, Senior User Researcher, Department for Environment Food and Rural Affairs",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cEnsure that accessibility is mentioned from the start, it\u2019s important to ask the question \u2018have we thought about accessibility?\u2019 \u2018is this accessible?\u2019 so that we actively, and collectively, work on finding those answers. Ensure that we have a wide range of representation when recruiting users and this is in your research plan, if we face barriers with recruitment, look to lean into networks or agencies that\u2019ll support you. If consent is given, bring your team along to research sessions, work on empathy maps together. Ensure that your research methods are chosen with accessibility in mind and consult an accessibility team and ethics team if available.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Natasha Peters, Senior User Researcher, Home Office",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cThe best tip I can give is to consider accessibility early in the user research process. This gives you the time to ensure your participants represent not only a variety of access needs, but experiences too. Remember having an access need is personal, and two people with the same needs or conditions may use digital services differently. In terms of the research process, any accessibility defects should be identified before a product or service is used in research with users. If the issues cannot be resolved ahead of research sessions, the user researcher should be comfortable supporting participants with any workarounds. After the sessions, I like keeping participants in the loop about how their insights are used to drive change.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Scarlett Rowland, User Researcher, HM Revenue and Customs",
+                "tag": "h3"
+            },
+            {
+                "content": "\u201cMake sure that you are asking your participants for information about any support that they may need during the session in advance. Asking these questions early allows you time to appropriately prepare and make any changes you may need to.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cIf you\u2019re unsure of how best to support a particular participant's access needs, you can set up a call in advance of the session to learn more and to discuss how to make sure they can participate in the research session. Remember - your participants are experts of their own lived experiences.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Abhilaasha Kaul, User Researcher, Hackney Council",
+                "tag": "h3"
+            }
+        ],
+        "link": "https://accessibility.blog.gov.uk/2025/01/07/unlocking-accessibility-user-researchers-share-their-approach-to-digital-accessibility-and-recruiting-people-with-disabilities/",
+        "blog": "Accessibility in government",
+        "blog_link": "https://accessibility.blog.gov.uk",
+        "description": "We asked user researchers about their role in making digital services accessible, recruiting people with access needs, and sharing best practices for integrating accessibility into the user research process."
+    },
+    {
         "title": "Recruitment - independent member of ARAC (finance expert)\u00a0",
         "authors": [
             "TRA Communications"
