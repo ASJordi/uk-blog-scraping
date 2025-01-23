@@ -1,5 +1,827 @@
 [
     {
+        "title": "Your feedback on the gamma (0.4) trust framework",
+        "authors": [
+            "Charlie Smith",
+            "Georgina Wheatley"
+        ],
+        "posted_on": "2025-01-22T17:08:24",
+        "categories": [
+            "Digital identity",
+            "UK digital identity and attributes trust framework"
+        ],
+        "content": [
+            {
+                "content": "In November, we pre-released the gamma (0.4) publication of the trust framework. We also highlighted that we would be seeking feedback on this latest publication to inform our ongoing work.",
+                "tag": "p"
+            },
+            {
+                "content": "This post kicks off that engagement cycle, explaining how we will be gathering views over the next fortnight and detailing our planned priorities for further development.",
+                "tag": "p"
+            },
+            {
+                "content": "Working in the open",
+                "tag": "h2"
+            },
+            {
+                "content": "The trust framework is being developed iteratively \u2013 in consultation with a wide range of stakeholders across the public and private sectors, as well as civil society and academia. We call this \u2018open policymaking\u2019. The value of this approach is that it allows us to keep pace with the emerging digital identity market.",
+                "tag": "p"
+            },
+            {
+                "content": "For instance, the additional role types we introduced for gamma resulted directly from discussions with certified providers. And the strengthened rules on supporting users when things go wrong delivered on clear priorities for our public dialogue participants.",
+                "tag": "p"
+            },
+            {
+                "content": "Preparing the next trust framework",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ve only just pre-released the gamma publication, and know that no providers have yet been certified against it. But once the Data (Use and Access) Bill passes later this year, the Secretary of State will have a duty to review the trust framework at least annually. That means we need to start developing the first \u2018statutory\u2019 publication now, so that it will be ready to publish soon after the Bill\u2019s passage.",
+                "tag": "p"
+            },
+            {
+                "content": "As always, we will be continuing with the iterative and collaborative approach we\u2019ve pursued to date. From today, we are therefore welcoming responses to a written survey on the gamma publication and the future direction of the trust framework\u2019s development. You can find a link to the survey at the end of this post.",
+                "tag": "p"
+            },
+            {
+                "content": "Focusing on the \u2018five i's\u2019",
+                "tag": "h2"
+            },
+            {
+                "content": "While the government\u2019s digital identity principles will continue to underpin our work on the trust framework, we intend to particularly focus on what we\u2019re calling the \u2018five i's\u2019 over the next year or so. These five areas we\u2019re targeting for development are:",
+                "tag": "p"
+            },
+            {
+                "content": "Stability and Supporting Documents",
+                "tag": "h2"
+            },
+            {
+                "content": "As we launch this next round of engagement, we want to reassure providers that we remain mindful of the potential business burden of successive changes to the trust framework. The gamma publication recently marked an important step forward, and so we intend to minimise changes to the trust framework this time around.",
+                "tag": "p"
+            },
+            {
+                "content": "While we still welcome feedback on the gamma publication, we\u2019re therefore especially interested to hear how we could further develop the Good Practice Guides, data schema and other supporting documents that underpin the trust framework. This will should help us strengthen the foundations of the trust framework scheme as a whole.",
+                "tag": "p"
+            },
+            {
+                "content": "Submitting your feedback",
+                "tag": "h2"
+            },
+            {
+                "content": "With that said, we want to hear from you. What do you think about the gamma publication? What do you think about the \u2018five i's\u2019 we plan to focus on? Are there any other areas for development we should be considering?",
+                "tag": "p"
+            },
+            {
+                "content": "Our survey is available online and will be open for responses for the next fortnight, until the 3rd of February 2025. Thank you, as always, for your continued support and engagement with OfDIA\u2019s work. We look forward to reading your feedback.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2025/01/22/your-feedback-on-the-gamma-0-4-trust-framework/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "In November, we pre-released the gamma (0.4) publication of the trust framework. We also highlighted that we would be seeking feedback on this latest publication to inform our ongoing work. This post kicks off that engagement cycle, explaining how we \u2026"
+    },
+    {
+        "title": "How we delivered more than 1,500 digital export journeys",
+        "authors": [
+            "Liam Bancroft"
+        ],
+        "posted_on": "2025-01-22T17:02:49",
+        "categories": [
+            "Defra interaction",
+            "Defra service design",
+            "Defra services"
+        ],
+        "content": [
+            {
+                "content": "Liam Bancroft, a Product Owner in the Animal & Plant Health Agency (APHA) Borders and Trade team, shares his insights into the work he has been leading to develop a digital service for those seeking to export animals and animal products.",
+                "tag": "p"
+            },
+            {
+                "content": "The Export Health Certificates Online service launched five years ago and enabled a digital journey for exporters of animals and animal products to get an export health certificate (EHC). Since launch, the service has processed more than 1.8 million certificates, helping to support the UK\u2019s vital agri-food export trade, with \u00a323.6 billion exported annually to the EU alone.",
+                "tag": "p"
+            },
+            {
+                "content": "Building for flexibility and maintainability",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the unique challenges of exporting is the broad range of rules and regulations that goods must adhere to, depending on where they\u2019re being sent. For us, this means needing to cater for thousands of different EHCs, including \u201cSheepskin to China\u201d and \u201cDairy to Australia\u201d, each requiring a different set of information. Furthermore, these certificates are updated regularly, as importing country requirements change.",
+                "tag": "p"
+            },
+            {
+                "content": "As a result, when designing EHC Online, we knew configurability would be key to delivering the volume of digital journeys required, and to enable us to respond rapidly to change. So, rather than developing each journey through bespoke code, we developed a form-builder, which empowered Animal & Plant Health Agency (APHA) staff to configure, iterate and publish digital journeys themselves.",
+                "tag": "p"
+            },
+            {
+                "content": "Setting user-centred foundations",
+                "tag": "h2"
+            },
+            {
+                "content": "EHC Online was designed in a user-centred way, and our user researchers continually validated our assumptions with real users to inform development. This input highlighted that it wouldn\u2019t be enough to design the form-builder well \u2013 the content configured by form administrators would need to be user-centred too.",
+                "tag": "p"
+            },
+            {
+                "content": "We started by embedding a content designer and interaction designer into the form-building team, to produce initial form designs ready to test. We carried out usability testing on a selection of configured forms, to understand how users would interact with the content, and then used these to iterate our designs.",
+                "tag": "p"
+            },
+            {
+                "content": "But we knew the approaches we took for the first few forms would need to consistently scale-up to cater for the thousands of forms that would be configured. So, we created a set of design principles to guide those configuring the forms on how to frame page titles consistently, and how to order content and pages. We put together a content library \u2013 a spreadsheet of usability-tested content \u2013 which promoted reuse and enabled consistency across content.",
+                "tag": "p"
+            },
+            {
+                "content": "Lastly, we knew user research would be key to ensuring we were meeting users\u2019 needs, but it wouldn\u2019t be feasible to do multiple rounds of usability testing on each of the 1,500-plus journeys. So, we adopted a risk-based approach by segmenting user groups, the types of goods they work with and the countries they were exporting to. We invested more research time into higher volume journeys, non-standard journeys or where a new segment hadn\u2019t been encountered before. Over time we were able to gradually scale down the level of user research, to a point where it would only be required by exception \u2013 when a new pattern, concept or user group was encountered for the first time.",
+                "tag": "p"
+            },
+            {
+                "content": "Embracing agility",
+                "tag": "h2"
+            },
+            {
+                "content": "The form administration team in APHA wanted to deliver value to users continuously, working from the most impactful and highest-volume journeys first, before tackling the lower-volume journeys. They also needed the flexibility to respond to change, withdrawing or altering existing journeys as new importing country requirements come into force.",
+                "tag": "p"
+            },
+            {
+                "content": "Prior to adopting agile practices, the team\u2019s process was a tangle of spreadsheets and post-its which resulted in slow production, cumbersomely manual quality checks and journeys which weren\u2019t coherent in their language, layout or flow.",
+                "tag": "p"
+            },
+            {
+                "content": "The team then adopted an agile approach to form configuration, based on Kanban. The team visualised their work on a Kanban board, which had the added benefit of highlighting any bottlenecks or blockers. Our design principles ensured each form the team designed had the same flow, with content written in a consistent voice.\u00a0 If any design issues arose, the team had a set of guiding principles to fall back on which really aided problem solving.",
+                "tag": "p"
+            },
+            {
+                "content": "Over time, this enabled the team to optimise their effort to increase the flow of work and streamline the delivery of value.",
+                "tag": "p"
+            },
+            {
+                "content": "For example, in the initial process, form administrators would prototype their ideas in Microsoft PowerPoint before configuring them on the system. But over time, they identified this step took longer than simply configuring the form on the system and making any required adjustments there. So, they adjusted their process accordingly, which increased throughput and reduced the average turnaround time.",
+                "tag": "p"
+            },
+            {
+                "content": "Quality-focus",
+                "tag": "h2"
+            },
+            {
+                "content": "In the same way software programming requires manual effort and interpretation of requirements, so does form configuration. We recognised that where manual human configuration takes place, issues will always occur.",
+                "tag": "p"
+            },
+            {
+                "content": "Borrowing from software development processes, the team built peer review and acceptance testing steps into the process to ensure any issues were captured before the forms were made live to users. Over time, as common problems were encountered, the team amended their quality assurance checklists, and the number of issues identified reduced.",
+                "tag": "p"
+            },
+            {
+                "content": "These checklists enabled all issues to be captured in the initial stages, and no content or design issues would be uncovered in the second stage of \u201cacceptance testing\u201d. This offered another opportunity to simplify and streamline the process, so the quality assurance steps of the process were brought together into a single step, further increasing throughput.",
+                "tag": "p"
+            },
+            {
+                "content": "The team built feedback loops into their process to ensure they had visibility on any issues with the forms they published. Over time, they were able to build up evidence to demonstrate the quality of their outputs. They used this evidence to agree a delegated authority for the team to publish new form journeys themselves without requiring external approval, which removed 1to 3 days from the average turnaround time.",
+                "tag": "p"
+            },
+            {
+                "content": "Optimising over time",
+                "tag": "h2"
+            },
+            {
+                "content": "APHA\u2019s form administration team have been able to provide a valuable insight into how form-building tools should work. Through feedback from this team, we understood the importance of being able to \u201ctest\u201d forms before publishing them for production use.",
+                "tag": "p"
+            },
+            {
+                "content": "Without an ability to publish a form for testing, the form administration team would need to configure their forms on a non-production environment for testing. The scope for manual error in replicating this configuration on 2 environments would impact quality and in turn slow down throughput. So, EHC Online\u2019s development team extended the form-building capability to provide this feature, in turn reducing form administration effort and speeding up throughput.",
+                "tag": "p"
+            },
+            {
+                "content": "Leveraging the investment",
+                "tag": "h2"
+            },
+            {
+                "content": "As we reflect on 5 years of form administration, we are proud of what EHC Online has achieved so far. It has been recognised by the Central Digital & Data Office as a \u2018Top 75\u2019 government service, forming a key part of the 2025 roadmap for digital and data. Its success was only possible because we built a scalable platform and set up an effective form-building operation. To date, we have delivered more than 1,500 digital journeys to users, while achieving 93% customer satisfaction.",
+                "tag": "p"
+            },
+            {
+                "content": "Over this time, EHC Online\u2019s form-building tool has been re-used to accelerate the delivery of other digital trade journeys, including the Plant Health Export Service and Northern Ireland Retail Movement Scheme.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s clear form-building platforms are here to stay, evidenced by the uptake of platforms such as GOV.UK Forms. We were happy to have been able to feed our experiences into the Defra Forms team, and excited to see their work progress as they pave the way for the next generation of digital form-building tools for Defra.",
+                "tag": "p"
+            },
+            {
+                "content": "Liam Bancroft is a Product Owner in the Animal & Plant Health Agency (APHA) Borders and Trade team.",
+                "tag": "p"
+            },
+            {
+                "content": "Check out our\u00a0LinkedIn page\u00a0for all the latest news, stories and job openings. While you're there, why not give us a follow.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defradigital.blog.gov.uk/2025/01/22/how-we-delivered-more-than-1500-digital-export-journeys/",
+        "blog": "Defra digital, data, technology and security",
+        "blog_link": "https://defradigital.blog.gov.uk",
+        "description": "Liam Bancroft, a Product Owner in the Animal & Plant Health Agency (APHA) Borders and Trade team, shares his insights into the work he has been leading to develop a digital service for those seeking to export animals and animal \u2026"
+    },
+    {
+        "title": "How the TRA uses data",
+        "authors": [
+            "georgie"
+        ],
+        "posted_on": "2025-01-22T15:44:53",
+        "categories": [
+            "Engagement",
+            "Investigations",
+            "Policy",
+            "Pre-application office"
+        ],
+        "content": [
+            {
+                "content": "The TRA is an evidence- and data-led independent authority. The quality of data collected during a case will have a real impact on its outcome, as this information is the basis for the decisions made by the Secretary of State when we present our findings and recommendations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We recently held a webinar for anyone who was interested in finding out more how the TRA operates and manages industry data in its investigations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Weichao Wang, TRA Head of Data, explained:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cOur mission as an organisation is to defend the UK from unfair international trade practices and what really underpins that is our investigations. To allow our investigations to be fair, impartial, rigorous, and efficient, we must have good data to use as evidence.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We were also joined by Sarah Avery, who leads our Technical Support Function within our Pre-Application Office (PAO). Engagement with the PAO is the first interaction with the Trade Remedies Authority and is an important step on the data collection journey.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "With data provided from the business or industry, the PAO will look for evidence of:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The data can also give early indications of who the potential measure might affect and how. Sarah explained:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThat's why it's really important that we hear from people on the production side, but also from importers, downstream users, upstream users and gather their data to really get a full picture of what's happening.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sarah and Wei were joined by Dan, Naomi, and Margaret to complete the TRA panel. They all shared interesting insights on how each department uses data.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What level of support do you offer to smaller businesses who perhaps don't have the resources or the time to trawl through loads of data to find out what they need to submit?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Pre-Application office is here to advise and direct businesses to the types of things that they\u2019ll need to submit [an application], and we'll check those application forms and provide feedback on those to guide applicants and to explain what further information is needed or answer any questions. But we (TRA) can't go and find that evidence. It's the industry's case to bring as they are the experts in their field. But we can provide guidance around what we're looking for and how that application needs to be submitted.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Once a case is accepted it will be investigated by a dedicated team that includes investigators, analysts, verification advisers, policy advisers and legal experts. One of our Lead Investigators, Naomi Holland joined us to explain how there are different methods of collecting data used by the investigating teams, and how they use that data once collected.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Naomi explained that one of the major sets of data we need are key figures such as \u201cdetailed cost and sales data... quantitative financial data that's going to include information on cost of production and transaction level sales data, and that forms the basis of our calculations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re also looking for qualitative information, providing a narrative surrounding the figures provided. This is basically a chance to present your company's narrative of the events\u201d.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These questionnaires go to the parties raising the case, as well as producers, importers, and exporters in order to paint the clearest picture of the situation as possible.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sometimes the information provided is inadequate, and these are known as deficiencies. There are three main deficiencies:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Do you receive data that has been falsified for example from overseas companies wanting to play down the level of subsidy subsidisation they received from their governments?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is why we conduct verification. We have certainly had instances where we've had two different parties registered to the same investigation, providing information that appears to contradict each other. But this is the whole purpose behind why we verify the data that we're given, and we will aim to make sure that we are confident in the data that we're using through these verification activities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Has there been any user research into the factors that contribute to deficiencies? Is it users\u2019 misunderstanding the question not having the information or deliberately withholding the information?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From a pre application point of view, the industry are having to engage with trade remedies for a lot of industries and so looking particularly to bring applications and things can be quite jargon heavy and the level of information, the detail of information that we need can be quite granular so that can be quite off putting or it can just be quite confusing.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sometimes it is a case of parties not quite understanding what we've asked for. I think that's something that we are still learning as an organisation with going through a project to rethink about how we structure these questionnaires to simplify and making it easier to understand.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "One of our Analyst\u2019s, Dan Moore, explained the Economic Interest Test (EIT) which is a unique part of the TRA\u2019s process for investigation. The EIT explores where a trade measure is in the interest of the UK economy.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWhen you're submitting this survey, we'll ask you to write short written answers. This helps us to understand the qualitative decision making of the firms in the market as this helps us inform the EIT. This helps us get the most accurate and relevant data for the investigation\u201d.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Is the EIT considered passed or failed by an estimated absolute value or is it balanced judgement across the affected groups or industry?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": " It is very much a number of factors. We try to quantify the economic value or the economic impact of each of our measures as much as possible. So, looking at when we look at things like injury, competition, and answers or where there is a feasibility for us to quantify it, we will as a good economist should do. But I said, certain elements of the work that we do sometimes can't be quantified in such a straightforward way. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Lead Verification adviser, Margaret Shittu, explained how data is used and tested in the verification process. Outlining the importance of the submitted data, Margaret said:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cVerification is the process of assessing the data provided to the TRA for completeness, relevance, and accuracy. These three criteria\u2019s gives us a reasonable level of assurance that over the data and that we may be able to rely on the data.\u201d\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can find out more about the entire verification process here.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Click here to watch the full webinar with the full Q&A.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Click here for links to our Pre-app office and public file\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to find out about our next webinars explaining how trade remedies can help in defending UK businesses in international trade follow us on X and LinkedIn.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://traderemedies.blog.gov.uk/2025/01/22/how-the-tra-uses-data/",
+        "blog": "Trade Remedies Authority",
+        "blog_link": "https://traderemedies.blog.gov.uk",
+        "description": "The TRA is an evidence- and data-led independent authority. The quality of data collected during a case will have a real impact on its outcome, as this information is the basis for the decisions made by the Secretary of State \u2026"
+    },
+    {
+        "title": "Strengthening Marine Science and Sustainability: The Ocean Country Partnership Programme in Maldives",
+        "authors": [
+            "angharadelliman",
+            "Peter Randall"
+        ],
+        "posted_on": "2025-01-22T15:31:41",
+        "categories": [
+            "Aquaculture",
+            "biodiversity",
+            "Climate Change",
+            "International",
+            "OCPP",
+            "Pollution"
+        ],
+        "content": [
+            {
+                "content": "In October, the Ocean Country Partnership Programme (OCPP) team from Cefas visited the Maldives to enhance local expertise in the collection of data from fishers, water quality monitoring and OSPAR methods of beach monitoring. The visit began with adverse weather requiring the team to modify their plans for various fieldwork activities.",
+                "tag": "p"
+            },
+            {
+                "content": "Mal\u00e9 harbour sign",
+                "tag": "p"
+            },
+            {
+                "content": "The Ocean Country Partnership Programme (OCPP) is a bilateral technical assistance and capacity building programme that provides tailored support to countries to manage the marine environment more sustainably, including by strengthening marine science expertise, developing science-based policy and management tools and creating educational resources for coastal communities. The OCPP delivers work under three thematic areas: biodiversity, marine pollution, and sustainable seafood. Funding is provided through the Official Development Assistance (ODA) overarching Blue Planet Fund (BPF) by the UK Department for the Environment, Food and Rural Affairs (Defra) and delivered collaboratively by the Centre of Environment, Fisheries and Aquaculture Science (Cefas), Marine Management Organisation (MMO) and Joint Nature Conservation Committee (JNCC).",
+                "tag": "p"
+            },
+            {
+                "content": "Stormy skies over Mal\u00e9 harbour (Top) and flooded Mal\u00e9 high street (Bottom)",
+                "tag": "p"
+            },
+            {
+                "content": "Abandoned Lost and otherwise Discarded Fishing Gear (ALDFG)",
+                "tag": "p"
+            },
+            {
+                "content": "Peter Randall, OCPP pollution lead for Maldives, and Anthony Gallagher from Evolved Research and Consulting Ltd (ERC) have launched a national ALDFG baseline data collection project. They developed a fisher questionnaire with non-governmental organisation (NGO) SIGS (Small Island Geographic Society) and refined it with Dr. Ahmed Riyaz Jauharee, Dean of the College of Fisheries and Ocean Sciences in the Maldvies. Dr. Jauharee\u2019s expertise on the bait fishery and Fish Aggregation Devices (FADs) enhanced the survey.",
+                "tag": "p"
+            },
+            {
+                "content": "The team also met with Adam Manik from the Ministry of Fisheries to discuss the project and gain insights into Maldives fisheries. Adam, along with Abdulla Shakir of the Maldives Fishing Association, will now lead the survey data collection. Their deep knowledge of local fisheries and strong connections with fishers will be critical to the project\u2019s success.",
+                "tag": "p"
+            },
+            {
+                "content": "The locations of the national landing sites where the ALDFG fisher survey will be delivered (Left), some of the ALDFG survey questions (Right)",
+                "tag": "p"
+            },
+            {
+                "content": "The OCPP ALDFG team visited Hai Fishing Tackles one of the main fishing gear suppliers in Mal\u00e9 to get a better understanding of the fishing gears used in the handline, pole and line, and the bait net fisheries. Hai provided data on various gears that will aid the ALDFG survey, enabling the identification of any domestic ALDFG litter when conducting beach monitoring.",
+                "tag": "p"
+            },
+            {
+                "content": "Some examples of nets used in the bait fishery (Left), various monofilament lines used in both hand line and pole and line fisheries in Maldives (Right).",
+                "tag": "p"
+            },
+            {
+                "content": "The team also met with Isha Afeef of the Olive Ridley Project (ORP) to discuss ORP\u2019s decade-long work on turtle entanglement in ALDFG and their standard sampling protocol. ORP agreed to share their data to support validation of the ALDFG fisher survey.",
+                "tag": "p"
+            },
+            {
+                "content": "The team then moved on to Himmafushi Island, Kaafu Atoll, a key fish landing site in Central Maldives, to pilot test and refine the fisher survey, producing a final polished version.",
+                "tag": "p"
+            },
+            {
+                "content": "Wall artwork located at Himmafushi harbour demonstrating local awareness of the marine litter issue.",
+                "tag": "p"
+            },
+            {
+                "content": "With support from Big Fish Maldives Pvt Ltd, the OCPP team began pilot testing the Maldives ALDFG survey. Despite infrequent landings and the quick turnaround of vessels targeting baitfish and tuna, several test surveys were successfully completed. This allowed the team to refine the survey tool for full implementation in the coming months.",
+                "tag": "p"
+            },
+            {
+                "content": "Freshly caught yellow fin tuna on the deck of a fishing vessel.",
+                "tag": "p"
+            },
+            {
+                "content": "The captain of the fishing vessel Faridhuveli 4 commented \u201cAlthough we may not directly get anything from participating in the ALDFG survey, my hope is that ultimately fishers will benefit from the outcomes of this project\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "SIGS complete pilot runs of the ALDFG survey with fishers landing at Himmafushi.",
+                "tag": "p"
+            },
+            {
+                "content": "Beach Monitoring training",
+                "tag": "p"
+            },
+            {
+                "content": "With temperatures feeling like 40\u00b0C due to humidity, beach monitoring training took place at dawn on Himmafushi\u2019s Jail Break beach. A 50m section was marked using GPS, and Peter demonstrated the OSPAR beach monitoring method to Hamza Moosa and Zara Athif of SIGS. The team profiled the beach, collected litter larger than 5cm, categorised it, weighed each category, and ensured proper disposal.",
+                "tag": "p"
+            },
+            {
+                "content": "Beach litter monitoring training (Left), Peter Randall demonstrates litter collection and categorisation to SIGS (Right)",
+                "tag": "p"
+            },
+            {
+                "content": "ALDFG Outreach",
+                "tag": "p"
+            },
+            {
+                "content": "On their return to Mal\u00e9 the OCPP team had a final meeting with SIGS to discuss the future outreach plan on completion of the national ALDFG baseline data collection survey. Outreach will be conducted in 3-4 locations near landing sites across the Maldives to fishers and other relevant stakeholders in Autumn 2025, followed by a national ALDFG conference in Mal\u00e9.",
+                "tag": "p"
+            },
+            {
+                "content": "Water Quality (WQ)",
+                "tag": "p"
+            },
+            {
+                "content": "Requests for Water Quality support and training from the Environmental Protection Agency (EPA) and Department of Water and Sanitation (DWS) of the Ministry of Environment, Climate Change and Technology resulted in the formation of a water quality team from Cefas consisting of Andy Powell and Michelle Stone  covering microbiological aspects, whilst Tom Hull and Andy Smith covered the water column and chemical pollution aspects.",
+                "tag": "p"
+            },
+            {
+                "content": "Maldives partners collaborated with OCPP to design and conduct marine surveys assessing the impacts of untreated sewage discharges from offshore outfalls around Greater Mal\u00e9. The team provided training on identifying physical, chemical, and biological parameters to evaluate impacts on marine ecosystems and human health, ensuring wastewater meets the Utility Regulatory Authority (URA) standards. Additionally, they worked with URA to develop a roadmap for effective measurement and regulation of these standards.",
+                "tag": "p"
+            },
+            {
+                "content": "EPA\u2019s Research Vessel Thimaaveshi used as a laboratory by Andy Powell and Michelle Stone",
+                "tag": "p"
+            },
+            {
+                "content": "The OCPP WQ team started their visit by converting the wet laboratory on board the EPA\u2019s vessel RV Thimaaveshi into a microbiology laboratory enabling the training of EPA staff in the microbiological processing of samples collect on survey.",
+                "tag": "p"
+            },
+            {
+                "content": "Training of EPA on board the RV Muraka (Left & Bottom Right), OCPP WQ team describing the water quality sampling to the Utility Regulatory Authority (Top Right)",
+                "tag": "p"
+            },
+            {
+                "content": "The EPA\u2019s second small vessel the RV Muraka was used for sample collection.\u00a0 The team conducted water sampling for microbiological analysis; deployment of conductivity, temperature, and depth (CTD); deployment of tryptophan probe; and deployment of Niskin for nutrient samples.",
+                "tag": "p"
+            },
+            {
+                "content": "Samples for hydrocarbons, metals, and toxicity analysis were collected during the Maldives visit. Hydrocarbon and metals testing was conducted in partnership with a Sri Lankan laboratory to strengthen regional analytical capabilities. Toxicity testing was performed onboard the RV Thimaaveshi using Cefas' refined mobile laboratory.",
+                "tag": "p"
+            },
+            {
+                "content": "Unexpected issues with the RV Muraka curtailed boat-based work, but the experienced team shifted to a shore-based sampling plan, continuing data collection and training. Two wrap-up meetings followed, presenting findings, discussing next steps, and exploring applications for policy and regulatory improvements. Key topics included data management, monitoring programs, and water quality guidelines.",
+                "tag": "p"
+            },
+            {
+                "content": "Rifath Naeem, EPA Director, praised the effort: \u201cThank you very much for the important work we accomplished together. From sample collection to analysis, the entire program went well despite some hiccups with the boat and the weather. I would like to express my appreciation to Andy and the team for their efforts\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "These visits advanced efforts to combat marine pollution and equipped Maldivians with skills to monitor the environment and support informed decision-making.",
+                "tag": "p"
+            },
+            {
+                "content": "Special thanks to all our partners in Maldives and all those who participated in this trip: Cefas\u2019 Peter Randall, Andy Smith, Andy Powell, Michelle Stone and Tom Hull, and ERC\u2019s Anthony Gallagher.",
+                "tag": "p"
+            },
+            {
+                "content": "Special thanks also to Cefas\u2019 Charlotte Jessop for all her before, during and after the trip support and for acting as the key Cefas Primary Contact (CPC).",
+                "tag": "p"
+            }
+        ],
+        "link": "https://marinescience.blog.gov.uk/2025/01/22/strengthening-marine-science-and-sustainability-the-ocean-country-partnership-programme-in-maldives/",
+        "blog": "Marine Science",
+        "blog_link": "https://marinescience.blog.gov.uk",
+        "description": "In October, the Ocean Country Partnership Programme (OCPP) team from Cefas visited the Maldives to enhance local expertise in the collection of data from fishers, water quality monitoring and OSPAR methods of beach monitoring. The visit began with adverse weather \u2026"
+    },
+    {
+        "title": "Continuing to drive responsible adoption of technology",
+        "authors": [
+            "Responsible Technology Adoption Unit"
+        ],
+        "posted_on": "2025-01-22T12:03:43",
+        "categories": [
+            "Responsible innovation"
+        ],
+        "content": [
+            {
+                "content": "Since its establishment as the Centre for Data Ethics & Innovation in 2018, the Responsible Technology Adoption (RTA) Unit has provided a hub driving government\u2019s work on responsible use of technology across both the public sector, and the broader economy, working closely with a range of teams across government and beyond.",
+                "tag": "p"
+            },
+            {
+                "content": "Now that we have set up the expanded Government Digital Service (GDS) and the AI Opportunities Unit within DSIT, the work of RTA will be integrated into these functions. As a result, this blog will no longer be updated.",
+                "tag": "p"
+            },
+            {
+                "content": "RTA\u2019s key areas (and associated team members) are now embedded across DSIT as follows:",
+                "tag": "p"
+            },
+            {
+                "content": "These changes are intended to strengthen DSIT\u2019s focus on all aspects of responsible technology adoption, ethics and assurance by deploying specialists close to work to drive adoption of AI and digital technologies.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you to everyone who has engaged with us since the inception of this work under the former Centre for Data Ethics and Innovation in 2018. We will continue this engagement from across the department, and will soon share further information on a Responsible AI Advisory Panel to be established by the new GDS.",
+                "tag": "p"
+            },
+            {
+                "content": "Where to Find More Information",
+                "tag": "p"
+            },
+            {
+                "content": "You can read more on the expanded Government Digital Service (GDS) which unifies the work of multiple units, including some of RTA\u2019s, in the blueprint for modern digital government.",
+                "tag": "p"
+            },
+            {
+                "content": "See also government\u2019s new plan to leverage technology to streamline public services, eliminate delays and reduce costs.",
+                "tag": "p"
+            },
+            {
+                "content": "You can also find information on previous work on the Responsible AI Toolkit, a toolkit for practitioners to support the responsible use of AI systems.",
+                "tag": "p"
+            },
+            {
+                "content": "Stay updated on DSIT\u2019s work via the GOV.UK page and on LinkedIn for updates.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://rtau.blog.gov.uk/2025/01/22/continuing-to-drive-responsible-adoption-of-technology/",
+        "blog": "Responsible Technology Adoption Unit Blog",
+        "blog_link": "https://rtau.blog.gov.uk",
+        "description": "Since its establishment as the Centre for Data Ethics & Innovation in 2018, the Responsible Technology Adoption (RTA) Unit has provided a hub driving government\u2019s work on responsible use of technology across both the public sector, and the broader economy, \u2026"
+    },
+    {
+        "title": "Introducing DfE Connect: bringing key information for schools into one place",
+        "authors": [
+            "Charlotte Dowd, Policy advisor and sector engagement lead"
+        ],
+        "posted_on": "2025-01-22T11:39:06",
+        "categories": [
+            "Advice and support",
+            "Services"
+        ],
+        "content": [
+            {
+                "content": "What is DfE Connect?DfE Connect is a free service from the Department for Education designed to make life easier for school business professionals and school leaders. Launched in April 2024, this service will be your central hub for essential DfE guidance, data, and resources. It\u2019s currently only available to mainstream pre-16 academies and academy trusts, with plans to include local authority-maintained schools in 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "We know navigating the DfE\u2019s many digital services, guidance pages, and deadlines can be time-consuming and challenging. That\u2019s why DfE Connect aims to bring all the support you need into one user-friendly place.",
+                "tag": "p"
+            },
+            {
+                "content": "Why was DfE Connect created?We\u2019ve listened to feedback from school business professionals and leaders who told us that accessing DfE services can feel like a maze. With over 100 digital services, countless data collections, and thousands of pages of guidance, finding what you need quickly isn\u2019t always easy.",
+                "tag": "p"
+            },
+            {
+                "content": "Research highlighted several pain points felt by school leaders and business professionals:",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022 Difficulty navigating services to find critical guidance and updates.\u2022 Concerns about staying compliant and meeting deadlines.\u2022 Time pressures caused by interacting with multiple platforms",
+                "tag": "p"
+            },
+            {
+                "content": "DfE Connect directly addresses these challenges by offering a single-sign-on platform tailored to your needs.",
+                "tag": "p"
+            },
+            {
+                "content": "What is the vision for DfE Connect and the aims of the service?We listened to feedback from school leaders and school business professionals about the challenges you face when engaging with the Department for Education. This input shaped our vision for DfE Connect: to create a better, more efficient way for you to access the information and services you need. DfE Connect is designed to recognise who you are, your role, and your school\u2019s context to:",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022 deliver the most relevant digital services, guidance, and updates tailored to your needs.\u2022 streamline processes by ensuring you only provide information once, with it seamlessly shared across DfE systems",
+                "tag": "p"
+            },
+            {
+                "content": "Our goal is to simplify and personalise your interaction with DfE through a one-stop shop that serves as your gateway to all DfE support. With DfE Connect, we aim to transform how the department communicates and collaborates with schools and trusts.",
+                "tag": "p"
+            },
+            {
+                "content": "How will DfE Connect help?DfE Connect will simplify and personalise your experience with DfE digital services. It will:",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022 streamline tasks: view upcoming mandatory finance deadlines and access relevant support in one place\u2022 personalise content: the platform knows your role, school type, and location to deliver only the information that matters to you\u2022 reduce workload: spend less time logging in, filling out forms, and searching for guidance",
+                "tag": "p"
+            },
+            {
+                "content": "From January 2025, you\u2019ll also be able to access all DfE grant and funding opportunities through DfE Connect.",
+                "tag": "p"
+            },
+            {
+                "content": "What benefits will DfE Connect offer?Benefits will include:",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022 reduced workload: Save time navigating DfE services and completing administrative tasks\u2022 improved communication: Access DfE updates and services via one platform\u2022 greater personalisation: Filter out irrelevant information and focus on what applies to your school or trust\u2022 enhanced security: A single sign-in reduces password sharing and login issues\u2022 better decision-making: Get the data and guidance you need to make informed choices for your school\u2022 cost savings: Reduce reliance on third-party support to interpret policies or complete data returns",
+                "tag": "p"
+            },
+            {
+                "content": "Who can access DfE Connect?Right now, DfE Connect is available to school leaders and school business professionals in all mainstream pre-16 academies and academy trusts. Local authority-maintained schools will be added in 2025, with further expansion to post-16 and special schools planned for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next for DfE Connect?This is just the beginning. We\u2019re continuously gathering feedback from school staff to ensure DfE Connect meets your needs. Future developments include:",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022 adding new content on procurement, safeguarding, and workforce management\u2022 introducing alerts and communication tools\u2022 creating a feature for academy trusts to delegate tasks and track progress\u2022 expanding access to local authority-maintained schools and other education settings",
+                "tag": "p"
+            },
+            {
+                "content": "How can I access DfE Connect?If you haven\u2019t already, set up a DfE Sign-in account to start using DfE Connect.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking aheadAs we roll out more features and content, we\u2019re committed to supporting your school or trust with the tools you need to succeed. For more information or support, email dfe.connect@education.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "DfE Connect is here to save you time, reduce your workload, and make working with the DfE simpler and more effective. Give it a try today!",
+                "tag": "p"
+            },
+            {
+                "content": "Help us build and grow DfE ConnectWe are keen to receive feedback from school business professionals and school leaders to ensure DfE Connect works for everyone!If you would like to take part, please complete the sign-up form Get invited to take part in research that's relevant to you (office.com)",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019ve found this article useful and want to learn more about how we\u2019re supporting schools, click \u2018sign up and manage updates\u2019 to subscribe to our blog and receive notifications when we next post.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://buyingforschools.blog.gov.uk/2025/01/22/introducing-dfe-connect-bringing-key-information-for-schools-into-one-place/",
+        "blog": "Buying for Schools",
+        "blog_link": "https://buyingforschools.blog.gov.uk",
+        "description": "What is DfE Connect?DfE Connect is a free service from the Department for Education designed to make life easier for school business professionals and school leaders. Launched in April 2024, this service will be your central hub for essential DfE \u2026"
+    },
+    {
+        "title": "Navigating Countryside Stewardship Higher Tier funding for effective woodland management",
+        "authors": [
+            "Becky Hawkey"
+        ],
+        "posted_on": "2025-01-22T08:24:00",
+        "categories": [
+            "Woodland management"
+        ],
+        "content": [
+            {
+                "content": "Countryside Stewardship Higher Tier is one the core offers under the Environmental Land Management scheme. It pays farmers and land managers to manage land in a way that:",
+                "tag": "p"
+            },
+            {
+                "content": "These are important foundations for sustainable and resilient farming and food production.",
+                "tag": "p"
+            },
+            {
+                "content": "On 11 December 2024, Defra published guidance outlining the Higher Tier land management practices called 'actions', which will have funding available from 2025.",
+                "tag": "p"
+            },
+            {
+                "content": "In total there will be 99 revenue base actions and 33 supplemental actions. This blog outlines the actions available to support woodland management in line with the UK Forestry Standard.",
+                "tag": "p"
+            },
+            {
+                "content": "An approved woodland management plan",
+                "tag": "h2"
+            },
+            {
+                "content": "Before you can apply for Higher Tier woodland actions, you must have a woodland management plan approved by the Forestry Commission. Your plan should support the management objectives outlined in your Higher Tier application.",
+                "tag": "p"
+            },
+            {
+                "content": "A woodland management plan provides a structured way to plan and organise the sustainable management of woodland in line with the UK Forestry Standard. The plan of operations allows woodland managers to be issued with a felling licence for 10 years.",
+                "tag": "p"
+            },
+            {
+                "content": "You can apply for funding to write your plan using the capital item, PA3 Woodland management plan. The minimum eligible land size this item can support has been reduced from 3 hectares to 0.5 hectares, allowing more woodland to come into management.",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside a woodland management plan, you may need to prepare other plans or studies to support your Higher Tier application such as a species management plan or a feasibility study.",
+                "tag": "p"
+            },
+            {
+                "content": "Higher Tier woodland actions",
+                "tag": "h2"
+            },
+            {
+                "content": "The Higher Tier woodland actions consist of one revenue base action (woodland improvement) and 8 supplementary actions.",
+                "tag": "p"
+            },
+            {
+                "content": "Your local Woodland Officer will discuss and agree what you need to do, specific to your site, to fulfil the aim of an action you intent to apply for. These agreed activities will be set out in your agreement document.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Starting with woodland improvement",
+                "tag": "h2"
+            },
+            {
+                "content": "CWD2 Woodland improvement is the 10-year revenue base action. To access the woodland supplement actions, you must include this action in your application. It is available on land that meets the definition of woodland and is a minimum size of 0.5 hectares.",
+                "tag": "p"
+            },
+            {
+                "content": "This base action supports sustainable woodland management in line with the UK Forestry Standard including:",
+                "tag": "p"
+            },
+            {
+                "content": "Further detail on what you must to do to receive payment for this action, and all the woodland actions, can be found in the Countryside Stewardship Higher Tier actions guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "Woodland type supplements",
+                "tag": "h2"
+            },
+            {
+                "content": "There are three supplement actions to support specific woodland types. These supplements cannot be used on the same area. However, you can apply for them all in your overall application. These supplements are:",
+                "tag": "p"
+            },
+            {
+                "content": "Other woodland supplements",
+                "tag": "h2"
+            },
+            {
+                "content": "The remaining 5 woodland supplement actions can be used to support the management or maintenance of specific features or other objectives. They are: ",
+                "tag": "p"
+            },
+            {
+                "content": "Additional Higher Tier actions that can be used in woodland",
+                "tag": "h2"
+            },
+            {
+                "content": "There are further actions available that sit outside of this list of \u2018woodland actions\u2019 but can support woodland management objectives relating to:",
+                "tag": "p"
+            },
+            {
+                "content": "Capital items to support your woodland management",
+                "tag": "h2"
+            },
+            {
+                "content": "In addition to the revenue base actions and supplementary actions, you can apply for funding to support capital works in your woodland. Defra have published a list of new capital items available under Higher Tier. You will need to discuss these items with your local Woodland Officer as part of your application.",
+                "tag": "p"
+            },
+            {
+                "content": "Annex D of the preview guidance outlines which capital items can be used to support your woodland management. Not all these items are currently available.",
+                "tag": "p"
+            },
+            {
+                "content": "Our recent blog, \u2018Getting ready to apply for Countryside Stewardship Higher Tier\u2019, outlined the capital funding that is available to support the production of plans and studies that may be required as part of pre-application. This includes:",
+                "tag": "p"
+            },
+            {
+                "content": "An expanded offer for better woodland management",
+                "tag": "h2"
+            },
+            {
+                "content": "The updated Higher Tier offer increases the support available for woodland management. This includes the",
+                "tag": "p"
+            },
+            {
+                "content": "In addition to this, woodland owners can access multiple actions outside of these core woodland actions to support their management activities.",
+                "tag": "p"
+            },
+            {
+                "content": "By reducing the minimum application size for woodland improvement, from 3ha to 0.5ha, more land managers in England can access funding to support sustainable woodland management in line with the UK Forestry Standard. This will help to manage woodland in a way that greater protects, restores or enhances our environment and mitigate the effects of climate change.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2025/01/22/navigating-countryside-stewardship-higher-tier-funding-for-effective-woodland-management/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "Becky Hawkey, the Forestry Commission\u2019s Environmental Land Management Team Manager, outlines the Countryside Stewardship Higher Tier offer and how different funding actions within the grant stack together to help bring woodland into effective management."
+    },
+    {
         "title": "Reflecting on a landmark year for Companies House\u00a0",
         "authors": [
             "Louise Smyth CBE - Chief Executive and Registrar of Companies for England and Wales"
