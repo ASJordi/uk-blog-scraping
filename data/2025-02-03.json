@@ -1,0 +1,470 @@
+[
+    {
+        "title": "How we\u2019re combating fraud and error within the MOT",
+        "authors": [
+            "Chris Price"
+        ],
+        "posted_on": "2025-02-03T14:57:07",
+        "categories": [
+            "Changes to the MOT test",
+            "MOT testing service",
+            "News and updates"
+        ],
+        "content": [
+            {
+                "content": "When we set out our strategy in 2023 for the next few years, combating fraud and making it easier to identify and support those getting things wrong was one of the key areas we looked at.\u00a0Connected equipment has been a part of that \u2013 as will other initiatives in the future. Much of our recent focus has been on how capturing photos at the time of a test can play its part.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whilst it\u2019s only a small number of testers who bring disrepute to the industry by committing fraudulent MOTs, it does happen, and this undermines the important work the rest of you do every day to keep vehicles safe. And of course, even errors at the test \u2013 even though not deliberate \u2013 can cause issues for motorists. For example where MOTs may be logged against the wrong vehicle.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We want to create a level playing field for all, where high quality is the default, and the scourge of fraudulent or substandard testing is minimised. Of course, there is no one thing that will achieve that \u2013 but we believe that having a photo at test could be a really helpful enabler.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Taking photos in garages\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Some of you might remember, or have been part of, the original trials to see how capturing photos of the vehicle during the test might work. We\u2019d hoped to integrate this into the service last year, but came across a few issues that we needed to solve first \u2013 hence more trials with much to work through!",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve been able to look again and simplify how this could work to make it more safe and secure, and also easy for you all to use. We\u2019ve moved away from capturing just the number plate and recording that in MTS, and instead we want to get a photo of the whole vehicle in the testing bay.",
+                "tag": "p"
+            },
+            {
+                "content": "Our original aim with capturing images of vehicles was to ultimately prevent fraudulent, ghost MOTs happening, and we think this method will be a better way of allowing us to do this.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Although we\u2019re focusing on the image capture of the whole vehicle right now, we still want to see how we might be able to use technology to interpret the image capture \u2013 for example checking the location, the registration plate or vehicle type. However, we are taking this one step at a time \u2013 we know many of you found this useful last time, but we want to start with getting the basics working!",
+                "tag": "p"
+            },
+            {
+                "content": "How it will work\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The new prototype feature will prompt you to take a photo of the vehicle in a testing bay, after you\u2019ve entered the number plate or VIN.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You will need to do this on a phone or a tablet. You can start the test on a computer, but you will still need to take a photo of the vehicle with a phone or tablet; you won\u2019t be able to do this using a webcam.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service will give you prompts on how to capture the photo and what we\u2019re looking for. It\u2019ll then be saved against the record, and you\u2019ll be able to carry out the rest of the MOT as normal. You will not be able to upload images stored on your device before or after the test, we only allow images taken from the camera through the MTS at that time.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The prototype feature looks like this. It will then give you advice and examples on what to take a photo of.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Trialling the new changes\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Now we\u2019ve redesigned how capturing images will work, we want to go out and trial this new design with as many of you as possible, in different testing set-ups. We\u2019ll then review the feedback and see whether this is something we want to bring into the service for everyone.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019d like to help us test this new feature please fill out our form and give us your contact information. If you meet the requirements, a member of the team will be in touch. Whilst we\u2019d like to trial the feature with as many of you as possible, we need to make sure we\u2019re testing features with a broad range of different garages and set-ups, so we will be selecting participating garages on that basis. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sign up: https://forms.office.com/e/zgEzns9XQ6",
+                "tag": "p"
+            },
+            {
+                "content": "Why this is important\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We know ghost MOTs account for nearly 80% of all fraudulent MOTs, making it a clear area for us to tackle. Knowing if a vehicle is where it should be at the time of test should reduce the number of MOTs carried out when the vehicle isn\u2019t present, or isn\u2019t the same vehicle as the details being entered into MTS. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Potentially, both authorised examiners and DVSA will be able to see the images stored against the test record, and this will help all of us to crack down on fraud. It will enable us to focus our efforts on helping garages do the right thing, but also free up time to focus on those who are not and deal with them accordingly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping your MTS account secure",
+                "tag": "h2"
+            },
+            {
+                "content": "Alongside our images in garages work, we also want to focus on keeping the MTS platform as secure as possible and all of us who use the system can help with that. Last year we saw a few MTS accounts compromised because testers had their details hacked.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We found this was because the testers' email or social accounts, that used the same email and password as MTS, had been hacked, and this information was then used to gain access to MTS.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As we start the new year, I wanted to remind you of some easy things you can do to help keep your account safe and prevent this happening to you.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Use a strong password",
+                "tag": "h3"
+            },
+            {
+                "content": "Creating a strong password that doesn\u2019t use easy to guess information like pet names or birth dates is important. It\u2019s a good idea to have a separate password for work purposes too. Multi-factor authentication is also a great way to stay secure \u2013 which is where you use another platform or device to confirm it\u2019s you\u00a0logging into a service.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019d encourage you to use a 2FA (two factor authentication) app like google authenticator when logging into MTS so that you don\u2019t need to log into your private email accounts on a shared work computer.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Stay aware of phishing emails\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Phishing emails may appear genuine but are in fact fake. They might try and trick you into revealing sensitive information or contain links to a scam website or an infected attachment. It\u2019s a good idea to keep your personal information private so they can\u2019t make their emails seem as convincing.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Secure your devices\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "It might seem obvious, but we know it\u2019s easy to forget to lock your device or log out of things on a shared computer when you\u2019re busy. Not doing so can make it much easier for someone to access your personal information. You are responsible for any information accessed, changed or stored through your log in.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Keeping you updated\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ll keep you updated on how the trial for\u00a0 images in garages is going once we\u2019ve rolled it out in the next few months. Your feedback and views will be really important to make sure this works within the test.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mattersoftesting.blog.gov.uk/how-were-combating-fraud-and-error-within-the-mot/",
+        "blog": "Matters of Testing",
+        "blog_link": "https://mattersoftesting.blog.gov.uk",
+        "description": "As part of our ongoing strategy to combat fraudulent MOTs and improve testing accuracy, we are trailing a new feature that captures vehicle images during the test."
+    },
+    {
+        "title": "Science and FMPs event: progress made and exploring the future",
+        "authors": [
+            "\u200b\u200bJennifer Scott - Fisheries Science Advisor, Defra\u200b"
+        ],
+        "posted_on": "2025-02-03T10:00:08",
+        "categories": [
+            "Bass FMP",
+            "Channel demersal non-quota FMP",
+            "Cockle FMP",
+            "Crab and lobster FMP",
+            "King scallop FMP",
+            "North Sea and Channel sprat FMP",
+            "Queen scallop FMP",
+            "Southern North Sea and Channel skates and rays FMP",
+            "Southern North Sea and Eastern Channel mixed flatfish FMP",
+            "Southern North Sea demersal non-quota FMP",
+            "Whelks in English waters FMP"
+        ],
+        "content": [
+            {
+                "content": "How are fisheries management Plans (FMPs) delivering sustainable fisheries for the UK? What is the role of science, research and collaboration in delivering the evidence that underpins FMPs?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out at our upcoming event: Science and FMPs: progress made and exploring the future\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Join us for an interactive event hosted by Defra that will share updates and insights from different Research & Development (R&D) projects which are currently working to address evidence gaps within the UK\u2019s FMPs.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Shining a spotlight on the innovative projects and collaborations between scientists, policymakers and fishers, we will highlight the positive outcomes, challenges encountered, and the plans for future research to support FMPs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Information for your diary\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Date: Tuesday 18 March 2025\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Time: 14:00 \u2013 17:30\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Location: Hybrid - Wellcome Collection, London and online\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Throughout the event, attendees will have the chance to ask questions, hear from researchers working on FMP related projects, and explore the future direction of collaborative science for FMPs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To book your spot please sign up here:\u00a0",
+                "tag": "h2"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2025/02/03/science-and-fmps-event-progress-made-and-exploring-the-future/",
+        "blog": "Fisheries Management Plans ",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Defra is hosting a hybrid event on 18 March to explore the role of science, research and collaboration for FMPs. Register your place to get involved. "
+    },
+    {
+        "title": "The importance of diversity when developing high quality advice",
+        "authors": [
+            "Dr Suzy Walton"
+        ],
+        "posted_on": "2025-02-03T09:56:30",
+        "categories": [
+            "About the Committee",
+            "Department for Communities (Northern Ireland)",
+            "DWP",
+            "HMRC",
+            "Independent advice",
+            "Legislation"
+        ],
+        "content": [
+            {
+                "content": "I joined the Social Security Advisory Committee (SSAC) in January 2025 and it is an extremely rewarding role. We get involved in many aspects of the welfare system, not just scrutinising secondary legislation but receiving updates on various aspects of social security. We also do some of our own independent research and you can see some examples of our work on our website. We work not only with the Department for Work and Pensions (DWP) but the Department for Communities in Northern Ireland and HM Revenue and Customs also. You really do feel that you contribute to some important issues.",
+                "tag": "p"
+            },
+            {
+                "content": "Early in my tenure I went to spend a day at a Job Centre. I was humbled by having the opportunity to see \u2018policy in action\u2019 and how the DWP staff interact with claimants at various stages of their journey.",
+                "tag": "p"
+            },
+            {
+                "content": "I have a background as a former Senior Civil Servant and a board director in many different settings. I do not have a background in the welfare system. However, that has proved to be a strength not a weakness for SSAC. We are a diverse group of people and that is an advantage. We each add value by giving our thoughts and opinions on various issues before us. That means the quality of our work is high as we have truly had input from a whole range of perspectives before we reach recommendations.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are thinking of applying to become a SSAC member, \u00a0I would urge you to give it a go. If you have looked at some of our work on our website and it interests you and you feel your skills map well onto out current gaps \u2013 please apply! If you are appointed and you join us you will find it an extremely interesting and rewarding role.",
+                "tag": "p"
+            },
+            {
+                "content": "One of the best aspects of the role for me is the opportunity to play a part in making sure our welfare and benefits system does not have unintended consequences, and that each new piece of legislation fits in with the bigger picture. We work closely with officials in DWP and sometimes with officials in other government departments. The constructive dialogue we have with officials helps us deliver our recommendations. We meet in London and also virtually and as mentioned above we also have an opportunity to \u2018get out of the office\u2019 and see the welfare system in operation.",
+                "tag": "p"
+            },
+            {
+                "content": "The range of people we assist through our scrutiny of welfare system legislation is very diverse. Hundreds of thousands of people from all walks of life engage with benefits in one way or another. It is an honour and a privilege to work on such an important agenda. Most of all I get a lot of satisfaction from knowing that we are helping to make the system work well \u2013 both for the public and the government. If you have an interest in SSAC, do please step forward.",
+                "tag": "p"
+            },
+            {
+                "content": "More information about SSAC's current vacancies and how to apply can be found here. The closing date for applications is 10 February 2025.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ssac.blog.gov.uk/2025/02/03/the-importance-of-diversity-when-developing-high-quality-advice/",
+        "blog": "Social Security Advisory Committee",
+        "blog_link": "https://ssac.blog.gov.uk",
+        "description": "I joined the Social Security Advisory Committee (SSAC) in January 2025 and it is an extremely rewarding role. We get involved in many aspects of the welfare system, not just scrutinising secondary legislation but receiving updates on various aspects of \u2026"
+    },
+    {
+        "title": "Update on Environment Agency investigation",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-02-03T09:06:16",
+        "categories": [
+            "Environment Agency",
+            "Regulated industry",
+            "Water"
+        ],
+        "content": [
+            {
+                "content": "Work continues on our largest ever criminal investigation, to date, into potential breaches of environmental permit conditions by all water and sewerage companies discharging into English waters.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The extent of potential non-compliance involves more than 2,200 wastewater treatment works. To date, the investigation team has reviewed over 35,000 exhibits and produced over 1,050 statements from evidence handling, review and analysis.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As well as leading on the main investigation, the team has also worked on a separate investigation involving the sentencing hearing of Anglian Water Services Ltd. The company was ordered to pay over \u00a350,000 in fines and costs in a case brought as part of our wider criminal investigation in May this year.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The investigation team has now moved to the next phase and is gathering statements from external witnesses. In any criminal investigation it is a normal and necessary process to gather evidence from witnesses. The environmental offences under investigation are criminal offences. The investigation must comply with all criminal investigation rules to gather and produce evidence to a very high standard and satisfy the criminal burden of proof which is \u2018beyond reasonable doubt.\u2019 This results in the investigation being more complex which is why timescales of our investigation are longer than others.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Potential witnesses range from campaign and pressure groups, academics, citizen science projects, leisure water users and businesses, NGOs around the water sector and people who have reported a relevant incident to the Environment Agency.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A Senior Investigating Officer who is working as part of the witness strategy group said:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cFirst, we had to establish who might be a potential witness and then understand what information those witnesses might hold about the sites we are investigating. Witnesses are important in bringing justice and we welcome their knowledge and experience. We will also continue to monitor stakeholder groups for potential witnesses.\u201d\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The team have also been looking to whistleblowers who may be able to provide information.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How to report environmental wrongdoing\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last year the\u202fEnvironment Agency\u202flaunched a new\u202fwhistleblowing portal\u202fenabling water company staff to report\u202fenvironmental\u202fwrongdoing\u202fby\u202ftheir\u202fown\u202forganisations and\u202findustry.\u202f\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If water company workers suspect the organisation where they work has done, is doing, or going to do something wrong, and they\u2019ve already raised these concerns with them but nothing, or not enough, has been done, there is now a dedicated route to report those concerns in confidence \u2013 securely, safely and directly.\u202f\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The information provided via the whistleblowing portal is handled in a secure and confidential way and assessed by our intelligence teams, to be used in our regulatory role to prevent, guide or enforce where harm or mismanagement of the environment is happening.\u202fThe portal is also open to workers from waste, nuclear, fishery, farming, agricultural and chemical companies as well as water firms.\u202f People can also report their concerns via the Environment Agency\u2019s incident hotline on 0800 80 70 60.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new whistleblowing portal reinforces our\u202fcontinued commitment to stronger regulation and tougher enforcement to improve water quality, and we are doing this through a\u202ffourfold increase in water company inspections\u202fto hold companies to account. Inspections carried out by the Environment Agency will rise to 4,000 a year by the end of March 2025, and then to more than 10,000 from April 2025.\u202f\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We continue to gather evidence on the environmental effects of the discharges. After gathering witness statements, we will examine victim impacts of the discharges before inviting the water companies to interview.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When the investigation is complete, we will consider all options available under our Enforcement and Sanctions policy. Environmental permits exist to protect our environment and limit the impact of pollution; water companies have a legal responsibility to comply with their permit conditions.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While our investigation continues, our teams continue to conduct normal water company regulation activity at wastewater treatment works including auditing their compliance records and responding to reports of pollution incidents.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As with any live criminal investigation, we are very limited as to what we can share about our inquiries. However, we are committed to sharing information where we can.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can find more information about this investigation\u202fhere.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/02/03/update-on-environment-agency-investigation-4/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Work continues on our largest ever criminal investigation, to date, into potential breaches of environmental permit conditions by all water and sewerage companies discharging into English waters.\u00a0\u00a0 The extent of potential non-compliance involves more than 2,200 wastewater treatment works. To \u2026"
+    },
+    {
+        "title": "Green Infrastructure: the catalyst for Urban Greening\u00a0",
+        "authors": [
+            "Natural England"
+        ],
+        "posted_on": "2025-02-03T08:05:00",
+        "categories": [
+            "Biodiversity",
+            "Climate change",
+            "Connecting People with Nature",
+            "Development",
+            "Environmental Improvement Plan",
+            "Flood Management",
+            "Green Infrastructure",
+            "Landscape",
+            "Landscapes and access",
+            "Local Nature Recovery Strategy (LNRS)",
+            "Mapping",
+            "Mental health and wellbeing",
+            "Natural England",
+            "Nature",
+            "Nature Recovery",
+            "Nature Recovery Network",
+            "Tree Planting",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "It\u2019s two years since Natural England launched the Green Infrastructure (GI) Framework to support the creation of good quality Green Infrastructure. It\u2019s well documented that we need to build a more sustainable future, and at the forefront of this movement is the integration of green infrastructure within the pulsating heart of development. Parks, green roofs, rain gardens, and street trees play multiple roles in helping us make our towns and cities fit for the future, for people and for nature. Last August, we mentioned how the GI framework is being used in preparation of GI Strategies in Local Plans and how it was referenced in the consultation on the revisions of the\u202fNational Planning Policy Framework. In these two years, there has been some significant momentum towards building green arteries in our towns and cities, including:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Embedding GI in Local Plans\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "National Policy:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The GI Framework is now included within the National Planning Policy Framework in connection with the Golden Rules for Green Belt land release. Inclusion of the GI Framework will help to ensure the Government\u2019s housebuilding target of 1.5 million homes over the next 5 years delivers high-quality places that benefit both people and nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "International Recognition:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England and the Ministry of Housing Communities and Local Government provided a case study on the GI Framework to a G7 Summit on Sustainable Urban Development in Italy. GI Framework was recognised as an example of good practice.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Evaluation:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A core focus of the GI team is to continue to build on existing GI products. To help us understand what would be most relevant for our stakeholders, Natural England recently commissioned an evaluation of the GI Framework. We received a wealth of feedback; this is currently being analysed. Here\u2019s a snapshot:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "New research\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England collaborated with academics on an academic journal in Frontiers in Environmental Science. The paper describes a draft comprehensive menu of standards for green infrastructure in England, (Developed by Birmingham University with the University of Oxford), which could be used by stakeholders to support application of the Headline Standards and help deliver green space that is accessible, connected, multifunctional, and reflects local character. Natural England will consult on and test the draft Menu with local authorities and other stakeholders over the next year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "GI in action: From Hospital Gardens to City-Wide Strategies\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Landscape Institute\u2019s Winter member magazine focused on the healing power of landscape featuring an article, \u201cGreen Infrastructure and the NHS Estate\u201d by Esther Smith, Natural England\u2019s Senior Officer for Health and the Environment for the Northeast and Yorkshire, (see pages 56-57). The article mentions how Natural England Green Infrastructure Planning and Design Guide 2023 has been a useful resource supporting dialogue with NHS partners.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "New tools:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In October we updated GI Mapping with new datasets, along with incorporating the Environmental Benefits from Nature Tool, which calculates the likely impact of new developments on local nature, health and wellbeing, and climate resilience.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know that we need to go further than providing tools; to help build understanding, Natural England has supported over 121 local authorities and other stakeholders by delivering multiple training webinars. These are freely available on the GI website. We have also provided bespoke support to seventy-four local authorities resulting in improved access to greenspaces, supporting nature recovery, enhancing wellbeing and building resilience to climate change through their Local Plans and GI strategies.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England is working in partnership with the National Trust and The National Lottery Heritage Fund on the Nature Towns and Cities Programme. This initiative is designed to support towns and cities to deliver greener, fairer, healthier and more connected neighbourhoods so millions more people can enjoy nature close to home. Last year the programme launched the expressions of interest for the grant element and started to build the network.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have been working behind the scenes to build and test the accreditation criteria which will be piloted in England. The Nature Towns and Cities accreditation scheme will recognise and reward places that are working to place nature and green infrastructure at the heart of decision-making in towns and cities, for the benefit of people, place, nature, and climate. The accreditation scheme will align closely to the Green Infrastructure Framework and Standards. For more information visit the NTAC website or watch last week\u2019s accreditation webinar to find out more.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering at every scale, from a hospital or community garden to influencing national policy, the GI Framework provides practical tools for building nature and climate resilience, and much-needed green space for our increasingly urban population.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/02/03/green-infrastructure-the-catalyst-for-urban-greening/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "It\u2019s two years since Natural England launched the Green Infrastructure (GI) Framework to support the creation of good quality Green Infrastructure. It\u2019s well documented that we need to build a more sustainable future, and at the forefront of this movement \u2026"
+    }
+]
