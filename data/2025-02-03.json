@@ -1,5 +1,1004 @@
 [
     {
+        "title": "Digital Planning: Scaling the Planning Data service\u00a0",
+        "authors": [
+            "Emma Beer",
+            "Steve Messer"
+        ],
+        "posted_on": "2025-02-07T17:23:59",
+        "categories": [
+            "Data",
+            "Digital Planning"
+        ],
+        "content": [
+            {
+                "content": "Our purpose is to make land and housing data easier to find, use and trust.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We believe this will lead to better planning decisions, fewer uncertainties and delays in the housing system, more new digital services for property and planning and better relationships between communities and developments.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our planning data platform collects planning and housing data from local planning authorities (LPAs) across England and transforms it into a consistent state. Anyone can view, download and analyse the data we make available.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Six years ago, this work began as a bold initiative, but the past 12 months have marked a transformative phase. We\u2019ve pioneered a new delivery model for a scaled team, strategically evolving two entities into three specialised teams. At the same time, we\u2019ve steadily increased the presence of civil servants within these teams \u2013 a crucial step toward achieving the service\u2019s ambitious objectives. This approach ensures we\u2019re equipped with the ideal blend of skills and expertise to tackle the complexities of this mission and drive meaningful progress.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last year LPAs provided around 200 datasets \u2013 up from around 30 the year before. That\u2019s a six fold leap, and it\u2019s a clear sign that the tools and guidance we\u2019ve provided are empowering authorities to share high-quality data with less manual effort. And we\u2019ve scaled our data design process to involve more participants from the sector, using co-design methods to bring users\u2019 voices to the table.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To achieve this, in the last 12 months we have:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To give you a bit more detail:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "1. Establishing a new team structure and aligning work to the right team \u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Over the last year we\u2019ve undergone an exciting transformation in how we structure and organise our work. Previously, the service had 27 people split across two teams and we have now expanded to approximately 40 talented people \u2013 some joining us following MHCLG's innovative digital and data recruitment days \u2013 to maximise our impact and restructured our operations to focus on the following core capabilities:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This new structure allows the teams within the service to focus their expertise in the right areas, streamline our workflows and deliver results more effectively and at pace. Each team plays a vital role in delivering the platform and wider digital improvements.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Setting up agile cadences across the teams \u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Establishing an effective workflow across our newly structured teams was the next important improvement.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We synchronised our sprint cycles, with most teams now moving to a co-ordinated two-week sprint pattern, which helps in managing dependencies. And we set up a quarterly planning process. \u00a0\u00a0To support good practices, we have established clear team expectations \u2013 including stand ups, our weekly weeknote contributions, blogging in the open, collaboration, retrospectives, objective setting, a focus on the delivery of outcomes over outputs, and continuous improvement initiatives.\u00a0 These strike a balance between productivity and purpose and ensure we are all contributing towards the overall goals of the Digital Planning programme.",
+                "tag": "p"
+            },
+            {
+                "content": "Establishing an effective workflow across our newly structured teams was the next important improvement.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Maturing our objectives and key results (OKR) processes\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Setting and achieving meaningful objectives is at the heart of our Digital Planning programme. Each team in the programme therefore sets themselves quarterly OKRs to work towards.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the Planning Data service we have moved away from a top-down approach to OKRs to one that blends perspectives, with both leadership and team members contributing to setting our objectives and the results we want to achieve. This is helping us to own and prioritise our work and keeps everyone engaged in the work that they are doing.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Regular check-ins are important to ensure we\u2019re heading in the right direction, so we\u2019ve established bi-weekly OKR and risk review sessions. These meetings bring together team leads, product managers and delivery managers to track progress, remove blockers and overcome challenges.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. \u2018Show the thing\u2019 - our Show and Tell drumbeat\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the valued practices within the Digital Planning programme are our show and tell sessions. These are not just focused on progress updates but are an important opportunity for colleagues across the programme to come together, showcase their latest work, share any insights and lessons learned, and collaborate. They have been an important way for us to create a culture of openness and learning.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We hold the Planning Data Show and Tells every 2 weeks without fail, providing a drumbeat to our delivery and product focus. These internal sessions have played a pivotal role in joining up our work as a team, receiving feedback from our peers, and to develop confidence in what we are building and how we are building it. \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Bringing the team together\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Having seen a lot of change and growth it was important to bring our dispersed team together for a face-to-face away day. In the autumn, the team joined up for an energising day in London from the far-flung corners of Bristol, Manchester, Reading, Darlington, Devon, Dorset, Deal and a few other locations. The gathering was an opportunity to explore the new government\u2019s planning reform agenda and how Planning Data can enable and supercharge the delivery of these outcomes. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We spent our time together discussing key challenges and emerging opportunities, and how to use lean principles to deliver our outcomes faster. It was valuable for our teams to take this time to build stronger cross-team connections and spark new ideas for innovation. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It was great to see everyone\u2019s energy, and spending time away from our screens to think, discuss and innovate together, gave us all a renewed focus and enthusiasm for the work we\u2019re doing.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Celebrating successes on the road ahead \u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019re starting to see momentum in our mission to transform land and housing data accessibility and reliability. Our latest figures, for the last 12 months, show an increase in the number of datasets being published on the platform.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s clear that more and more LPAs are improving their digital capabilities and recognising the value of sharing their data through the platform, for faster, more informed decision-making.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next \u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In 2025, we\u2019re looking to build on this momentum and better enable a planning system fit for the demands of the 21st century.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Meanwhile the value of the planning data platform is being recognised across the sector with Savills and Tract recently highlighting its transformative potential in blog posts. Savills highlight the central role of data to analyse, make decisions and streamline planning processes while Tract express their gratitude for the open data, which they have been able to use to develop new services to make planning more accessible for everyone.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "And the benefits for local planning authorities in making their data available on the platform is clearly demonstrated by Castle Point Borough Council, who wanted to stem the number of Freedom of Information requests they were receiving due to limitations with the council\u2019s existing mapping systems. They joined the Open Digital Planning community and have proved that even with limited resources, councils can achieve great results, transforming their data and making positive changes to how they work. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Get involved\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "For more information about the planning data team within the Digital Planning programme follow us on LinkedIn to stay connected, and subscribe to our newsletter for the latest updates.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Look out for more case studies about local planning authorities modernising their planning practices and improving their data, on the Open Digital Planning website.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can also take a look at this previous MHCLG Digital blog about the programme, which was chosen as a case study to showcase the department's digital goals and progress.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/02/07/digital-planning-scaling-the-planning-data-service/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Go behind the scenes of MHCLG's planning data success as Emma Beer, delivery lead, and Steve Messer, product and design strategist, reveal the strategic approach that has powered the service's exceptional growth last year. They share insights into building a high-performing team and the transformative impact of data sharing across the planning sector. "
+    },
+    {
+        "title": "Latest statement in response to small boat crossings",
+        "authors": [
+            "Home Office news team"
+        ],
+        "posted_on": "2025-02-07T17:00:00",
+        "categories": [
+            "Reactive statements"
+        ],
+        "content": [
+            {
+                "content": "A Home Office spokesperson said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe all want to end dangerous small boat crossings, which threaten lives and undermine our border security.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe people-smuggling gangs do not care if the vulnerable people they exploit live or die, as long as they pay. We will stop at nothing to dismantle their business models and bring them to justice.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Background:",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022 Our new Border Security Command, led by Martin Hewitt, will strengthen our global partnerships and enhance our efforts to investigate, arrest, and prosecute these evil criminals.\u2022 The Border Security Command, backed by \u00a3150 million worth of funding, is a key part of the plan to protect borders, remove those with no legal right to be in the UK, and introduce new counter-terror style powers.\u2022 This major funding boost will initially go toward a range of enforcement and intelligence activities, including:o Investing heavily in NCA technology and capabilities, delivering advanced data exploitation and improvements to technologies to boost collaboration with European partners to investigate and break people smuggling networks.o 300 staff for the new Border Security Command, who will strengthen global partnerships, deliver new legislation, and lead the system through investment and strategy.o 100 specialist investigators and intelligence officers for the NCA, dedicated to tackling criminals who facilitate people smuggling.o Creating a new specialist OIC Intelligence Source Unit which will cohere intelligence flows from key police forces.o Boosting the Crown Prosecution Service\u2019s ability to deliver charging decisions more quickly on international organised crime cases.\u2022 This government has already demonstrated its commitment to removing individuals who have no right to remain in the United Kingdom.\u2022 Since the government came to office, we have returned thousands of people with no right to be here.\u2022 On Thursday 30 January the Border Security, Asylum and Immigration Bill was introduced to Parliament, this landmark legislation features new counter terror-style powers to identify, disrupt and smash people smuggling gangs.\u2022 The Bill also includes stronger powers to seize and search mobile phones to investigate organised immigration crime alongside new offences against gangs conspiring to plan crossings, selling or handling small boat parts for use in the Channel, supplying forged ID documents, for migrants attempting to come here illegally.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://homeofficemedia.blog.gov.uk/2025/02/07/latest-statement-in-response-to-small-boat-crossings/",
+        "blog": "Home Office in the media",
+        "blog_link": "https://homeofficemedia.blog.gov.uk",
+        "description": "A Home Office spokesperson said: \u201cWe all want to end dangerous small boat crossings, which threaten lives and undermine our border security. \u201cThe people-smuggling gangs do not care if the vulnerable people they exploit live or die, as long as \u2026"
+    },
+    {
+        "title": "NHSE Digitising Social Care\u00a0Beta Assessment",
+        "authors": [
+            "manyeelam"
+        ],
+        "posted_on": "2025-02-07T16:31:29",
+        "categories": [
+            "Assurance",
+            "Beta",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From:\u00a0DHSCAssessment Date: 13/07/2023\u00a0Stage: BetaResult: MetService Provider: NHS England",
+                "tag": "p"
+            },
+            {
+                "content": "Service description\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "A trusted, government funded, CARE branded site built specifically to provide guidance, advice and support to, and engage with the adult social care sector on digital and tech.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service supports the digital journey of adult social care providers in England by:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Service users\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Primary users:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Secondary users:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 2 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels\u00a0\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 3 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 4 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 6 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 7 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve frequently\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 9 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 10 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 11 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 12 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common components and patterns\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 13 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "14. Operate a reliable service\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met\u00a0 point 14 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2025/02/07/nhse-digitising-social-care-beta-assessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "From:\u00a0DHSCAssessment Date: 13/07/2023\u00a0Stage: BetaResult: MetService Provider: NHS England Service description\u00a0 A trusted, government funded, CARE branded site built specifically to provide guidance, advice and support to, and engage with the adult social care sector on digital and tech.\u00a0 The service \u2026"
+    },
+    {
+        "title": "Helping nature to recover and thrive in the Wye Valley in Derbyshire",
+        "authors": [
+            "Natural England"
+        ],
+        "posted_on": "2025-02-07T15:26:53",
+        "categories": [
+            "Biodiversity",
+            "Climate change",
+            "Environmental Improvement Plan",
+            "Farming",
+            "Landscapes",
+            "Natural England",
+            "Nature Recovery",
+            "Nature Recovery Network",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "Ruth Keeley, Wye Valley Nature Recovery Project Senior Officer",
+                "tag": "p"
+            },
+            {
+                "content": "Back in 2022, Natural England and Defra announced five unique Nature Recovery Projects (NRP) across the Peak District, West Midlands, Cambridgeshire, Norfolk and Somerset. Since then, a further seven projects have been introduced, covering more than 285,000ha across England.",
+                "tag": "p"
+            },
+            {
+                "content": "These multi-partnership projects are designed to fast-track nature recovery by working collaboratively and at a landscape scale to create and restore wildlife-rich habitats, corridors and stepping-stones to help wildlife populations to move around freely.",
+                "tag": "p"
+            },
+            {
+                "content": "I\u2019m the Natural England Senior Advisor for the Wye Valley Nature Recovery Project in the Peak District where we're running several schemes to help nature recover and thrive in the area. We know that helping nature to recover is a powerful tool with multiple benefits for improving people's health, generating wealth and building the country's resilience to climate change and for food security.",
+                "tag": "p"
+            },
+            {
+                "content": "Promoting biodiversity with herbal leys",
+                "tag": "p"
+            },
+            {
+                "content": "One of the ways the East Midlands Area Team is helping to promote nature recovery is by working with farmers to plant herbal leys (a mix of grasses rich in legumes and herb grasses) to encourage pollinating insects such as bees.",
+                "tag": "p"
+            },
+            {
+                "content": "The White Peak area of the Peak District has lots of dairy and beef farms, and silage is produced over the summer months to feed cattle over winter. However, silage fields are not great for biodiversity as they lack floristic interest and usually need fertiliser. This is not only expensive for farmers but can also inadvertently filter through the limestone geology into areas beyond which can have a detrimental impact to some of the sensitive habitats in the surrounding dales.",
+                "tag": "p"
+            },
+            {
+                "content": "Farmers have told us they were keen to boost biodiversity on their land, so the Catchment Sensitive Farming team (CSF) have been working with them to show how herbal leys help to attract pollinators. They are also drought-tolerant, nutritious for livestock and do not require fertilisers. Some early adopters are already seeing the benefits and our CSF colleagues have been organising walks for farmers to take them to herbal leys to see them in action. These are proving popular, with some farmers travelling from out of the area to take part.",
+                "tag": "p"
+            },
+            {
+                "content": "Rosemary Furness is a farmer at Beech Farm, Taddington, and has a longstanding relationship with Natural England and the CSF team. She said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe have been working with Natural England to trial nature-friendly farming practices on the edge of the Dales for several years now. This year we put in our first herbal ley, and we have been blown away the wildlife it has attracted \u2013 if it does half as well for the lambs this autumn, we will be very happy!\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "The NRP funded pollinator surveys \u2013 carried out by the Bumblebee Trust, which was founded in response to growing concerns about the plight of the bumblebee \u2013 \u00a0have shown the herbal leys are working and numbers of bumblebees and hoverflies are increasing at these sites. We will continue these surveys over the coming years to see how the pollinator numbers change as the herbal leys develop and new ones are planted up.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Improving the River Lathkill's flow",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re also looking at ways to improve the flow of the River Lathkill which runs through the Derbyshire Dales National Nature Reserve (NNR), working in conjunction with the reserve staff.",
+                "tag": "p"
+            },
+            {
+                "content": "While the river flows well during the winter, the Lathkill can disappear in the summer months due to low water levels and leakage into the ground due to the limestone and historical mining works beneath the ground. We have funded research to look at the above ground features which might be having an impact on the flow and making suggestions as to how these might be remedied.",
+                "tag": "p"
+            },
+            {
+                "content": "This could involve removing weirs or walls and allowing some areas to form more natural wetlands. Over the next two years we will be helping the NNR team to complete some below ground survey work to investigate the historic underground mining features that also impact the low flows.",
+                "tag": "p"
+            },
+            {
+                "content": "Improving the river flow throughout the year will support fish and other species that rely on the river ecosystem such as the dipper bird and invertebrates. This would also support the wider river system of the River Derwent, Trent and Wye and promote a natural flood plain in the winter.",
+                "tag": "p"
+            },
+            {
+                "content": "Utilising roadside verges as wildlife corridors",
+                "tag": "p"
+            },
+            {
+                "content": "Another way  we're giving wildlife a helping hand is by making use of roadside verges in the Derbyshire Dales. Many of the high-quality sites rich in wildlife are quite isolated in the Wye Valley, surrounded by quite intensively managed farmland. Elsewhere in the country hedgerows can act as a network of wildlife corridors, but as the Peak District tends to have drystone walls instead of hedges, we need to look at alternative ways to allow species to travel between sites.Roadside verges can contain a diverse range of plants and support birds, small mammals, insects, butterflies and bees especially if they are managed a bit more like a wildflower meadow rather than being cut back too intensively. We are working with the county council and local authorities in the project area to investigate the ways that these verges are managed.",
+                "tag": "p"
+            },
+            {
+                "content": "From this roadside verge work we also identified other areas of grassland, including around campsites and village greens, that could be managed differently for wildlife. We are currently carrying out a project with the operators of some camping and caravan sites in the NRP project area to identify what opportunities might exist for nature recovery here.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dewpond restoration at Ferndale",
+                "tag": "p"
+            },
+            {
+                "content": "Many of these projects are still in progress but one where we're already seeing results is the restoration of two dewponds at Ferndale, an area directly adjacent to the Derbyshire Dales NNR.",
+                "tag": "p"
+            },
+            {
+                "content": "Dewponds are traditionally used by cattle for drinking but can also provide habitats for the great crested newt and invertebrates such as dragonflies and act as a stepping-stone for wildlife to move onto other areas. The ponds at Ferndale were no longer used by livestock and had become a bit neglected and stopped holding water, but by working with the National Trust who owns the site we now have two functioning ponds and we will be monitoring them over the next few years to see what wildlife returns to use them.\u00a0By working with local farmers and land owners over the coming months, we hope to restore more of these important pond habitats.\u00a0It has been very satisfying to see them restored and adding another piece to the jigsaw puzzle of supporting nature recovery in and around the Derbyshire Dales.",
+                "tag": "p"
+            },
+            {
+                "content": "As previously appeared in the February issue of Derbyshire Life. \u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/02/07/helping-nature-to-recover-and-thrive-in-the-wye-valley-in-derbyshire/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "Ruth Keeley, Wye Valley Nature Recovery Project Senior Officer Back in 2022, Natural England and Defra announced five unique Nature Recovery Projects (NRP) across the Peak District, West Midlands, Cambridgeshire, Norfolk and Somerset. Since then, a further seven projects have \u2026"
+    },
+    {
+        "title": "From Summons to Service: Your Complete Guide to Jury Duty",
+        "authors": [
+            "HMCTS Communications"
+        ],
+        "posted_on": "2025-02-07T12:41:41",
+        "categories": [
+            "Crime",
+            "Podcast",
+            "User experience and research"
+        ],
+        "content": [
+            {
+                "content": "Have you ever wondered how you get selected to sit on a jury and what happens once you are chosen?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Listen to the latest episode of Inside HMCTS, where we take an in-depth look at jury service and the selection process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this episode, we will be joined by Craig Robb, Deputy Director of Crime (Live Services) at HMCTS.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After serving as a juror last year, Craig provides first-hand insights into the jury selection process, what to expect when you're called to serve, and why it is so important.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From eligibility criteria to the support available for jurors, this episode covers everything you need to know about serving on a jury.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Tune in to gain real-life insights and answers to common questions about this vital aspect of the justice system.",
+                "tag": "p"
+            },
+            {
+                "content": "Listen to the latest episode now, available wherever you get your podcasts from!",
+                "tag": "p"
+            },
+            {
+                "content": "Amazon",
+                "tag": "p"
+            },
+            {
+                "content": "Apple",
+                "tag": "p"
+            },
+            {
+                "content": "Buzzsprout",
+                "tag": "p"
+            },
+            {
+                "content": "Spotify",
+                "tag": "p"
+            },
+            {
+                "content": "A transcript of the podcast is also available\u00a0here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2025/02/07/from-summons-to-service-your-complete-guide-to-jury-duty/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "Have you ever wondered how you get selected to sit on a jury and what happens once you are chosen?\u00a0Join us as we chat to Craig Robb, Deputy Director of Crime (Live Services) at HMCTS, who sheds light on the jury selection process, the importance of jury service, and what to expect when you're called to serve. "
+    },
+    {
+        "title": "Welcome to the Department for Education\u2019s new non-executive board\u00a0members",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2025-02-07T12:32:15",
+        "categories": [
+            "Department for Education Board",
+            "Leadership"
+        ],
+        "content": [
+            {
+                "content": "The Department for Education (DfE) has announced four new non-executive members.",
+                "tag": "p"
+            },
+            {
+                "content": "The appointments bring a wealth of skills and experience to the department as we take forward our vital work - from giving the best start in life to our youngest learners, providing the highest standards of school education, and opening up skills pathways for lifelong learning. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who are the new non-executive directors at the DfE?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Naomi Eisenstadt brings extensive experience in early childhood education and tackling educational inequality, including as a former Director of Sure Start.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Steve Crocker has impressive local authority leadership expertise in children\u2019s social care with a deep understanding of service delivery and sector-wide improvement.",
+                "tag": "p"
+            },
+            {
+                "content": "Rebecca George has a strong track record leading large-scale digital and skills transformation as a Partner at Deloitte and a non-executive director at the MET Police.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Margaret Casely-Hayford is highly regarded for her strategic oversight, risk and governance experience having held key positions as Director of Legal Services at the John Lewis Partnership and Non-Executive Director at NHS England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is a non-executive director?",
+                "tag": "h3"
+            },
+            {
+                "content": "Non-executive directors sit on the Department for Education\u2019s Board which is chaired by the Secretary of State for Education. They provide independent challenge as well as support to ministers and senior leaders.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can read more about departmental governance here. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who else is on the board?\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The Department\u2019s new non-executive board members will work with Sir Kevan Collins, who takes up the lead non-executive director role on 11 February 2025. \u00a0Sir Kevan was Chief Executive of the Education Endowment Foundation, a classroom teacher and a Director of Children\u2019s Services in Tower Hamlets. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The board will also benefit from the skills and experience of Stuart McMinnies and Sir Peter Bazalgette who will remain as non-executive board members. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Department is grateful for the contributions of outgoing board members in 2025. Richard Pennycook will step down as lead non-executive board member, as well as Toby Peyton-Jones whose tenure will come to an end in February 2025, and to Jack Boyer who will remain in post until his tenure ends in May 2025. \u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/02/welcome-to-the-department-for-educations-new-non-executive-board-members/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "The Department for Education (DfE) has announced four new non-executive members. The appointments bring a wealth of skills and experience to the department as we take forward our vital work - from giving the best start in life to our \u2026"
+    },
+    {
+        "title": "We asked our Apprentice Panel for their favourite things about gaining #SkillsForLife as an apprentice",
+        "authors": [
+            "Institute for Apprenticeships"
+        ],
+        "posted_on": "2025-02-07T08:59:30",
+        "categories": [
+            "Services"
+        ],
+        "content": [
+            {
+                "content": "In the run up to National Apprenticeship Week 2025, we asked the IfATE Panel of Apprentices for their favourite things about being an apprentice.",
+                "tag": "p"
+            },
+            {
+                "content": "The apprentice panel brings together apprentices from a wide range of backgrounds, across all 15 of our routes. Their different experiences and views help to inform all areas of IfATE\u2019s work.",
+                "tag": "p"
+            },
+            {
+                "content": "Here\u2019s what five panel members said were their favourite things about being an apprentice:",
+                "tag": "p"
+            },
+            {
+                "content": "Alexia Williams \u2013 Through Life Technical Lead at Rolls-Royce, Apprentice Panel Chair",
+                "tag": "h2"
+            },
+            {
+                "content": "My Favourite thing about being an apprentice was the opportunity to explore various areas of the business through placement rotations.",
+                "tag": "p"
+            },
+            {
+                "content": "This allowed me to experience the different roles available to an Engineer at Rolls-Royce, ranging from Engine Testing and Naval Controls to Manufacturing Engineering, Future Product Design, and even business-focused roles like Sales and Business Development.",
+                "tag": "p"
+            },
+            {
+                "content": "I also appreciated meeting new people across the organisation and expanding my professional network before moving into a full-time position after my apprenticeship.",
+                "tag": "p"
+            },
+            {
+                "content": "Additionally, applying what I was learning at university to real-world scenarios at work helped solidify my understanding of aerospace engineering concepts and gave me practical, hands-on experience.",
+                "tag": "p"
+            },
+            {
+                "content": "Hannah Linden - Metrology Technican at Jaguar Landrover, Apprentice Panel Vice Chair",
+                "tag": "h2"
+            },
+            {
+                "content": "My favourite thing about being an apprentice is the amount of exposure I get to real work life. From this I have gained so much more confidence, practical knowledge, and improved my communication skills.",
+                "tag": "p"
+            },
+            {
+                "content": "The best part is gaining relevant qualifications too, whilst doing a job I love and have so much passion for.",
+                "tag": "p"
+            },
+            {
+                "content": "Alex Pearson \u2013 Operations Manager at Parkdean Resorts",
+                "tag": "h2"
+            },
+            {
+                "content": "The most rewarding thing about being an apprentice is being able to implement the learning you are doing in real-time and being able to put into practice different theories and rationale in my working environment. Making use of my new knowledge and skills also feeds into continuous improvement in both a personal and professional sense.",
+                "tag": "p"
+            },
+            {
+                "content": "Undertaking an apprenticeship has allowed me to display to my direct reports the value of continued learning. I have then been able to assist with the continuous professional development of my team through enrolling them in apprenticeships for their development.",
+                "tag": "p"
+            },
+            {
+                "content": "Hannah Wright \u2013 Project Manager and Education Liaison Officer at Digital Innovators",
+                "tag": "h2"
+            },
+            {
+                "content": "One of my favourite things about being an apprentice has got to be the fact that I can learn so much, all whilst earning a salary and having a job. I am able to learn from my University studies, and experience life as a student, as well as growing my career and learning practically through my role and from my colleagues.",
+                "tag": "p"
+            },
+            {
+                "content": "Another thing I love about being an apprentice is being part of networks and events that allow me to meet and work with like-minded individuals, and spread the word about apprenticeships.",
+                "tag": "p"
+            },
+            {
+                "content": "Esme Freitas - Chartered Surveyor at Derry Building Services",
+                "tag": "h2"
+            },
+            {
+                "content": "The best thing about being a quantity surveying apprentice is the varied opportunities I\u2019m given, gaining hands on experience whilst learning the technical aspects of the profession and wider construction industry.",
+                "tag": "p"
+            },
+            {
+                "content": "In a typical week, I attend university, visit sites, and work in an office environment. No day is ever the same!",
+                "tag": "p"
+            },
+            {
+                "content": "I get to work alongside experienced professionals who are always willing to support and encourage my learning, seeing my confidence grow over the years. Having 5 years practical experience under my wing alongside my formal education sets me up for a successful career in the construction industry, having gained the knowledge, skills and behaviours it takes to \u2018hold your own\u2019 in this field.",
+                "tag": "p"
+            },
+            {
+                "content": "With ever changing technologies and practices, I know my job will never get boring!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://apprenticeships.blog.gov.uk/2025/02/07/we-asked-our-apprentice-panel-for-their-favourite-things-about-gaining-skillsforlife-as-an-apprentice/",
+        "blog": "Institute for Apprenticeships and Technical Education",
+        "blog_link": "https://apprenticeships.blog.gov.uk",
+        "description": "In the run up to National Apprenticeship Week 2025, we asked the IfATE Panel of Apprentices for their favourite things about being an apprentice. The apprentice panel brings together apprentices from a wide range of backgrounds, across all 15 of \u2026"
+    },
+    {
         "title": "'Being a part of our long-term mission opens up so many career possibilities'",
         "authors": [
             "Jacqueline Longrigg"
