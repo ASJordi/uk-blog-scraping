@@ -1,0 +1,1195 @@
+[
+    {
+        "title": "Celebrating one year of the artificial intelligence community\u00a0",
+        "authors": [
+            "Tommaso Spinelli, Senior Artificial Intelligence Change Manager, CDDO",
+            "Gemma Harrop, AI Delivery Manager, GDS"
+        ],
+        "posted_on": "2025-02-10T15:29:16",
+        "categories": [
+            "Cross-government strategy",
+            "DDaT community"
+        ],
+        "content": [
+            {
+                "content": "In December 2023 we launched the Artificial Intelligence (AI) community for the UK Government. The community was created by the team that developed the Generative AI Framework for HMG and its learning resources to provide departments with an opportunity to discuss their AI projects with implementation teams and experts across government.",
+                "tag": "p"
+            },
+            {
+                "content": "One year later, the AI community has reached over 1,200 members across the Civil Service and the wider public sector, becoming a reference point for departments, local government organisations, and AI-curious colleagues who want to learn more or share information on AI in government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Who the AI community is for",
+                "tag": "h3"
+            },
+            {
+                "content": "The AI community now welcomes a wide range of public sector personnel who either work on or have an interest in AI. You don\u2019t need any expertise or technical knowledge of AI to join the community.",
+                "tag": "p"
+            },
+            {
+                "content": "Those working in central and local government, the NHS, Police and Fire and Rescue organisations, or any other institutions with GOV.UK related email addresses can use the dedicated form to sign up to the AI community. Academic and industry experts who are interested in presenting their work at one of our events can get in touch with the Government Digital Service\u2019s AI Team.",
+                "tag": "p"
+            },
+            {
+                "content": "Our numbers",
+                "tag": "h3"
+            },
+            {
+                "content": "In January 2024 we ran a survey to understand the demographics of the AI community. These show how the over 1000 members of the community come from across the UK and have a very wide range of skills and expertise.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The AI community includes people from over 100 different government departments, local government organisations, agencies and public institutions, with strong representation from the NHS. Our members work in both technical and non-technical roles including:",
+                "tag": "p"
+            },
+            {
+                "content": "The geographic composition of the AI community is equally varied with strong concentration in big cities like London, Manchester, Bristol, and Birmingham, along with significant regional representation from Yorkshire, South East England, Wales, Scotland and Northern Ireland.",
+                "tag": "p"
+            },
+            {
+                "content": "What we offer",
+                "tag": "h3"
+            },
+            {
+                "content": "The AI community offers a range of activities including online talks, in-person conferences, and outreach events. Plus a monthly newsletter covering all the latest AI news from across government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The AI community convenes monthly online, providing a platform for individuals interested in AI to engage with expert speakers from both within and outside the government. In addition to teams from many government departments presenting their AI projects and products, we\u2019ve had speakers from academic institutions such as the Alan Turing Institute and various UK universities, as well as from leading tech firms.",
+                "tag": "p"
+            },
+            {
+                "content": "In November 2024 we held our first in person event in London. Following the success of this event, we are planning to hold four in person events across the UK each year. This year the GDS AI Team attended over 35 outreach events and conferences across the UK including Scotland and Northern Ireland.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our talks and events cover a range of topics, including new AI products, ethics, security, and emerging applications of AI technologies in government. The community also offers a space to share experiences (including challenges!) and exchange best practices, fostering collaboration on AI in government.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next",
+                "tag": "h3"
+            },
+            {
+                "content": "In February 2025 we\u2019ll host our second in person event in London. Tickets are sold out but you can join us virtually on Teams. To be invited to the online event and receive information on future events, sign up to the AI community\u2019s newsletter.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019re currently setting up an AI Engagement Board to allow senior grades (G7 and above) from different departments to share updates and collaborate more closely on AI adoption. This board will help disseminate AI playbooks, resources and products more effectively across government, helping to avoid siloed approaches and duplication of work.",
+                "tag": "p"
+            },
+            {
+                "content": "Call for action",
+                "tag": "h3"
+            },
+            {
+                "content": "Don't get left behind, sign up to the AI community newsletter to join the community and receive communications about new AI guidance and upcoming events. Check out our new AI courses on Civil Service Learning to know more on AI in government.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cddo.blog.gov.uk/2025/02/10/celebrating-one-year-of-the-artificial-ntelligence-community/",
+        "blog": "Government Digital and Data",
+        "blog_link": "https://cddo.blog.gov.uk",
+        "description": "In December 2023 we launched the Artificial Intelligence (AI) community for the UK Government. The community was created by the team that developed the Generative AI Framework for HMG and its learning resources to provide departments with an opportunity to discuss their AI projects with implementation teams and experts across government."
+    },
+    {
+        "title": "Launching the Artificial Intelligence Playbook for the UK Government",
+        "authors": [
+            "Tommaso Spinelli, Senior Artificial Intelligence Change Manager, GDS"
+        ],
+        "posted_on": "2025-02-10T14:17:03",
+        "categories": [
+            "AI",
+            "Digital Centre"
+        ],
+        "content": [
+            {
+                "content": "Today, Technology Secretary Peter Kyle has launched the\u00a0Artificial Intelligence (AI) Playbook for the UK Government\u00a0to provide departments and public sector organisations with accessible technical guidance on the safe and effective use of AI.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "AI is at the heart of the UK Government's strategy to drive economic growth and enhance public service delivery - it offers significant opportunities to reduce costs and enhance public service delivery across government, as highlighted in the\u00a0State of Digital Government Review 2025. However, we must remain mindful of both the technology's constraints and potential risks.",
+                "tag": "p"
+            },
+            {
+                "content": "Who the playbook and learning resources are for\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "It is crucial for civil servants to gain an understanding of what AI can and cannot do, how it can help, and the potential ethical, legal, privacy, sustainability and security risks it poses.",
+                "tag": "p"
+            },
+            {
+                "content": "The AI Playbook can be freely accessed by everyone on\u00a0GOV.UK\u00a0and it is designed to support government departments, arm\u2019s length bodies and public sector organisations. Different chapters cater for the needs of civil servants working both within and outside the digital and data space and with varying levels of digital knowledge.",
+                "tag": "p"
+            },
+            {
+                "content": "The AI Playbook updates and expands on old guidance to offer help on a wider range of AI technologies in addition to generative AI, including machine learning, deep learning, natural language processing, computer vision, speech recognition and more.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The guidance contained in the Playbook is complemented by a new series of\u00a0AI courses on Civil Service Learning\u00a0and\u00a0off-the-shelf training on Government Campus. These resources were made available in collaboration with several\u00a0leading tech firms\u00a0and the\u00a0Government Skills\u00a0unit.",
+                "tag": "p"
+            },
+            {
+                "content": "The AI Playbook is an important element of the government's bigger goal of putting AI to good use - making things run better, encouraging fresh thinking, reducing the time spent on repetitive tasks, and giving the economy a boost.",
+                "tag": "p"
+            },
+            {
+                "content": "What the playbook includes",
+                "tag": "h3"
+            },
+            {
+                "content": "To meet the needs of a wide and diverse audience, the AI Playbook includes accessible explanations on AI technologies, sample use cases, and corporate guidance for policy professionals and decision makers, as well as technical advice on how to buy, implement and use AI solutions for digital and data professionals.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The playbook is organised in five parts:",
+                "tag": "p"
+            },
+            {
+                "content": "Each section contains a checklist with practical recommendations to consider and actions to take when developing AI projects. More technical aspects of AI are discussed in our new series of\u00a0AI Insights articles.",
+                "tag": "p"
+            },
+            {
+                "content": "How we developed the playbook",
+                "tag": "h3"
+            },
+            {
+                "content": "The creation of the AI Playbook was a collaborative effort involving over 50 experts from GDS and the wider\u00a0Department for Science Innovation and Technology (DSIT), contributions from over 20 government departments and public sector organisations, as well as insights and peer-review from industry and academic advisors.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next",
+                "tag": "h3"
+            },
+            {
+                "content": "AI is a broad and fast-paced field and we\u2019ll update the AI Playbook regularly. We\u2019re also launching a series of\u00a0AI Insights publications\u00a0to cover more specific aspects of AI whose in-depth discussion was not possible in the playbook.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Join the\u00a0Artificial Intelligence community of practice\u00a0to connect with people interested in AI across government, attend the monthly meet-ups and receive newsletters with all the latest AI news from across government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Enrol in our\u00a0free e-learning courses on Civil Service Learning\u00a0to learn how to implement and use AI solutions safely and effectively.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2025/02/10/launching-the-artificial-intelligence-playbook-for-the-uk-government/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "AI is at the heart of the UK Government's strategy to drive economic growth and enhance public service delivery. Read more about GDS's AI Playbook to provide the public sector with accessible technical guidance on the safe and effective use of AI."
+    },
+    {
+        "title": "NHSX Standards Directory\u202f\u202f- Beta Assessment\u00a0",
+        "authors": [
+            "manyeelam"
+        ],
+        "posted_on": "2025-02-10T13:06:21",
+        "categories": [
+            "Assurance",
+            "Beta",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From: DHSCAssessment date: 14 July 2022Stage: BetaResult:\u00a0MetService provider: NHSX",
+                "tag": "p"
+            },
+            {
+                "content": "Previous assessment reports\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Service description\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The service brings together different types of information standards needed to support interoperability across health and adult social care. It allows users such as healthcare providers and IT suppliers to find out what standards to use to collect, format and exchange data in real time between systems and across organisational boundaries. The directory makes it easy to browse content that is otherwise spread out across many sites. It helps users understand what standards apply to their use case, and provides key information such as dependencies between standards and if it has been assured or endorsed by professional bodies.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Service users\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Primary users are people who adopt standards includes:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u202f\u00a0Secondary user groups include:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met with strong recommendations point 1 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met with strong recommendation point 2 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels\u202f\u202f\u202f\u202f\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 3 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u202fWhat the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 4 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service\u202f\u202f\u202f\u202f\u202f",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 5 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team\u202f\u202f\u202f",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 6 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "\u202fDecision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 7 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve frequently\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 8 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 9 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 10 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 11 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 12 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common components and patterns\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 13 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "14. Operate a reliable service\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service met point 14 of the Standard.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The panel was impressed that:\u202f\u202f\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u202f\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2025/02/10/nhsx-standards-directory-beta-assessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "From: DHSCAssessment date: 14 July 2022Stage: BetaResult:\u00a0MetService provider: NHSX Previous assessment reports\u202f\u00a0 Service description\u202f\u00a0 The service brings together different types of information standards needed to support interoperability across health and adult social care. It allows users such as healthcare providers \u2026"
+    },
+    {
+        "title": "Secure by Design: User-Centred Guidance Now on Digital MOD.UK",
+        "authors": [
+            "J.Leach"
+        ],
+        "posted_on": "2025-02-10T12:52:17",
+        "categories": [
+            "Cyber",
+            "Secure By Design"
+        ],
+        "content": [
+            {
+                "content": "Jonathan Leach, Deputy Head Cyber Security Assessment and Advisory Services (part of the Cyber Defence and Risk Directorate), tells us about the new Secure by Design (SbD) Guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "For the past three years, Secure by Design has been the main focus of my work, looking to improve cyber security in defence by changing the culture to ensure that security is considered from the start of any capability. The aim of SbD is to reduce the cyber risks across MOD as well as promoting a \u2018one team\u2019 approach to cyber-security. This enables and empowers everyone to deliver and maintain capabilities that are resilient from cyber-attacks. To achieve this, we have introduced new policies, a new tool and guidance on how to apply the new approach.",
+                "tag": "p"
+            },
+            {
+                "content": "While SbD was mandated in MOD policy, the policy didn\u2019t completely answer the users\u2019 questions when they were looking to actively implement SbD for themselves.\u00a0As a result, we recently wrote new user-centred\u00a0guidance\u00a0for SbD on Digital MOD.UK. This is now the go-to place for all Secure by Design guidance material, and replaces the previous guidance hosted on Defence Gateway.",
+                "tag": "p"
+            },
+            {
+                "content": "Why the change?",
+                "tag": "p"
+            },
+            {
+                "content": "While the Defence Gateway guidance was comprehensive, it became increasingly technical and inaccessible to those who could not access Defence Gateway. The move to the Digital MOD.UK platform allows us to:",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0What\u2019s next?",
+                "tag": "p"
+            },
+            {
+                "content": "As we deliver Secure by Design, we understand that users may need additional support beyond the guidance. Other areas of support we will provide include:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defencedigital.blog.gov.uk/2025/02/10/secure-by-design-user-centred-guidance-now-on-digital-mod-uk/",
+        "blog": "Defence Digital",
+        "blog_link": "https://defencedigital.blog.gov.uk",
+        "description": "Jonathan Leach, Deputy Head Cyber Security Assessment and Advisory Services (part of the Cyber Defence and Risk Directorate), tells us about the new Secure by Design (SbD) Guidance. For the past three years, Secure by Design has been the main \u2026"
+    },
+    {
+        "title": "National Apprenticeship Week 2025: my story as a cyber security apprentice in MHCLG\u00a0",
+        "authors": [
+            "Billy Barnett, Cyber Security Apprentice"
+        ],
+        "posted_on": "2025-02-10T12:04:06",
+        "categories": [
+            "Apprenticeships",
+            "Careers",
+            "Cyber"
+        ],
+        "content": [
+            {
+                "content": "The Civil Service offers an attractive range of apprenticeship schemes providing the opportunity to work in departments across government, gaining a qualification on completion and build a fulfilling career.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To mark this year\u2019s National Apprenticeship Week, Billy, a cyber security apprentice in The Ministry of Housing, Communities and Local Government (MHCLG), shares his experience of building his career within MHCLG Digital as part of his apprenticeship.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How I found my career in cyber security\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "After finishing school at 18, I immediately entered the working world with no direction. For 2 years I worked in administrative positions, feeling as though my work wasn\u2019t making a real difference.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through building my digital skills in my personal time, I landed a role as a junior software developer at an insurance company, aiding customers with data breaches and concerns. This role revealed to me the critical need for digital security and showcased the profound impact that technology can have when used to achieve positive outcomes. The work allowed me to use digital skills to solve complex problems, work under pressure and make a difference to people\u2019s lives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The fulfilment I found through this work led me to applying to the cyber security role I\u2019m in today in MHCLG.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I am currently pursuing a Level 6 Cyber Security Technical Professional (Integrated Degree), which is a 4-year programme.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bolstering our security and countering cyber threats\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I currently work in MHCLG\u2019s Cyber Security team, specifically the Security Operations Centre (SOC). My responsibilities include responding to cyber security alerts, dealing with cyber quires throughout the organisation and building comprehensive policies and plans relating to emerging cyber threats.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In cyber, we concentrate on preparation over reaction. We aim to create an environment that continuously adapts to emerging cyber threats and remains prepared for any potential attacks. Our role in cyber is to build the foundations of this environment through continuous monitoring, threat intelligence, incident management, threat detection and proactive defence.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Many of the roles within our Cyber Security team can be found on the Government Security Profession Career Framework. The framework outlines the objectives of various cyber roles and explains how they enhance MHCLG\u2019s security posture.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Being a cyber apprentice in MHCLG Digital\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "From the beginning, I felt like \u2018one of the team\u2019. No question is too simple, and everyone is more than happy to take time out of their day to help me grow, learn and mature in the cyber field.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Although I am an apprentice, the work, opportunities and goals are just as challenging and exciting as those of any full-time staff member. I am treated as a valued team member, with plenty of chances to contribute. In a short span of time, my work has created a lasting positive impact on MHCLG\u2019s security posture, which will be evident for years to come. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The cyber security industry is incredibly collaborative, and I\u2019ve had the privilege of attending outstanding seminars and conferences in London, Birmingham and York as part of my work. Many of these events were hosted by industry leaders like Microsoft, the National Cyber Security Centre and the Ministry of Defence.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through this collaboration, my team has been able to begin to implement exciting new threat detection and preparation techniques, allowing our work to continually evolve and improve.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I feel incredibly proud to be a part of this team.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A cyber apprenticeship: my tips for applying\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "I discovered the role of Cyber Security Apprentice on the Civil Service Careers website, where you can find all the details of the application process. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "When applying, don\u2019t fall into the trap of thinking: 'I have no prior experience, I\u2019m not applying'. Professional skills like negotiating, persuading, influencing and teamwork are often just as powerful as technical skills. Try to showcase your abilities outside of cyber as well as any technical skills you may have.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To complete an apprenticeship in cyber, you need to have a passion for the field. The beauty of cyber is that many ideas, concepts and studies surrounding the topic are freely available online. Try to demonstrate your passion for cyber by completing a free course or simply read up on the new and emerging cyber risks and technologies. Not only will this evidence help in your application, it will also confirm for you if cyber is really the sector you wish to pursue.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/02/10/national-apprenticeship-week-2025-my-story-as-a-cyber-security-apprentice-in-mhclg/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "To mark National Apprenticeship Week 2025, cyber security apprentice Billy shares his experience of building a fulfilling career within the Ministry of Housing, Communities and Local Government (MHCLG) as well as his tips on applying for an apprenticeship. "
+    },
+    {
+        "title": "Peer pressure \u2013 the work of the House of Lords Appointments Commission (HOLAC)",
+        "authors": [
+            "Baroness Ruth Deech"
+        ],
+        "posted_on": "2025-02-10T10:00:00",
+        "categories": [
+            "30th Anniversary",
+            "House of Lords appointments",
+            "Nolan Principles"
+        ],
+        "content": [
+            {
+                "content": "To mark the 30th\u00a0anniversary of the Nolan Principles, the Committee will be publishing a new series of blogs about the work of a range of standards bodies in England. Our first blog is from Baroness (Ruth)\u00a0Deech who chairs the independent House of Lords Appointments Commission.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "House of Lords Appointments Commission (HOLAC)",
+                "tag": "p"
+            },
+            {
+                "content": "Members of the House of Lords, like all others in public office, are required to live up to the Nolan Principles. As an appointments and vetting body \u2013 and one of the patchwork of ethics regulators in Westminster - HOLAC has a part to play in ensuring those being nominated to the House understand the role and expectations of becoming a peer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The independent House of Lords Appointments Commission (HOLAC) was first established in May 2000, and described as \u2018an interim measure pending further reform of the House of Lords\u2019.\u00a0 25 years later, its role and remit remain part of the wider discussion on Lords reform taking place as the Hereditary Peers Bill passes through Parliament.",
+                "tag": "p"
+            },
+            {
+                "content": "The Commission is non-statutory and has a majority independent membership, with representation from the three main parties.\u00a0 Unlike some of the other regulators, HOLAC did not originate from a Committee on Standards in Public Life recommendation; it was established by the Blair government as a new body to take on the role of appointing crossbench peers, previously carried out by Downing Street. It was then given the additional role (previously done by the Political Honours Scrutiny Committee in the Cabinet Office) of vetting political nominees to the House for propriety.",
+                "tag": "p"
+            },
+            {
+                "content": "Recommending new non-party-political peers",
+                "tag": "p"
+            },
+            {
+                "content": "The Commission and our very small team of officials run an open, merit-based process for the appointment of non-party-political peers. We look for people with experience and expertise to bring to the process of scrutinising legislation in the House.\u00a0 Over 5,500 people have applied - via an application form on our website \u2013 and there have been a\u00a0\u00a0\u00a0\u00a0 \u00a0total of 76 peers appointed in this way in the last 25 years.\u00a0 In recent years we have been asked to appoint only 2 non-party-political peers each year, so competition is intense - and we find ourselves having to disappoint some very talented people.",
+                "tag": "p"
+            },
+            {
+                "content": "While the number and timing of these appointments remain a matter for the Prime Minister, the choice of whom to recommend is made by the Commission alone. Most recently, in May 2024, HOLAC recommended Baroness Freeman, an expert in science communication and Lord Tarassenko, an engineer and academic, who is an expert in signal processing machine learning in healthcare.",
+                "tag": "p"
+            },
+            {
+                "content": "I was appointed to the House in this way in 2005 myself, after applying to HOLAC, so I was particularly delighted to be appointed as its Chair in 2023, following an open competition.\u00a0 It is a huge privilege to be part of this process, and the Commission is proud of the contribution that its appointees have made to the work of the House over the years.",
+                "tag": "p"
+            },
+            {
+                "content": "Vetting for propriety",
+                "tag": "p"
+            },
+            {
+                "content": "Our second role is vetting individuals who are nominated by the political parties for propriety. Unlike non-party-political appointments, we are not asked to assess the suitability or merit of those being put forward \u2013 that is for the political party. The Commission\u2019s role is to carry out a range of checks with regulators, government departments and agencies and make an overall assessment of whether the nominee meets its published criteria:",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018an individual should be in good standing in the community in general and with the public regulatory authorities in particular; and that the past conduct of the nominee would not reasonably be regarded as bringing the House of Lords into disrepute.\u2019",
+                "tag": "p"
+            },
+            {
+                "content": "HOLAC\u2019s advice \u2013 either to support the nomination or drawing concerns to the Prime Minister\u2019s attention \u2013 is given in confidence, with the final decision left to the Prime Minister.\u00a0 In its 25 years, HOLAC\u2019s advice has been accepted on all but one occasion in 2020 when the then Chair wrote to Parliament and put this information into the public domain to ensure transparency and accountability.",
+                "tag": "p"
+            },
+            {
+                "content": "HOLAC\u2019s remit and powers have been much discussed over the years, with some suggesting the Commission should be charged with looking at suitability for party nominations too. As the current Chair, I have made clear I would personally welcome this, although there are different views round the table.",
+                "tag": "p"
+            },
+            {
+                "content": "In the meantime, to help drive high standards and greater public confidence in appointments to the House, the Commission has revised the information required from the political parties in advance of vetting, to include confirmation that the party has carried out its own due diligence on people they are proposing and that the nominee understands the role and requirements of the membership of the House of Lords. And most recently, we were pleased that the government and parties agreed to publish a short citation setting out why someone is being nominated; this is something that the Committee on Standards in Public Life and HOLAC previously called for.",
+                "tag": "p"
+            },
+            {
+                "content": "Like many, I believe the House needs to urgently address its numbers problem while ensuring it has the right balance of skills, expertise and represents the whole United Kingdom.",
+                "tag": "p"
+            },
+            {
+                "content": "The Commission is proud of the quality and contribution of its non-party political nominees over the last 25 years. Whatever reform lies ahead, it is widely agreed that they bring deep expertise and experience, and their proportion of the membership needs to be maintained.",
+                "tag": "p"
+            },
+            {
+                "content": "The House of Lords does such important work within our democracy - making laws, investigating public policy and holding the government to account - but the burgeoning size of the House impacts on both its functioning and wider reputation.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0The Nolan Principles are an important framework for all of us in public life; they remind us that we are here to serve in the public interest.",
+                "tag": "p"
+            },
+            {
+                "content": "I congratulate the Committee on Standards in Public Life on its 30th anniversary \u2013 its work in promoting the principles and keeping standards in the spotlight is so important.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cspl.blog.gov.uk/2025/02/10/peer-pressure-the-work-of-the-house-of-lords-appointments-commission-holac/",
+        "blog": "Committee on Standards in Public Life",
+        "blog_link": "https://cspl.blog.gov.uk",
+        "description": "The first in a series of blogs from regulators marking 30 years of the Principles of Public Life."
+    },
+    {
+        "title": "From Care to Career: My Apprenticeship Journey",
+        "authors": [
+            "Jess McGovern-Guess"
+        ],
+        "posted_on": "2025-02-10T09:28:39",
+        "categories": [
+            "Apprenticeships"
+        ],
+        "content": [
+            {
+                "content": "National Apprenticeship Week 2025",
+                "tag": "h2"
+            },
+            {
+                "content": "This week is National Apprenticeship Week, celebrating how apprenticeships are a great way to build experience and gain a qualification. As part of Portsmouth City Council's Employability Academy, care-experienced young people are supported into meaningful employment to develop a career.",
+                "tag": "p"
+            },
+            {
+                "content": "Children's social care wanted to recruit someone with lived experience to be an advocate and provide feedback on the best way to support young people.",
+                "tag": "p"
+            },
+            {
+                "content": "With the support of foster carers, social workers, and the virtual school service, Jess McGovern-Guess applied for a customer service apprenticeship and was successful. Jess talks about gaining new skills, surprising moments, and her aspirations for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "My path to an apprenticeship",
+                "tag": "h2"
+            },
+            {
+                "content": "I have recently found myself reflecting on my journey before starting my apprenticeship. It all began when I was put into care in year 6.",
+                "tag": "p"
+            },
+            {
+                "content": "From year 7 onwards, my life was a whirlwind of change. I moved around a lot, even leaving Portsmouth at one point. This constant moving made it hard to settle in school and build friendships.",
+                "tag": "p"
+            },
+            {
+                "content": "By the time I reached year 10/11, I finally stayed in one school, but it just wasn't for me.",
+                "tag": "p"
+            },
+            {
+                "content": "Growing through work-based learning",
+                "tag": "h2"
+            },
+            {
+                "content": "At 17, I worked with my social worker and the virtual school team at Portsmouth City Council.",
+                "tag": "p"
+            },
+            {
+                "content": "An opportunity for an apprenticeship in customer service came up. I was so excited. Although I wasn't successful at first, the opportunity came up again.",
+                "tag": "p"
+            },
+            {
+                "content": "In my role, I am developing different skills to support customers. I've become much more confident in how I present myself, both with colleagues and the public. I've also learned important communication skills that are essential in a professional environment. These real-world skills have come directly from my apprenticeship.",
+                "tag": "p"
+            },
+            {
+                "content": "Choosing an apprenticeship over college was a big decision. The apprenticeship was the best option for me because I could learn and earn at the same time.",
+                "tag": "p"
+            },
+            {
+                "content": "I've had to be independent my whole life, and the apprenticeship suited that. It allowed me to work independently but also have the support of a team. This experience has made me more confident in dealing with the public, something I might not have gained elsewhere.",
+                "tag": "p"
+            },
+            {
+                "content": "Alongside completing my apprenticeship, I am looking to undertake my maths and English functional skills. The flexibility to complete these qualifications has also been a pleasant surprise.",
+                "tag": "p"
+            },
+            {
+                "content": "I don't feel pressured, as I can concentrate on my apprenticeship right now. I hope to complete both qualifications by the end of this year.",
+                "tag": "p"
+            },
+            {
+                "content": "Advice and future goals",
+                "tag": "h2"
+            },
+            {
+                "content": "For other care-experienced young people thinking about starting an apprenticeship, my advice is simple: don't be afraid to ask for help.",
+                "tag": "p"
+            },
+            {
+                "content": "Build a support network around yourself. Once you secure your placement, get involved with your colleagues because relationships are important.",
+                "tag": "p"
+            },
+            {
+                "content": "Be patient. I wasn't successful the first time I applied, but I didn't give up. Remember, apprenticeships are about learning, so don't get frustrated.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking to the future, I hope to pass my apprenticeship and get my qualifications. I want to be the first person in my family to have a career.",
+                "tag": "p"
+            },
+            {
+                "content": "I'd like to undertake a higher-level apprenticeship to gain more qualifications and experience. I'm not entirely sure what the end point is right now, but I enjoy working at Portsmouth City Council and hope to continue here after my apprenticeship ends.",
+                "tag": "p"
+            },
+            {
+                "content": "Further reading",
+                "tag": "h2"
+            }
+        ],
+        "link": "https://childrenssocialcare.blog.gov.uk/2025/02/10/from-care-to-career-my-apprenticeship-journey/",
+        "blog": "Children\u2019s social care",
+        "blog_link": "https://childrenssocialcare.blog.gov.uk",
+        "description": "In celebration of National Apprenticeship Week, we're proud to share the inspiring journey of Jess McGovern-Guess. "
+    },
+    {
+        "title": "Apprenticeship Week: Developing the Skills for Nature\u2019s Recovery",
+        "authors": [
+            "Natural England"
+        ],
+        "posted_on": "2025-02-10T08:05:00",
+        "categories": [
+            "Biodiversity",
+            "Climate change",
+            "Natural England",
+            "Nature Recovery",
+            "Nutrient Neutrality",
+            "Science and evidence"
+        ],
+        "content": [
+            {
+                "content": "To celebrate Apprenticeship Week 2025, Ecologist Apprentice, Annalise Machin, shares her apprenticeship journey with Natural England, highlighting the impact her developing skills will have for nature\u2019s recovery.",
+                "tag": "p"
+            },
+            {
+                "content": "I have always had an interest in in the natural world, loving the nature documentaries I saw on TV and getting outside at my local nature reserve. As I teenager, this interest in nature grew, leading me to seek a career that would help protect nature.",
+                "tag": "p"
+            },
+            {
+                "content": "After completion of some work experience at a local nature reserve, and then with the Environment Agency, I started a Physical Geography degree, learning more about the threats to our natural environment. All of this cumulated in me applying for a job in Nutrient Mitigation in Natural England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My role within the Nutrient Mitigation team aims to achieve nutrient neutrality in waterways, in collaboration with our stakeholders. By protecting waterways, we hope to contribute to a future where water resources are secure for human needs, but also for the needs of nature.",
+                "tag": "p"
+            },
+            {
+                "content": "When I was offered the opportunity to do an apprenticeship Ecology MSc through my job at Natural England, I felt so fortunate. Although I\u2019m still early on in my apprenticeship, I\u2019ve already learnt about some areas that will help protect our climate for future generations and support the organisation\u2019s goals.",
+                "tag": "p"
+            },
+            {
+                "content": "The apprenticeship focuses on a range of areas within conservation ecology, including wetland ecology, planning research projects, conducting ecological field studies and conservation techniques. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In lectures we\u2019ve learnt about rewilding projects, including Oostvaardersplassen in the Netherlands and the Knepp Estate in Kent. Alongside our research into legislation and other types of conservation, these lectures help us develop an understanding of how to plan conservation projects to create resilient landscapes for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "By tailoring my reading and projects outside of lectures, I can explore research areas that are more closely related to my job. In my case, reading lecture topics that have a focus on riparian ecology and wetland restoration feeds into my role within the nutrient mitigation team, allowing me to understand the waterways we aim to protect and their associated ecosystems. This allows me to contribute to discussions within the team and have a greater understanding of associated legislation that impacts the way we do our jobs.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England supports my apprenticeship by giving me one day a week to attend online classes and work on assignments, as well as giving me the time off needed to attend field work trips, covering the associated costs. The learning resources available and various free webinars from different parts of Defra support my on-the-job learning, introducing me to a network of specialists within the organisation.",
+                "tag": "p"
+            },
+            {
+                "content": "With 16% of UK species threatened with extinction and a 19% loss in species abundance on average, as reported in the State of Nature publication in 2023, the case for conservation is stronger than ever.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England apprenticeships can help people like me to fill knowledge gaps, allowing our decisions to be guided by evidence-based expertise. These skills will enable us to more effectively meet governmental goals, such as 30 by 30, by creating the best solutions for nature.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England offers a range of apprenticeships which support both our business needs and environmental objectives. These are advertised on Civil Service Jobs.",
+                "tag": "p"
+            },
+            {
+                "content": "Civil Service job search - Civil Service Jobs - GOV.UK",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/02/10/apprenticeship-week-developing-the-skills-for-natures-recovery/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "To celebrate Apprenticeship Week 2025, Ecologist Apprentice, Annalise Machin, shares her apprenticeship journey with Natural England, highlighting the impact her developing skills will have for nature\u2019s recovery. I have always had an interest in in the natural world, loving the \u2026"
+    },
+    {
+        "title": "What are apprenticeships? Everything you need to know and how you can apply",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2025-02-10T00:01:00",
+        "categories": [
+            "Apprenticeships",
+            "Careers",
+            "Higher Education"
+        ],
+        "content": [
+            {
+                "content": "\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is the first of a series of posts on the Education Hub to mark National Apprenticeship Week 2025. The series was curated and written by Lauren, the Department for Education\u2019s new communications apprentice.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeships are a great way to start a new career or learn new skills relevant to your job. They are brilliant options for people at every age to train in a huge range of sectors \u2013 from health and science to cybersecurity, marketing, and construction.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeships allow you to earn and learn whilst allowing you to develop skills that are vital for career growth and getting on-the-job training experience in your area of choice.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Today marks the start of National Apprenticeship Week 2025. The week celebrates apprentices and their employers across the country, highlighting this excellent career option and the benefits apprentices bring to many businesses.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Here is everything you need to know about apprenticeships.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is an apprenticeship?\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeships combine on the job training with study.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As an apprentice you are an employee who earns a wage, works with other staff whilst also studying in a subject related to your job role.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeships can take anywhere between one to five years to complete depending on what level your apprenticeship is, but by the end of your apprenticeship you will have the right skills, knowledge and experience needed to further your career.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeships are open to everyone from school leavers to those changing careers and those starting careers later in life.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are different levels to apprenticeships. Some are available at Level 2, which are equivalent to GCSEs, with others upwards to Level 6 and 7 which are equivalent to bachelor\u2019s degrees and master\u2019s degrees.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are the benefits of completing an apprenticeship?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeships allow you to gain hands on experience in industries of your choice whilst learning new skills that can help you in any career path you take.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Completing an apprenticeship can increase how employable you are and your earning potential regardless of how old you are or what background you come from.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An apprenticeship also allows you to earn a salary whilst gaining this experience. Apprenticeships are funded by the government or your employer, meaning no student loans or tuition fees if you choose to complete an apprenticeship.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Some apprenticeships may also give you an additional qualification, such as a diploma. You could even progress to a bachelor\u2019s degree or master\u2019s degree through a degree apprenticeship.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What apprenticeships are available?\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are over 700 types of apprenticeships available \u2013 so whether you want a career in law or prefer to train as a florist, there is likely an apprenticeship for you.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprentices look after children and care for the elderly, thatch roofs and lay floors. They can even deliver babies and direct funerals.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To see which apprenticeship is right for you, visit the find an apprentice service or visit UCAS.",
+                "tag": "p"
+            },
+            {
+                "content": "Some employers also advertise apprenticeships directly on their own websites.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Does an apprenticeship guarantee me a job?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeships open a range of opportunities for all types of people looking for career development.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An apprenticeship can also led to higher level apprenticeships and permanent employment with your employer, 93% of learners who have completed their apprenticeship say that they are still in employment following their apprenticeship.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You may also be able to use the qualification you earned and the experience you have in other roles.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How can I get an apprenticeship?\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to learn more about becoming an apprentice - click here\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can also search for apprenticeship vacancies here\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To apply for an apprenticeship now \u2013 click here\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/02/what-are-apprenticeships-everything-you-need-to-know-and-how-you-can-apply/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "\u00a0 This is the first of a series of posts on the Education Hub to mark National Apprenticeship Week 2025. The series was curated and written by Lauren, the Department for Education\u2019s new communications apprentice.\u00a0\u00a0 Apprenticeships are a great way \u2026"
+    }
+]
