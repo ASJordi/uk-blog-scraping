@@ -1,5 +1,1468 @@
 [
     {
+        "title": "How to become a software developer apprentice: Idris's story",
+        "authors": [
+            "Idris Abdirizak - Junior Software Developer, Government Digital Service"
+        ],
+        "posted_on": "2025-02-14T16:59:27",
+        "categories": [
+            "People and skills"
+        ],
+        "content": [
+            {
+                "content": "Starting from zero",
+                "tag": "h2"
+            },
+            {
+                "content": "I started work at GDS in February 2022, joining the GOV.UK Pay team. I initially came in and met the team for a week and then I went away to Makers Academy. There I learned to code from zero; from the ground up. It was a very intensive experience.",
+                "tag": "p"
+            },
+            {
+                "content": "Before that I did a lot of different things, like biomedical science. After that I worked for a bit in a lab but I didn't really like it. And then lockdown happened. That's when I really started getting interested in coding.",
+                "tag": "p"
+            },
+            {
+                "content": "At first I was considering a bootcamp, but then a friend of mine told me about Civil Service Jobs. I came across the GDS apprenticeship, which offered much better opportunities for me than anything else I could have done.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For the first 2 months I was just doing specific things that were earmarked for me. After that I needed to take on a project. It was creating a task list for onboarding with one of our payment providers. The team came together and thought, \"this would be something good for you to work on\", to enable me to get the experience I needed. Before that I'd been doing a mix of front-end and back-end work, but mainly front-end.",
+                "tag": "p"
+            },
+            {
+                "content": "Time for learning",
+                "tag": "h2"
+            },
+            {
+                "content": "I had every Friday for my own independent learning, supported by my line manager who knew exactly what I needed to help me. He gave me a few independent tasks, so that I could do work on something I was struggling with, for example Cypress testing. I then used Mountebank, which we use in combination with Cypress. I'd been struggling with those 2 technologies and he got me to make 2 applications; microservices that talk together. Then I was able to work on the task list properly.",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeship project",
+                "tag": "h2"
+            },
+            {
+                "content": "I carried on with my apprenticeship, doing some complex infrastructure work. Then I started working on an apprenticeship project. As part of a GDS apprenticeship you get to work on a project that has a business need \u2014 something that the team is going to use. And one thing we needed was a button in an internal tool we use called Toolbox that would allow us to reverse refunds.",
+                "tag": "p"
+            },
+            {
+                "content": "Challenge and progress",
+                "tag": "h2"
+            },
+            {
+                "content": "Later a position came up in GDS for a junior developer role, which I applied and successfully interviewed for.",
+                "tag": "p"
+            },
+            {
+                "content": "The experience has been really, really good. It was very challenging to begin with because I came from a non-coding background. But I had a lot of support. I was quite lucky with the team I was placed in as they helped me a lot and made it\u00a0a very good experience: challenging but definitely enjoyable.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2025/02/14/how-to-become-a-software-developer-apprentice-idriss-story/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "Idris Abdirizak joined GDS through our apprenticeship scheme for developers. In this blog post he talks about his experience."
+    },
+    {
+        "title": "What is a 'green' apprenticeship and where could it take you",
+        "authors": [
+            "mediaofficer"
+        ],
+        "posted_on": "2025-02-14T16:37:50",
+        "categories": [
+            "Apprenticeships",
+            "Careers"
+        ],
+        "content": [
+            {
+                "content": "This series of National Apprenticeship Week Education Hub posts was curated and written by Lauren, the Department for Education\u2019s new communications apprentice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are a range of apprenticeships available in the green economy and during National Apprentice Week we want to shed light on the range of green apprenticeships that are out there.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What are green apprenticeships?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A green apprenticeship gives the learner the skills they need to do a job in a green sector. Green jobs are roles in activities that contribute to protecting and restoring the environment and maybe even climate change.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you want to get on in a sustainable career or join the growing band of engineers working on clean energy, there are a range of paid green apprenticeships across the country leading to exciting careers that can also help the fight against climate change. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From nature restoration to nuclear power, there are a huge range of opportunities out there for anyone looking to train and join the green workforce. Here are just a few examples:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Low carbon Heating Technician (Level 3) - Heat Pump Engineer \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Heat pump engineers install and service zero carbon central heating and hot water systems in buildings.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Heat pump engineers earn from \u00a324,000 fresh out of training and have the opportunity to use the latest equipment. Heat pump engineers are in high demand, with the heat pump association estimating that 70,000 heat pump technicians are needed by 2035.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working as a low carbon heat technician apprentice means learning both in college and on the job, shadowing and doing practical work to develop the skills and knowledge needed to have a career in the industry following your apprenticeship.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Entry requirements for this apprenticeship are usually 4-5 GCESs at grade 9-4 (A* - C) or equivalent, which may include English and maths, but this varies with each employer.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Following your apprenticeship there are opportunities to become a heat pump installer or even a solar heating installer. You may work for yourself or a company.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You could also go further with your study to develop your skill set even more. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Wind Turbine Technician Apprenticeship (Level 3)\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A wind turbine technician apprenticeship is ideal for those who are interested in maintaining large wind turbines. Wind turbine technicians provide the hands-on maintenance that turbines need to operate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Like all apprenticeships, the wind turbine technician apprenticeship combines on the job practical work and classroom learning. You will learn core knowledge and skills about the operational practices of wind turbines, such as how to test equipment performance. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The wind turbine technician apprenticeship typically takes 36-42 months to complete. You will achieve a level 3 qualification while doing this apprenticeship.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Generally, your job title after completing this apprenticeship would be an engineering technician. You could work with different companies that are involved in multi-national corporations, or you could work for smaller local businesses.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Civil Engineer (Level 6) \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Civil engineers are vital to a range of major projects, providing design solutions for complex engineering problems. As a civil engineer, you will work with a team of engineers and other professionals in the construction industry throughout the stages of development for various projects.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By completing a civil engineering apprenticeship, you will be able to gain skills in a range of different areas from sustainable construction to engineering behaviour of earth materials.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As a civil engineer you could work in the public sector for the government, local authorities, or organisations like the NHS. You could also work in the private sector at an engineering consultancy practice or a research and development organisation. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are a range of routes you can take to get to a level 6 civil engineering apprenticeship. You may want to first complete a level 3 or 4 qualification in civil engineering, such as the level 3 civil engineering technician or level 4 civil engineering senior technician apprenticeship. You can also apply after finishing school or college. You will usually need 4 or 5 GCSEs at grades 9-4 (A*-C) and A levels (or equivalent).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "After completing this apprenticeship, you will be a fully qualified, chartered civil engineer with an average salary of \u00a344,341. There are a broad range of specialisms you can go onto work in, such as transport, infrastructure, and public buildings. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What skills do I need to start a green apprenticeship? \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeships in the green economy require people to be good team workers and strong collaborators.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Problem solving and communicating are also crucial skills to working in the green sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It may be useful to have some understanding of climate change and sustainability, but it isn\u2019t essential, as apprentices learn as they go and will develop these skills and more as they work and train. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To find out more about other apprenticeships available \u00a0Click here \u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://educationhub.blog.gov.uk/2025/02/what-is-a-green-apprenticeship-and-where-could-it-take-you/",
+        "blog": "The Education Hub",
+        "blog_link": "https://educationhub.blog.gov.uk",
+        "description": "This series of National Apprenticeship Week Education Hub posts was curated and written by Lauren, the Department for Education\u2019s new communications apprentice.\u00a0 There are a range of apprenticeships available in the green economy and during National Apprentice Week we want \u2026"
+    },
+    {
+        "title": "UKHSA Winter Viruses Dashboard Alpha Assessment",
+        "authors": [
+            "manyeelam"
+        ],
+        "posted_on": "2025-02-14T16:26:40",
+        "categories": [
+            "Alpha",
+            "Assurance",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From: DHSCAssessment date: 29 April 2023Stage: AlphaResult: MetService provider: UKHSA",
+                "tag": "p"
+            },
+            {
+                "content": "Service description",
+                "tag": "h2"
+            },
+            {
+                "content": "The winter viruses dashboard is a cost-effective, sustainable and scalable solution for an enduring public dashboard, which will act as a one-stop shop for priority UKHSA data and trends \u2013 starting with coronavirus and other respiratory viruses. This will enable us to proactively share relevant and useful data, trends and information, in a timely, user-centred and transparent fashion. It will meet the needs of multiple users through different features, namely a curated and accessible front-end interface for the public, as well as more granular data download functionality through APIs for professional users, such as academics, media and industry.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Service users\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "This service is for:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 2 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels\u00a0\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 3 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 4 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 6 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 7 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve frequently\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 9 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 10 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 11 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 12 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common components and patterns\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 13 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "14. Operate a reliable service\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 14 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2025/02/14/ukhsa-winter-viruses-dashboard-alpha-assessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "From: DHSCAssessment date: 29 April 2023Stage: AlphaResult: MetService provider: UKHSA Service description The winter viruses dashboard is a cost-effective, sustainable and scalable solution for an enduring public dashboard, which will act as a one-stop shop for priority UKHSA data and \u2026"
+    },
+    {
+        "title": "New year, new job?",
+        "authors": [
+            "Nindy Scott"
+        ],
+        "posted_on": "2025-02-14T15:45:01",
+        "categories": [
+            "People and recruitment",
+            "Skills and development",
+            "User-centred design"
+        ],
+        "content": [
+            {
+                "content": "Little is good, so bigger must be better.\u00a0 If you\u2019re looking for a new role, you may have noticed that we\u2019re recruiting for many user-centred design roles at the moment.\u00a0 If you haven\u2019t, check them out on Civil Service Jobs or through our Linkedin pages.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll be looking for business analysts, user researchers, content designers and service designers at various grades over the coming months.",
+                "tag": "p"
+            },
+            {
+                "content": "Those successful will be joining a small and established team of UCD professionals who work on phases of projects (from discovery to live), building services and products for DESNZ and DSIT.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "While we all sit within one team, on a day-to-day basis, we work on different projects, sometimes together and sometimes with external contractors or a mix of both.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We work with policy teams to build services that will help them deliver their policy. Whether that\u2019s creating eligibility checkers for our funding schemes or reporting and management tools to make sure that things are working as they should be. When you\u2019re supporting at three main business areas, there\u2019s always something interesting where we can add value.",
+                "tag": "p"
+            },
+            {
+                "content": "Apprenticeship week",
+                "tag": "p"
+            },
+            {
+                "content": "We can\u2019t just let a week like apprenticeship week pass by.\u00a0 There\u2019s already so much going on across government around this. Check out https://nationalcareers.service.gov.uk/national-apprenticeship-week",
+                "tag": "p"
+            },
+            {
+                "content": "Within the civil service, we have many great opportunities for apprenticeships and similar learning as you work schemes like summer internships. What you may not know, is that apprenticeships are on offer once you\u2019re in a role too.",
+                "tag": "p"
+            },
+            {
+                "content": "Within our own team, our lead user researcher is doing a chartered management degree apprenticeship (CMDA). Here\u2019s what she has to say about taking on an apprenticeship while working:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cI have always been passionate about leadership and management, and I wanted to gain a deeper understanding of how to effectively lead team and drive business need successfully. The CMDA apprenticeship offered the perfect combination of academic learning and workplace experience. ",
+                "tag": "p"
+            },
+            {
+                "content": "Rather than studying in isolation, I could apply my learning directly to my role, ensuring that I develop practical skills alongside theoretical knowledge. The opportunity to gain a Chartered Manager status at the end of the programme was a huge incentive. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are several benefits of being an apprentice such as the opportunity to apply learnings to work-based scenarios, making it more relevant and impactful. Engaging with fellow apprentices has expanded my network providing me with valuable insight and support throughout my journey. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The CMDA apprenticeship has transformed both my mindset and my approach to work. I have become more confident in taking on leadership responsibilities, making strategic decisions, and driving improvements in my team. ",
+                "tag": "p"
+            },
+            {
+                "content": "Additionally, the ability to balance work, study, and personal life has improved my time management resilience. I now feel better equipped to contribute meaningfully to my team and inspire others on their professional journey.",
+                "tag": "p"
+            },
+            {
+                "content": "Choosing the Chartered Management Degree Apprenticeship (CMDA18) has been one of the best decisions I have made for my career. It has provided me with invaluable knowledge, practical skills, and a pathway to professional recognition. I would like to also appreciate my line manager for her continuous and consistent support.",
+                "tag": "p"
+            },
+            {
+                "content": "For anyone considering an apprenticeship, I would highly recommend exploring this route, as it offers a fantastic opportunity to grow and succeed while actively working in your role. If you have any questions or are considering a similar journey, feel free to reach out ICS Apprenticeship Network and to me, I would love to share more about my experience.\u201d",
+                "tag": "p"
+            }
+        ],
+        "link": "https://icsdigital.blog.gov.uk/2025/02/14/new-year-new-job/",
+        "blog": "ICS Digital",
+        "blog_link": "https://icsdigital.blog.gov.uk",
+        "description": "We're recruiting for our user-centred design team and apprenticeship week."
+    },
+    {
+        "title": "Celebrating apprenticeship success\u202fat the Makers Awards 2025\u00a0",
+        "authors": [
+            "DWP Digital"
+        ],
+        "posted_on": "2025-02-14T15:32:34",
+        "categories": [
+            "Apprenticeships",
+            "Digital Academy",
+            "Digital With Purpose",
+            "Diversity"
+        ],
+        "content": [
+            {
+                "content": "This week marks the celebration of National Apprenticeship Week here at DWP Digital. ",
+                "tag": "p"
+            },
+            {
+                "content": "We are proud to have supported 113\u00a0apprentices through their learning journey to successful completion in the last 12 months, an increase of\u00a080% more than the previous 12 months.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Throughout the week a series of events and training was provided to colleagues across the organisation to raise awareness of the incredible work our apprentices and their support networks do on a daily basis.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Makers Apprenticeship Awards",
+                "tag": "h2"
+            },
+            {
+                "content": "Last week we also celebrated four DWP Digital colleagues getting recognition for their work\u00a0at the Makers Apprenticeship Awards. Makers are an apprenticeship provider for DWP Digital, offering programmes at a Higher Level 4 standard in a range of roles including Software Development and DevOps Engineering. Makers provide the knowledge and skills in a supportive learning setting; apprentices then combine this with hands on learning on real projects within DWP Digital. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The awards are a celebration of transformation of individuals, organisations, and the tech industry. Now in its third year, they honour the bold spirit of career changers and the organisations that support them.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There were 43 colleagues from across DWP Digital nominated,\u00a0and 16 shortlisted, an exceptional achievement to be put forward for the rising star, technical brilliance, innovator, impact, mentor and line manager categories.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Innovator\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Louis won The Innovator Award for transforming The Garage's existing Redmine ticketing platform to its latest version. The Garage are a team within DWP Digital using AI and automation to simplify and streamline customer and colleague experience. \u00a0Managing to create a proof of concept in under three weeks, within twelve-weeks, Louis successfully set up a fully functional application. His ability to deliver a working solution in such a short timeframe is impressive, whilst also balancing his regular workload and apprenticeship.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Louis demonstrated an exceptional ability to learn and apply new technologies, earning the award for his work ethic, technical expertise, and innovative mindset.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Technical Brilliance\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Jaabir won the Technical Brilliance Award for his achievement optimising AWS endpoints as part of his final apprenticeship project. His meticulous research and implementation significantly reduced cloud costs, exemplifying\u202fJaabir\u2019s ability to combine technical skill with strategic thinking to deliver measurable value to the department.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "He has written numerous scripts to automate repetitive tasks, streamline workflows, and increase efficiency. Saving time, reducing errors, and improving consistency across the team, Jaabir has a genuine passion for problem-solving. His ideas are not only innovative but impactful.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Jaabir is deaf and requires additional accessibility considerations. Supported by an interpreter, he ensures complex technical information is conveyed accurately in both directions, not allowing this to be a barrier to his success.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supportive teams\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The Makers Apprenticeship awards not only recognise rising stars on their apprenticeship journey but are an opportunity to celebrate the supportive teams around them, the colleagues who offer advice, cheerlead, and guide apprentices through any challenges.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Stella won Line Manager of the Year for her exceptional leadership, mentoring and unwavering commitment to supporting apprentices with their growth and contributing to team success.\u202f\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Annesa was awarded Mentor of the Year for her commitment to supporting apprentices beyond her direct line management responsibilities. As a former DevOps apprentice in DWP Digital, she acts as a role model to current apprentices, offering guidance on portfolios and providing technical advice.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Annesa is dedicated to inspiring others into pursuing a tech career, regularly holding one-on-one sessions, answering questions on LinkedIn and speaking at events. She shares her journey of having no prior experience in technology, just an interest and a positive attitude for learning. She is generous with her time to encourage those curious about working in technology to follow their passions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Congratulations\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "To get more articles like this, subscribe to our newsletter.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dwpdigital.blog.gov.uk/2025/02/14/celebrating-apprenticeship-success-at-the-makers-awards-2025/",
+        "blog": "DWP Digital",
+        "blog_link": "https://dwpdigital.blog.gov.uk",
+        "description": "This National Apprenticeship Week we celebrate success at the Makers Awards and recognise the work of our apprentices across DWP Digital."
+    },
+    {
+        "title": "Transforming justice, giving children a voice in the family courts",
+        "authors": [
+            "Peter Curran"
+        ],
+        "posted_on": "2025-02-14T15:27:51",
+        "categories": [
+            "Court and tribunal reform",
+            "Digital services",
+            "User experience and research"
+        ],
+        "content": [
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Disputes amongst families can be some of the most challenging issues heard in a court. When people are pitted against each other, it can be difficult to remember what\u2019s best for children. For victims of domestic violence court proceedings can add stress at an already traumatic time.",
+                "tag": "p"
+            },
+            {
+                "content": "What is Pathfinder?",
+                "tag": "h2"
+            },
+            {
+                "content": "My court in Wales is part of the family Pathfinder pilot which launched in 2022. New ways of working encourage a non-adversarial, out of court approach to resolve disputes about making arrangements for children. We do this by bringing together all the agencies involved in an application at the beginning of the process to ensure the court has the information it needs to reach a decision as soon as possible. This prioritises children and families and means applications are managed more effectively in line with recommendations published by the Private Law Advisory Group in 2020.",
+                "tag": "p"
+            },
+            {
+                "content": "How does Pathfinder work to support families, children and victims?",
+                "tag": "h2"
+            },
+            {
+                "content": "When an application is made in a Pathfinder area in Wales, Cafcass Cymru or the local authority begins the investigative and assessment phase. Safeguarding information is gathered, and for applications where domestic abuse is an issue, the domestic abuse agency supporting Pathfinder makes an assessment. Cafcass meets with the child to explore their views and then with parties (who are usually the parents) to discuss the views of the child and help resolve differences.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At this early stage, children are asked about their preferences in relation to the proceedings, for example they\u2019re asked whether they want to meet the judge, receive the court's decision by letter, or be informed by a parent. That information is added to a Child Impact Report which is filed within six weeks, providing information and recommendations for resolving the application.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before the first hearing, a judge or legal adviser reviews the case to ensure the court has all the information needed to make a decision at the first hearing. Working in this way can help us resolve the case quickly, before Pathfinder, it took at least 24 weeks and two hearings to gather the information needed to make a decision. Bringing everyone involved in an application together earlier means we gather the information needed more efficiently and sometimes issues are resolved without the need for a hearing.",
+                "tag": "p"
+            },
+            {
+                "content": "What happens if a case reaches a hearing?",
+                "tag": "h2"
+            },
+            {
+                "content": "Of course, there are times when a hearing is the only way to resolve a dispute and we now have Case Progression Officers to ensure parties are engaged and understand and follow the requirements of court orders. ",
+                "tag": "p"
+            },
+            {
+                "content": "When hearings are needed there\u2019s no longer a \u201cwin or lose\u201d adversarial approach. Instead, a judge or magistrate leads a discussion to help parents explore options, solve their own issues and reach a solution. More complex cases, like those involving domestic abuse, are case managed and dealt with in a way that\u2019s appropriate to ensure an outcome that\u2019s safe for everyone.",
+                "tag": "p"
+            },
+            {
+                "content": "Working together to improve outcomes",
+                "tag": "h2"
+            },
+            {
+                "content": "So why is Pathfinder successful? It takes a holistic approach and focuses gathering information at the start of the process so that a decision can be made at the earliest opportunity.",
+                "tag": "p"
+            },
+            {
+                "content": "Agencies collaborate to provide information, often within challenging timescales and parents are supported to focus on their child and move away from the issues that contributed to their relationship breakdown. This is an important change and is key to whether a case can be resolved, it prevents further conflict between separating couples and reduces additional trauma for domestic abuse survivors.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The commitment and dedication of the professionals involved in the Pathfinder has reduced the average time to resolve private law applications from 29 weeks in the 12 months to February 2022 to an average of 18 weeks in the 12 months to November 2024 in North Wales\u00a0 which is much better for everyone involved. I\u2019m proud to work in a Pathfinder court and looking forward to seeing other family courts follow in our footsteps. \u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Gall anghydfodau ymysg teuluoedd fod yn un o\u2019r problemau mwyaf heriol y gellid dod ar eu traws mewn llys. Pan fydd pobl am yddfau ei gilydd, gall fod anodd cofio beth sydd orau i\u2019r plant. Yng nghyd-destun dioddefwyr trais domestig, gall achosion llys ychwanegu straen at sefyllfa sydd eisoes yn drawmatig.",
+                "tag": "p"
+            },
+            {
+                "content": "Beth yw\u2019r Cynllun Braenaru?",
+                "tag": "h2"
+            },
+            {
+                "content": "Mae fy llys i yng Nghymru yn rhan o\u2019r cynllun peilot Braenaru a lansiwyd yn 2022. Mae ffyrdd newydd o weithio yn annog dull nad yw\u2019n wrthwynebol, y tu allan i\u2019r llys i ddatrys anghydfodau yngl\u0177n \u00e2 gwneud trefniadau ar gyfer plant. Rydym yn gwneud hyn drwy ddod ynghyd yr holl asiantaethau sy\u2019n rhan o gais ar ddechrau\u2019r broses i sicrhau bod gan y llys yr wybodaeth y mae ei hangen arno i gyrraedd penderfyniad cyn gynted \u00e2 phosib. Mae hyn yn blaenoriaethu plant a theuluoedd a golygir bod ceisiadau\u2019n cael eu rheoli\u2019n fwy effeithiol yn unol \u00e2\u2019r argymhellion a gyhoeddwyd gan y Gr\u0175p Cynghori ar Gyfraith Breifat yn 2020.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut mae\u2019r Cynllun Braenaru yn gweithio tuag at gefnogi teuluoedd, plant a dioddefwyr?",
+                "tag": "h2"
+            },
+            {
+                "content": "Pan wneir cais mewn ardal Braenaru yng Nghymru, bydd Cafcass Cymru yn cychwyn ar y cyfnod ymchwilio ac asesu. Cesglir gwybodaeth ddiogelu, ac mewn ceisiadau lle mae cam-drin domestig yn broblem, bydd yr asiantaeth cam-drin domestig sy\u2019n cefnogi\u2019r Cynllun Braenaru yn gwneud asesiad. Bydd Cafcass yn cyfarfod \u00e2\u2019r plentyn i gael ei farn ac yna\u2019n cyfarfod \u00e2\u2019r partion (y rhieni fel arfer) i drafod barn y plentyn a helpu i ddatrys eu gwahaniaethau. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Yn ystod y cam cynnar hwn, gofynnir i\u2019r plant am yr hyn sydd orau ganddynt mewn perthynas \u00e2\u2019r achosion, er enghraifft, gofynnir iddynt p\u2019un a ydynt eisiau cyfarfod y barnwr, cael penderfyniad y llys mewn llythyr drwy\u2019r post, neu gael eu hysbysu gan riant. Ychwanegir yr wybodaeth honno at yr Adroddiad Effaith ar Blentyn a fydd yn cael ei ffeilio o fewn chwe wythnos, a fydd yn darparu gwybodaeth ac argymhellion er mwyn datrys y cais. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cyn y gwrandawiad cyntaf, bydd barnwr neu gynghorydd cyfreithiol yn adolygu'r achos i sicrhau bod gan y llys yr holl wybodaeth sydd ei hangen arno i wneud penderfyniad yn y gwrandawiad cyntaf. Gall gweithio fel hyn ein helpu i ddatrys yr achos yn gyflym, cyn cyflwyno\u2019r Cynllun Braenaru, cymerodd o leiaf 24 wythnos a dau wrandawiad i gasglu'r wybodaeth a oedd ei hangen i wneud penderfyniad. Mae dod \u00e2 phawb sy'n rhan o gais at ei gilydd yn gynharach yn golygu ein bod yn casglu'r wybodaeth sydd ei hangen arnom yn fwy effeithlon ac weithiau caiff materion eu datrys heb fod angen gwrandawiad.",
+                "tag": "p"
+            },
+            {
+                "content": "Beth fydd yn digwydd pe bai achos yn cyrraedd gwrandawiad?",
+                "tag": "h2"
+            },
+            {
+                "content": "Wrth gwrs, mae adegau pan mai gwrandawiad yw\u2019r unig ffordd o ddatrys anghydfod ac mae gennym bellach Swyddogion Cynnydd Achosion i sicrhau bod part\u00efon yn ymgysylltu ac yn deall ac yn dilyn gofynion y gorchmynion llys.",
+                "tag": "p"
+            },
+            {
+                "content": "Pan fydd angen gwrandawiad, nid oes dull gwrthwynebol \"ennill neu golli\" mwyach. Yn hytrach, mae barnwr neu ynad yn arwain trafodaeth i helpu rhieni i archwilio opsiynau, datrys eu problemau eu hunain a dod i ddatrysiad. Mae achosion mwy cymhleth, fel y rhai sy'n ymwneud \u00e2 cham-drin domestig, yn cael eu rheoli a'u trin mewn ffordd sy'n briodol i sicrhau canlyniad sy'n ddiogel i bawb.\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Gweithio gyda\u2019n gilydd i wella canlyniadau",
+                "tag": "h2"
+            },
+            {
+                "content": "Pam fod y Cynllun Braenaru mor llwyddiannus? Mae'n cymryd agwedd gyfannol ac mae\u2019n canolbwyntio ar gasglu gwybodaeth ar ddechrau'r broses fel y gellir gwneud penderfyniad cyn gynted \u00e2 phosibl.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae asiantaethau'n cydweithio i ddarparu gwybodaeth, yn aml o fewn amserlenni heriol a chefnogir rhieni i ganolbwyntio ar eu plentyn a symud i ffwrdd o'r problemau a gyfrannodd at chwalu eu perthynas. Mae hwn yn newid pwysig ac mae'n allweddol i weld a ellir datrys achos, mae'n atal gwrthdaro pellach rhwng cyplau sydd wedi gwahanu ac mae\u2019n lleihau trawma ychwanegol i oroeswyr cam-drin domestig.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae ymrwymiad ac ymroddiad y gweithwyr proffesiynol sy'n ymwneud \u00e2'r Cynllun Braenaru wedi lleihau'r amser cyfartalog i ddatrys ceisiadau cyfraith breifat o 29 wythnos yn y 12 mis hyd at fis Chwefror 2022 i gyfartaledd o 18 wythnos yn y 12 mis hyd at fis Tachwedd 2024 yng Ngogledd Cymru, sy'n llawer gwell i bawb sy'n cymryd rhan. Rwy'n falch o weithio mewn Llys Braenaru ac yn edrych ymlaen at weld llysoedd teulu eraill yn dilyn yr un trywydd. \u00a0\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2025/02/14/transforming-justice-giving-children-a-voice-in-the-family-courts/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "Peter Curran, Specialist Family Leader for Wales shares his experience of working in a court pioneering a new approach to private family law cases."
+    },
+    {
+        "title": "Latest statement in response to small boat crossings",
+        "authors": [
+            "Home Office news team"
+        ],
+        "posted_on": "2025-02-14T15:00:00",
+        "categories": [
+            "Reactive statements"
+        ],
+        "content": [
+            {
+                "content": "A Home Office spokesperson said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe all want to end dangerous small boat crossings, which threaten lives and undermine our border security.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe people-smuggling gangs do not care if the vulnerable people they exploit live or die, as long as they pay. We will stop at nothing to dismantle their business models and bring them to justice.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Background:",
+                "tag": "p"
+            },
+            {
+                "content": "\u2022 Our new Border Security Command, led by Martin Hewitt, will strengthen our global partnerships and enhance our efforts to investigate, arrest, and prosecute these evil criminals.\u2022 The Border Security Command, backed by \u00a3150 million worth of funding, is a key part of the plan to protect borders, remove those with no legal right to be in the UK, and introduce new counter-terror style powers.\u2022 This major funding boost will initially go toward a range of enforcement and intelligence activities, including:o Investing heavily in NCA technology and capabilities, delivering advanced data exploitation and improvements to technologies to boost collaboration with European partners to investigate and break people smuggling networks.o 300 staff for the new Border Security Command, who will strengthen global partnerships, deliver new legislation, and lead the system through investment and strategy.o 100 specialist investigators and intelligence officers for the NCA, dedicated to tackling criminals who facilitate people smuggling.o Creating a new specialist OIC Intelligence Source Unit which will cohere intelligence flows from key police forces.o Boosting the Crown Prosecution Service\u2019s ability to deliver charging decisions more quickly on international organised crime cases.\u2022 This government has already demonstrated its commitment to removing individuals who have no right to remain in the United Kingdom.\u2022 Since the government came to office, we have returned thousands of people with no right to be here.\u2022 On Thursday 30 January the Border Security, Asylum and Immigration Bill was introduced to Parliament, this landmark legislation features new counter terror-style powers to identify, disrupt and smash people smuggling gangs.\u2022 The Bill also includes stronger powers to seize and search mobile phones to investigate organised immigration crime alongside new offences against gangs conspiring to plan crossings, selling or handling small boat parts for use in the Channel, supplying forged ID documents, for migrants attempting to come here illegally.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://homeofficemedia.blog.gov.uk/2025/02/14/latest-statement-in-response-to-small-boat-crossings/",
+        "blog": "Home Office in the media",
+        "blog_link": "https://homeofficemedia.blog.gov.uk",
+        "description": "A Home Office spokesperson said: \u201cWe all want to end dangerous small boat crossings, which threaten lives and undermine our border security. \u201cThe people-smuggling gangs do not care if the vulnerable people they exploit live or die, as long as \u2026"
+    },
+    {
+        "title": "Andrew Donaldson-Wheatcroft: 'We should see HIV testing as an essential part of self-care'",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2025-02-14T14:54:17",
+        "categories": [
+            "Sexual health"
+        ],
+        "content": [
+            {
+                "content": "If you are interested in skincare, beauty and wellness, you might know of influencer Andrew Donaldson-Wheatcroft, who has well over 200,000 followers on his social media accounts. Alongside this content, Andrew is an advocate for people living with HIV. In this blog post, he shares the story of his HIV diagnosis.",
+                "tag": "p"
+            },
+            {
+                "content": "Before I was diagnosed with HIV in 2015, like many other people I assumed it was unlikely to happen to me. Now I know, HIV doesn\u2019t discriminate and anyone can catch it. Misconceptions are harmful and allow the virus to spread because it\u2019s damaging to people\u2019s health when they get into the mindset of \u2018this doesn\u2019t affect me, why would I test for it?\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "My experience tells me that many people still believe HIV only affects gay men, but for the past 2 \u00a0years, we\u2019ve seen heterosexual HIV diagnoses overtake those of gay, bisexual and other men who have sex with men (GBMSM).",
+                "tag": "p"
+            },
+            {
+                "content": "Regular testing is crucial to identify an HIV infection because most people feel fine and don\u2019t have symptoms for some time. Some people might experience a short illness after they contract the virus which can present like the flu, but even then symptoms can vary, and it\u2019s easy to shrug off as \u2018just another winter virus\u2019. I didn\u2019t suspect anything; I was just going about my daily life unaware \u2013 which is easy to do when you\u2019re not regularly testing.",
+                "tag": "p"
+            },
+            {
+                "content": "It was only when I was rushed into hospital after becoming seriously ill with pneumonia and meningitis that I was diagnosed. When I arrived at the hospital, doctors didn\u2019t know what was happening to my body. Even if I had known, I couldn\u2019t have told them because I was so ill I couldn\u2019t even speak. When the test results came back, the doctors discovered that I had HIV, and were then able to piece things together.",
+                "tag": "p"
+            },
+            {
+                "content": "The risk of the unknown",
+                "tag": "p"
+            },
+            {
+                "content": "Because I wasn\u2019t regularly testing, I didn\u2019t know my status, and this allowed the virus to silently cause damage to my immune system, so I wasn\u2019t able to fight infections. Once the test confirmed my diagnosis, NHS staff were able to provide me with the right treatment and get my health back on track.",
+                "tag": "p"
+            },
+            {
+                "content": "HIV medication keeps me healthy, so I can live a normal life. The medication I take has now reduced my viral load to an undetectable level. This means the virus is still there, but it has been reduced to such small amounts in my body that it cannot be passed on, including to my husband. You may have heard of the term \u2018Undetectable = Untransmittable\u2019 or \u2018U = U\u2019; this means that people living with HIV, and who are \u2018undetectable\u2019, have a zero risk of transmitting the virus to their sexual partners.",
+                "tag": "p"
+            },
+            {
+                "content": "For me, HIV medication feels like a miraculous thing, but it\u2019s a treatment, not a cure. My road to recovery wasn\u2019t an overnight fix; it was a journey. I continue to take daily medication, and for the past 10 years I\u2019ve had to go to regular appointments to make sure my treatment is working properly, checking that the virus is at low levels, and my immune system is well. Because of the dedication I\u2019ve put into my health, I have been told that I am no longer required to check in with a doctor or have my bloods taken regularly, as I\u2019m the healthiest I have ever been in my HIV journey, which I am over the moon about.",
+                "tag": "p"
+            },
+            {
+                "content": "HIV continues to carry a lot of stigma, usually because people lack information about it. Being vocal about my HIV positivity online might come across as easy now, but it took me 5 years to tell people I was HIV positive because of that stigma. It was the most afraid I\u2019ve ever been of anything in my life. Outdated beliefs from the past still linger, but the reality of HIV today is completely different.",
+                "tag": "p"
+            },
+            {
+                "content": "Consistently using condoms is really important, but there are now other highly effective tools we can use to reduce the risk of transmission. Pre-Exposure Prophylaxis (PrEP) is a daily pill that significantly lowers the risk of getting HIV for those at higher risk. Post-Exposure Prophylaxis (PEP) is an emergency medication that can be taken within 72 hours of potential exposure to prevent the virus from taking hold. By combining these methods with regular testing and condom use, we can work towards stopping new HIV infections.",
+                "tag": "p"
+            },
+            {
+                "content": "Normalising the conversation about HIV, and encouraging regular testing helps break down that stigma. We should see sexual health testing as an essential part of self-care, just like eating well, exercising, and looking after our mental health. Knowing your status is about empowerment and taking control. HIV can affect anyone, no matter your gender or sexual orientation. Regular testing leads to earlier diagnosis, allowing people to start effective treatment sooner\u2014protecting their health and preventing transmission.",
+                "tag": "p"
+            },
+            {
+                "content": "Protect yourself, educate yourself, and go get tested!",
+                "tag": "p"
+            },
+            {
+                "content": "Find your local sexual health clinic.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2025/02/14/andrew-donaldson-wheatcroft-we-should-see-hiv-testing-as-an-essential-part-of-self-care/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "If you are interested in skincare, beauty and wellness, you might know of influencer Andrew Donaldson-Wheatcroft, who has well over 200,000 followers on his social media accounts. Alongside this content, Andrew is an advocate for people living with HIV. In \u2026"
+    },
+    {
+        "title": "Joining GDS as a Junior Site Reliability Engineer: Radha's story",
+        "authors": [
+            "Radha Kotyankar - Site Reliability Engineer, Government Digital Service"
+        ],
+        "posted_on": "2025-02-14T14:45:53",
+        "categories": [
+            "People and skills"
+        ],
+        "content": [
+            {
+                "content": "Life before GDS",
+                "tag": "h2"
+            },
+            {
+                "content": "I started my career in teaching and moved gradually into the corporate world.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I had worked as a software tester but when I came to the UK I had to give up my job for family reasons. I was a stay-at-home mum for quite some time before I joined the workforce again.",
+                "tag": "p"
+            },
+            {
+                "content": "DevOps bootcamp",
+                "tag": "h2"
+            },
+            {
+                "content": "I realised when I got back into software testing that things had changed quite a lot since I first worked in the field. So I thought it would be good to try something different. That's why I joined the DevOps bootcamp in July 2022, where I achieved AWS cloud practitioner certifications over 12 weeks.",
+                "tag": "p"
+            },
+            {
+                "content": "Following this, I applied for a role at GDS\u00a0 as a Junior Site Reliability Engineer on GOV.UK Pay.",
+                "tag": "p"
+            },
+            {
+                "content": "Gradual learning",
+                "tag": "h2"
+            },
+            {
+                "content": "At the beginning everything was new including writing git commands.",
+                "tag": "p"
+            },
+            {
+                "content": "I completed a lot of self-learning using training videos, and the support of my team. It would have been impossible to be where I am today without them!",
+                "tag": "p"
+            },
+            {
+                "content": "In the early days I mostly worked on package updates but in the background I was learning basic but essential skills: using git, how to push code to github, how to use the command line interface - it seems simple now!",
+                "tag": "p"
+            },
+            {
+                "content": "Gradually I\u00a0 took on more challenging work including creating dashboards for metrics in the Prometheus tool.",
+                "tag": "p"
+            },
+            {
+                "content": "The team has always asked, \"what would you like to do next?\" and \"how much more would you like to try?\" encouraging me to push myself and giving me the support that I need to succeed.",
+                "tag": "p"
+            },
+            {
+                "content": "Moving to a more senior role",
+                "tag": "h2"
+            },
+            {
+                "content": "As part of the rotation for my programme, I then moved to GOV.UK Forms. Moving to a more senior role wasn't straightforward as I had to develop a set of skills to be able to develop into a mid-level role, but the team\u2019s work always gave me scope to learn something different.",
+                "tag": "p"
+            },
+            {
+                "content": "The future",
+                "tag": "h2"
+            },
+            {
+                "content": "In future I'd like to get involved in more challenging projects to develop my skills and opportunities further. At the moment I'm also doing the senior leadership apprenticeship so I am practicing those skills in my current role. It\u2019s a really broad programme covering finance, change management, and leadership over a 2-year period.",
+                "tag": "p"
+            },
+            {
+                "content": "Challenge and progress",
+                "tag": "h2"
+            },
+            {
+                "content": "I think GDS is one of the best places I've ever worked. Although I found things challenging when I first arrived, my team were brilliant. Their help and patience was so important in helping me to settle in. I would recommend anybody who is thinking of a career in the UK government or GDS to apply.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gds.blog.gov.uk/2025/02/14/joining-gds-as-a-junior-site-reliability-engineer-radhas-story/",
+        "blog": "Government Digital Service",
+        "blog_link": "https://gds.blog.gov.uk",
+        "description": "Radha joined as a Junior Site Reliability Engineer on GOV.UK Pay, later moving to GOV.UK Forms. She talks about her experience of what it was like joining GDS."
+    },
+    {
+        "title": "When do you need to notify Ofsted?",
+        "authors": [
+            "Jayne Coward, Deputy Director for Early Years Regulatory Policy and Practice"
+        ],
+        "posted_on": "2025-02-14T11:42:03",
+        "categories": [
+            "Early years"
+        ],
+        "content": [
+            {
+                "content": "We know that keeping children safe and happy is the biggest priority for all of you in the early years and childcare sector. Caring for young children in a safe environment helps them to develop the skills they need as they grow.",
+                "tag": "p"
+            },
+            {
+                "content": "The early years foundation stage (EYFS) sets out the requirements you must meet for learning, development and care. It is a statutory requirement that you notify Ofsted or your childminder agency of:",
+                "tag": "p"
+            },
+            {
+                "content": "Last year we received 11,100 notifications from 7,850 providers.",
+                "tag": "p"
+            },
+            {
+                "content": "We have found that we are often notified about incidents we don\u2019t necessarily need to know about. We know that notifying us takes time and can add to the pressure you are working under. So being sure whether you do need to notify us could save you time and relieve pressure.",
+                "tag": "p"
+            },
+            {
+                "content": "This blog will set out the types of information we need to know about to help you understand when it is appropriate to notify us.",
+                "tag": "p"
+            },
+            {
+                "content": "What you must tell us about",
+                "tag": "p"
+            },
+            {
+                "content": "If you are an Ofsted-registered provider, you must notify us of any serious childcare incident within 14 days. This includes:",
+                "tag": "p"
+            },
+            {
+                "content": "Our guidance gives more detail on the types of incidents you must tell us about and how to report them.",
+                "tag": "p"
+            },
+            {
+                "content": "You do not need to tell us about minor injuries such as animal and insect bites, or cuts and grazes. This is true even when hospital treatment is required, unless the child is admitted to hospital for more than 24 hours.",
+                "tag": "p"
+            },
+            {
+                "content": "What is a significant event?",
+                "tag": "p"
+            },
+            {
+                "content": "A significant event is any change or incident that affects the suitability of the registered person, or anyone connected with your registration, to care for or be in regular contact with children.",
+                "tag": "p"
+            },
+            {
+                "content": "We do not need to know about everything, and you will need to use your judgement to determine whether to notify us. The greater the risk posed to children, the more likely it is you should tell us about it. To help you make this decision, we have listed some examples in our published guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "Changes to health",
+                "tag": "p"
+            },
+            {
+                "content": "A significant event may include a change to the health of the registered provider or those connected to your registration. We only need to know about changes that could impact on a person\u2019s ability to care for or be in regular contact with children. This includes any long-term condition that affects their ability to walk, balance, bend, kneel or lift a child.",
+                "tag": "p"
+            },
+            {
+                "content": "You don\u2019t need to tell us about changes to the health of managers or staff at an early years setting, as that is the provider\u2019s responsibility.",
+                "tag": "p"
+            },
+            {
+                "content": "However, if a provider wishes to employ someone who is disqualified, or a member of staff becomes disqualified, that person must apply to us to waive disqualification. \u00a0They cannot work at the setting until a decision has been made. This is also the case if you, as a provider, become disqualified. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Again, you need to tell us about changes to health or any other significant event as soon as reasonably practical and always within 14 days.",
+                "tag": "p"
+            },
+            {
+                "content": "What we do when we receive a notification",
+                "tag": "p"
+            },
+            {
+                "content": "We know things can happen, despite all appropriate measures in place to keep children safe. Notifying us will not necessarily affect your registration. However, failure to notify us of a significant event without reasonable excuse is an offence.",
+                "tag": "p"
+            },
+            {
+                "content": "When we receive a notification, we will risk assess the information alongside the details we already hold about your registration. This helps us to decide what action, if any, we need to take. For example, we may contact you to discuss the notification, or carry out a regulatory visit or inspection.",
+                "tag": "p"
+            },
+            {
+                "content": "Changes to your registration",
+                "tag": "p"
+            },
+            {
+                "content": "We also need to know about any changes to your registration details. This includes informing us of changes to your name, address or telephone number, the address where childcare is provided, working hours and the number of children you look after. You also need to contact us regarding any change to the legal entity of your registered body. You can do this by emailing enquiries@ofsted.gov.uk from the email address you have registered with us and giving your URN. You must also let us know about changes to people connected to your childcare. If you are registered on the Early Years Register, the relevant EYFS sets out the full list of changes that you must notify us about. Providers registered on the Childcare Register must follow the relevant Childcare Register requirements.",
+                "tag": "p"
+            },
+            {
+                "content": "The Ofsted early years team will be at the Childcare Expo in Olympia, London, on 28 February and 1 March 2025. If you have any questions, please come and speak to them.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://earlyyears.blog.gov.uk/2025/02/14/when-do-you-need-to-notify-ofsted/",
+        "blog": "Ofsted: early years",
+        "blog_link": "https://earlyyears.blog.gov.uk",
+        "description": "We know that keeping children safe and happy is the biggest priority for all of you in the early years and childcare sector. Caring for young children in a safe environment helps them to develop the skills they need as \u2026"
+    },
+    {
+        "title": "How we've enhanced our digital services",
+        "authors": [
+            "Matthew Thomas, Digital Registration Service Product Manager"
+        ],
+        "posted_on": "2025-02-14T10:34:05",
+        "categories": [
+            "Digital services"
+        ],
+        "content": [
+            {
+                "content": "We have made a number of key improvements to our digital services over the last year. HM Land Registry became \u2018Digital by default\u2019 in November 2022 and, drawing on feedback from customers, we continue to adapt our services to more closely meet their needs.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Since July 2024 there have been approximately 8,000 daily portal users, collectively making a total of 2,100,000 visits, and just over 750,000 applications were submitted through our Digital Registration Service (DRS). In the last 6 months just under 1,300 customers have used the Business Gateway service \u2013 Business Gateway is software connected to our services through APIs (application programming interfaces) \u2013 and submitted more than 515,000 applications. ",
+                "tag": "p"
+            },
+            {
+                "content": "A total of 88% of our applications were made digitally between July and December 2024, amounting to more than 1.9m applications in total. The move to digital is a crucial part of our efforts to provide a faster registration service.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We made a number of enhancements to DRS during the second half of 2024.",
+                "tag": "p"
+            },
+            {
+                "content": "View Applications",
+                "tag": "h2"
+            },
+            {
+                "content": "View Applications, which is available to all portal users, enables customers to manage their portal applications and correspondence in one place. In July we enhanced the accuracy of the Estimated Completion Date to ensure greater clarity and understanding of when a submitted application will be completed and made improvements to the filters for requisitions and warnings of cancellations within View Applications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To add further transparency to the application journey and to reflect the collaborative way many of our customers work,\u00a0in November 2024 we launched a new feature which allow portal users to see requisitions responses and additional documentation which they or a colleague has submitted using the reply to requisitions feature.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Adding additional parties to digital applications\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Previously many customers found it hard to add an additional party,\u00a0 for example when a proprietor died or a guardian was acting. In response to this we made it easier to add additional parties to DRS applications.\u00a0 So for those applying to transfer of whole, a transfer of part, or a transfer of charge, they are now able to add parties such as additional trustee, trustee in partnerships and various other parties. These changes mean you can review and amend the transferor fields until you are confident that all the names in your application match the register and deeds, and that everyone is accounted for. It will also reduce the need for many requisitions for name discrepancies, improving the speed at which we can complete your applications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Building a new registration service for Business Gateway\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "All efforts have been on building a new registration service for Business Gateway users through a suite of new APIs to replace our existing e-DRS service (the way customers submit applications, sometimes called the e-AP1). APIs are a series of digital \u2018connectors\u2019 that link third party (or in-house) software with our services. We are building these new services using a more up-to-date and \u2018lightweight\u2019 API \u2013 moving from SOAP to REST \u2013 to ensure a better experience for both the technology developers and service users in the future.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The new registration service will create a new standard for when we accept applications, validating much of the data to identify administrative errors that will need to be resolved before acceptance onto the day list. Customers who use DRS within the portal are informed of potential errors or omissions within their applications, and the new registration service will build on that to create parity for our customers and provide a single service available across both our web channel (DRS) and through our API platform to Business Gateway integrators.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve been working closely with those software integrators to understand their technical needs, and expect to start testing this with some early adopters from April. We will then look to roll this out to all Business Gateway customers from October 2025.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://hmlandregistry.blog.gov.uk/2025/02/14/how-weve-enhanced-our-digital-services/",
+        "blog": "HM Land Registry",
+        "blog_link": "https://hmlandregistry.blog.gov.uk",
+        "description": "The move to digital is a crucial part of our efforts to speed up registration. Find out about the latest improvements to our services."
+    },
+    {
+        "title": "All is Fair in Love and IP Rights\u00a0",
+        "authors": [
+            "Meg Davies",
+            "Christina Watts"
+        ],
+        "posted_on": "2025-02-14T10:00:00",
+        "categories": [
+            "Copyright",
+            "Design",
+            "Patents",
+            "Trade marks",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Love, innovation and creativity have always gone hand in hand. From patented heart-shaped jewellery to chocolate brands protected with trade marks, romance has long inspired inventors and creators across the UK. While you are busy planning the perfect gift, intellectual property (IP) is quietly playing cupid behind the scenes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Patently in Love\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In the spirit of Valentine\u2019s Day, the Intellectual Property Office (IPO) has gifted us a brand new patent search, meaning finding a patent is easier than hunting for the perfect Valentine\u2019s gift. A few quick searches have revealed some romantic innovations that show just how creative love can make us:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Folding heart design card - GB2436813",
+                "tag": "h4"
+            },
+            {
+                "content": "This greetings card has interlocking sections that form a love heart shape, complete with space for a special message inside.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Wishbone - GB2619980\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "This novelty wishbone patented in 2022 claims to test \"who loves more\" - we recommend using this one with care!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Heart-shaped swim goggles - GB2579706\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "These heart-shaped swim goggles feature rims filled with liquid and glitter- the perfect gift for the swimming enthusiast in your life.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Copyrighting Cupid",
+                "tag": "h2"
+            },
+            {
+                "content": "If something homemade is more your style, IP still has you covered. Whether you're writing the world's most romantic poem or composing a tune to rival the sweetest love song, copyright is there to protect your work automatically from the moment of creation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Not feeling creative? You're in luck! Many romantic classics are now out of copyright and free to use. Shakespeare's sonnets are all in the public domain, as are Jane Austen's novels and musical pieces like Tchaikovsky's \"Romeo and Juliet Overture\" and Here Comes the Bride (Wagner\u2019s \u201cBridal Chorus\u201d). ",
+                "tag": "p"
+            },
+            {
+                "content": "Feel free to quote poetry in your Valentine's card, but if you\u2019re looking to sell products or use music in a video that you\u2019ll be posting online, you should be aware that more recent works will still be under copyright. A good rule of thumb in the UK is that copyright usually lasts for 70 years after the creator's death.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sealed with a Registered Design\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Do you have your eye on a special someone this year? Your valentine\u2019s gift - whether it\u2019s an engagement ring or their favourite scent - may be protected with a registered design. Here are some of our favourites:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Welsh love spoon- 6107275",
+                "tag": "h4"
+            },
+            {
+                "content": "The appearance of love spoons are often unique, so protecting the design is a great idea. Paul Curtis did just this in 2020, for this love spoon with a rose design.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Perfume bottle for DKNY Be Delicious - D529397\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Many fragrances have unique and iconic bottles, such as DKNY\u2019s Be Delicious. This glass bottle, which is shaped like an apple, lines many a dresser across the world. Gabrielle Studio, Inc. hold registered designs for many of DKNY\u2019s products.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ring with heart-shaped setting 6170653\u00a0\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "This ring was registered as a design in 2022 by jewellery company Pandora A/S. It has a heart-shaped stone and pink stones studding the band.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Marked with Love",
+                "tag": "h2"
+            },
+            {
+                "content": "Behind many of our most beloved Valentine's brands are carefully protected trade marks.\u00a0Trade marks don't just protect logos and names. They help us identify authentic tokens of affection from imitations, and safeguard the considerable investment these companies make in building their brand identity and reputation. From luxury jewellers to artisan chocolatiers, trade marks help ensure that when you're spending money on that special gift, you're getting exactly what you paid for.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Tiffany",
+                "tag": "h4"
+            },
+            {
+                "content": "The iconic jewellery company hold a wide array of trade marks. As well as having protected their name and logo, they famously hold trade marks for their signature colour Tiffany Blue (UK00911964641) and their iconic blue boxes (UK00900151985).",
+                "tag": "p"
+            },
+            {
+                "content": "Bollinger",
+                "tag": "h4"
+            },
+            {
+                "content": "Champagne company Bollinger hold the oldest trade mark on our list. As well as having trade marked their logo and some of the labels for their bottles, they hold the original trade mark for their name, from 1908! (UK00000308985).",
+                "tag": "p"
+            },
+            {
+                "content": "Bloom and Wild\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "This floral company sell fresh bouquets of flowers, delivered directly to your doorstep. The company has wisely protected their IP, having trade marked both their name (UK00915755283) and logo (UK00004027364).",
+                "tag": "p"
+            },
+            {
+                "content": "So, this Valentine's Day, take a moment to consider the IP that helps make the day of love extra special. After all, behind every romantic gesture, there might just be a patent, design or trade mark!\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Happy Valentine's Day from the Intellectual Property Office!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2025/02/14/alls-fair-in-love-and-ip-rights/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "Love, innovation, and creativity have always gone hand in hand. From patented heart-shaped jewellery to chocolate brands protected with trade marks, romance has long inspired inventors and creators across the UK. Whilst you are busy planning the perfect gift, intellectual property (IP) is quietly playing cupid behind the scenes.\u00a0"
+    },
+    {
         "title": "New towns update",
         "authors": [
             "mhclgpress"
