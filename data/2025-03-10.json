@@ -1,5 +1,852 @@
 [
     {
+        "title": "Update on the farming budget",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2025-03-12T18:45:52",
+        "categories": [
+            "Farming and Countryside Programme"
+        ],
+        "content": [
+            {
+                "content": "This government is proud to have secured the largest budget for sustainable food production in our country\u2019s history, with \u00a35 billion being spent to support farmers over a 2-year period.\u00a0\u00a0That has helped us get record numbers of farmers into our farming schemes, with 50,000 farm businesses and more than half of all farmed land managed under our environmental land management schemes.\u00a0\u00a0We also know that farmers want to better understand how that money is being spent as we deliver on our commitment to support farmers in achieving sustainable food production and nature recovery.\u00a0This table sets out how that \u00a35 billion is split across the different schemes, grants and other payments which are supporting farmers across England.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "N.B: These are not ring-fenced figures and have the potential to change as needed for outcomes.\u00a0We set a \u00a31.05 billion cap on SFI in 2024/25 and 2025/26. ",
+                "tag": "p"
+            },
+            {
+                "content": "We can now confirm that this cap has been reached with record numbers of farmers in the scheme and 37,000 live agreements.\u00a0\u00a0As of 11 March, every penny of this has now been paid to farmers or committed for payment through existing agreements or submitted applications.\u00a0This is why, as a responsible government committed to the careful management of a fixed budget, we had to stop accepting new applications to SFI.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We will set out details on the next phase of the SFI scheme in due course \u2013 and we will address the issues with the previous scheme that led to us having to take this decision now.\u00a0We publish full data on the uptake of SFI actions on a quarterly basis. The most recent data is published on GOV.UK and the next update will follow in May.\u00a0\u00a0\u00a0The wider farming offer",
+                "tag": "p"
+            },
+            {
+                "content": "SFI is an important offer, but it is part of a wider package.\u00a0\u00a0\u00a0We\u2019ve shared regular updates about the progress of\u00a0Landscape Recovery\u00a0and\u00a0Farming in Protected Landscapes\u00a0with project spotlights,\u00a0Animal Health and Welfare\u00a0and the grants designed to support productivity and innovation. \u00a0\u00a0In recent weeks, we've made a number of announcements about:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These announcements are unaffected by the SFI decision and we are working with the Rural Payments Agency (RPA), farmers and stakeholders to implement and take those policies forward.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2025/03/12/update-on-the-farming-budget/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "In this post, we summarise the government's \u00a35 billion investment in farming. We outline how the funding is allocated across the Farming and Countryside Programme. We also highlight recent updates and future plans."
+    },
+    {
+        "title": "Understanding the true burden of Infectious Intestinal Disease in the UK",
+        "authors": [
+            "Aileen Mill, Professor of Modelling, Evidence and Policy. Newcastle University. Principal Investigator on the third study of infectious intestinal disease (IID3)"
+        ],
+        "posted_on": "2025-03-12T15:47:24",
+        "categories": [
+            "Foodborne disease",
+            "Science"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "The third study of infectious intestinal disease (IID3) aims to quantify the rates of infection reported across primary care and NHS 111/NHS 24 call services and quantify the level of underreporting in order to make new estimates of the true rates of IID infections across the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "How many people in the UK get norovirus?",
+                "tag": "h4"
+            },
+            {
+                "content": "Since December it seems that there hasn\u2019t been a week go by without hearing of someone being off work sick with 'noro'. Are these poorly friends and colleagues self-diagnosing and using a catch all term to describe a bout of illness? Or have they had a formal diagnosis of norovirus from a medical professional?\u00a0 Perhaps they have consulted NHS 111/NHS 24 or have been to their GP and had a stool sample submitted for testing and had a positive result?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are a range of reasons why a person may, or may not, seek medical advice when they have a 'stomach bug'. However not knowing how many do and don\u2019t seek medical attention makes it difficult to estimate the scale of the problem.\u00a0 Understanding the true burden of infection (or cost inferred from missed work days) is important and will inform what we can do about it (read more in the why IID research matters blog).",
+                "tag": "p"
+            },
+            {
+                "content": "Understanding infectious intestinal disease reporting in the UK",
+                "tag": "h4"
+            },
+            {
+                "content": "The IID3 study isn't just looking at norovirus, although this pathogen is the third most common pathogen being detected in our study samples. Our study is being supported by over 8,000 volunteer participants who are alerting us when they have diarrhoea and vomiting symptoms - typical of IID. These participants have enrolled through their GP practice and are recording their symptoms using a specially designed app (read more about this on the IID3 technology blog) to report if they become ill.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To date we have analysed over 3,000 stool samples to identify the array of pathogens that are making people ill. We will compare the results from our study of participants\u2019 samples with those reported through regular routes such as visits to the GP or calls to NHS 111 (NHS 24 in Scotland) and records in national surveillance laboratories over the same period to determine the true rates of underreporting at each stage.",
+                "tag": "p"
+            },
+            {
+                "content": "Sample testing",
+                "tag": "h4"
+            },
+            {
+                "content": "The IID3 study is collecting participant data from Sept 2023 - August 2025. So far diarrhoeagenic Escherichia coli (enterotoxigenic, enteropathogenic & enteroaggregative strains), Campylobacter, norovirus, Clostridium perfringens (toxin positive) and sapovirus are among the mostly commonly detected pathogens in our study.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We find this out by conducting PCR tests at Liverpool Clinical Laboratory. These PCR tests look for a wide range of pathogens (including less common pathogens such as Shigella, Aeromonas and Vibrio).\u00a0 When we detect a pathogen, we also send the sample to national reference laboratories, including The Gastrointestinal Bacteria Reference Unit (GBRU) for bacterial infections such as Salmonella, Campylobacter, Yersinia and Cryptosporidium Reference Unit (CRU) at Public Health Wales for parasite related infections such as Cryptosporidium, Giardia and Cyclospora.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At these labs researchers carry out further PCR testing and additional tests such as Whole Genome Sequencing and strain typing so we can learn more about the pathogens.\u00a0 Norovirus samples are sent to the enteric virus unit at the UKHSA for further characterisation. These tests allow us to determine which genogroup and type of norovirus is present in a sample - things we wouldn\u2019t find out about samples following routine care.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The results from these additional lab tests are beginning to come in and we are seeing some interesting trends that mirror national trends in emerging norovirus strain types (see national reports on norovirus). Our analysis has also shown that participants in the IID3 study are being infected by a wide range of norovirus strains.",
+                "tag": "p"
+            },
+            {
+                "content": "Linking to National Data",
+                "tag": "h4"
+            },
+            {
+                "content": "The IID3 study is UK-wide so includes researchers from across all four nations who are working together to align datasets and compare national reporting procedures. The UKHSA have been leading on developing code to extract and compare these data. This involves many hours of checking details to make sure we don\u2019t have duplicate records and are capturing the information about all the same pathogens we are testing for in the Liverpool labs, which may be stored differently in each country\u2019s data. When we have our complete datasets, we will analyse the trends in seasonality of each of the pathogens detected. By comparing this with the trends seen in national reporting we will learn about the different routes people take to reporting illness (or not).",
+                "tag": "p"
+            },
+            {
+                "content": "Some of the pathogens being detected may affect different people in the population. For example rotavirus will impact young children more than adults and some pathogens are more closely associated with food (Campylobacter/Salmonella), or recent overseas travel (Giardia). Understanding more about our study participants is useful, so we ask participants to complete a questionnaire about their health and lifestyle.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We don\u2019t always successfully detect an infectious pathogen in the stool samples we test, and we want to understand why this is, as the participants are reporting the symptoms. There are a range of potential reasons, for example are we getting the samples too late (e.g. the pathogens haven\u2019t survived in the sample) or is something else causing disease?\u00a0 We hope to be able to use this data to better understand lack of pathogen detection and to inform decisions about how to intervene or reduce the risk of infection.",
+                "tag": "p"
+            },
+            {
+                "content": "One of the largest challenges in answering the question \u2018How many people in the UK get norovirus?\u2019 is that it requires a study of this scale and a huge diversity of roles and experts to work together, including GP practice liaison teams, epidemiologists and modellers, microbiologists, data managers, ethic experts and public health researchers. Working with this team is a huge learning experience for us all.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By the end of the study we will have new estimates of disease prevalence in the UK and how it is reported. In the meantime you can see our current results on the IID3 study dashboard.",
+                "tag": "p"
+            },
+            {
+                "content": "Nod y drydedd astudiaeth o glefydau perfeddol heintus (IID3) yw mesur cyfraddau\u2019r clefydau a adroddir ar draws gwasanaethau gofal sylfaenol a gwasanaethau galwadau GIG 111/NHS 24, yn ogystal \u00e2 nodi lefel y tanadrodd er mwyn gwneud amcangyfrifon newydd o\u2019r gwir gyfraddau o glefydau IID ledled y DU.",
+                "tag": "p"
+            },
+            {
+                "content": "Faint o bobl yn y DU sy\u2019n dal norofeirws?",
+                "tag": "h4"
+            },
+            {
+                "content": "Ers mis Rhagfyr, mae\u2019n si\u0175r nad oes wythnos wedi mynd heibio heb glywed bod rhywun i ffwrdd o\u2019r gwaith yn s\u00e2l gyda \u2018noro\u2019. Ydy\u2019r ffrindiau a\u2019r cydweithwyr s\u00e2l hyn yn hunan-ddiagnosio ac yn defnyddio term gor-gyffredinol i ddisgrifio pwl o salwch? Neu ydyn nhw wedi cael diagnosis ffurfiol o norofeirws gan weithiwr meddygol proffesiynol? Efallai eu bod nhw wedi cysylltu \u00e2 GIG 111/NHS 24 neu wedi bod at eu meddyg teulu a chyflwyno sampl carthion i\u2019w phrofi ac wedi cael canlyniad positif?",
+                "tag": "p"
+            },
+            {
+                "content": "Mae yna amrywiaeth o resymau pam byddai person yn gofyn am gyngor meddygol, neu beidio, pan fydd ganddo \u2018fola tost\u2019. Fodd bynnag, mae peidio \u00e2 gwybod faint sy\u2019n ceisio sylw meddygol \u2013 a faint sydd ddim \u2013 yn ei wneud yn anodd amcangyfrif maint y broblem. Mae deall gwir faich clefydau (neu\u2019r gost yn sgil colli diwrnodau gwaith) yn bwysig, a bydd yn llywio\u2019r hyn y gallwn ni ei wneud amdano (darllenwch fwy yn y blog pam mae ymchwil IID yn bwysig).",
+                "tag": "p"
+            },
+            {
+                "content": "Deall adroddiadau am glefydau perfeddol heintus yn y DU",
+                "tag": "h4"
+            },
+            {
+                "content": "Nid yw\u2019r astudiaeth IID3 yn ystyried norofeirws yn unig, ond y pathogen hwn yw\u2019r trydydd pathogen mwyaf cyffredin sy\u2019n cael ei ganfod yn ein samplau astudio. Mae ein hastudiaeth yn cael ei chefnogi gan dros 8,000 o gyfranogwyr gwirfoddol sy\u2019n rhoi gwybod i ni pan fydd ganddyn nhw symptomau dolur rhydd a chwydu, sy\u2019n nodweddiadol o IID. Mae\u2019r cyfranogwyr hyn wedi ymrestru drwy eu meddygfa ac yn cofnodi eu symptomau gan ddefnyddio ap sydd wedi\u2019i ddylunio\u2019n arbennig (darllenwch fwy am hyn yn y blog ar dechnoleg IID3) i roi gwybod os byddan nhw\u2019n mynd yn s\u00e2l.",
+                "tag": "p"
+            },
+            {
+                "content": "Hyd yn hyn, rydym wedi dadansoddi dros 3,000 o samplau carthion i nodi\u2019r amrywiaeth o bathogenau sy\u2019n gwneud pobl yn s\u00e2l. Byddwn yn cymharu\u2019r canlyniadau a gawn o samplau\u2019r sawl sy\u2019n cymryd rhan yn ein hastudiaeth \u00e2\u2019r rhai a adroddwyd drwy lwybrau arferol fel ymweliadau \u00e2\u2019r meddyg teulu neu alwadau i GIG 111 (NHS 24 yn yr Alban) a chofnodion mewn labordai gwyliadwriaeth cenedlaethol dros yr un cyfnod, a hynny er mwyn pennu\u2019r gwir gyfraddau tanadrodd ar bob cam.",
+                "tag": "p"
+            },
+            {
+                "content": "Profi samplau",
+                "tag": "h4"
+            },
+            {
+                "content": "Mae\u2019r astudiaeth IID3 yn casglu data cyfranogwyr o fis Medi 2023 i fis Awst 2025. Hyd yn hyn, mae Escherichia coli sy\u2019n peri dolur rhydd (straeniau enterotocsigenig, enteropathogenig ac enteroagregatif), Campylobacter, norofeirws, Clostridium perfringens (tocsin positif) a sapofeirws ymhlith y pathogenau a ganfyddir amlaf yn ein hastudiaeth.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym yn darganfod hyn trwy gynnal profion PCR yn Labordy Clinigol Lerpwl. Mae\u2019r profion PCR hyn yn edrych am ystod eang o bathogenau (gan gynnwys pathogenau llai cyffredin fel Shigella, Aeromonas a Vibrio). Pan fyddwn yn canfod pathogen, rydym hefyd yn anfon y sampl i labordai ymchwil cenedlaethol, gan gynnwys yr Uned Ymchwil Bacteria Gastroberfeddol (GBRU) ar gyfer heintiau bacteriol fel Salmonela, Campylobacter ac Yersinia, a\u2019r Uned Gyfeirio Cryptosporidium (CRU) yn Iechyd Cyhoeddus Cymru ar gyfer heintiau sy\u2019n gysylltiedig \u00e2 pharasitiaid fel Cryptosporidium, Giardia a Cyclospora.",
+                "tag": "p"
+            },
+            {
+                "content": "Yn y labordai hyn, mae ymchwilwyr yn cynnal profion PCR pellach a phrofion ychwanegol fel Dilyniannu Genom Cyfan a theipio straen fel y gallwn ddysgu mwy am y pathogenau. Anfonir samplau norofeirws i\u2019r uned feirysau enterig yn UKHSA i\u2019w disgrifio ymhellach. Mae\u2019r profion hyn yn ein galluogi i bennu pa genogr\u0175p a pha fath o norofeirws sy\u2019n bresennol mewn sampl \u2013 pethau na fyddem yn eu darganfod am samplau wrth ddilyn y llwybrau gofal arferol.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae canlyniadau\u2019r profion labordy ychwanegol hyn yn dechrau cyrraedd, ac rydym yn gweld rhai tueddiadau diddorol sy\u2019n adlewyrchu tueddiadau cenedlaethol mewn mathau o straeniau norofeirws sy\u2019n dod i\u2019r amlwg (gweler adroddiadau cenedlaethol ar norofeirws). Mae ein dadansoddiadau hefyd wedi dangos bod cyfranogwyr yn yr astudiaeth IID3 yn cael eu heintio gan ystod eang o straeniau norofeirws.",
+                "tag": "p"
+            },
+            {
+                "content": "Cysylltu \u00e2 Data Cenedlaethol",
+                "tag": "h4"
+            },
+            {
+                "content": "Mae\u2019r astudiaeth IID3 yn berthnasol i\u2019r DU gyfan, felly mae\u2019n cynnwys ymchwilwyr o bob un o\u2019r pedair gwlad sy\u2019n cydweithio i alinio setiau data a chymharu gweithdrefnau adrodd cenedlaethol. Mae UKHSA wedi bod yn arwain ar ddatblygu cod i echdynnu a chymharu\u2019r data hyn. Mae hyn yn golygu oriau maith o wirio manylion i sicrhau nad oes gennym gofnodion dyblyg a\u2019n bod ni\u2019n casglu\u2019r wybodaeth am yr holl bathogenau yr ydym yn profi amdanynt yn labordai Lerpwl, a allai gael eu storio\u2019n wahanol yn nata pob gwlad. Pan fydd gennym ein setiau data cyflawn, byddwn yn dadansoddi\u2019r tueddiadau o ran natur dymhorol pob un o\u2019r pathogenau a ganfuwyd. Trwy gymharu hyn \u00e2\u2019r tueddiadau a welir mewn adroddiadau cenedlaethol, byddwn yn dysgu am y gwahanol lwybrau y mae pobl yn eu cymryd i adrodd am salwch (neu beidio).",
+                "tag": "p"
+            },
+            {
+                "content": "Gall rhai o\u2019r pathogenau sy\u2019n cael eu canfod effeithio ar wahanol bobl yn y boblogaeth. Er enghraifft, bydd rotafeirws yn effeithio ar blant ifanc yn fwy nag oedolion, ac mae rhai pathogenau yn fwy cysylltiedig \u00e2 bwyd (Campylobacter /Salmonela), neu deithio tramor diweddar (Giardia). Mae deall mwy am y bobl sy\u2019n cymryd rhan yn ein hastudiaeth yn ddefnyddiol, felly gofynnwn i gyfranogwyr gwblhau holiadur am eu hiechyd a\u2019u ffordd o fyw.",
+                "tag": "p"
+            },
+            {
+                "content": "Nid ydym bob amser yn llwyddo i ganfod pathogen heintus yn y samplau carthion rydym yn eu profi, ac rydym am ddeall y rheswm dros hyn, wrth i\u2019r cyfranogwyr adrodd am y symptomau. Mae amrywiaeth o resymau posib, er enghraifft, a ydym yn cael y samplau yn rhy hwyr (er enghraifft, nid yw\u2019r pathogenau wedi goroesi yn y sampl) neu a yw rhywbeth arall yn achosi\u2019r clefyd? Gobeithiwn allu defnyddio\u2019r data hwn i ddeall yn well y diffyg canfod pathogenau ac i lywio penderfyniadau ynghylch sut i ymyrryd neu leihau\u2019r risg o glefyd.",
+                "tag": "p"
+            },
+            {
+                "content": "Un o\u2019r heriau mwyaf wrth ateb y cwestiwn \u2018Faint o bobl yn y DU sy\u2019n dal norofeirws?\u2019 yw ei fod yn gofyn am astudiaeth o\u2019r raddfa hon ac yn dibynnu ar gydweithio ar draws proffesiynau a chan amrywiaeth enfawr o arbenigwyr, gan gynnwys timau cyswllt meddygfeydd, epidemiolegwyr a modelwyr, microbiolegwyr, rheolwyr data, arbenigwyr moeseg ac ymchwilwyr iechyd y cyhoedd. Mae gweithio gyda\u2019r t\u00eem hwn yn brofiad dysgu enfawr i bob un ohonom ni.",
+                "tag": "p"
+            },
+            {
+                "content": "Erbyn diwedd yr astudiaeth, bydd gennym ni amcangyfrifon newydd o ba mor gyffredin yw\u2019r fath glefydau yn y DU a sut y rhoddir gwybod amdanynt. Yn y cyfamser, gallwch weld ein canlyniadau cyfredol ar ddangosfwrdd astudio IID3. \u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2025/03/12/understanding-the-true-burden-of-infectious-intestinal-disease-in-the-uk/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "Cymraeg The third study of infectious intestinal disease (IID3) aims to quantify the rates of infection reported across primary care and NHS 111/NHS 24 call services and quantify the level of underreporting in order to make new estimates of the \u2026"
+    },
+    {
+        "title": "SMA Screening ISE Partnership Board update February 2025",
+        "authors": [
+            "Jo Harcombe"
+        ],
+        "posted_on": "2025-03-12T15:08:27",
+        "categories": [
+            "General",
+            "NHS Newborn Blood Spot Screening Programme"
+        ],
+        "content": [
+            {
+                "content": "The UK National Screening Committee (UK NSC) and partners continue to work on the planning of an in-service evaluation (ISE) of newborn screening for spinal muscular atrophy (SMA).",
+                "tag": "p"
+            },
+            {
+                "content": "Results from the ISE, along with a new SMA screening modelling study for the UK screening context, will inform the UK NSC\u2019s recommendation on whether SMA, a rare inherited condition, should be added to the newborn blood spot (NBS) screening programme.\u00a0The ISE will also help to inform any future newborn screening arrangement so it optimises newborn screening for SMA to ensure the best possible outcome for patients and families.",
+                "tag": "p"
+            },
+            {
+                "content": "The SMA Screening ISE Partnership Board, which is overseeing the planning of the ISE, met on 18 February. Board members include screening experts from the 4 UK governments and NHS\u2019s, the National Institute for Health and Care Research (NIHR), organisations with a shared interest in newborn screening for SMA, clinicians, academics, genomic experts and parent, patient and public voice members.",
+                "tag": "p"
+            },
+            {
+                "content": "The NIHR Health Technology Assessment (HTA) brief for the research component of the ISE has been approved in principle. ",
+                "tag": "p"
+            },
+            {
+                "content": "The Sheffield Centre for Health and Related Research (ScHARR) provided an update on the new modelling study it is developing into SMA screening for the UK context. The ScHARR team, which presented encouraging interim results to the UK NSC\u2019s fetal, maternal and child health (FMCH) sub-group in November, is now focusing on completing the model and incorporating stakeholder feedback. Caveats and uncertainties include the cost of treatment, the long-term benefits for children and families and that 2 SMA drug treatments are available under a National Institute for Health and Care Excellence (NICE) managed access agreement (MAA) at present.",
+                "tag": "p"
+            },
+            {
+                "content": "News from expert sub-groups and partners",
+                "tag": "h2"
+            },
+            {
+                "content": "The chairs of the partnership board\u2019s 3 expert sub-groups gave updates on their respective workstreams.",
+                "tag": "p"
+            },
+            {
+                "content": "Rachel Knowles reported that the data and methodology sub-group had reviewed the research brief in light of\u00a0ScHARR\u2019s interim findings to ensure requirements for the ISE remain accurately described.",
+                "tag": "p"
+            },
+            {
+                "content": "Laboratory sub-group chair Prof Jim Bonham explained that 6 English newborn screening laboratories are offering Severe Combined Immunodeficiency (SCID) testing using a multiplex PCR technology. These 6 labs are in a good position to begin testing for SMA and together could test samples from approximately 370,000 births per year. He explained that the ISE would provide a good opportunity to optimise the screening pathway to ensure that the best health outcomes could be gained from treatment.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "Clinical pathway sub-group chair Dr David Elliman shared the sub-group\u2019s draft screening pathway. Steps needing further clarification include information given at the point of first contact with parents of babies where SMA is suspected, clinical management if SMN2 copy numbers are not available at the first clinical visit and defining where the screening pathway ends and the care pathway takes over. A smaller task and finish group has been working on information for parents and staff training materials. First drafts have been shared for comment with the clinical pathway task and finish group, prior to wider consultation.",
+                "tag": "p"
+            },
+            {
+                "content": "Partnership board chair Prof Anne Mackie informed the board that the UK NSC secretariat continues to engage with NICE about the MAA for 2 of the  SMA drug treatments. NICE\u2019s revised evaluation of these treatments is estimated to report at the start of 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep up to date\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK NSC blog provides up to date news from the UK NSC. You can\u202fregister to receive updates\u202fdirect to your inbox, so there is no need to keep checking for new articles. If you have any questions about this blog article, or about the work of the UK NSC, please email\u202fuknsc@dhsc.gov.uk.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://nationalscreening.blog.gov.uk/2025/03/12/sma-screening-ise-partnership-board-update-february-2025/",
+        "blog": "UK National Screening Committee",
+        "blog_link": "https://nationalscreening.blog.gov.uk",
+        "description": "An update from the partnership board that is overseeing the planning of an in-service evaluation (ISE) of newborn screening for spinal muscular atrophy."
+    },
+    {
+        "title": "Community Connect - creating data community cohesion",
+        "authors": [
+            "Rachael Richards, Data Community Lead, CDDO"
+        ],
+        "posted_on": "2025-03-12T14:05:02",
+        "categories": [
+            "Cross-government strategy",
+            "Data",
+            "Digital strategy",
+            "Digital transformation",
+            "Government Digital and Data"
+        ],
+        "content": [
+            {
+                "content": "The role of our data communities is fundamental to helping the government achieve the aims and aspirations for use of technologies such as AI, as set out in the government response to the AI Opportunities Action Plan. Community Connect was the first in-person meeting of data communities from across government on 10 February.",
+                "tag": "p"
+            },
+            {
+                "content": "130 data architects, data governance leads, programme directors, and heads of knowledge and information management came together from across government, along with members from a range of groups including AI for Government Knowledge and Information Management (GKIM) Cross-government Data Sharing Practitioners Community, and Data Sharing Network of Experts.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Jenny Brooker, GDS Chief Data Architect welcomed attendees by setting out the collaborative aim: \u201cToday is about bringing us together, strengthening our collective voice, and hopefully starting to shape the future of government.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "She also acknowledged: \u201cWe are in a pivotal place for data, and there hasn\u2019t been such a big movement behind it across government, since the launch of open data. AI is coming, and therefore data is more important than ever. We have a manifesto commitment to the National Data Library, and even having the word \u2018data\u2019 in the manifesto feels monumental.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cCommunities need to get ready for these innovations, and through collective thought members can help navigate issues, shape good practice, and agree how your organisation will adopt AI.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Getting ourselves ready for the future",
+                "tag": "h3"
+            },
+            {
+                "content": "We need to nurture civil service talent and encourage cross-government training to implement \u2018cross-economy AI adoption\u2019 and encourage the public sector to \u2018pilot and scale AI products and services and encourage the private sector to do the same\u2019 and with this in mind we hosted a panel session to discuss with our communities what we can all do for us and our data to be ready for these opportunities.",
+                "tag": "p"
+            },
+            {
+                "content": "Peter Kyle, the Secretary of State for Science, Innovation and Technology, recently launched the blueprint for modern digital government. This tactical plan sets out the vision for the future of digital government over the next ten years. It emphasises the need to build communities of practice, and outlines how we must create \u00a0centres of expertise involving practitioners across government, in particular in AI, risk and resilience, service delivery and data. The power of communities and collective thinking can\u2019t be underestimated, and these hubs for specialists will help deliver a modern digital government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Common themes in community meetings",
+                "tag": "h3"
+            },
+            {
+                "content": "Communities of practice ran individual breakout meetings. These provided a forum to reflect on improving data practices across government departments. Some of main themes raised were:",
+                "tag": "p"
+            },
+            {
+                "content": "Cross departmental collaboration",
+                "tag": "h3"
+            },
+            {
+                "content": "Matt Thompson, Head of Data Strategy at the UK Health Security Agency, stated:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe Data Maturity Community shared success stories around business areas taking ownership of their data maturity action plans, linking data challenges to risks and operational delivery, and funding training programmes.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe public sector is an enormous, data-rich world full of talented people working hard to solve very similar problems, however we are all siloed. We all need to be better at breaking out of our bubbles, building our networks, sharing and learning, not just from colleagues in our own specialisms, but from other expert communities as well.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Training and guidelines",
+                "tag": "h3"
+            },
+            {
+                "content": "Firoze Salim, Head of Frameworks and Standards at the GDS, discussed the ongoing struggle to align departmental objectives with available resources. He remarked:",
+                "tag": "p"
+            },
+            {
+                "content": "\"The Data Sharing Practitioners Community discussed how aligning departmental objectives with available resources is a constant challenge. Training for effective data usage is crucial for progress. Members agreed that they all need clear guidance on AI integration, consistent data language, and recognition of data\u2019s strategic value by senior leadership.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Risks of AI",
+                "tag": "h3"
+            },
+            {
+                "content": "Alex Smith, Head of Data Security at GDS, highlighted the need to recognise the risks associated with AI technologies and the importance of sharing best practices across departments, indicating a cautious approach to technological advancements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Challenges in data sharing",
+                "tag": "h3"
+            },
+            {
+                "content": "Murat Soncul, Head of Privacy and Data Protection at GDS, pointed out the challenges related to data sharing, including issues of funding, resource allocation, and the need for common data models.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Save the date for future events",
+                "tag": "h3"
+            },
+            {
+                "content": "Community members from across-government are invited to attend upcoming in person and virtual events to upskill, share best practice, showcase innovation, and debate challenges. Future diary dates to note are:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Community Connect North",
+                "tag": "h3"
+            },
+            {
+                "content": "Calling all public sector data professionals who struggled to attend Community Connect in London, you are now invited to register for Community Connect North. The northern version of the all data communities meet-up will be held in Manchester city centre, during June.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The venue and agenda are being finalised.The afternoon event will follow a similar agenda to Community Connect. It will offer the same in person networking opportunities and opportunity to hear from a panel of senior guests. To register your interest for Community Connect North please complete this form on Hopin.",
+                "tag": "p"
+            },
+            {
+                "content": "DataConnect25",
+                "tag": "h3"
+            },
+            {
+                "content": "Now in its fourth year, DataConnect25, government\u2019s largest virtual data conference, will move from September to November. To attend DataConnect, please register on Hopin. In September, we will launch this year\u2019s themes, and open up submissions for civil servants to propose a session or panel discussion.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cddo.blog.gov.uk/2025/03/12/community-connect-creating-data-community-cohesion/",
+        "blog": "Government Digital and Data",
+        "blog_link": "https://cddo.blog.gov.uk",
+        "description": "Read about Community Connect, the first in person  cross-government data community meet-up. The event, which followed on from the success of DataConnect, celebrated the power of communities to work together, and contribute to the data sharing priorities for government. Take a look at the key from individual data community meetings, and sign-up to upcoming community events."
+    },
+    {
+        "title": "Tracking Jack Snipe: Our quest to understand the UK\u2019s most elusive bird",
+        "authors": [
+            "Kevin Clements"
+        ],
+        "posted_on": "2025-03-12T13:57:14",
+        "categories": [
+            "Biodiversity",
+            "Evidence",
+            "Monitoring",
+            "Natural England",
+            "Nature",
+            "Nature Recovery",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Kevin Clements, West Midlands Area Delivery Team",
+                "tag": "p"
+            },
+            {
+                "content": "The project",
+                "tag": "h4"
+            },
+            {
+                "content": "The Jack Snipe is probably our most elusive and least understood bird. But a Natural England project aims to change that.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s small and secretive bird which, arguably, a lot of people won\u2019t have heard of let alone been lucky enough to see. So, I consider myself extremely lucky to be leading a project to understand its habits and movements. ",
+                "tag": "p"
+            },
+            {
+                "content": "Breeding in northern Eurasia, Jack Snipe are a winter visitor to the UK, being present mostly from September to April. They prefer marshes, wet grasslands and the muddy fringes of reedbeds, but will also feed overnight in fields of short grass or stubble, feeding feasting on insects, worms and snails.",
+                "tag": "p"
+            },
+            {
+                "content": "An estimated 110,000 Jack Snipe\u00a0winter across the UK, making them one of our most widespread and numerous visitors, but due to their secretive and nocturnal nature this population estimate is deemed unreliable. However, with Natural England\u2019s input and advancing technology, our understanding of them is improving.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From 2000 to 2015, on average fewer than 120 Jack Snipes were caught and ringed across the UK each year. With the advent of thermal imaging cameras making detection of birds both during the day and night much easier, the annual average of birds ringed has since increased to over 420, with a record 738 in 2023. However, up to 2023, just 121 birds had been recaught and only 21 of those abroad. So, very little is known about their migration routes and choice of stopover sites.",
+                "tag": "p"
+            },
+            {
+                "content": "In 2023/24, Natural England funded ten archival GPS tags (accurate to ten metres) to be fitted to Jack Snipe at two sites in the Midlands Heathland Heartland project area in south Staffordshire. The use of such tags on Jack Snipe had not been attempted before in the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Working in partnership with the British Trust for Ornithology, Belvide Ringing Group, Game and Wildlife Conservation Trust and University Centre Sparsholt (University of Portsmouth), the aims of the project are to investigate winter foraging and day roosting behaviour, habitat use and migration strategies of Jack Snipe.",
+                "tag": "p"
+            },
+            {
+                "content": "By identifying important feeding, roosting and stopover sites, we hope to provide evidence to inform landscape scale conservation and nature recovery.\u00a0 For example, by assessing their habitat requirements, we will be able to enhance and create sites to better benefit Jack Snipe and other wildlife.",
+                "tag": "p"
+            },
+            {
+                "content": "Our Findings",
+                "tag": "h4"
+            },
+            {
+                "content": "Two birds were recaught at the same sites where they were tagged, six and thirteen days after tagging. Both birds roosted each day at the same site, but they visited two or three different feeding areas, visiting the same field(s) for up to four nights in a row, before visiting another area and sometimes returning to a previous field on a later night. ",
+                "tag": "p"
+            },
+            {
+                "content": "For the first time, this indicated that birds habitually returned to the same roosting and feeding sites, giving an insight into how birds wintering in the UK use their local landscape.",
+                "tag": "p"
+            },
+            {
+                "content": "In December 2024, we recaught another tagged bird - this time one that had migrated to its breeding grounds and returned to winter in Staffordshire. Unfortunately, the tag battery failed on the bird\u2019s outward migration, but it did reveal for the first time the migration route of a UK Jack Snipe.",
+                "tag": "p"
+            },
+            {
+                "content": "Having wintered in south Staffordshire, regularly roosting at the same wetland (occasionally elsewhere and once on Cannock Chase) and feeding in local grass and stubble fields, it flew overnight in mid-April to a wetland in Essex.",
+                "tag": "p"
+            },
+            {
+                "content": "The next day it had flown to Germany and the day after that to Poland, having flown over 1,000km in three days. It stayed there for a further 15 days, rebuilding its energy reserves, before flying to another site in Poland and two locations in Latvia by the end of the next day, when the signal was lost. The bird was still migrating and would no doubt have continued north-eastwards into Russia.",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps",
+                "tag": "h4"
+            },
+            {
+                "content": "This is not the end of the story, as there are still other tagged birds out there. Furthermore, we have secured further funding through the Midlands Heathland Heartland project, West Midland Bird Club, Hampshire Ornithological Society and University Centre Sparsholt for another 40 tags.",
+                "tag": "p"
+            },
+            {
+                "content": "These include a brand-new design that will allow us to download data remotely rather than having to recatch the birds, which should provide us with even more information about their local and migratory movements and habitat requirements.",
+                "tag": "p"
+            },
+            {
+                "content": "We hope to calculate how many Jack Snipe each site could support and undertake habitat assessments, which can be applied to other sites across the country and thereby potentially extrapolate a more accurate picture of the population and distribution of Jack Snipe in the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Watch our BBC Breakfast clip below to learn more about the project!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/03/12/tracking-jack-snipe-our-quest-to-understand-the-uks-most-elusive-bird/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Kevin Clements, West Midlands Area Delivery Team The project The Jack Snipe is probably our most elusive and least understood bird. But a Natural England project aims to change that. It\u2019s small and secretive bird which, arguably, a lot \u2026"
+    },
+    {
+        "title": "Nanoplastics are everywhere: what is the health impact of these tiny particles?",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2025-03-12T12:50:31",
+        "categories": [
+            "UKHSA science"
+        ],
+        "content": [
+            {
+                "content": "Nanoplastics are plastic particles smaller than 1,000\u00a0nanometers in diameter, or 100 times smaller than the diameter of a human hair, and they are polluting our environment and our food, to the extent that they are now being found in human blood, lungs, placenta, and even breast milk. ",
+                "tag": "p"
+            },
+            {
+                "content": "The study of microplastics is still a relatively new field. In this blog post we\u2019ll explore how scientists are investigating the effects nanoparticles are having on the human brain and its defences.",
+                "tag": "p"
+            },
+            {
+                "content": "It's estimated that microwaving food in plastic containers for 3 minutes could release as much as 4 billion nanoplastic particles from one square centimetre of plastic.",
+                "tag": "p"
+            },
+            {
+                "content": "The blood brain barrier: our brain's defence system",
+                "tag": "h2"
+            },
+            {
+                "content": "The blood brain barrier (BBB) is the thin shield around the brain that protects against threats like bacteria, toxins and chemicals. At the same time, the barrier allows oxygen and nutrients to pass through tiny holes guarded by specialist cells.",
+                "tag": "p"
+            },
+            {
+                "content": "Nanoplastics are so incredibly small that they can slip past these defensive cells, known as pericytes, or hitch a ride on nutrients making their way to the brain. These pericyte cells primarily help to maintain the barrier and clear toxins that threaten the brain.",
+                "tag": "p"
+            },
+            {
+                "content": "Potential links to neurodegenerative diseases",
+                "tag": "h2"
+            },
+            {
+                "content": "Diseases such as Alzheimer\u2019s and Parkinson\u2019s disease are associated with dysfunction in pericyte cells, which raises the question as to whether miniscule pieces of plastic, or a build-up of them in these cells, could bring about similar diseases. A question scientists are investigating.",
+                "tag": "p"
+            },
+            {
+                "content": "Nanoplastic research project",
+                "tag": "h2"
+            },
+            {
+                "content": "To study potential effects of plastic particle exposure on pericytes, scientists made their own particles, similar to those widely used for food containers and drink bottles.",
+                "tag": "p"
+            },
+            {
+                "content": "Human brain pericytes grown in the lab were exposed to chronic levels of nanoplastic particles, concentrations 31.25 times higher than normally detected in the blood, for 3, 6 and 10 days. These high levels were used to replicate the potential exposure and accumulation of nanoplastics at the BBB over time.",
+                "tag": "p"
+            },
+            {
+                "content": "As nano particles are so incredibly small, we worked with scientists at Arts et Metiers, Institute of Technology, Paris, and Glasgow University who used 3 cutting-edge techniques to monitor the concentration and molecular make-up of plastic particles in the pericytes.",
+                "tag": "p"
+            },
+            {
+                "content": "Fourier-transform infrared spectroscopy, thermogravimetric analysis, and differential scanning calorimetry (DSC) help scientists take precise measurements of microscopic light levels and temperature changes. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These measurements were then used to assess whether PET particles can lead to oxidative stress - a build-up of waste in the cell; and whether this build-up of waste damages the mechanism in each cell which generates energy. Damage to the powerhouse of the cell - the mitochondria - and a lack of energy means the eventual the death of the cells and a deterioration in brain function.",
+                "tag": "p"
+            },
+            {
+                "content": "Research findings and future directions",
+                "tag": "h2"
+            },
+            {
+                "content": "The study demonstrated that human pericytes grown in the lab exposed to high levels of PET nanoplastics over 3 days, slowed down mitochondrial functions. Interestingly, it also showed a recovery of the mitochondrial functions from 6 days until the 10-day exposure timeline tested.",
+                "tag": "p"
+            },
+            {
+                "content": "More research is needed to understand the full extent of chronic exposure to PET nanoplastic particles and the mitochondrial function recovery in human pericytes cells.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2025/03/12/nanoplastics-are-everywhere-what-is-the-health-impact-of-these-tiny-particles/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Nanoplastics, and their slightly larger cousins microplastics, are polluting our environment and our food. The study of these tiny particles is still a relatively new field and in this blog post for British Science Week we\u2019ll explore how scientists are investigating the effects nanoparticles are having on the human brain and its defences."
+    },
+    {
+        "title": "The Seven Principles of Public Life: Reflections During 30th Anniversary Year",
+        "authors": [
+            "Sir Laurie Magnus"
+        ],
+        "posted_on": "2025-03-12T11:29:36",
+        "categories": [
+            "30th Anniversary",
+            "Ministerial Code",
+            "Nolan Principles"
+        ],
+        "content": [
+            {
+                "content": "To mark the 30th\u00a0anniversary of the Nolan Principles, the Committee will be publishing a new series of blogs about the work of a range of standards bodies in England. Our third blog is from Sir Laurie Magnus CBE, Independent Adviser on Ministerial Standards.",
+                "tag": "p"
+            },
+            {
+                "content": "Independent Adviser on Ministerial Standards",
+                "tag": "p"
+            },
+            {
+                "content": "The role of Independent Adviser to the Prime Minister on Ministerial Standards (\u201cIA\u201d) has existed with various titles since 2006.",
+                "tag": "p"
+            },
+            {
+                "content": "The IA\u2019s principal duties are to advise ministers on the management of their financial and other interests in the context of their portfolio responsibilities and to advise the Prime Minister on ministers\u2019 compliance with the Ministerial Code (\u201cCode\u201d). The Code is issued by the Prime Minister and, whilst he is always accountable to Parliament, it is his absolute prerogative, to advise The King on who serves as ministers in HM Government. The IA therefore has never had any power beyond the parameters approved by the Prime Minister, but it is significant that those parameters have been materially broadened during the last five years, with greater public awareness of the IA\u2019s status.",
+                "tag": "p"
+            },
+            {
+                "content": "Debate continues as to whether, in the light of recent political upheavals, it remains appropriate for officer-holders such as the IA to draw their authority solely from the Prime Minister and not to have some form of statutory footing. The IA now has the power unilaterally to initiate investigations of ministers in relation to their compliance with the Code, including their adherence with the Seven Principles of Public Life, and importantly demonstrating exemplary leadership and setting \u201cthe tone from the top\u201d. The IA can also require that any resulting advice to the Prime Minister is published. This independence and transparency is very significant but, as Head of the Executive, it is solely the Prime Minister\u2019s decision as to the outcome that follows such advice. Of course, the IA would have the option to resign if his advice is overruled, but the Prime Minister has the final word, as arbiter of ministerial conduct, albeit remaining ultimately accountable to Parliament.",
+                "tag": "p"
+            },
+            {
+                "content": "It is not my place to express a preference between a statutory and the current non-statutory framework for the IA, but I consider that the status quo is effective, particularly where the Prime Minister remains demonstrably supportive and the IA can genuinely \u201cspeak truth unto power\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "How then do I see my role in the context of CSPL\u2019s aspirations? Opinion polls in recent years have shown low levels of public trust in politicians, including ministers, with the risk that people are deterred from becoming involved in political activity and public life. This perception, which is distorted by the actions of a small minority and also the changing nature and polarisation of political discourse, differs markedly from what I believe to be the reality based on my interaction with ministers. Since my appointment in December 2022, I have found that the holders of ministerial office in general understand the privilege of their positions, recognise their responsibilities under the Ministerial Code and are diligent in upholding high standards of behaviour. My job is to advise the Prime Minister and, where appropriate, his ministers to ensure good practice and thereby, with others responsible for upholding standards in public life, to help move the dial of public confidence in a more positive direction.",
+                "tag": "p"
+            },
+            {
+                "content": "Sir Laurie Magnus",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cspl.blog.gov.uk/2025/03/12/the-seven-principles-of-public-life-reflections-during-30th-anniversary-year/",
+        "blog": "Committee on Standards in Public Life",
+        "blog_link": "https://cspl.blog.gov.uk",
+        "description": "To mark the 30th\u00a0anniversary of the Nolan Principles, the Committee will be publishing a new series of blogs about the work of a range of standards bodies in England. Our third blog is from Sir Laurie Magnus CBE, Independent Adviser on Ministerial Standards."
+    },
+    {
+        "title": "How local authorities can help young carers",
+        "authors": [
+            "Yvette Stanley"
+        ],
+        "posted_on": "2025-03-12T10:51:23",
+        "categories": [
+            "inspectors",
+            "local authorities"
+        ],
+        "content": [
+            {
+                "content": "Today is Young Carers Action Day, an annual event organised by Carers Trust to call for better support for young carers.",
+                "tag": "p"
+            },
+            {
+                "content": "Just over a year ago, we amended our inspections of local authority children\u2019s services (ILACS) to help inspectors and local authorities refocus on the experiences of young carers. In this blog, we will discuss what those inspections have found.",
+                "tag": "p"
+            },
+            {
+                "content": "Since the beginning of 2024, we have inspected 48 local authorities and talked about young carers in 38 of those inspection reports. This doesn\u2019t mean we didn\u2019t look at young carers in the other 10 inspections. We report on strengths and areas for improvement, so sometimes things may have just been \u2018middling\u2019 or \u2018okay\u2019 so we wouldn\u2019t go into as much detail.",
+                "tag": "p"
+            },
+            {
+                "content": "Our inspectors want to see whether young people are identified as young carers and whether, as a result, they receive the help they need to achieve sustainable progress.",
+                "tag": "p"
+            },
+            {
+                "content": "How the best local authorities are helping young carers",
+                "tag": "h2"
+            },
+            {
+                "content": "First, I want to talk about the strengths we\u2019ve seen in the best performing local authorities that are making a real difference for their young carers.",
+                "tag": "p"
+            },
+            {
+                "content": "We saw a comprehensive support offer for young carers through a range of activities, groups and one-to-one sessions. This helps young people understand their own needs alongside the needs of the person they are caring for and provides time away from their caring tasks. Senior leaders have strategies that have improved how they identify and support young carers.",
+                "tag": "p"
+            },
+            {
+                "content": "In some local authorities, increasing numbers of young carers benefit from innovative, holistic early help provided through family hubs. These hubs offer a wide range of early help tailored to the specific needs of children and their families. Young carers receive bespoke individual support alongside group work, allowing them to meet others with similar experiences and share their views with council leaders. Assessments are tailored to the needs of young carers, whatever their age. Professionals understand and address their specific situations.",
+                "tag": "p"
+            },
+            {
+                "content": "We also saw young carers benefit from a range of commissioned services. These include personal budgets for short breaks and recreational activities, as well as carers\u2019 groups that provide opportunities for fun and skill development.",
+                "tag": "p"
+            },
+            {
+                "content": "Young carers are supported by a range of professionals, including social workers and youth engagement workers, who provide timely and effective support. This coordinated approach improves children's welfare and, importantly, their attendance and progress at school, which is great news.",
+                "tag": "p"
+            },
+            {
+                "content": "It is great to report that young carers have access to a wide range of activities, including school holiday clubs, residential holidays, therapeutic support, and enrichment activities. These activities help reduce isolation and increase resilience.",
+                "tag": "p"
+            },
+            {
+                "content": "What other local authorities need to work on to help young carers",
+                "tag": "h2"
+            },
+            {
+                "content": "Unfortunately, the story is not always so positive. In these local authorities, inspectors focus on what children\u2019s services need to do to make things better for young carers.",
+                "tag": "p"
+            },
+            {
+                "content": "Some support services for young carers are underdeveloped, which leads to inconsistencies in the quality and availability of support. There is a lack of awareness of young carers, and this means they are sometimes not identified. If children with caring responsibilities are not recognised as young carers, they cannot receive the support they need.",
+                "tag": "p"
+            },
+            {
+                "content": "The quality of assessments for young carers varies significantly. Some assessments are not timely, and some do not adequately reflect the children's roles and the impact of their caring responsibilities on their needs.",
+                "tag": "p"
+            },
+            {
+                "content": "There is not enough oversight of the delivery of services for young carers. This means local authorities cannot understand what impact these services have on the children's lives.",
+                "tag": "p"
+            },
+            {
+                "content": "Due to increased demand, some families experience delays in receiving support. This can leave young carers without the help they need for long periods. Some children are left at risk because their needs have not been assessed well enough, which means those needs are not met.",
+                "tag": "p"
+            },
+            {
+                "content": "Many of these local authority children\u2019s services recognise that they need a cultural change in order to create the best conditions for effective practice and support for young carers. Inspection has a part to play but ultimately the responsibilities sit with local authorities to support young carers well.",
+                "tag": "p"
+            },
+            {
+                "content": "Thank you",
+                "tag": "h2"
+            },
+            {
+                "content": "Finally, I\u2019d like to wish you all the best with raising awareness and advocating for change on this day. I know many of you are in London today making sure MPs hear your important views.",
+                "tag": "p"
+            },
+            {
+                "content": "I know you will be doing this not only for yourselves, but because you are absolutely dedicated to making sure services for future young carers are the very best they can be.",
+                "tag": "p"
+            },
+            {
+                "content": "Very well done to all of you and thank you.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://socialcareinspection.blog.gov.uk/2025/03/12/how-local-authorities-can-help-young-carers/",
+        "blog": "Ofsted: social care",
+        "blog_link": "https://socialcareinspection.blog.gov.uk",
+        "description": "Today is Young Carers Action Day, an annual event organised by Carers Trust to call for better support for young carers. Just over a year ago, we amended our inspections of local authority children\u2019s services (ILACS) to help inspectors and \u2026"
+    },
+    {
+        "title": "NHS Patient Screening Invitations: what you need to know",
+        "authors": [
+            "cnewton"
+        ],
+        "posted_on": "2025-03-12T09:26:21",
+        "categories": [
+            "Cancer"
+        ],
+        "content": [
+            {
+                "content": "You may have heard that\u00a0a small minority of people have not been invited to screening appointments because of an error in how GP offices have registered them.",
+                "tag": "p"
+            },
+            {
+                "content": "This issue affects screening invitations for bowel cancer, breast cancer, cervical cancer, and abdominal aortic aneuryism screening. Other screening programmes have not been impacted.",
+                "tag": "p"
+            },
+            {
+                "content": "Since this issue was spotted, we have worked with NHS England to quickly resolve the underlying issue and put a plan in place for those affected.",
+                "tag": "p"
+            },
+            {
+                "content": "From this week, everyone affected by this issue will receive a letter with more information on how to access their missed screening and the support that available for those affected. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We understand this may be unsettling news, and that you may have some questions. We hope this post helps answer some of those questions.",
+                "tag": "p"
+            },
+            {
+                "content": "Have I or someone I know been affected?",
+                "tag": "p"
+            },
+            {
+                "content": "NHS England has now identified all of the people that have been affected by this issue and their addresses.",
+                "tag": "p"
+            },
+            {
+                "content": "Anyone that has been affected will receive a letter from the NHS, which will include information on how to book a missed screening appointment or access the relevant services.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any concerns about this issue, NHS England\u2019s dedicated helpline is available Monday to Friday, 9am-5pm at 0345 877 8962.",
+                "tag": "p"
+            },
+            {
+                "content": "I haven\u2019t received a letter, but I think I have missed an invitation? \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Everyone who has been affected will be contacted via letter\u00a0by the end of next week, to the address held by\u00a0their\u00a0GP.",
+                "tag": "p"
+            },
+            {
+                "content": "If you think you have missed an invitation and have not received a letter, please contact your GP practice directly.",
+                "tag": "p"
+            },
+            {
+                "content": "Which screening programmes have been affected?",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0We can confirm that only a small minority of patients eligible for the following screening programmes have been affected:",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Other types of screening programmes have not been affected.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0Why did this happen?",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0The\u00a0error\u00a0behind this problem occurred when patients had registered at a new GP practice and key data relevant for screening was not entered or was incorrect.",
+                "tag": "p"
+            },
+            {
+                "content": "A patient was not informed of this\u00a0error, and it did not affect their access to other NHS services because the issue\u00a0only\u00a0relates to a\u00a0validation process specific to\u00a0transferring patient details to\u00a0the NHS screening IT system.",
+                "tag": "p"
+            },
+            {
+                "content": "NHS England has assured us that this\u00a0issue has now been rectified and that incomplete or inaccurate data will be flagged and corrected promptly.",
+                "tag": "p"
+            },
+            {
+                "content": "We are working closely with GP practices and regional health providers to ensure records are kept accurate up to date.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://healthmedia.blog.gov.uk/2025/03/12/nhs-patient-screening-invitations-what-you-need-to-know/",
+        "blog": "Department of Health and Social Care Media Centre",
+        "blog_link": "https://healthmedia.blog.gov.uk",
+        "description": "You may have heard that\u00a0a small minority of people have not been invited to screening appointments because of an error in how GP offices have registered them. This issue affects screening invitations for bowel cancer, breast cancer, cervical cancer, and \u2026"
+    },
+    {
         "title": "An update on the Sustainable Farming Incentive\u00a0",
         "authors": [
             "The Team"
