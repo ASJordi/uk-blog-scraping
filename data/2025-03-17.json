@@ -1,5 +1,712 @@
 [
     {
+        "title": "How we value properties for business rates: the rental comparison method",
+        "authors": [
+            "Alan Colston - Chief Valuer and Head of Surveying Profession"
+        ],
+        "posted_on": "2025-03-19T14:30:42",
+        "categories": [
+            "Business Rates",
+            "How We Value",
+            "Valuation Methods"
+        ],
+        "content": [
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "If you're a business owner, understanding how your property's business rates are calculated is important for your bottom line. At the Valuation Office Agency (VOA), we're responsible for valuing and providing a rateable value for all non-domestic properties in England and Wales.",
+                "tag": "p"
+            },
+            {
+                "content": "To do this, our surveyors use three main valuation methods approved by the Royal Institution of Chartered Surveyors (RICS), tailored to each property type. Since properties are used in many different ways, a one-size-fits-all approach wouldn't be suitable.",
+                "tag": "p"
+            },
+            {
+                "content": "Let\u2019s explore the most common method we use.",
+                "tag": "p"
+            },
+            {
+                "content": "What is the rental comparison method?",
+                "tag": "h2"
+            },
+            {
+                "content": "For most business properties, we use the rental comparison method. Put simply, we look at how much rent your property could achieve on the open market at a specific date - this gives us your property's rateable value, which is then used to calculate your business rates.",
+                "tag": "p"
+            },
+            {
+                "content": "Let\u2019s break this down. A property\u2019s \u2018open market rent\u2019 is the rent a property could reasonably achieve if leased to a new tenant. This isn't necessarily the same as the current rent being paid, though that can be a useful starting point.",
+                "tag": "p"
+            },
+            {
+                "content": "To ensure fairness, we base all valuations on rents at a specific date, known as the Antecedent Valuation Date (AVD). For current rateable values, the AVD is 1 April 2021. This date is set by law and means everyone's property is valued based on market conditions at the same time.",
+                "tag": "p"
+            },
+            {
+                "content": "When is the rental comparison method used?",
+                "tag": "h2"
+            },
+            {
+                "content": "We use this method when good rental information is available for the property itself or similar ones. For example, we use it to value:",
+                "tag": "p"
+            },
+            {
+                "content": "These properties are often rented on the open market, giving us plenty of rental evidence to analyse.",
+                "tag": "p"
+            },
+            {
+                "content": "What evidence do we consider?",
+                "tag": "h2"
+            },
+            {
+                "content": "We usually start by looking at rents agreed around the AVD. However, this doesn\u2019t always tell us the full story, so we also consider:",
+                "tag": "p"
+            },
+            {
+                "content": "Since the actual rent paid might not accurately reflect the property's value at a specific time, we also look at what similar nearby properties are renting for. We use standard measurements called 'units of comparison' to compare properties accurately and fairly.",
+                "tag": "p"
+            },
+            {
+                "content": "Comparing similar properties",
+                "tag": "h2"
+            },
+            {
+                "content": "For shops, offices and restaurants",
+                "tag": "p"
+            },
+            {
+                "content": "For these properties, we use the 'net internal area' - the actual space you can use to run your business including sales floor, storage areas, desk space and customer areas. We don't include spaces like staff toilets and cleaning cupboards.",
+                "tag": "p"
+            },
+            {
+                "content": "We use the net internal area because a potential tenant primarily cares about how much usable space they're getting for their money.",
+                "tag": "p"
+            },
+            {
+                "content": "For offices and restaurants, if similar properties in your area rent for about \u00a3250 per square metre, and yours has 100 square metres of net internal area, we'd estimate its annual rental value at around \u00a325,000.",
+                "tag": "p"
+            },
+            {
+                "content": "For most shops, we take an extra step because the shape matters. A shop where most space is near the front window is more valuable than a long, narrow shop where much of the space is hidden at the back, even if both have the same total area.",
+                "tag": "p"
+            },
+            {
+                "content": "We therefore value the front area of a shop (closest to the entrance and display windows) at a higher rate than the areas further back. This reflects the reality of this type of retail outlet, where space that customers see first is more valuable for displaying and selling products. This is known as Zoning, more information about this can be found in our YouTube video.",
+                "tag": "p"
+            },
+            {
+                "content": "For larger shops like superstores and department stores we continue using the net internal area.",
+                "tag": "p"
+            },
+            {
+                "content": "For factories and warehouses",
+                "tag": "p"
+            },
+            {
+                "content": "For industrial properties, we use 'gross internal area', which includes nearly everything under the roof, excluding only external spaces like loading bays.",
+                "tag": "p"
+            },
+            {
+                "content": "In industrial settings, almost all internal space has potential value as layouts can be rearranged based on production needs. For example, if local factories typically rent for \u00a360 per square metre, and your factory has a gross internal area of 1,000 square metres, we'd estimate its annual rental value at \u00a360,000.",
+                "tag": "p"
+            },
+            {
+                "content": "We analyse rental evidence from various industrial properties - considering factors like size, age, location and specification - to ensure we apply appropriate rates to your property.",
+                "tag": "p"
+            },
+            {
+                "content": "You can learn more about net internal area and gross internal area in our YouTube video.",
+                "tag": "p"
+            },
+            {
+                "content": "For pubs ",
+                "tag": "p"
+            },
+            {
+                "content": "For pubs and some hospitality venues, we use a different approach based on trade evidence. We look at the property's earning potential \u2013 what we call Fair Maintainable Trade (FMT). This measures what a reasonably efficient operator could expect to earn, rather than actual trade figures.",
+                "tag": "p"
+            },
+            {
+                "content": "We use FMT because the level of trade could be deceptive. For example, a celebrity-run pub might earn more than one run by a local operator, but we're valuing the property itself, not the business. We therefore base our valuation on what a reasonably efficient operator could earn. The rateable value is then calculated by taking a percentage of this FMT.",
+                "tag": "p"
+            },
+            {
+                "content": "How can I find out more?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "You can sign up for a business rates valuation\u00a0account to find out more about how your rateable value has been calculated.",
+                "tag": "p"
+            },
+            {
+                "content": "Our \u2018how we value\u2019 blogs discuss how we use the rental comparison method to value properties like shops, pubs and more.",
+                "tag": "p"
+            },
+            {
+                "content": "Further information on the rental comparison method of valuation can be found in the VOA Rating Manual Rating Manual section 4: valuation methods - Part 1: R2017 rental evidence and valuation issues - Guidance - GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "[English] - [Cymraeg]",
+                "tag": "p"
+            },
+            {
+                "content": "Sut fyddwn yn prisio eiddo ar gyfer ardrethi busnes: y dull rhent cymharol",
+                "tag": "h2"
+            },
+            {
+                "content": "Fel perchennog busnes, mae deall sut mae ardrethi busnes eich eiddo yn cael eu cyfrifo\u2019n bwysig wrth geisio asesu eich costau sylfaenol. Yn Asiantaeth y Swyddfa Brisio (VOA) yr ydym yn gyfrifol am brisio a darparu gwerth ardrethol i bob eiddo annomestig yng Nghymru a Lloegr.",
+                "tag": "p"
+            },
+            {
+                "content": "Er mwyn gwneud hyn fe fydd ein syrfewyr yn defnyddio tri dull o brisio, y tri wedi eu cymeradwyo gan Sefydliad Brenhinol y Syrfewyr Siartredig (RICS), a pob un wedi ei deilwra i\u2019r math o eiddo sy\u2019n cael ei brisio. Gan fod eiddo yn cael ei ddefnyddio mewn cymaint o wahanol ffyrdd, ni fyddai un dull yn addas ar gyfer pob eiddo.",
+                "tag": "p"
+            },
+            {
+                "content": "Gadewch inni archwilio ein dull mwyaf cyffredin",
+                "tag": "p"
+            },
+            {
+                "content": "Beth yw\u2019r dull rhent cymharol?",
+                "tag": "p"
+            },
+            {
+                "content": "Yn achos y rhan fwyaf o eiddo busnes byddwn yn defnyddio\u2019r dull rhent cymharol. Yn syml, byddwn yn canfod pa rhent y byddai eich eiddo yn ei sylweddoli ar y farchnad agored ar ddyddiad penodol \u2013 dyma sy\u2019n rhoi gwerth ardrethol eich eiddo inni, ac yn ei dro, dyma sy\u2019n cael ei ddefnyddio i gyfrifo eich ardrethi busnes.",
+                "tag": "p"
+            },
+            {
+                "content": "Gadewch inni geisio symleiddio hyn. Rhent ar y farchnad agored yw\u2019r hyn y byddai eiddo yn resymol yn medru ei sylweddoli o\u2019i lesio i denant newydd. Nid yw hyn o reidrwydd yn gyfystyr a\u2019r rhent sy\u2019n cael ei dalu ar hyn o bryd, er gall hwn fod yn fan cychwyn defnyddiol.",
+                "tag": "p"
+            },
+            {
+                "content": "Er mwyn diogelu tegwch, byddwn yn defnyddio dyddiad penodol ar gyfer prisio rhent, a byddwn yn galw\u2019r dyddiad yma yn \u2018ddyddiad prisio rhagflaenol\u2019 (AVD). I bwrpas y gwerth ardrethol cyfredol, y 1af o Ebrill 2021 yw\u2019r AVD. Mae\u2019r dyddiad yn cael ei benderfynu a\u2019i osod mewn deddfwriaeth, ac mae hyn yn golygu fod gwerth eiddo pawb yn cael ei bennu ar gyflwr y farchnad ar yr un dyddiad.",
+                "tag": "p"
+            },
+            {
+                "content": "Pryd fydd y dull rhent cymharol yn cael ei ddefnyddio?",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym yn defnyddio'r dull hwn pan fydd gwybodaeth rhent da ar gael ar gyfer yr eiddo ei hun neu rai tebyg. Er enghraifft, rydym yn ei ddefnyddio i brisio:",
+                "tag": "p"
+            },
+            {
+                "content": "Mae'r eiddo hyn yn aml yn cael eu rhentu ar y farchnad agored, gan roi digon o dystiolaeth rhent i ni ei dadansoddi.",
+                "tag": "p"
+            },
+            {
+                "content": "Pa dystiolaeth fyddwn ni'n ei hystyried?",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym fel arfer yn dechrau drwy edrych ar renti y cytunwyd arnynt o amgylch y AVD. Fodd bynnag, nid yw hyn bob amser yn dweud y stori lawn wrthym, felly rydym hefyd yn ystyried:",
+                "tag": "p"
+            },
+            {
+                "content": "Gan na fydd yr union rent a delir yn adlewyrchu gwerth yr eiddo yn gywir ar adeg benodol, rydym hefyd yn edrych ar faint o rent mae eiddo cyfagos yn sylweddoli. Rydym yn defnyddio mesuriadau safonol o'r enw 'unedau cymharu' i gymharu eiddo'n gywir ac yn deg.",
+                "tag": "p"
+            },
+            {
+                "content": "Cymharu eiddo tebyg",
+                "tag": "p"
+            },
+            {
+                "content": "Ar gyfer siopau, swyddfeydd a bwytai",
+                "tag": "p"
+            },
+            {
+                "content": "Ar gyfer yr eiddo hyn, rydym yn defnyddio'r 'ardal fewnol net' - y gofod gwirioneddol y gallwch ei ddefnyddio i redeg eich busnes gan gynnwys llawr gwerthu, mannau storio, gofod desg ac ardaloedd cwsmeriaid. Nid ydym yn cynnwys lleoedd fel toiledau staff a chypyrddau glanhau.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym yn defnyddio'r ardal fewnol net oherwydd bod darpar denant yn poeni'n bennaf am faint o le y gellir ei ddefnyddio am ei arian.",
+                "tag": "p"
+            },
+            {
+                "content": "Ar gyfer swyddfeydd a bwytai, os yw eiddo tebyg yn eich ardal yn rhentu am oddeutu \u00a3250 y metr sgw\u00e2r, ac mae gan eich un chi 100 metr sgw\u00e2r o arwynebedd mewnol net, byddem yn amcangyfrif ei werth rhent blynyddol oddeutu \u00a325,000.",
+                "tag": "p"
+            },
+            {
+                "content": "Ar gyfer y rhan fwyaf o siopau, rydym yn cymryd cam ychwanegol oherwydd bod y si\u00e2p yn bwysig. Mae siop lle mae'r rhan fwyaf o le ger y ffenestr flaen yn fwy gwerthfawr na siop hir, gul lle mae llawer o'r gofod wedi'i guddio yn y cefn, hyd yn oed os oes gan y ddau yr un ardal gyfan.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym felly yn prisio ardal flaen siop (agosaf at y fynedfa a'r ffenestri arddangos) ar gyfradd uwch na'r ardaloedd ymhellach yn \u00f4l. Mae hyn yn adlewyrchu realiti'r math hwn o allfa fanwerthu, lle mae gofod y mae cwsmeriaid yn ei weld gyntaf yn fwy gwerthfawr ar gyfer arddangos a gwerthu cynhyrchion. Mae hyn yn cael ei adnabod fel Parthu neu \u2018Zoning\u2019, a gellir dod o hyd i fwy o wybodaeth am hyn drwy wylio ein fideo YouTube.",
+                "tag": "p"
+            },
+            {
+                "content": "Ar gyfer siopau mwy fel archfarchnadoedd a siopau adrannol rydym yn parhau i ddefnyddio'r ardal fewnol net.",
+                "tag": "p"
+            },
+            {
+                "content": "Ar gyfer ffatr\u00efoedd a warysau",
+                "tag": "p"
+            },
+            {
+                "content": "Ar gyfer eiddo diwydiannol, rydym yn defnyddio 'ardal fewnol gros', sy'n cynnwys bron popeth o dan y to, ac eithrio dim ond mannau allanol fel baeau llwytho.",
+                "tag": "p"
+            },
+            {
+                "content": "Mewn lleoliadau diwydiannol, mae gan bron pob gofod mewnol werth posibl gan y gellir aildrefnu cynlluniau yn seiliedig ar anghenion cynhyrchu. Er enghraifft, os yw ffatr\u00efoedd lleol fel arfer yn rhentu am \u00a360 y metr sgw\u00e2r, ac mae gan eich ffatri arwynebedd mewnol gros o 1,000 metr sgw\u00e2r, byddem yn amcangyfrif fod y gwerth rhent blynyddol yn \u00a360,000.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym yn dadansoddi tystiolaeth rhent o amrywiol eiddo diwydiannol - gan ystyried ffactorau fel maint, oedran, lleoliad a manylion - i sicrhau ein bod yn cymhwyso cyfraddau priodol i'ch eiddo.",
+                "tag": "p"
+            },
+            {
+                "content": "Gallwch ddysgu mwy am ardal fewnol net ac ardal fewnol gros drwy wylio ein fideo YouTube.",
+                "tag": "p"
+            },
+            {
+                "content": "Ar gyfer tafarndai ",
+                "tag": "p"
+            },
+            {
+                "content": "Ar gyfer tafarndai a rhai lleoliadau lletygarwch, rydym yn defnyddio dull gwahanol yn seiliedig ar dystiolaeth masnach. Rydym yn edrych ar botensial enillion yr eiddo \u2013 yr hyn yr ydym yn ei alw'n Masnach Gynaliadwy Deg (FMT). Mae hyn yn mesur yr hyn y gallai gweithredwr rhesymol effeithlon ddisgwyl ei ennill, yn hytrach na ffigurau masnach gwirioneddol.",
+                "tag": "p"
+            },
+            {
+                "content": "Rydym yn defnyddio FMT oherwydd gallai lefel y fasnach fod yn dwyllodrus. Er enghraifft, gallai tafarn sy'n cael ei rhedeg gan rywun enwog ennill mwy nag un sy\u2019n cael ei redeg gan weithredwr lleol, ond rydym yn prisio\u2019r eiddo ei hun, nid y busnes. Felly, rydym yn seilio ein prisiad ar yr hyn y gallai gweithredwr rhesymol effeithlon ei ennill. Yna cyfrifir y gwerth ardrethol trwy gymryd canran o'r FMT hwn.",
+                "tag": "p"
+            },
+            {
+                "content": "Sut alla i ddarganfod mwy?",
+                "tag": "p"
+            },
+            {
+                "content": "Gallwch gofrestru ar gyfer cyfrif prisio ardrethi busnes i gael gwybod mwy am sut y cyfrifwyd eich gwerth ardrethol.",
+                "tag": "p"
+            },
+            {
+                "content": "Mae ein blogiau 'sut rydym yn prisio\u2019 yn trafod sut rydym yn defnyddio'r dull rhent cymharol i brisio eiddo fel siopau, tafarndai a mwy.",
+                "tag": "p"
+            },
+            {
+                "content": "Ceir rhagor o wybodaeth am y dull rhent cymharol i brisio yn adran 4 o\u2019r VOA Rating Manual \u00a0gyhoeddir gan y VOA \u00a04: dulliau prisio - Rhan 1: R2017 rental evidence and valuation issues - Guidance - GOV.UK. .",
+                "tag": "p"
+            }
+        ],
+        "link": "https://valuationoffice.blog.gov.uk/2025/03/19/how-we-value-properties-for-business-rates-the-rental-comparison-method/",
+        "blog": "Valuation Office Agency",
+        "blog_link": "https://valuationoffice.blog.gov.uk",
+        "description": "In this first part of our three-part blog series, we explain the rental comparison method and how it is used to value properties like shops, pubs and restaurants for business rates."
+    },
+    {
+        "title": "AI4Peat - Innovative use of AI to map and restore our precious peatlands",
+        "authors": [
+            "Anne Williams",
+            "Martha Tabor"
+        ],
+        "posted_on": "2025-03-19T14:30:28",
+        "categories": [
+            "Climate change",
+            "Evidence",
+            "Landscapes",
+            "Mapping",
+            "Monitoring",
+            "Nature",
+            "Peat",
+            "Science and evidence"
+        ],
+        "content": [
+            {
+                "content": "Restoring Peatlands",
+                "tag": "h4"
+            },
+            {
+                "content": "Peatlands are among the UK's most valuable ecosystems, playing a crucial role in carbon storage, water regulation, and biodiversity.",
+                "tag": "p"
+            },
+            {
+                "content": "However, many peatland areas have been degraded by historical drainage, erosion, and land-use changes.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England is a key deliverer of the England Peat Action Plan, which sets out the government\u2019s long-term vision for the management, protection, and restoration of our peatlands, so that they provide a wide range of benefits to wildlife, people and the planet. Restoring these landscapes is vital for meeting the UK's climate and environmental goals, but to do so effectively, we need accurate and up-to-date maps of peatland condition.",
+                "tag": "p"
+            },
+            {
+                "content": "Traditionally, mapping peatland features such as grips (artificial drainage channels), gullies (natural drainage features) and haggs (steep eroded peat edges), required field visits or manual digitisation, an approach that is both time-consuming and inconsistent across large areas.",
+                "tag": "p"
+            },
+            {
+                "content": "The AI4Peat Project",
+                "tag": "h4"
+            },
+            {
+                "content": "To address this challenge, the AI4Peat project has used artificial intelligence (AI) to map peatland surface features across the uplands of England. ",
+                "tag": "p"
+            },
+            {
+                "content": "The project won the Civil Service Data Challenge in 2021 with a proposal to leverage deep learning models and aerial imagery to create this map, representing a step change in how we monitor and manage the natural environment. ",
+                "tag": "p"
+            },
+            {
+                "content": "Using Computer Vision for Peatland Mapping",
+                "tag": "h4"
+            },
+            {
+                "content": "Our approach harnesses two types of deep learning models to automate this process:",
+                "tag": "p"
+            },
+            {
+                "content": "These models were trained using existing digitised data, enabling them to detect subtle landscape features in high-resolution aerial imagery (12.5 cm resolution Aerial Photography for Great Britain) and LiDAR terrain data.",
+                "tag": "p"
+            },
+            {
+                "content": "The trained models were then deployed over all areas of England\u2019s upland peatland, producing a national scale map of peatland surface features. This provides a comprehensive and repeatable method for monitoring peatland damage and restoration over time, allowing land managers and policymakers to assess changes and target restoration efforts more effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "An example of the outputs for an area in the Yorkshire Dales is shown below:",
+                "tag": "p"
+            },
+            {
+                "content": "The mapped features support field workers by clearly indicating their locations on the ground.",
+                "tag": "p"
+            },
+            {
+                "content": "The image below shows an area of hagged peat and gullies in the Peak District, with the features mapped by the models above and the corresponding features on the ground shown below:",
+                "tag": "p"
+            },
+            {
+                "content": "Project Partners",
+                "tag": "h4"
+            },
+            {
+                "content": "Restoration is a time, labour, and cost-intensive process and these datasets will free up time currently spent on mapping, allowing restoration projects to focus their efforts on the actual maintenance and restoration. Through collaboration with the peatland community, we have gathered valuable feedback to refine the datasets to best help restoration teams.",
+                "tag": "p"
+            },
+            {
+                "content": "Training AI models requires a substantial amount of labelled data to allow the models to identify features across diverse peatland environments. Peatland partnerships such as Moors for the Future, the Yorkshire Peat Partnership and the National Trust, contributed large volumes of training data. ",
+                "tag": "p"
+            },
+            {
+                "content": "Collaboration with the England Peat Map team, who coordinated this collection, was essential to the success of the model training, enhancing the quality and accuracy of the features in the final data output.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The project is being supported by Microsoft and Databricks on Defra\u2019s new MS Azure cloud computing platform, which allows complex computation to be done much faster than on a regular computer \u2013 an essential requirement for a project dealing with such large datasets. This also makes it possible to easily repeat the process when new aerial imagery becomes available, allowing changes, for example new restoration, to be tracked over time.",
+                "tag": "p"
+            },
+            {
+                "content": "The project is also working with the Alan Turing Institute to establish trustworthy assurance and ethics processes for environmental AI projects.",
+                "tag": "p"
+            },
+            {
+                "content": "England Peat Map",
+                "tag": "h4"
+            },
+            {
+                "content": "AI4Peat\u2019s outputs will be published as part of Natural England\u2019s England Peat Map, due to launch in spring 2025. This will be the most up-to-date, complete and useable map of England\u2019s peat available. ",
+                "tag": "p"
+            },
+            {
+                "content": "As well as the peatland drainage and erosion features documented by AI4Peat, the wider map will also show the extent, depth, and vegetation coverage of peat and peaty soils across England.",
+                "tag": "p"
+            },
+            {
+                "content": "Future Potential",
+                "tag": "h4"
+            },
+            {
+                "content": "This project aligns with the UK government\u2019s AI Opportunities Action Plan, which promotes the responsible use of AI to improve public services and decision-making.",
+                "tag": "p"
+            },
+            {
+                "content": "In particular, the success of this approach demonstrates how AI can be used to improve the efficiency of environmental monitoring. These types of techniques can be replicated, for example to detect or count animal species of interest, or to track changes in land use or monitor coastal erosion, providing vital insight into how our natural environment is changing and whether policy interventions are working as expected. ",
+                "tag": "p"
+            },
+            {
+                "content": "The skills, experience and data pipelines built during the AI4Peat project can therefore be used on other use-cases across Defra Group and government to accelerate similar AI projects.",
+                "tag": "p"
+            },
+            {
+                "content": "Integrating similar AI techniques with other remote sensing data, such as satellite imagery or drone imagery, could further improve accuracy and extend monitoring capabilities across the UK and beyond.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have any questions about the project or want to learn more, please contact the AI4Peat team.",
+                "tag": "p"
+            },
+            {
+                "content": "Anne Williams \u2013 Senior Project Manager \u2013 anne.williams@naturalengland.org.uk",
+                "tag": "p"
+            },
+            {
+                "content": "Michelle Johnson \u2013 Senior Data Scientist - Michelle.Johnson@naturalengland.org.uk",
+                "tag": "p"
+            },
+            {
+                "content": "Martha Tabor \u2013 Senior Data Scientist - martha.tabor@defra.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/03/19/ai4peat-innovative-use-of-ai-to-map-and-restore-our-precious-peatlands/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "Restoring Peatlands Peatlands are among the UK's most valuable ecosystems, playing a crucial role in carbon storage, water regulation, and biodiversity. However, many peatland areas have been degraded by historical drainage, erosion, and land-use changes. Natural England is a key \u2026"
+    },
+    {
+        "title": "Introducing the DfE Plain Language standard\u00a0",
+        "authors": [
+            "Kerry Lyons",
+            "Steve Milnes",
+            "Sarah Stewart, Senior Content Designer"
+        ],
+        "posted_on": "2025-03-19T10:00:00",
+        "categories": [
+            "Accessibility",
+            "Content design",
+            "Plain Language Standard",
+            "technology"
+        ],
+        "content": [
+            {
+                "content": "In digital, data, and technology in DfE, we\u2019ve published a Plain Language standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Plain Language standard ensures that users can:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The standard incorporates our ways of working and best practise for user-centred design in government. It should not create any more work for content designers, or anyone working on content.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A department-specific standard to support delivery \u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "There are lots of different standards that we need to meet when building digital government services.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While services are typically assessed against the 14 points of the government Service Standard, sometimes, we use other standards to further assure our services.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For example, this can include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The DfE Plain Language standard provides a framework and a departmental commitment to use plain language in our services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our working hypotheses is that a standard which formalises the use of plain language will support teams to advocate for its use.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Applying standards and guidance\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "In DfE service teams, we follow and apply GDS Service Manual guidance, and work to meet the Service Standard. But not all services or websites go through assessment checks.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know that existing guidance can be challenged or that people might not know it exists. The Plain Language standard aims to help us to meet our commitment as a public body to build services that everyone can use.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How we designed the standard\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "When the International Organization for Standardization (ISO) published the Plain Language standard, content designers in DfE mapped out how we work to meet it and identify any gaps.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We shared this work with the DfE content community, user-centred policy design colleagues, and across government with content designers at HMRC and GDS.We also explored the idea of whether having a language-based standard could support the work we do as content designers.",
+                "tag": "p"
+            },
+            {
+                "content": "What we learnt\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Our research showed that a Plain Language standard could support or add to GDS guidance and help people advocate for using plain language.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also knew that other disciplines have standards, for example, Tech Code of Practice (TCoP), which support service delivery.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The scope of our standard could be a minimal viable standard to support raising the quality of services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Scoped the standard\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We ran a workshop with DfE senior content designers and content designers across DfE and GOV.UK to explore what a DfE Plain Language standard could look like, how could we measure it, and when it would be used.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We took the first draft to the wider DfE content community to ask if they could:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We heard, \u2018a standard gives more clout than guidance\u2019 and that it could be shared with stakeholders and contractors, to support and reinforce our ways of working.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also received challenge about overly formalising the content design process and that sometimes government needs to use jargon.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Meeting the standard is about working to GDS guidance and best practice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We do recognise that as a government department we must use jargon sometimes, the jargon is what users recognise, rather than plain, simple wording. This is why we acknowledge that if there is a business, or user need, we always focus on writing clear content, directed by user research.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We iterated the standard, shared it with GDS and had a second community crit. We refined guidance for tools we use to support meeting the standard and considered cross-government content discussions about questioning how helpful a reading age is, so we removed it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Plain Language standard was approved by our standards forum in February, as part of a wider standards piece of digital, data and technology work in DfE. We\u2019ll be working with our senior content designers to understand how useful the standard is to support service delivery.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://dfedigital.blog.gov.uk/2025/03/19/introducing-the-dfe-plain-language-standard/",
+        "blog": "DfE Digital, Data and Technology",
+        "blog_link": "https://dfedigital.blog.gov.uk",
+        "description": "In digital, data, and technology in DfE, we\u2019ve published a Plain Language standard.\u00a0 The Plain Language standard ensures that users can:\u00a0 The standard incorporates our ways of working and best practise for user-centred design in government. It should not create \u2026"
+    },
+    {
+        "title": "Developing service patterns - reusable designs for building government services",
+        "authors": [
+            "Martin Ford-Downes - Lead Service Designer, MOJ",
+            "Lindsay Stephens - Lead Service Designer, DWP",
+            "Gareth Thomas - Senior Interaction Designer, Defra"
+        ],
+        "posted_on": "2025-03-19T09:58:08",
+        "categories": [
+            "Service design",
+            "Service transformation",
+            "Tools, methods and techniques"
+        ],
+        "content": [
+            {
+                "content": "Over the past year a working group has developed a \u2018service pattern\u2019 that could be applied across all government departments. It contains recommendations on how to build a user-focused service that involves \u2018applying\u2019 for something. This blog post describes what a service pattern is, how this one was made, how we think it could help design better services, and what we\u2019d like to do next.",
+                "tag": "p"
+            },
+            {
+                "content": "What are service patterns?",
+                "tag": "h2"
+            },
+            {
+                "content": "Designers in government are already familiar with the use of patterns to create digital experiences. Components and patterns usually specify things like the design of a button, a date picker, or multi-page experiences like signing into an account. Using the same patterns in multiple government services can bring many benefits including efficiency, scalability, user experience consistency and improved accessibility.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Service patterns\u2019 take this idea a step further by describing replicable pieces of services that can be combined to build or shape end-to-end services. For example patterns for \u2018apply for something\u2019 and \u2018book an appointment\u2019 could be used to create services to receive a new benefits payment, get a new passport, and many others. A library of service patterns would act as design guides to build services in repeatable and consistent ways.",
+                "tag": "p"
+            },
+            {
+                "content": "Work to create service patterns in government started independently in different departments before the working group came together to consider a cross-government approach. The Ministry of Justice (MOJ) have previously blogged about their experiences. Below we\u2019ve described the work done at the Department for Work and Pensions (DWP) and the Department for Environment, Food and Rural Affairs (Defra). We\u2019ll then describe the cross-government work to test how we create service patterns.",
+                "tag": "p"
+            },
+            {
+                "content": "Service patterns at the Department for Work and Pensions",
+                "tag": "h2"
+            },
+            {
+                "content": "Lindsay Stephens",
+                "tag": "h3"
+            },
+            {
+                "content": "In 2022, as part of its broader service design strategy, the DWP User-Centred Design Practice set a goal to define service patterns. Our aim was to help design common services which meet user and business needs and provide better policy outcomes.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A year later, we had the opportunity to run a discovery in partnership with an external partner, who previously helped Essex County Council to define service patterns. Their method involved analysing as-is service maps to understand common aspects and define patterns. \u200bWe quickly realised that would not be feasible due to the scale of DWP, so we looked at available evidence and decided to derive patterns from common user needs.",
+                "tag": "p"
+            },
+            {
+                "content": "In early workshops, we created high-level service patterns and iterated these with colleagues from multiple disciplines. Through understanding further user needs and filling pattern gaps, we went on to design a 3-level service pattern framework in a visual map which traced to public needs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Feedback was very positive, so we expanded the team to include colleagues from business architecture, the DWP Design System, user research and another external partner.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We explored the service patterns in depth, testing with DWP\u2019s user-centred design community and expanding \u2018Apply\u2019 and \u2018Appointment\u2019 patterns. To support the \u2018front-to-back\u2019 of service design, we synthesised a wide range of user need evidence, designed service patterns for colleague users, mapped to various components, channels, policy information and organisation goals. We also investigated how service patterns might be published in the DWP Design System.",
+                "tag": "p"
+            },
+            {
+                "content": "Service patterns at the Department for Environment, Food and Rural Affairs",
+                "tag": "h2"
+            },
+            {
+                "content": "Gareth Thomas",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019d read about the work done by DWP on service patterns and were keen to explore how this might work at Defra, in line with our Digital and Data Transformation Strategy. We joined the working group to learn more.",
+                "tag": "p"
+            },
+            {
+                "content": "At Defra we started small. We reviewed a handful of services in the farming programme to understand the value service patterns could bring. Through this we identified issues that could limit our ability to deliver consistent whole services. This gave us confidence in continuing to explore service patterns.",
+                "tag": "p"
+            },
+            {
+                "content": "Within the farming programme we\u2019ve identified the common service and sub-service patterns that exist. We're starting to align teams around how to use these patterns. We\u2019ve also engaged with our design community of practice in farming on the approach. This helped us understand potential blockers individuals may encounter when applying service patterns.",
+                "tag": "p"
+            },
+            {
+                "content": "During recent working group sessions we\u2019ve shared some of Defra\u2019s common needs for the \u2018Apply\u2019 service pattern. It\u2019s great to contribute to the wider departmental view and help deliver a more consistent experience for users in this journey phase.",
+                "tag": "p"
+            },
+            {
+                "content": "Service patterns across government",
+                "tag": "h2"
+            },
+            {
+                "content": "Alongside MOJ, DWP and Defra, designers at the Department for Education and Home Office have also been thinking about service patterns. A working group was formed to share experiences. Whilst slightly different approaches were being taken, it was apparent that the names of the patterns themselves (things like \u2018apply for something\u2019 and \u2018book an appointment\u2019) were largely consistent across departments.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In order to validate this a workshop was held to compare and contrast our pattern names which included representatives from 5 departments. The workshop proved that most departments shared the same pattern needs. We also agreed that the type of content we expected to find in a service pattern library was largely similar. Five patterns stood out as having the greatest potential for shared needs - \u2018apply\u2019, \u2018appointments\u2019, \u2018get a decision\u2019, \u2018pay\u2019 and \u2018evaluate\u2019.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A second workshop was held to identify what type of content could be reusable across departments, using \u2018apply\u2019 as a test case for a service pattern. Participants mapped their service pattern needs against each other\u2019s to identify similarities and variations. The outcome of that workshop is now available as a prototype for review and feedback. The prototype includes user needs, internal business needs, journey stages and steps, and typical user scenarios. We expect a full pattern library to contain other types of information such as recommended digital components and patterns, case studies, and any relevant accessibility concerns.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We do not believe service patterns replace the need for design. Different departments and services will have their own unique challenges and opportunities to address. However by providing a shared starting point, we hope they can enable more efficient, consistent, and scalable designs.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What next?",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019d love your feedback on our prototype to inform the next stages of our work. You can do that by completing the apply pattern prototype survey by the end of April 2025. If you are in UK Government Digital on Slack, join our channel #service-patterns. You can also email questions or comments to servicepatterns@justice.gov.uk\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are also hosting sessions during Services Week 2025",
+                "tag": "p"
+            }
+        ],
+        "link": "https://services.blog.gov.uk/2025/03/19/developing-service-patterns-reusable-designs-for-building-government-services/",
+        "blog": "Services in government",
+        "blog_link": "https://services.blog.gov.uk",
+        "description": "This blog post describes what a service pattern is, how this one was made, how we think it could help design better services, and what we\u2019d like to do next."
+    },
+    {
         "title": "Citizen Science and the Environment Agency",
         "authors": [
             "Environment Agency"
