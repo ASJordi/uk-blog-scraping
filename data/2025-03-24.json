@@ -1,5 +1,1630 @@
 [
     {
+        "title": "NHSE National Secure Data Environment (Get Access to Data)\u00a0Alpha Reassessment",
+        "authors": [
+            "manyeelam"
+        ],
+        "posted_on": "2025-03-25T17:05:37",
+        "categories": [
+            "Alpha",
+            "Assurance",
+            "Service assessments"
+        ],
+        "content": [
+            {
+                "content": "From:\u00a0DHSCAssessment date:\u00a018/5/2023Reassessment date: 26/10/2023Stage:\u00a0Alpha reassessmentResult:\u00a0Met at reassessmentService provider:\u00a0NHS England",
+                "tag": "p"
+            },
+            {
+                "content": "Service description\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "This service aims to solve the problem of enabling secure access to and support in the use of NHS datasets for external users for health and social care research.\u00a0\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Service users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The primary users of this service are Researchers and Analysts, who use the environment to access NHSE datasets and perform analysis using analytical tools.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Secondary users are Data Managers, who facilitate SDE access for researchers/analysts, and support them on a regular basis.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Users access the SDE to access NHS data broadly for one of these purposes:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Report contents",
+                "tag": "h2"
+            },
+            {
+                "content": "1. Understand users and their needs\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service did not meet point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 1 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Solve a whole problem for users\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 2 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "3. Provide a joined-up experience across all channels\u00a0\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 3 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Make the service simple to use\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service did not meet point 4 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessnent",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 4 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "5. Make sure everyone can use the service\u00a0\u00a0\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service did not meet point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 5 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "6. Have a multidisciplinary team\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 6 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "7. Use agile ways of working\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 7 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "8. Iterate and improve frequently\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service did not meet point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 8 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "9. Create a secure service which protects users\u2019 privacy\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service did not meet point 9 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 9 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "10. Define what success looks like and publish performance data\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 10 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "11. Choose the right tools and technology\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 11 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "12. Make new source code open\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service did not meet point 12 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service conditionally met point 12 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "13. Use and contribute to open standards, common components and patterns\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 13 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "14. Operate a reliable service\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service did not meet point 14 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Reassessment",
+                "tag": "h2"
+            },
+            {
+                "content": "Decision\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The service met point 14 of the Standard.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team has done well\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The panel was impressed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the team needs to explore\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before their next assessment, the team needs to:\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitalhealth.blog.gov.uk/2025/03/25/nhse-national-secure-data-environment-get-access-to-data-alpha-reassessment/",
+        "blog": "Digital health and social care",
+        "blog_link": "https://digitalhealth.blog.gov.uk",
+        "description": "From:\u00a0DHSCAssessment date:\u00a018/5/2023Reassessment date: 26/10/2023Stage:\u00a0Alpha reassessmentResult:\u00a0Met at reassessmentService provider:\u00a0NHS England Service description\u00a0 This service aims to solve the problem of enabling secure access to and support in the use of NHS datasets for external users for health and social care research.\u00a0\u00a0\u00a0\u00a0 \u2026"
+    },
+    {
+        "title": "Who\u2019s eligible for the 2025 COVID-19 vaccine, or \u2018Spring Booster\u2019?",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2025-03-25T15:52:00",
+        "categories": [
+            "Coronavirus (COVID-19)",
+            "Immunisation and vaccination"
+        ],
+        "content": [
+            {
+                "content": "As we move into spring, protection from any earlier COVID-19 vaccination you may have had will be starting to wane.",
+                "tag": "p"
+            },
+            {
+                "content": "COVID-19 can still be very dangerous and even life threatening, particularly for older people and those with a weakened immune system.",
+                "tag": "p"
+            },
+            {
+                "content": "Thankfully, for those who are more likely to become seriously ill from COVID-19, the NHS offers a free vaccine in the spring to top up their protection. This was previously known as the \u2018Spring Booster\u2019.",
+                "tag": "p"
+            },
+            {
+                "content": "The vaccine has saved countless lives, prevented thousands from needing to go to hospital and helped us to live with the virus without fear or restrictions.",
+                "tag": "p"
+            },
+            {
+                "content": "UKHSA surveillance data\u00a0relating to\u00a0last spring\u2019s programme shows that those who received a vaccine were around 45% less likely to be admitted to hospital with COVID-19 from 2 weeks following vaccination, compared to those who remained unvaccinated.",
+                "tag": "p"
+            },
+            {
+                "content": "Eligibility for the COVID-19 vaccination this spring",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0The eligibility criteria is the same as for spring 2024, and similar to spring 2022 and spring 2023, with the addition of immunocompromised people in younger age groups:",
+                "tag": "p"
+            },
+            {
+                "content": "The eligibility is the same across the 4 nations of the UK (England, Scotland, Wales and Northern Ireland).",
+                "tag": "p"
+            },
+            {
+                "content": "Age-based criteria",
+                "tag": "h2"
+            },
+            {
+                "content": "Those who are aged 75 and over can come forward to top up their protection this spring. If you are 74 but turn 75 years old by 17 June 2025, you don\u2019t have to wait for your birthday to come forward.",
+                "tag": "p"
+            },
+            {
+                "content": "Eligibility for residents and staff in care homes",
+                "tag": "h2"
+            },
+            {
+                "content": "Those who are resident in care homes for older adults are also eligible. Carers and staff in care homes are not eligible, this is because the vaccination programme this spring is targeted towards providing protection to those most vulnerable to severe disease.",
+                "tag": "p"
+            },
+            {
+                "content": "Those with a weakened immune system",
+                "tag": "h2"
+            },
+            {
+                "content": "We understand that having a weakened immune system (immunosuppression) is a lot less straightforward than the other criteria. Looking online can cause even more confusion, as people might see themselves (and be considered by others) as immunosuppressed but might not fit the immunosuppression criteria for vaccination.",
+                "tag": "p"
+            },
+            {
+                "content": "So, what are the immunosuppression criteria? Eligibility is outlined in Chapter 14a of\u00a0the Green Book, a document published by UKHSA specifically for public health professionals. It can be a complicated document for non-experts, so we've listed some of the groups here:",
+                "tag": "p"
+            },
+            {
+                "content": "While this list summarises some major groups, it does not cover everything. Please check online at\u00a0nhs.uk/get-vaccine\u00a0to see if you are eligible.",
+                "tag": "p"
+            },
+            {
+                "content": "Booking the spring COVID-19 vaccine",
+                "tag": "h2"
+            },
+            {
+                "content": "You should come forward rather than waiting for the NHS to contact you this year. The National Booking System opens on 25 March to book appointments from 1 April:\u00a0nhs.uk/bookcovid. If you or someone you know can\u2019t get online, book by calling\u00a0119\u00a0free of charge, where a translator is available if needed.",
+                "tag": "p"
+            },
+            {
+                "content": "Getting your COVID-19 vaccine is very convenient, with thousands of appointments available across the country every day, usually at pharmacies and GP practices.",
+                "tag": "p"
+            },
+            {
+                "content": "While having your spring vaccine around 6 months after your last dose is the usual timeframe, you can have it as soon as 3 months after a previous COVID-19 vaccine dose. If you are eligible, you can get protection from a spring COVID-19 vaccination even if you have not taken up a COVID-19 vaccine offer in the past. Most people do not need extra vaccinations to make up for any they have missed, but your doctor may advise a further dose if you have a severely weakened immune system.",
+                "tag": "p"
+            },
+            {
+                "content": "It is important that everyone who is eligible takes up the offer this spring before the vaccination programme closes on 17 June 2025.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2025/03/25/whos-eligible-for-the-2025-covid-19-vaccine-or-spring-booster/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Details of who is eligible to book a free NHS COVID-19 vaccination this spring."
+    },
+    {
+        "title": "Join us for a Lunch and Learn session about working in GVS",
+        "authors": [
+            "Government Vets Blog Team"
+        ],
+        "posted_on": "2025-03-25T15:50:54",
+        "categories": [
+            "Government Veterinary Services",
+            "Professional development"
+        ],
+        "content": [
+            {
+                "content": "Have you ever wondered what roles there are for vets in government?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Did you know vet roles exist in 9 government departments?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Join us for a conversation with Government Veterinary Service (GVS) colleagues on Tuesday 22nd April 12:30-13:15, to hear an overview of their careers and their hopes for the future of GVS.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This is a great opportunity to ask questions and have a discussion, including picking up tips about getting into the GVS and understanding some of the challenges or opportunities about working in GVS.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our panellists include\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Jorge Martin-Almagro is the Deputy Chief Veterinary Officer for international and trade affairs in the Department for Environment, Food and Rural Affairs (Defra).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "L\u00e9von Stephan is a Senior Veterinary Advisor and Assessor in the UK Office for Sanitary and Phytosanitary Controls (SPS), in Defra, where he provides veterinary advice and assessment of animal health, welfare and veterinary public health to the UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Fin Twomey is the Head of the Animal and Plant Health Agency (APHA) Surveillance Intelligence Unit, with responsibility for Scanning Surveillance across a wide range of species, including farmed and wildlife, in England and Wales.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natalie Sampson is the Head of Veterinary Advisory Services, UK & International Affairs Directorate at the Food Standards Agency (FSA). She is also a council member at the Veterinary Public Health Association.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This session can count as part of our CPD, so remember to log it!",
+                "tag": "p"
+            },
+            {
+                "content": "Contact gvs@defra.gov.uk if you would like more information!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://vets.blog.gov.uk/2025/03/25/join-us-for-a-lunch-and-learn-session-about-working-in-gvs/",
+        "blog": "Government Vets",
+        "blog_link": "https://vets.blog.gov.uk",
+        "description": "Have you ever wondered what roles there are for vets in government?\u00a0 Did you know vet roles exist in 9 government departments?\u00a0 Join us for a conversation with Government Veterinary Service (GVS) colleagues on Tuesday 22nd April 12:30-13:15, to hear \u2026"
+    },
+    {
+        "title": "Why clear and accurate pricing matters \u2013 and how businesses can get it right",
+        "authors": [
+            "Sarah Cardell"
+        ],
+        "posted_on": "2025-03-25T15:15:22",
+        "categories": [
+            "Consumer protection"
+        ],
+        "content": [
+            {
+                "content": "It\u2019s vital that shoppers can access clear pricing information. Knowing how much you\u2019ll pay is fundamental to making good decisions \u2013 working out which product is best for you, and where to buy it.",
+                "tag": "p"
+            },
+            {
+                "content": "When firms don't display their prices accurately or leave out essential pricing information that people need to know, it can make products appear cheaper than they are. That can undermine people\u2019s trust when they find out the real cost, and prevent businesses from competing on a level playing field.",
+                "tag": "p"
+            },
+            {
+                "content": "Access to clear and accurate pricing information is a priority for the CMA. Our work over several years \u2013 on the price of everything from a family holiday to a cycle of IVF treatment, from buying a mattress to writing a will \u2013 shows the CMA\u2019s commitment to supporting businesses to comply with the law, and to act where we see bad practice.",
+                "tag": "p"
+            },
+            {
+                "content": "New and innovative pricing systems, including those using the latest technology such as AI, can offer real benefits to consumers, businesses and the wider economy. To ensure consumers maintain trust and confidence in how pricing works, businesses need to help people understand how they work. What determines the price they pay? How can prices change over time?",
+                "tag": "p"
+            },
+            {
+                "content": "If consumers understand how new pricing systems work, they can be confident that they are being treated fairly and are more likely to remain loyal which helps businesses to grow.",
+                "tag": "p"
+            },
+            {
+                "content": "Our recent work on pricing",
+                "tag": "h2"
+            },
+            {
+                "content": "We've been busy over recent weeks on several projects related to pricing:",
+                "tag": "p"
+            },
+            {
+                "content": "Ticketmaster investigation",
+                "tag": "h3"
+            },
+            {
+                "content": "The CMA has been investigating Ticketmaster, following concerns about the sale of tickets for the UK leg of the Oasis Live \u201825 concert tour. We reached an important milestone in that investigation today, sending Ticketmaster a \u2018consultation letter\u2019 setting out the CMA\u2019s concerns and seeking changes to Ticketmaster\u2019s processes.",
+                "tag": "p"
+            },
+            {
+                "content": "We have 2 main concerns. ",
+                "tag": "p"
+            },
+            {
+                "content": "Firstly, we don't think customers were given clear and timely information about how the pricing of certain tickets would work. In particular, we don't think it was clear that there were 2 categories of standing tickets at different prices, with all of the cheaper standing tickets sold first before the more expensive standing tickets were released. As a result, many fans may have waited in a long queue without understanding what they would be paying and then having to decide quickly whether to pay a higher price than they expected.",
+                "tag": "p"
+            },
+            {
+                "content": "Secondly, we\u2019re concerned that Ticketmaster labelled certain seated tickets as \u2018platinum\u2019 and sold them to fans for around 2.5 times the price of equivalent standard tickets, without sufficiently explaining that they didn't offer additional benefits and were often located in the same area of the stadium. We\u2019re concerned that this may have misled fans into thinking they were getting better tickets when that wasn\u2019t necessarily the case.",
+                "tag": "p"
+            },
+            {
+                "content": "Dynamic pricing",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019re also looking at how \u2018dynamic pricing\u2019 is being used across different sectors of the economy. Dynamic pricing generally involves prices changing in a relatively short period of time because of changing market conditions, like a high level of consumer demand or a shortage of availability. In some cases that can involve complex algorithms, with prices changing frequently and at great speed.",
+                "tag": "p"
+            },
+            {
+                "content": "There is often considerable confusion about what dynamic pricing is and how it is used. For example, in our Ticketmaster investigation, many fans were under the impression that Ticketmaster used an algorithmic pricing model to adjust its prices in real time. However, we did not find evidence that was the case. Instead, Ticketmaster used a different pricing model where it released a number of standing tickets at a lower price and, once they sold out, released remaining standing tickets at a much higher price.",
+                "tag": "p"
+            },
+            {
+                "content": "We're examining how dynamic pricing is used by businesses, why they use it and what benefits it has, including whether it varies by sector \u2013 for example, business practice and consumer expectations may be different for holiday pricing as compared to tickets. ",
+                "tag": "p"
+            },
+            {
+                "content": "We want to understand both the benefits and potential risks for consumers and competition. We have engaged with a number of businesses and consumer groups who have helped us develop a richer understanding of dynamic pricing. We'll publish our findings by the end of April. ",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll also be providing our findings to the government to help inform its consideration of the issues raised by dynamic pricing, including in the live events sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Ticket resale",
+                "tag": "h3"
+            },
+            {
+                "content": "We\u2019ve responded this week to the government\u2019s consultation on proposals to strengthen consumer protection in relation to ticket resale for live events. The consultation drew on previous CMA work highlighting that typical price mark-ups in the ticket resale market are around 50%, and that bulk buying of tickets by professional ticket touts can drive these inflated prices.",
+                "tag": "p"
+            },
+            {
+                "content": "The government wants to protect consumers from \u2018excessive resale pricing\u2019, and we\u2019ve made clear in our response to the consultation that we support its proposal for a price cap on resold tickets to deliver that objective.",
+                "tag": "p"
+            },
+            {
+                "content": "Our response also sets out a number of considerations to help the government successfully implement such a price cap, including:",
+                "tag": "p"
+            },
+            {
+                "content": "What businesses can do to help build consumer trust and confidence in their pricing systems",
+                "tag": "h2"
+            },
+            {
+                "content": "Great businesses put their customers front and centre of what they do and they innovate to use pricing strategies that serve their customers and drive growth. The work we\u2019ve described above highlights the importance of thinking through a customer journey. For example, what information do consumers need to make informed choices throughout the purchasing process, whatever pricing strategy a business uses?",
+                "tag": "p"
+            },
+            {
+                "content": "Businesses use dynamic pricing in lots of different ways, but here are some overarching steps businesses can take to help ensure compliance and build trust about their pricing in the areas I\u2019ve described above:",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "You might be interested in:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://competitionandmarkets.blog.gov.uk/2025/03/25/why-clear-and-accurate-pricing-matters-and-how-businesses-can-get-it-right/",
+        "blog": "Competition and Markets Authority",
+        "blog_link": "https://competitionandmarkets.blog.gov.uk",
+        "description": "Learn how we\u2019ve been working to help consumers get clearer and more accurate price information, and what businesses can do to get it right."
+    },
+    {
+        "title": "Government publishes first Pesticides National Action Plan in a decade\u00a0",
+        "authors": [
+            "Environment blog team"
+        ],
+        "posted_on": "2025-03-25T15:06:40",
+        "categories": [
+            "Chemicals and pesticides",
+            "Pollinators"
+        ],
+        "content": [
+            {
+                "content": "Last week, the Government published the Pesticides National Action Plan, the first in a decade. The Action Plan sets out a clear direction for the sustainable future of pesticide use in the UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Pesticides play an important role in protecting our crops, supporting food production, preserving our natural landscapes and maintaining important public spaces such as our roads and sports pitches. However, overuse or incorrect use of pesticides can contribute to the loss of vital biodiversity and can cause risks to human health.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have already committed to taking decisive action to protect bees and other pollinators by ending the use of three bee killing neonicotinoids \u2014clothianidin, imidacloprid, and thiamethoxam \u2013 in England. The publication of the Action Plan presents another step in protecting our environment and promoting food security for the future.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Action Plan sets out how all four UK governments will support farmers, growers and other land managers to increase their use of nature-based techniques, reducing the potential harm from pesticides, while still controlling pests effectively.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Plan has three key objectives:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve explained these objectives in more detail in the sections below.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Integrated Pest Management\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Integrated pest management (known as IPM) is a holistic and sustainable approach that uses all available methods to prevent, monitor, and control pests, weeds and diseases, which can help to reduce the need for conventional pesticides. We recently published guidance for farmers and growers to help them use IPM in their work.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Innovation is key to make sure farmers and growers have the most effective IPM tools at their disposal. We have already committed \u00a3150 million for industry-led research and development via the Farming Innovation Programme. In the Action Plan, we outline how we will make it easier to get biopesticides \u2013 which tend to be lower risk than chemical pesticides \u2013 to market and support innovation in precision application \u2013 including the use of drones.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A UK target for reduction of pesticides\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We are introducing a domestic reduction target for pesticides in the UK, to reduce the potential harm caused by pesticides to the environment by at least 10% by 2030. The actions in the National Action Plan set out how we will deliver against this aim while supporting food production.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our target is measured using the Pesticide Load Indicator, which is a UK-specific metric made up of 20 different indicators, and the target requires a 10% reduction against each.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0These indicators include measures of both acute and chronic harm across 10 different species, as well as measures of how a pesticide behaves in the environment. By driving action across these measures, we are taking a holistic approach rather than, for example, making progress on reducing potential harm to fish but not paying attention to bees.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our target must drive sustainable change. Achieving this will require action by Government, manufacturers, and farmers and growers. The package of actions outlined in the National Action Plan are designed to deliver this action.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more information, you can read the GOV.UK target explainer.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting safe pesticide use\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We want everyone using pesticides to do so safely and responsibly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We'll help people understand the legal rules for using pesticides - from safe storage to equipment maintenance - through updated guidance.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We'll also use information from inspections and other sources to provide targeted support to pesticide users.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For more information on the safe use of pesticides you can read the HSE code of practice, and if you are a professional pesticide user you can watch our video on how to register as a professional user of plant protection products.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Read the full Action Plan for more information\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The National Action Plan will help support a sector where restoring nature is not in competition with the sustainable production of food, but is essential to it. ",
+                "tag": "p"
+            },
+            {
+                "content": "For more information on everything we\u2019ve mentioned above, read the UK Pesticides National Action Plan itself.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2025/03/25/government-publishes-first-pesticides-national-action-plan-in-a-decade/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "Last week, the Government published the Pesticides National Action Plan, the first in a decade. Read this post to find out more."
+    },
+    {
+        "title": "Funding Service: How we transformed Delta based on user needs\u202f\u00a0",
+        "authors": [
+            "Susanna Winstanley, Senior Content Designer"
+        ],
+        "posted_on": "2025-03-25T14:14:20",
+        "categories": [
+            "Funding Service"
+        ],
+        "content": [
+            {
+                "content": "Delta is the main platform the Ministry of Housing, Communities and Local Government (MHCLG) uses to collect data and make payments. Part of the department\u2019s Funding Service, it helps the department make policy decisions, release national statistics and process payments to local authorities.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Last year, Delta handled:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Listening to users: the need for change",
+                "tag": "h2"
+            },
+            {
+                "content": "Delta has served the department since 2017, when it was built to replace its predecessor LOGASNet. Over the past 8 years, it has become a widely used and important system. We have consistently worked on Delta, introducing a case level approach to data collections, improving site navigation and accessibility, and making updates based on user needs.",
+                "tag": "p"
+            },
+            {
+                "content": "While these improvements were valuable, we knew there was room for a more fundamental transformation and our users agreed too.",
+                "tag": "p"
+            },
+            {
+                "content": "In 2024, we surveyed more than 700 external users and 30 internal users to understand their experience of Delta. Almost 50% found the system unnecessarily complex and more than 30% struggled with navigation. This was summed up by one user who said: \u201cThe system is clunky and not easy to navigate or search for the data that you want.\u201d\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Enter Delta 2.0\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "We developed Delta 2.0 to directly address this user feedback. The aim of the new version was to improve and simplify the interface and improve the technical build.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We introduced GOV.UK design patterns to make the new interface easier to use and more accessible. We improved navigation, summary information and how data is shown, and introduced clear signposting for data submission. These changes went through rigorous user testing, to make sure the designs met user needs.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We also improved the way Delta functions technically, making the infrastructure less complicated and more secure, removing bugs, and reducing the hosting costs from \u00a31.3 million to \u00a30.4 million \u2013 a 70% saving. \u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "On 4 December 2024, we successfully launched Delta 2.0, with no service downtime and no issues.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Impact and next steps\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The initial response to Delta 2.0 has been positive, with users rating the changes 4.15 out of 5 in terms of satisfaction \u2013 an impressive score! \u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Users have shared encouraging feedback, including:\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead, we\u2019ll be making changes for internal users, building on what we\u2019ve learnt from this work to improve the Submissions Dashboard.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "To find out more about Delta, or for information on the wider work of the service, contact FundingService@communities.gov.uk. Follow our progress by\u202fsubscribing to the MHCLG Digital blog\u202fand reading our latest blog posts.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2025/03/25/funding-service-how-we-transformed-delta-based-on-user-needs/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Delta is the main platform MHCLG uses to collect data and make payments. It helps the department make policy decisions, release national statistics and process payments to local authorities.\u202f Read how the Funding Service transformed Delta based on user needs."
+    },
+    {
+        "title": "An update on customer account managers now and in the future\u202f",
+        "authors": [
+            "Leighton Burman"
+        ],
+        "posted_on": "2025-03-25T13:23:31",
+        "categories": [
+            "Motorcycle trainers",
+            "Uncategorized",
+            "Vocational trainers"
+        ],
+        "content": [
+            {
+                "content": "DVSA introduced Customer Account Managers in response to vocational and motorcycle training providers saying they needed a better way to communicate with DVSA. The role started in October 2021.\u202f\u202f There have been some changes since they were introduced. So, this seems a good opportunity for an update.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "A new head account manager\u202f ",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the recent changes to the team has been my recent appointment as head account manager, so allow me to introduce myself.\u202f\u202f I've been in the role for a couple of weeks, but I\u2019ve been with DVSA since 2017. I started out as a Vehicle Standard Assessor inspecting HGVs, PSVs and dangerous goods vehicles for their annual test. I then held a number of leadership roles, before starting this role.As you can imagine, I\u2019m still finding my feet and am looking forward to the challenge. One of the first things I want to do was to make sure you all understand what the team does and how we can support you and your business.\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "We are here to help\u202f ",
+                "tag": "h2"
+            },
+            {
+                "content": "The team and I are your main point of contact for any business customer enquiries. This could be from something as simple as a query about using our booking system, but we can also help with:\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Helping us improve\u202f ",
+                "tag": "h2"
+            },
+            {
+                "content": "We are always looking for ways to improve the service we offer and would love you to tell us what we could do better. One of the easiest ways to do this is to complete the regular customer satisfaction surveys. This is a chance for you to tell us what you think about the service DVSA provides and led to the original introduction of customer account managers.\u202f ",
+                "tag": "p"
+            },
+            {
+                "content": "Many of you have completed the current survey already, but if you\u2019ve not had your say yet you can find the survey using the right link below:\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "The deadline is 31 March 2025. It\u2019s really important to hear back from you so we can continue to improve the service we offer.\u202f We have exciting plans for the year ahead and beyond, focused on being visible and accessible to you. But you can use the surveys to let us know what you\u2019d like to see.\u202f\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Contacting your customer account manager\u202f",
+                "tag": "h2"
+            },
+            {
+                "content": "I hope that all vocational trainers will know their local customer account manager and are already in regular contact with them. ",
+                "tag": "p"
+            },
+            {
+                "content": "As the team has not been supporting motorcycle trainers for as long, some of you might not have had the chance to meet your customer account manager or even find out who they are. If that\u2019s the case, then please have a look through the table below;\u202f ",
+                "tag": "p"
+            },
+            {
+                "content": "To contact the team or to find out which area you are covered by please send an email using the addresses below. The inboxes are monitored daily.\u202f ",
+                "tag": "p"
+            },
+            {
+                "content": "What are our plans for the year ahead?\u202f ",
+                "tag": "h2"
+            },
+            {
+                "content": "We are currently working on a programme of visits to enable us to see as many trainers as possible. We want to continue to develop strong client relationships with you through regular contact.\u202f We will also be focusing more on the monitoring of trainer booking and work with individual trainers to look at how you are using the system in line with the booker agreements. Your local account manager will be in touch soon to demonstrate how this data can improve our joint performance and give better access to test availability for all.\u202f The next 12 months are shaping up to be busy for the customer account manager team and I am determined that we will continue to support you and your businesses moving forward.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://despatch.blog.gov.uk/2025/03/25/an-update-on-customer-account-managers-now-and-in-the-future/",
+        "blog": "Despatch for driver and rider trainers",
+        "blog_link": "https://despatch.blog.gov.uk",
+        "description": "DVSA introduced Customer Account Managers in response to vocational and motorcycle training providers saying they needed a better way to communicate with DVSA. The role started in October 2021.\u202f\u202f There have been some changes since they were introduced. So, this \u2026"
+    },
+    {
+        "title": "Improving MOT site reviews \u2013 here\u2019s what\u202fyou need to know\u202f",
+        "authors": [
+            "Chris Price"
+        ],
+        "posted_on": "2025-03-25T10:20:11",
+        "categories": [
+            "MOT testing service",
+            "News and updates"
+        ],
+        "content": [
+            {
+                "content": "This blog provides an update from our MOT Enforcement team on changes we are making to our reviews process from 1 April 2025.The lion\u2019s share of our work is targeted enforcement. This is led by intelligence sent to us from garages and the public, and data from assessing MOT garages. This assessment is known as a \u201csite review\u201d \u2013 which can either be onsite or offsite. We\u2019ve done site reviews for many years. It helps us to keep test stations operating as they should and allows us to \u201crisk rate\u201d \u2013 helping us target our efforts at garages that are most likely to have problems. The site review process also provides opportunity for advice and guidance.",
+                "tag": "p"
+            },
+            {
+                "content": "Changing onsite reviews",
+                "tag": "h2"
+            },
+            {
+                "content": "For most garages, we will do an onsite review. However, these full onsite reviews can be time-consuming for our examiners and your teams. They don\u2019t always tell us if vehicles tested are receiving the correct result, which is the most important bit.",
+                "tag": "p"
+            },
+            {
+                "content": "With that in mind, we\u2019re amending onsite reviews to make the process a bit slicker. This will help us focus on improving poorly performing garages and minimising disruption to your businesses. ",
+                "tag": "p"
+            },
+            {
+                "content": "What has changed?",
+                "tag": "h2"
+            },
+            {
+                "content": "Following a review and with feedback from industry, we are changing the onsite review to a more basic compliance check.\u202f We will still be visiting garages for these, but rather than doing a deep dive into the systems and processes of running the garage, our aim is to focus more on the test results.",
+                "tag": "p"
+            },
+            {
+                "content": "Why we're making these changes to site reviews",
+                "tag": "h3"
+            },
+            {
+                "content": "The change means less preparation time for garages and less time undertaking onsite reviews for us. This means we can visit more garages and provide support.\u202f For Authorised Examiners (AEs), streamlining this should mean our visits are less disruptive, focusing on managing the quality of testing in garages. At a minimum we will check that:\u202f",
+                "tag": "p"
+            },
+            {
+                "content": "Streamlining our approach ",
+                "tag": "h3"
+            },
+            {
+                "content": "Of course, we still expect good systems to be in place to manage people, quality control and the site. These are the basics that help ensure good quality MOT standards. So we may assess these to make sure they\u2019re in place, checking that managers are taking this responsibility seriously. Where garages don\u2019t provide information or have adequate systems, we will take action.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our streamlined approach means we can carry out this basic compliance check whenever we visit a Vehicle Testing Station (VTS). Even if we are there to sign off a new tester or carry out an appeal, we can quickly check the site is well-run.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This new approach does not mean a reduction in the support we give to garages. In fact, with more focus on the test we hope that our examiners will be able to support and advise garages even more.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Off-site review to \u201cVTS Self Assessments\u201d\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Where garages have a positive record with DVSA, in some cases we will conduct an offsite review instead of visiting the garage.",
+                "tag": "p"
+            },
+            {
+                "content": "Following AE feedback, we are making some changes to the offsite review  which will now be know as a \u201cVTS Self Assessment\u201d. \u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Moving to a self assessment form",
+                "tag": "h3"
+            },
+            {
+                "content": "As you may know, offsite reviews are currently carried out by phone calls. Often, the designated staff member isn\u2019t available or the timing of the call is inconvenient resulting in a poor assessment for the VTS or it being cancelled.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To correct this, we will now email a self-assessment form to the nominated Authorised Examiner Designated Manager (AEDM). They will have 14 days to return the form, which DVSA will assess.\u202fThis will make the process more flexible. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If there is no cause for concern this will result in no further action or where we have serious queries, it could trigger an on-site follow up visit.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This change will also help free up examiners to focus on other areas that demand their attention, such as new tester signoffs and garage approvals. It will provide more education and advice where needed and allow us to take action on non-compliant garages, so that MOT testing remains a level playing field for all.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Lowering the disciplinary points threshold so points don\u2019t make surprises!\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "When we were researching what changes to make, we found that some low-level cases (where minor non-compliances were found through some type of DVSA visit or investigation) could have been resolved with advice and education.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To solve this, we are increasing the threshold for triggering consideration of \u00a0disciplinary action from 30 to 40 points from 1 April 2025.\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This helps us identify the best course of action and consider whether additional training is needed before we escalate matters to a disciplinary case.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our aim is to foster a culture where we can help rectify issues and learn from them, rather than always taking action. \u202fAny common areas for retraining we identify will help us prepare better training materials for all VTSs.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Fit for the future\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "These changes will allow you to improve the quality of the test for your customers, identify issues as they arise, and help us to help you when we\u2019re on-site.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know that your priority will be to provide the best service possible to your customers and make sure their vehicles are safe to drive, and we want to help you maintain the high standards that you strive for.\u202f\u202f\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However, this doesn\u2019t mean DVSA won\u2019t take enforcement action if we identify material issues, especially if they reoccur.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "By focusing on support and streamlining these reviews, we can make the process quicker and provide exactly what\u2019s needed \u2013 allowing us to concentrate on solving problems and for you to focus on running the garage well.\u202f\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mattersoftesting.blog.gov.uk/improving-mot-site-reviews-heres-what-you-need-to-know/",
+        "blog": "Matters of Testing",
+        "blog_link": "https://mattersoftesting.blog.gov.uk",
+        "description": "This blog provides an update from our MOT Enforcement team on changes we are making to our reviews process from 1 April 2025."
+    },
+    {
+        "title": "Priority Pathogens: The disease families which require urgent scientific research",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2025-03-25T09:54:22",
+        "categories": [
+            "Health security"
+        ],
+        "content": [
+            {
+                "content": "The UK Health Security Agency (UKHSA) was set up to protect health from infectious diseases and environmental hazards. We prepare for future threats to prevent health and socioeconomic impacts and although there are hundreds of pathogens that can cause disease in humans, we now are in a better position than ever thanks to increased development of diagnostics, therapeutics and vaccines (DTVs).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There is always more that we can do, and we are not alone in this fight, the scientific community, which includes partners from academia and industry, play a vital role in boosting our resilience through increased research and development into DTVs \u2013 addressing any gaps we might have in our knowledge.",
+                "tag": "p"
+            },
+            {
+                "content": "But how do scientists know which infectious diseases to focus on? Attempts to \u2018prioritise\u2019 pathogens have become even more common since the Covid-19 pandemic, and lists generated by the likes of the World Health Organization (WHO) and the Coalition for Epidemic Preparedness Innovations (CEPI) are helping to support the co-ordination of global preparedness efforts.",
+                "tag": "p"
+            },
+            {
+                "content": "UKHSA has now published its own perspectives. Through its Priority Pathogen Families reference tool, the agency is highlighting 24 pathogen families where it believes further research is most needed in the interests of biosecurity \u2013 uniquely, this tool includes pathogen families of a global concern, as well as those already impacting on the nation\u2019s public health (endemic disease). \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this blog post we take a look at the new Priority Pathogen Families reference tool and how it will help focus and guide preparedness efforts against some of the top threats to public health.",
+                "tag": "p"
+            },
+            {
+                "content": "What the priority pathogen list is for",
+                "tag": "h2"
+            },
+            {
+                "content": "The Priority Pathogen Families reference tool has been produced to guide and support decisions of research funders and scientific organisations in England; specifically, for work related to research and development into DTVs.",
+                "tag": "p"
+            },
+            {
+                "content": "There has been great progress made in recent years, but there are still significant gaps where we need DTVs. With so many bacteria and viruses having the potential to cause disease in humans, the scientific community needs an easily accessible tool to help determine their priorities and advance preparedness against infectious diseases.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This tool is UKHSA\u2019s first attempt at highlighting those families where, should there be a lack of DTVs for us to combat an impending pandemic or epidemic, strong research and development may be extra important.",
+                "tag": "p"
+            },
+            {
+                "content": "How the pandemic/epidemic level was decided",
+                "tag": "h2"
+            },
+            {
+                "content": "For the 24 pathogen families, a relative high/medium/low categorisation of \u201cpandemic and epidemic potential\u201d is suggested. This assessment is based on the pathogen family as a whole; individual pathogens within a family may have a higher or lower potential to lead to pandemics and epidemics.",
+                "tag": "p"
+            },
+            {
+                "content": "The ratings are the opinion of UKHSA experts, who have considered how known pathogens within a family have previously led to epidemics or pandemics, as well as routes of transmission and severity of disease from known pathogens within a family.",
+                "tag": "p"
+            },
+            {
+                "content": "However, UKHSA would advocate for active DTV research across all families included in the tool (even those with a relative \u201clow\u201d categorization) given the risk of emergence of new pathogens that may represent 'disease X'.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The diseases which need increased scientific resource most",
+                "tag": "h2"
+            },
+            {
+                "content": "Among the pathogen families where UKHSA is keen to see greater scientific strides are the coronaviridae family, which includes Middle East Respiratory Syndrome (MERS) and of course SARS-CoV-2; the paramyxoviridae family which includes Nipah virus; and the orthomyxoviridae family which includes avian influenza.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "All of these families are considered by UKHSA to have relative high pandemic or epidemic potential. Other families which feature in the list include Filoviridae (which includes Ebola virus, and as an overall family is suggested to have a high epidemic potential) and Poxviridae (which includes mpox, also suggested to have a high epidemic potential).",
+                "tag": "p"
+            },
+            {
+                "content": "For the 8 families of bacteria in the list (such as Enterobacteriaceae, which includes Klebsiella pneumoniae), we have highlighted where there are concerns around anti-microbial resistance. The need for effective diagnostics and therapeutics to identify and treat resistant infections or the need for new vaccines to prevent spread are key reasons why some have been prioritised.",
+                "tag": "p"
+            },
+            {
+                "content": "Importantly, it should be noted that the reference tool is not a detailed threat assessment and the list of families included in this tool is not exhaustive and are not ranked.",
+                "tag": "p"
+            },
+            {
+                "content": "How the list will boost biosecurity",
+                "tag": "h2"
+            },
+            {
+                "content": "The list of 24 pathogen families has been created to drive scientific investment and research, helping to strengthen the UK\u2019s ability to respond to pathogen families that may impact on national biosecurity. It\u2019s the first list designed to focus on both global public health threats and the diseases most relevant to our population.",
+                "tag": "p"
+            },
+            {
+                "content": "By identifying these key pathogen families and encouraging targeted research, the goal is to boost the development of more effective diagnostics, vaccines, and treatments. This means that if a future outbreak occurs, the UK will be in a stronger position to respond quickly and effectively, reducing the impact on public health and the economy.",
+                "tag": "p"
+            },
+            {
+                "content": "The list reflects where the UKHSA sees the greatest potential for research to improve pandemic preparedness and biosecurity. However, research into other pathogen families not included on the list remains important to ensure a broad and resilient response to emerging health threats.",
+                "tag": "p"
+            },
+            {
+                "content": "By focusing resources and expertise on these priority areas, the UK can stay ahead of potential outbreaks and protect public health more effectively in the years to come.",
+                "tag": "p"
+            },
+            {
+                "content": "What UKHSA is doing to prevent the next pandemic",
+                "tag": "h2"
+            },
+            {
+                "content": "The tool is part of the UK\u2019s Biological Security Strategy and is one of several measures UKHSA is using to protect public health. Both UKHSA\u2019s Vaccine Development and Evaluation Centre and Diagnostic Accelerator are working closely with universities and industry partners to identify and prepare for potential disease threats, with the Priority Pathogens tool now helping to steer these efforts.",
+                "tag": "p"
+            },
+            {
+                "content": "In addition to vaccine and diagnostic development, UKHSA is strengthening the UK\u2019s ability to detect and respond to emerging health threats. Through enhanced pathogen surveillance and genomic sequencing, UKHSA works with international partners to identify new risks and implement swift responses. These efforts ensure that the UK is well-prepared to tackle future pandemics.",
+                "tag": "p"
+            },
+            {
+                "content": "By combining research, development, and global collaboration, UKHSA is building a flexible and coordinated approach to public health, ready to respond to future infectious disease challenges with speed.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2025/03/25/priority-pathogens-the-disease-families-which-require-urgent-scientific-research/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "Today we have published a Priority Pathogen Families reference tool, highlighting 24 pathogen families where we believe further research is most needed in the interests of biosecurity."
+    },
+    {
+        "title": "Disease emergency response in action",
+        "authors": [
+            "Aled Edwards"
+        ],
+        "posted_on": "2025-03-25T09:24:40",
+        "categories": [
+            "Surveillance",
+            "Viral diseases"
+        ],
+        "content": [
+            {
+                "content": "The Animal and Plant Health Agency could be considered to act as the United Kingdom\u2019s (UK) fourth emergency service \u2013 protecting the UK from a huge range of pests, and diseases of animals, plants and bees \u2013 and securing farmers\u2019 livelihoods, food security, economic security, animal health and welfare and public health.",
+                "tag": "p"
+            },
+            {
+                "content": "APHA prevents animal diseases entering or spreading in the UK (including those that can spread from animals to people like bird flu) through a combination of surveillance, diagnostics, research and, above all, rapid response when suspicions of a notifiable disease are reported.",
+                "tag": "p"
+            },
+            {
+                "content": "APHA teams (including Field, Laboratory, Advice Services, Customer Service Centres, and Central Services) respond to disease reports 365 days a year, 24 hours a day, often in hostile and remote environments, and with little information available. Individuals need to make rapid decisions, under pressure, around next steps to ensure any potential incidence of a new disease outbreak is identified and contained as quickly as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "These dedicated, passionate and highly skilled people must balance this decision-making with the consequences \u2013 get it wrong and the repercussions could have a huge impact on the farming industry, trade and tourism. Which is why erring on the side of caution while further investigations take place to confirm whether disease is present is preferable to taking no action at all and potentially allowing a disease to spread.",
+                "tag": "p"
+            },
+            {
+                "content": "Clinical signs of disease are not neat and tidy, they vary between species, they vary between stages of infection, they vary between individual animals. Many diseases have similar clinical signs. Simply observing these signs does not give a definitive diagnosis, and so laboratory tests and other evidence is needed to support the ultimate decision of confirmation or giving the all-clear.",
+                "tag": "p"
+            },
+            {
+                "content": "One such disease, which has a devastating effect on farming, trade and tourism, not to mention animal health and welfare, is foot and mouth disease (FMD). The last localised outbreak in the UK was in 2007, and before that, a national outbreak in 2001 cost the country over \u00a314 billion in monetary terms alone, and took over eight months to eradicate.",
+                "tag": "p"
+            },
+            {
+                "content": "FMD is one of those diseases that cannot be clinically distinguished from other diseases, such as vesicular stomatitis, vesicular exanthema, and swine vesicular disease so the only way to be certain of a diagnosis is through a laboratory PCR test. The National Reference Laboratory for foot and mouth disease virus (FMDV) where tests are carried out is based at The Pirbright Institute.",
+                "tag": "p"
+            },
+            {
+                "content": "As Head of England Field Delivery, I am responsible for the field team\u2019s response to identifying and quickly containing potential animal disease and undertaking a detailed investigation.",
+                "tag": "p"
+            },
+            {
+                "content": "To illustrate how quickly our staff are mobilised with the report of a notifiable disease, and in particular one as devastating as FMD, I can reflect on what happened recently when APHA was notified of suspicion of bluetongue virus 3 which has been circulating in England since early autumn 2024. A private vet notified APHA, as they are legally bound to do so, and an official APHA vet went to investigate within a few hours of the report being received. This case became a suspect FMD report case.",
+                "tag": "p"
+            },
+            {
+                "content": "The first I knew about this is when I received a call while I was walking my dog, I returned home to find my work phone red hot with activity. By the time I had all the relevant information, it was clear our teams had already taken the action they needed to and were in full control of the situation. The premises concerned was put under precautionary restrictions (no movement of animals, people or materials, and to use disinfectants and enhanced levels of biosecurity) while additional samples could be taken late at night and sent to Pirbright for analysis. All this took place late on a Sunday evening. The repercussions of this decision meant a local livestock market, due to take place on Monday morning, had to be stopped until disease could be negated, so communication began late that evening to make sure any impacts were minimised.",
+                "tag": "p"
+            },
+            {
+                "content": "Inspection of the source farm, and an Animal Health Officer at the market at 5:30am made sure that the market was supported in preventing animals entering. Then we received the initial negative blood result, and while waiting for the full results from the additional samples, teams from across APHA began preparations for any positive results. By the time we had the final negative results, we had sampling teams, valuation suppliers, culling contractors, and disposal solutions poised to roll into action. This was an incredible effort and demonstrates how we stand up when the biosecurity of the UK is under threat.",
+                "tag": "p"
+            },
+            {
+                "content": "FMDV is highly contagious and spreads rapidly if not contained quickly. So, it is \u00a0essential our response is rapid, ensuring we have a grip of the situation in the quickest possible timescales. APHA teams, in particular our vets, are making these decisions day in and day out \u2013 thankfully in this case the disease was negated. But without APHA\u2019s ability for rapid response we would be at greater risk of a disease outbreak occurring and spreading rapidly with far reaching consequences.",
+                "tag": "p"
+            },
+            {
+                "content": "Once we received negative bluetongue and negative FMD results from Pirbright, we were able to inform the keeper, lifting all restrictions. Our staff supported the keeper throughout the process and are acutely aware of the distress and disruption that occurs when suspicion of a notifiable disease occurs at a premises.",
+                "tag": "p"
+            },
+            {
+                "content": "With two recent cases of FMD in Europe in as many months, the risk of this disease entering the UK is increasing, and APHA needs to make sure it is at the frontline to prevent it from taking hold should it enter. Farmers and the public must play their part too. Farmers by practicing good biosecurity and sourcing animals responsibly, the public by observing rules on bringing meat and other products of animal origin into the UK from countries affected by FMD and other animal diseases such as African swine fever and goat and sheep plague.",
+                "tag": "p"
+            },
+            {
+                "content": "It is important for farmers to remain vigilant to signs of this disease and notify your private vet or APHA straight away if you are at all concerned \u2013 this swift action is vital to stop the spread of devastating animal diseases and protect everyone from the potential consequences",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "h2"
+            },
+            {
+                "content": "For more information about foot and mouth disease and clinical signs in cattle, sheep and pigs visit Foot and mouth disease: how to spot and report it - GOV.UK.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2025/03/25/disease-emergency-response-in-action/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "Aled Edwards, Head of England Field Delivery for the agency reveals how rapid response by several teams working closely together is helping to keep us safe from animal diseases such as foot and mouth, every day of the year."
+    },
+    {
+        "title": "From hands-on problem solver to strategic infrastructure leader",
+        "authors": [
+            "HeatherS"
+        ],
+        "posted_on": "2025-03-25T09:03:02",
+        "categories": [
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "Gary Ireland shares his journey from hands-on estate management to leading long-term projects.",
+                "tag": "p"
+            },
+            {
+                "content": "Interviewer: Can you tell us about your current role and responsibilities within the Infrastructure Team?",
+                "tag": "p"
+            },
+            {
+                "content": "Gary: I\u2019m Gary Ireland, and I work in Strategic Command Infrastructure (Infra) as part of the Major Projects and Programme (MPP) Team. My focus is looking at Strategic Command Sites in Bedfordshire and Cambridgeshire.",
+                "tag": "p"
+            },
+            {
+                "content": "Interviewer: How did you start your career in infrastructure?",
+                "tag": "p"
+            },
+            {
+                "content": "Gary: My journey into infrastructure stems from my previous role before joining Strategic Command\u2019s Infra Team. I worked in Defence Infrastructure Organisation (DIO) as an Estate Facilities Manager, handling infrastructure on a day-to-day basis. My responsibilities included supporting Army establishments with issues such as fixing heating problems and managing delivery tasks on site.",
+                "tag": "p"
+            },
+            {
+                "content": "That hands-on experience gave me a strong background in infrastructure. Eventually, I joined Strategic Command Infra as part of the Optimisation Team. From there, I seized the opportunity to move into my current role, which aligns better with my experience and interests.",
+                "tag": "p"
+            },
+            {
+                "content": "The transition has been a learning curve. Previously, I focused on day-to-day operational issues, but now, in the MPP Team, I\u2019m tackling large-scale, long-term projects. It\u2019s been a fascinating shift.",
+                "tag": "p"
+            },
+            {
+                "content": "Interviewer: You mentioned your work on MPP. Are there other projects you\u2019re involved in?",
+                "tag": "p"
+            },
+            {
+                "content": "Gary: Yes, I\u2019m also the Infra Lead for a transformation project, which involves relocating units from Greater London to Cambridgeshire. Currently, the Cambridgeshire site is undergoing major refurbishment.",
+                "tag": "p"
+            },
+            {
+                "content": "Interviewer: That must have been a proud moment\u2014seeing a project go from planning to reality.",
+                "tag": "p"
+            },
+            {
+                "content": "Gary: It certainly was! Walking past the site now and seeing the progress is incredibly rewarding. It\u2019s satisfying to know that I\u2019ve been part of making it happen.",
+                "tag": "p"
+            },
+            {
+                "content": "The nature of infrastructure projects means it can take years to see tangible results, but that\u2019s part of the journey. Moving from daily operations to long-term initiatives has been fulfilling, and I\u2019m excited about the challenges ahead. It\u2019s rewarding to know these projects will have a lasting impact for years to come.",
+                "tag": "p"
+            },
+            {
+                "content": "Interviewer: What common misconception would you like to dispel about Defence infrastructure projects?",
+                "tag": "p"
+            },
+            {
+                "content": "Gary: A lot of people see infrastructure projects as just providing buildings and places for military personnel to live or work. But it\u2019s much more than that. It\u2019s about ensuring that the spaces we create are safe, compliant, and meet the users\u2019 needs for years to come.",
+                "tag": "p"
+            },
+            {
+                "content": "A key part of my job is working with customers to capture their requirements. This involves sitting down with them, understanding their needs, and making sure the assets they receive are fit for purpose. It\u2019s a collaborative process, not just about bricks and mortar.",
+                "tag": "p"
+            },
+            {
+                "content": "Interviewer: What would you say to someone considering a role in infrastructure projects within Strategic Command?",
+                "tag": "p"
+            },
+            {
+                "content": "Gary Ireland: It\u2019s a role where you truly learn on the job. It\u2019s collaborative and people-focused\u2014understanding needs and figuring out how to deliver on them.",
+                "tag": "p"
+            },
+            {
+                "content": "Infrastructure work is unpredictable, and that\u2019s part of its appeal. Every project brings its own challenges, but the key is how you engage with those challenges and find solutions.",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s a dynamic field where you\u2019re constantly learning. While it can be tough at times, reaching a milestone or completing a project is incredibly rewarding. One of the things I enjoy most is getting a glimpse behind the curtain and seeing how everything comes together.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://stratcommand.blog.gov.uk/2025/03/25/from-hands-on-problem-solver-to-strategic-infrastructure-leader/",
+        "blog": "Strategic Command",
+        "blog_link": "https://stratcommand.blog.gov.uk",
+        "description": "Gary Ireland shares his journey from hands-on estate management to leading long-term projects."
+    },
+    {
         "title": "Key takeaways from the GOTTCon 2025 panel discussion: Risk and Innovation\u00a0",
         "authors": [
             "avneetkaur"
