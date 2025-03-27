@@ -1,5 +1,826 @@
 [
     {
+        "title": "Exploring AI in Healthcare: Insights from the AI Airlock Pilot",
+        "authors": [
+            "Jincy Robin"
+        ],
+        "posted_on": "2025-03-26T14:40:59",
+        "categories": [
+            "AI Airlock",
+            "Medical Devices"
+        ],
+        "content": [
+            {
+                "content": "The AI Airlock is a pilot programme designed to help test and improve the rules for AI-powered medical devices to ensure they reach patients quickly, safely and effectively.",
+                "tag": "p"
+            },
+            {
+                "content": "Since we announced the pilot cohort in early December, the AI Airlock team has been busy onboarding the successful candidates and working with them to design and implement bespoke testing plans. AI medical devices have the potential to radically transform healthcare if implemented safely. However, it can be difficult to evaluate and ensure the safety, accuracy and explainability of these products, which requires an agile regulatory framework. The AI Airlock pilot cohort highlight four cutting-edge projects addressing some of these challenges, each focused on advancing the role of AI while meeting critical safety standards.",
+                "tag": "p"
+            },
+            {
+                "content": "More about our pilot cohort",
+                "tag": "h2"
+            },
+            {
+                "content": "SmartGuideline by Automedica, aims to improve accuracy and trust in AI-driven clinical decision support systems. It explores the use of TAG-RAG technology, a novel approach to overcoming regulatory concerns associated with the use of Large Language Models (LLMs) in healthcare. Their Airlock case study seeks to determine what constitutes sufficient clinical evidence of safety while assessing SmartGuideline\u2019s ability to minimise hallucinations, improve knowledge retrieval, and ensure more preordained responses.",
+                "tag": "p"
+            },
+            {
+                "content": "OncoFlow by UMA, focuses on the explainability of AI in oncology. Since LLMs are often criticised for their lack of transparency, OncoFlow is designed to provide clear, comprehensible, and consistent justifications for its outputs, ensuring that clinicians and specialists can trust its recommendations. The study compares different AI models to evaluate their performance, explainability, and clinical utility in processing unstructured oncology data.",
+                "tag": "p"
+            },
+            {
+                "content": "In the field of radiology, PACS Radiology Auto Impression by Phillips Medical Systems is pioneering efforts to validate AI-generated radiology reports using synthetic data. The study hypothesises that there should be no significant difference between synthetically generated summaries and real data in terms of quality. A key objective for this case study is to understand the parameters that define high-quality synthetic data, the challenges of using LLMs to generate such data, and how AI can be leveraged for validation.",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond clinical workflows and data validation, the use of AI is also being explored for real-time monitoring of AI powered medical devices. Federated AI Monitoring Service (FAMOS) by Newton\u2019s Tree is designed to enhance the safety and performance of third-party AI medical devices. By identifying performance variations and safety issues in real-time, FAMOS aims to improve risk management and regulatory compliance. This case study will investigate the use of real-time monitoring systems for identifying performance variations and safety issues within a product\u2019s post market surveillance and safety monitoring of AI as a medical device.",
+                "tag": "p"
+            },
+            {
+                "content": "Unfortunately, Lenus Stratify, had to withdraw from the pilot and is no longer participating in the study. While this is a setback, the remaining projects continue to drive forward the AI Airlock pilot studies.",
+                "tag": "p"
+            },
+            {
+                "content": "By addressing key concerns around safety, explainability, and validation, AI Airlock aims to lay the groundwork for safer and broader AI adoption in clinical settings. As AI continues to evolve in the medical field, initiatives like these will play a crucial role in shaping its future, ensuring that technological advancements meet the highest standards of reliability and trust.",
+                "tag": "p"
+            },
+            {
+                "content": "Some proud moments to share...",
+                "tag": "h2"
+            },
+            {
+                "content": "The team has recently participated in various national and international events as presenters and panellists, sharing the sandbox model and early insights from AI Airlock.",
+                "tag": "p"
+            },
+            {
+                "content": "We held AI Airlock: Connect, an in-person event to bring together the pilot cohort and expert stakeholders who have been instrumental to the success of the pilot so far. Baroness Merron, the Parliament Under-Secretary of State for Patient Safety, Women\u2019s Health and Mental Health opened the event with an inspiring speech and our Chief Executive Dr June Raine provided a keynote speech and her very valuable inputs during the session. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the event, we discussed how, together, we're gaining insights into the challenges of regulating AI for medical devices for effectiveness and patient safety. Each candidate gave detailed presentations about the regulatory challenge and some early insights from testing so far. In the afternoon the group discussed the future of the Airlock programme and captured all important lessons to be learned. This will help us create guidance and support for companies bringing new and transformative AI technologies to the health system.",
+                "tag": "p"
+            },
+            {
+                "content": "Some of the fascinating early comments that we received were:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cYesterday's AI Airlock event was one of the best innovation events I've ever attended\u2026 a perfect opportunity to collaborate with a range of specialists on health innovation topics and to have those all-important 1-2-1 conversations\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cI thought it was a great day, and some fascinating discussions.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s upcoming for AI Airlock?",
+                "tag": "h2"
+            },
+            {
+                "content": "The pilot candidates are working towards completing their sandbox testing, exploring the challenges identified by each case study and outlined above whilst working towards making their products safer. We have now completed the Simulation Airlock testing - roundtable workshops involving open discussions and brainstorming exercises. These sessions brought together technology and regulatory stakeholders to address focussed questions and provide critical insights from their areas of expertise. The next steps include drafting outputs based on insights from the simulations and virtual testing. Over the summer, an extensive AI Airlock programme report will be prepared including learning from each pilot project as well as key insights from the overarching programme evaluation. We will also be aiming to hold a public webinar to mark the final step in the pilot programme.",
+                "tag": "p"
+            },
+            {
+                "content": "As the testing phase progresses, these projects will provide key learnings that will shape the future regulatory framework for AI as a medical device. The insights gained will not only inform regulatory guidance but also help develop safer, more effective AI solutions that can be trusted by clinicians, patients, and regulatory bodies alike.",
+                "tag": "p"
+            },
+            {
+                "content": "The next big step",
+                "tag": "h2"
+            },
+            {
+                "content": "We were pleased that the second phase of AI Airlock was confirmed in the government's Regulation Action Plan published on 17 March. We'll be working with our partners to plan the next phase of AI Airlock which will aim to further explore the AI as a Medical Device regulatory landscape. We look forward to announcing further details in due course.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://medregs.blog.gov.uk/2025/03/26/exploring-ai-in-healthcare-insights-from-the-ai-airlock-pilot/",
+        "blog": "MedRegs",
+        "blog_link": "https://medregs.blog.gov.uk",
+        "description": "The AI Airlock is a pilot programme designed to help test and improve the rules for AI-powered medical devices to ensure they reach patients quickly, safely and effectively. Since we announced the pilot cohort in early December, the AI Airlock \u2026"
+    },
+    {
+        "title": "Asking for guidance part 4: A case of distribution in kind",
+        "authors": [
+            "Mike Harrison, Senior Caseworker, Registration Services"
+        ],
+        "posted_on": "2025-03-26T13:05:02",
+        "categories": [
+            "Law and practice"
+        ],
+        "content": [
+            {
+                "content": "Approximately 65% of complex applications receive requisitions. This is because some points are hard to anticipate in advance and we are keen to work directly with customers to ensure everything is in place before we receive the application.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our Ask for Guidance service provides expert assistance with complex applications, help to navigate through the registry processes, and support in avoiding unnecessary errors before lodging an application. Handling issues before submission saves a lot of back-and-forth later.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But customers often ask: what constitutes a \u2018complex application\u2019? In this series, we look at real examples of thorny issues that our experts have resolved. Previously, we explored unique restrictions, historic charges and a caution relating to tithes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In this case, we\u2019ll explore distribution in specie.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The question",
+                "tag": "h2"
+            },
+            {
+                "content": "A Professional Support Lawyer (PSL) got in touch with us asking for guidance.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Their client, a company, was entering into a distribution in specie at market value; which box should they check in the consideration panel of the TR1?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A distribution in specie refers to allocation of non-cash assets in their existing form - for example property, shares or equipment, as opposed to selling the assets and apportioning the cash proceeds of sale.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Generally, in specie distributions are made when cash isn\u2019t available or because allocating the physical asset would be more advantageous than distributing the cash.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This specific point is something we\u2019d want to help with via the Ask for Guidance service. It isn't covered in our practice guides, although section 4.2 of practice guide 35 deals with distributions in specie resulting from a company\u2019s liquidation. In this case, however, the company had sufficient reserves.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So, how should panel 8 of the TR1 be completed?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our answer",
+                "tag": "h2"
+            },
+            {
+                "content": "In these circumstances, panel 8 of the TR1 is usually completed with: \u201cThis Transfer gives effect to the payment of a dividend in specie\u201d.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is also important to lodge evidence of the company\u2019s power to make the transfer. This is likely to be within its articles of association, or by way of a special resolution, or by minutes of a board meeting, a copy of which should be uploaded with the application.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What about the fee?",
+                "tag": "h2"
+            },
+            {
+                "content": "When it comes to transfers that occur by way of dividends or distributions in specie, the fee payable depends on the circumstances.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A Scale 1 fee applies if the transfer satisfies a debt in respect of a dividend due to the shareholder. To assess the correct fee, the applicant should check the minutes of the Board Meeting to confirm the exact circumstance of the distribution in specie.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In other cases, such as a transfer not on sale and based on the certified value of the estate, a Scale 2 fee applies.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Further information",
+                "tag": "h2"
+            },
+            {
+                "content": "For more information about corporate insolvency, see our practice guide 35.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To access our specialist support services, including Ask for Guidance, Application Management, Developing Estates, large-scale applications and large-scale voluntary first registrations, head to our Specialist Support Services hub on GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "If in doubt...",
+                "tag": "h2"
+            },
+            {
+                "content": "This blog series is intended to show you how these kinds of applications can be handled, as well as the types of application that could be referred to our Ask for Guidance team.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you have a tricky question about a complex application that you\u2019re about to submit, and you can\u2019t find the answer in our practice guides, we would encourage you to use our Ask for Guidance service. If we\u2019re able to point you to existing guidance then we will, otherwise we will walk you through your particular issue and ensure your application is ready to submit.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For less complex and unusual queries, visit our training hub on GOV.UK for a wealth of guidance and resources, including our practice guides.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://hmlandregistry.blog.gov.uk/2025/03/26/asking-for-guidance-part-4-a-case-of-distribution-in-kind/",
+        "blog": "HM Land Registry",
+        "blog_link": "https://hmlandregistry.blog.gov.uk",
+        "description": "In which our expert caseworker considers an unusual question involving panel 8 of form TR1."
+    },
+    {
+        "title": "Using integrated pest management to grow healthy crops and support nature\u00a0",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2025-03-26T13:00:18",
+        "categories": [
+            "Farming across the UK"
+        ],
+        "content": [
+            {
+                "content": "The recently published UK National Action Plan for Pesticides outlines how government will support farmers to manage pests, weeds and diseases sustainably, minimising the risks and impacts on human health and the environment from pesticides, whilst supporting food security.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "At the heart of this plan is integrated pest management (IPM) and sustainable crop protection.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "IPM is a sustainable approach to preventing and managing pests, weeds and diseases on your land. It can help strengthen both food production and farm resilience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "IPM guidance is available on GOV.UK. It outlines the aims and principles and includes a plan template with crop-specific guidance to help you consider different control measures and assess and evaluate your IPM approach.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The guidance also includes a decision support tool to help you make informed on-farm decisions.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Soon you will be able to apply for grants to access equipment, technology and take part in innovative farm-led trials which can help you to reduce pesticide use.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can also join the free ADAS IPM knowledge-sharing network (IPM Net) which can help you review your IPM strategy and identify opportunities to improve the efficiency, sustainability and profitability of your farm.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Many farmers are already using IPM techniques. We spoke to a few of them, as well as an agronomist, about how they use IPM to grow healthy crops, support their businesses and help nature thrive.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Striking the balance to farm with nature\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Establishing flower-rich grass margins, blocks, or in-field strips close to cropped areas can provide habitat for natural crop pest predators. They can support wild pollinators including bumblebees, butterflies, hoverflies and farmland birds.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Jonathan Boaz, an award-winning farmer for soil management from Worcestershire, shares how he has been using IPM for several years and what inspired him to start.",
+                "tag": "p"
+            },
+            {
+                "content": "Small gains, big wins\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "David Bell, a farmer and Voluntary Initiative (VI) Champion and new UK Chair of the VI, from Upper Magus Farm in East Fife, shares his approach to IPM.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An agronomist's view\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Sean Sparling, a multi-award-winning independent agronomist shares his views on what makes IPM successful.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Using IPM to improve soil health\u00a0\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "David Blacker from Shipton, North Yorkshire shares how he uses IPM approaches to farm combinable crops.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you'd like to share your tips and experiences with integrated pest management, please do leave a comment below. ",
+                "tag": "p"
+            },
+            {
+                "content": "To receive an email notification whenever we publish a new post, subscribe to the Farming blog.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2025/03/26/using-integrated-pest-management-to-grow-healthy-crops-and-support-nature/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "The UK\u2019s National Action Plan for Pesticides guides farmers towards sustainable pest, weed and disease management through integrated pest management (IPM). By combining techniques like crop rotation, biodiversity, and selective pesticide use, IPM strengthens farm resilience, boosts food production, and helps nature thrive.\u00a0In this post we share resources and case studies."
+    },
+    {
+        "title": "From Inspiration to Action: Driving Gender Diversity in Engineering",
+        "authors": [
+            "Natalie Wood"
+        ],
+        "posted_on": "2025-03-26T10:43:30",
+        "categories": [
+            "a great place to work",
+            "Diversity and Inclusion",
+            "engineering",
+            "gender equality",
+            "Our People",
+            "representation matters",
+            "software development",
+            "Women in Tech"
+        ],
+        "content": [
+            {
+                "content": "Before joining the Civil Service, I did science outreach, demonstrating different robots to school children and explaining how we program them. We showed that they too could grow up to do programming and themselves as a career. There were so many girls who had clearly never considered doing anything technical before, and it was so exciting to show them a new path and help them realise the possibilities before them.",
+                "tag": "p"
+            },
+            {
+                "content": "As a woman in software development, inspiring the next generation of female engineers has always meant a lot to me. Throughout my career, it has been rare to work in a team with another female engineer, and it\u2019s clear that women remain significantly underrepresented in this field.",
+                "tag": "p"
+            },
+            {
+                "content": "This month we celebrated International Women\u2019s Day, and it made me reflect on the representation of women across engineering roles in Justice Digital.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Women are underrepresented in software development. According to a Diversity in Tech report in 2024, only 20% of software developers in the UK were women or non-binary.\u00a0 At Justice Digital in 2023 our representation stood below this average at 17%.",
+                "tag": "p"
+            },
+            {
+                "content": "This lack of representation is particularly surprising given the strong history of women in computing. Back in the 19th century, Ada Lovelace theorised how a computer could be programmed to solve complex calculations, essentially making her the first-ever computer programmer. The original \u201ccomputers\u201d were, in fact, women: human mathematicians who analysed data using mechanical calculators.",
+                "tag": "p"
+            },
+            {
+                "content": "The theme for this year's International Women\u2019s Day was \u2018Accelerate Action\u2019.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An action that I have taken recently with our Head of Engineering and Rosie, another lead developer, is to create a working group within Justice Digital with the ambitious goal of doubling the number of women in our engineering roles (which includes software developers, DevOps, technical architects, and Quality Assurance testers) over the next three years.",
+                "tag": "p"
+            },
+            {
+                "content": "This working group includes some wonderful people in a variety of roles across all teams in Justice Digital. We will work to come up with ways to improve the representation of women in engineering by looking at how we can improve recruitment and retention, how to better support our women, and see how we can contribute to the wider community of women in tech.",
+                "tag": "p"
+            },
+            {
+                "content": "At Justice Digital we have committed to driving diversity, equity, and inclusion as a key part of our long term Talent Plan. Our dedicated working group plays an essential role in bringing these ambitions to life, and it has the full support of our entire organisation.",
+                "tag": "p"
+            },
+            {
+                "content": "There is no question about how valuable diversity and inclusion are in a modern organisation. We succeed when we bring together different voices and ideas, and we create a fairer workplace.",
+                "tag": "p"
+            },
+            {
+                "content": "My hope is that the young girls who were inspired to consider programming and computing as a career will find Justice Digital to be an attractive and fulfilling workplace for the women they become.\u00a0Have you worked to improve diversity in engineering? I would love to hear your ideas and suggestions on how we can make this a reality. I can be contacted at natalie.wood@digital.justice.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2025/03/26/from-inspiration-to-action-driving-gender-diversity-in-engineering/",
+        "blog": "Justice Digital",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "Before joining the Civil Service, I did science outreach, demonstrating different robots to school children and explaining how we program them. We showed that they too could grow up to do programming and themselves as a career. There were so \u2026"
+    },
+    {
+        "title": "Using species conservation translocations as a tool for nature recovery",
+        "authors": [
+            "Delphine Pouget",
+            "Jeremy Sabel"
+        ],
+        "posted_on": "2025-03-26T09:52:14",
+        "categories": [
+            "Biodiversity",
+            "Natural England",
+            "Nature",
+            "Nature Recovery",
+            "Species re-introductions",
+            "Species recovery",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Delphine Pouget and Jeremy Sabel, Natural England\u2019s Species Recovery & Reintroductions Team",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England recognises that species translocations can be an important tool in nature recovery.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England\u2019s ambition is to promote and enable high quality conservation translocation projects to support restoration of natural processes and nature recovery. This blog is part of a series providing advice on this topic:",
+                "tag": "p"
+            },
+            {
+                "content": "Conservation translocations are the deliberate movement and release of organisms where the primary objective is a measurable conservation benefit.",
+                "tag": "p"
+            },
+            {
+                "content": "Interest in conservation translocations as a tool for nature recovery has grown in recent years:",
+                "tag": "p"
+            },
+            {
+                "content": "Species translocation can revive ecosystems and inspire the public imagination and hope for the future. However, not all translocations are universally supported by all sectors of society. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England\u2019s roles",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England has distinct roles with respect to conservation translocations:",
+                "tag": "p"
+            },
+            {
+                "content": "As a regulator we aim to be fair and objective, providing clear guidance on the information needed, and judging the proposal based on the evidence provided. This applies to all projects, including those led by Natural England. The level of evidence required will vary depending on the nature of the proposal. Proposals that seek to restore ecosystem function at a landscape scale or that involve species where the potential impact of their release is not fully understood, are likely to require significant evidence gathering (biological, social and economic) before proceeding. However, we strive to balance the need for sufficient evidence and the risk of inaction.",
+                "tag": "p"
+            },
+            {
+                "content": "Priorities",
+                "tag": "p"
+            },
+            {
+                "content": "When considering a species recovery project, stakeholders should consider whether the species is a local priority (e.g. by engaging with their Local Nature Recovery Strategy) and whether a conservation translocation is a necessary component.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England may prioritise a conservation translocation where:",
+                "tag": "p"
+            },
+            {
+                "content": "The legality of translocating species",
+                "tag": "h2"
+            },
+            {
+                "content": "Controls on releasing animals do not distinguish between native and non-native species. Section 14 of the Wildlife and Countryside Act 1981 prohibits the release of any animal \u2018of a kind\u2019 that is not either \u2018ordinarily resident\u2019 or a \u2018regular visitor\u2019. It is also an offence to release into the wild any animal or plant listed on Schedule 9. The schedule lists certain species that are ordinarily resident or regular visitors but whose release needs to be controlled, including certain native species (e.g. barn owls).\u00a0 The release of a former native species is therefore controlled because it involves a kind of animal that is no longer ordinarily resident. Guidance to help interpret these terms can be found on GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "To ensure unique sub-species and any other distinctive, locally adapted populations are safeguarded, Natural England considers that organisms of a species sourced from populations outside Britain are of a different \u2018kind\u2019 to those belonging to British populations, unless there is evidence that they are indistinguishable (e.g. from perspectives of genetics, disease risk and behaviour). Releases of such animals will therefore require a licence unless it is agreed by Natural England that a licence is unnecessary.",
+                "tag": "p"
+            },
+            {
+                "content": "Native species",
+                "tag": "p"
+            },
+            {
+                "content": "The term native species is often used to describe species which naturally occur or have naturally occurred in the past, in England. Due to the increasing number of projects seeking to translocate species, we have provided a definition to explain what is and is not native.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England considers that a native species to Great Britain is a species that has:",
+                "tag": "p"
+            },
+            {
+                "content": "For further advice relating to conservation translocations see more on GOV.UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Conservation Translocations",
+                "tag": "p"
+            },
+            {
+                "content": "There are four types of conservation translocation: reintroduction, reinforcement, assisted colonisation and ecological replacement which are explained in our guidance on GOV.UK. In this blog, we share our latest thinking on assisted colonisation and ecological replacement.",
+                "tag": "p"
+            },
+            {
+                "content": "Assisted colonisation",
+                "tag": "h2"
+            },
+            {
+                "content": "Habitat and climate change are the two most important factors driving changes in the broad distribution and abundance of many species. Some species will be able to track the pace of change through shifts in their distribution but many others, due to poor mobility, the fragmented nature of their habitat, or other barriers to dispersal, will not. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Assisted colonisation provides one possible option to support species unable to track the pace of change, by moving them to new locations within, or outside their current natural range, where the climatic or ecological conditions are predicted to become increasingly favourable over time.",
+                "tag": "p"
+            },
+            {
+                "content": "Assisted colonisation represents the more interventionist end of the conservation translocation spectrum and should only be considered if other interventions have been tried or considered and discounted. Decision support tools have been developed to help inform the choice of responses, including where assisted colonisation would be appropriate.",
+                "tag": "p"
+            },
+            {
+                "content": "Ecological replacement ",
+                "tag": "h2"
+            },
+            {
+                "content": "Natural England has not developed criteria for identifying when an ecological replacement may be a suitable option, other than using domesticated pigs, cattle or horses to replicate naturalistic grazing by wild native species. As with any translocation project restoring a lost population, it is important to understand why the species was lost in the past and whether conditions are suitable for the replacement. When you apply for a licence for any ecological replacement project you will need to show that you have considered the following:",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England\u2019s role in promoting and enabling responsible conservation translocation projects",
+                "tag": "p"
+            },
+            {
+                "content": "The English Code helps planning and implementation of responsible projects. Projects should not rush to decide to translocate a species because a conservation translocation is not suitable for the conservation needs of every species. There may be more effective (e.g. lower cost and risk) alternatives, and it is important build support for a translocation among stakeholders and local communities.",
+                "tag": "p"
+            },
+            {
+                "content": "Engagement is a key requirement of the Code, and Natural England welcomes and encourages individuals and organisations with prospective conservation translocation proposals to engage with us and with other stakeholders as early as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "Further information",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to discuss a conservation translocation, please contact Natural England at SpeciesRecoveryReintroduction@naturalengland.org.uk",
+                "tag": "p"
+            },
+            {
+                "content": "The English code is supplemented by practical guidance on licensing and on planning projects as well as case studies to help projects learn from past experience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England recognises the importance of monitoring, the need to be adaptive by learning from past successes and failures and sharing results and outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "The England Species Reintroductions Taskforce intends to develop an online hub and database for practitioners to access information about past and existing conservation translocations.",
+                "tag": "p"
+            },
+            {
+                "content": "Natural England will publish a second volume of case studies in due course. If you have any case studies that you wish to contribute, please get in touch.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2025/03/26/using-species-conservation-translocations-as-a-tool-for-nature-recovery/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Delphine Pouget and Jeremy Sabel, Natural England\u2019s Species Recovery & Reintroductions Team Natural England recognises that species translocations can be an important tool in nature recovery. Natural England\u2019s ambition is to promote and enable high quality conservation translocation projects \u2026"
+    },
+    {
+        "title": "Using Generative AI to help users resolve Trade Barriers",
+        "authors": [
+            "Susie Friedman, Senior Product Manager",
+            "Feroze Rub, Senior Developer"
+        ],
+        "posted_on": "2025-03-26T09:26:03",
+        "categories": [
+            "Products"
+        ],
+        "content": [
+            {
+                "content": "Susie Friedman",
+                "tag": "h3"
+            },
+            {
+                "content": "Feroze Rub",
+                "tag": "h3"
+            },
+            {
+                "content": "This blog post explores how we increased collaboration and knowledge sharing among distributed policy teams through an innovative approach.",
+                "tag": "p"
+            },
+            {
+                "content": "The Department for Business and Trade (DBT) is committed to removing barriers to trading and investing abroad for United Kingdom businesses. When businesses report barriers they face, there is a cross-government effort to resolve the barrier quickly and efficiently. The Digital Market Access Service (DMAS) facilitates the management of trade barriers. We recently introduced a Large Language Model (LLM) feature to improve knowledge sharing across global teams.",
+                "tag": "p"
+            },
+            {
+                "content": "User Research: A team sport",
+                "tag": "h3"
+            },
+            {
+                "content": "We often discuss involving the whole team in user research to improve user empathy. However, ensuring everyone participates in the entire process - from deciding what to learn, attending sessions, and analysing insights - also increases the likelihood of identifying more diverse user problems.",
+                "tag": "p"
+            },
+            {
+                "content": "Several rounds of user research revealed these themes:",
+                "tag": "p"
+            },
+            {
+                "content": "On DMAS, much barrier detail is held in free-text descriptions rather than structured fields. This meant traditional search engines could not effectively mine the 'semantic' meaning of a barrier. One user provided an example of a monthly task. After downloading the dataset of over 3,000 barriers, they would have to run through a complex search of over 50 keywords to find all relevant barriers. ",
+                "tag": "p"
+            },
+            {
+                "content": "An innovative solution",
+                "tag": "h3"
+            },
+            {
+                "content": "Improving search and data quality are common goals for case management systems, but our developers saw a different solution. We could turn the barrier into a large summary incorporating both free text and structured data, then compare it on a multi-dimensional level.",
+                "tag": "p"
+            },
+            {
+                "content": "From lean prototype to 'truly revolutionary' deployment",
+                "tag": "h3"
+            },
+            {
+                "content": "DBT has quarterly 'firebreaks' where employees can work on a problem outside their day job for a week to drive good outcomes for the department. Our team built a testable prototype using a sentence transformer model to encode our content onto a neural network. This generated similarity scores for the thousands of barriers the department is working on.",
+                "tag": "p"
+            },
+            {
+                "content": "With a testable prototype, Adela Iliescu, a DBT Data Scientist, advised on the accuracy and efficiency of different foundational models, further refining the feature ahead of approval processes.",
+                "tag": "p"
+            },
+            {
+                "content": "Once approved for 'real data' use, we granted super-users\u2019 early access to the new \u2018Related Barriers\u2019 feature, fine-tuning the similarity parameters based on their expertise.",
+                "tag": "p"
+            },
+            {
+                "content": "Early adopters provided incredibly positive feedback. They described \"seeing some barriers [they] would never have found otherwise\" and \"reaching out to [another] team to learn more [about a similar barrier] because I think we can resolve it together.\"",
+                "tag": "p"
+            },
+            {
+                "content": "Demystifying AI",
+                "tag": "h3"
+            },
+            {
+                "content": "The Alan Turing Institute paper which underscores DBT's approach to Artificial Intelligence (AI) requires that any AI be explainable to users who interact with it. Discovery and usability testing taught us that users assumed the 'similarity score' would be generated based on finding similar words like \"Whiskey\" and \"Whisky\" in the title and description. (This is closer to a 'bag of words' approach).",
+                "tag": "p"
+            },
+            {
+                "content": "The algorithm does not read text the same way people do. Instead, it ingests the title and description, understands the context, and generates a 'new' object which it compares to create a score. We tested a couple of explanations with users, settling on :",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018To calculate how related the barriers are, we use a neural-network-based algorithm which understands the context of the title and summary and compares it to other barriers.",
+                "tag": "p"
+            },
+            {
+                "content": "It does this by comparing the entire text at once for similarities, rather than picking out the context of each individual word. So, the algorithm focuses more on the pattern or shape of the content.",
+                "tag": "p"
+            },
+            {
+                "content": "A good way to think of this is how you might compare different types of shapes. For example, the model might understand one barrier as a yellow labrador. Potential duplicate barriers might look like a black labrador or a golden retriever. Whereas barriers which are poor matches might look like a Staffordshire terrier\u00a0. While they are all dogs, labradors and retrievers are much more similar than a Staffordshire terrier, and the technology can understand this nuance.'",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps",
+                "tag": "h3"
+            },
+            {
+                "content": "Related Barriers has been live since January 2025 making it part of the growing number of AI proof of concepts making it into production. A growing number of internal users have been interacting with it and finding relevant barriers on the service.",
+                "tag": "p"
+            },
+            {
+                "content": "The DMAS team is continuing to explore AI solutions for user and business problems. We are currently running experiments to understand if Generative AI can produce high-quality titles and summaries for businesses to see. We are also exploring whether Generative AI can summarise company interactions across DBT products.\u00a0 This could assist teams by providing greater context and identifying opportunities for resolved barriers. ",
+                "tag": "p"
+            },
+            {
+                "content": "Broadly, DBT is currently building the infrastructure to self-host Large Language Models. It will allow product teams and data professionals to safely use AI to solve user needs with sensitive data. Our AI governance is being evolved to encourage innovation and experimentation while enabling secure and ethical use.",
+                "tag": "p"
+            },
+            {
+                "content": "Read more about\u00a0how our governance framework is enabling the responsible use of AI\u00a0here.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://digitaltrade.blog.gov.uk/2025/03/26/using-generative-ai-to-help-users-resolve-trade-barriers/",
+        "blog": "Digital trade",
+        "blog_link": "https://digitaltrade.blog.gov.uk",
+        "description": "How DBT used a Large Language Model to increase knowledge sharing and improve its Market Access Service"
+    },
+    {
+        "title": "The UK Forestry Standard: a guide to sustainable forestry and responsible timber harvesting",
+        "authors": [
+            "Chris Watson"
+        ],
+        "posted_on": "2025-03-26T08:00:00",
+        "categories": [
+            "Woodland creation",
+            "Woodland management"
+        ],
+        "content": [
+            {
+                "content": "Trees play a vital role in addressing climate change, supporting biodiversity and sustaining our way of life. Recreation, biodiversity and good quality habitats are often a byproduct of woodlands originally created to provide timber \u2013 a vital and renewable resource in our daily lives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sustainable forestry is an approach that ensures forests are managed responsibly to support society\u2019s need for timber and the environment without compromising the needs of future generations.",
+                "tag": "p"
+            },
+            {
+                "content": "Why sustainable forestry?",
+                "tag": "h2"
+            },
+            {
+                "content": "In the face of climate change, our forests need to remain healthy and resilient to continue to produce timber and deliver valuable benefits to nature and society. Sustainable forestry promotes resilience by improving woodland diversity, its ability to adapt and the overall condition of our woods and forests.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Managing woodland sustainably for timber production, secures a reliable supply of home-grown wood that helps meet our growing demand for timber and relieves pressure on forests worldwide. ",
+                "tag": "p"
+            },
+            {
+                "content": "What is the UK Forestry Standard?",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK Forestry Standard (UKFS) sets the benchmark for sustainable forestry and sits alongside forestry policies, regulations and legislation. It sets out clear principles for sustainable forest management and timber harvesting that cover aspects such as biodiversity, soil health, water protection, landscape conservation and climate resilience.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Compliance with the UKFS is a requirement of government grants and permissions for forestry operations (such as woodland creation, felling and replanting proposals).\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through sustainable practices, forest managers can balance the production of timber with the protection of biodiversity, landscapes and local communities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What does responsible timber harvesting look like?",
+                "tag": "h2"
+            },
+            {
+                "content": "Harvesting provides the opportunity for the landowner to generate income through the sale of timber; many woodlands were originally planted for this purpose. However, sustainable harvesting is also a key tool in the management of resilient, biodiverse woodlands providing the opportunity to increase the structural and species diversity of a woodland.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Different silvicultural practices are used to grow and harvest trees depending on site type, species choice and the objectives of the forester. Techniques such as continuous cover forestry, which is gaining popularity, maintains a permanent canopy while allowing for selective harvesting. It can help increase resilience to climate change by providing shade and shelter to the next generation of trees, either planted or germinated from seeds from nearby trees. Selective systems provide a more stable habitat overall, which suits a wide range of woodland species, though not all.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Other techniques such as managing even age stands of trees on a clearfell system (the removal of all or most trees in an identified area in one operation) can be a productive and cost-effective way of producing good quality logs for sawmills to process. Clearfell benefits bird species including nightjar and woodlark that like open and woodland edge habitats. This management practice is a requirement of some designated \u2018special protection areas\u2019 aimed at protecting these species.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "1. Minimising environmental impact",
+                "tag": "h3"
+            },
+            {
+                "content": "When undertaking any forest operations, such as timber harvesting, environmental impact needs to be carefully considered, and any negative effects minimised. Proposals for felling and thinning will need to be approved by the Forestry Commission and within these proposals there will typically be a requirement for restocking and regenerating your woodland after harvesting. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The UKFS emphasises practices such as selective harvesting (the selective removal of trees in a forest), using regulated rotation cycles (the length of time between planting and harvesting) and stipulates clearfelling limits. This helps reduce habitat disruption and maintains the integrity of forest ecosystems.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "2. Planning operations carefully",
+                "tag": "h3"
+            },
+            {
+                "content": "Forest operations must be carefully planned to ensure safe and effective working on site, whilst protecting the forest environment. The UKFS provides comprehensive guidance to help develop operational plans, which cover critical considerations like access and timber stacking.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For instance, forest tracks and designated stacking areas must be strategically located to minimise environmental disturbances, and felling and extraction routes should limit crossings over streams and drains. Well-planned and maintained extraction routes and stacking areas increase productivity, reduce costs and improve safety for machinery operators and timber hauliers.",
+                "tag": "p"
+            },
+            {
+                "content": "3. Safeguarding vulnerable areas",
+                "tag": "h3"
+            },
+            {
+                "content": "Safeguarding sensitive site areas, such as fragile soils and habitats, is equally essential. To protect ecosystems, harvesting is carefully timed and low impact techniques are promoted to conserve soil health, reduce compaction and prevent erosion. Forest managers are encouraged to avoid harvesting during the bird nesting season and avoid practices that degrade soils and historic features such as woodbanks; such as the use of heavy machinery when ground conditions are wet. This often means being mindful of when to harvest timber and maintaining buffer zones.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Biosecurity protocols include cleaning equipment and controlling the movement of materials from contaminated to clean sites, to further protect forests from invasive species, pests and diseases.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "4. Investing in future forests",
+                "tag": "h3"
+            },
+            {
+                "content": "The UKFS prioritises restocking to ensure sustainability and to maintain forest cover, encouraging harvested trees to be replaced through natural regeneration (where trees seed within the woodland habitat itself) or planting suitable species. Reducing the impacts of mammal damage is an essential element of sustainable forest management, especially where natural regeneration is taking place.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The UKFS limits single species planting to 65%, steering forestry away from monoculture plantations, which can be more vulnerable to pests and diseases, and support less biodiversity. Instead, it encourages mixed woodlands of compatible species that are better equipped to handle environmental challenges and support nature.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To improve climate resilience, the use of pest-resistant species and those suited to predicted future climates is essential.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mapping tools such as the Ecological Site Classification system developed by Forest Research to help identify suitable species for specific sites, while resources like Forestry England\u2019s video on sustainable harvesting provide practical insights into these practices. These combined efforts ensure the UK\u2019s forests are diverse, resilient and well-prepared to thrive despite future challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "The benefits of the UK Forestry Standard",
+                "tag": "h2"
+            },
+            {
+                "content": "The UKFS serves as a vital resource for forest managers, offering practical advice and standards to ensure sustainable practices are implemented effectively. By following this guidance, forest operations can not only meet legal and environmental requirements but also contribute to the long-term health and resilience of the UK\u2019s forests.",
+                "tag": "p"
+            },
+            {
+                "content": "Sustainable forestry provides wider environmental, economic and social benefits. These include:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Economic benefits",
+                "tag": "h3"
+            },
+            {
+                "content": "Environmental benefits",
+                "tag": "h3"
+            },
+            {
+                "content": "Social benefits",
+                "tag": "h3"
+            },
+            {
+                "content": "The UK Forestry Standard plays a crucial role in shaping a sustainable future for our forests, balancing timber production with other community (or societal) needs, as well as the needs of wildlife and the wider environment. By following this guidance, landowners and forestry professionals can contribute to the health of our woodlands, support rural economies and help address climate change.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Sustainable forestry is not only vital for the future of our forests, but also vital for the future generations that depend on them. By investing in responsible forest management today, we ensure a thriving, resilient landscape for tomorrow.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2025/03/26/the-uk-forestry-standard-a-guide-to-sustainable-forestry-and-responsible-timber-harvesting/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "Chris Watson is the Forestry Commission's Woodland Resilience Advisor. Here he outlines the principles and wider environmental, economic and social benefits of sustainable forest management and timber harvesting through the UK Forestry Standard."
+    },
+    {
         "title": "NHSE National Secure Data Environment (Get Access to Data)\u00a0Alpha Reassessment",
         "authors": [
             "manyeelam"
