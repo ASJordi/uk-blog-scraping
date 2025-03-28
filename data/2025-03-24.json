@@ -1,5 +1,497 @@
 [
     {
+        "title": "GDS\u2019s user research on AI in government",
+        "authors": [
+            "Louise Petre - Head of User Research, GDS",
+            "Johanna Kollmann - Senior User Researcher for AI Capabilities, GDS",
+            "Tommaso Spinelli, Senior Artificial Intelligence Change Manager, GDS"
+        ],
+        "posted_on": "2025-03-27T15:21:09",
+        "categories": [
+            "AI",
+            "Digital transformation",
+            "Government Digital and Data"
+        ],
+        "content": [
+            {
+                "content": "Earlier this year, the AI Opportunities Action Plan was published, outlining that effective AI adoption across the UK will boost economic growth, provide jobs for the future and improve people's everyday lives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To help ramp up AI adoption within government and the wider public sector, we\u2019ve done some user research to understand what colleagues need to use AI safely, confidently and effectively. We explored their current behaviour, attitudes, fears and activities.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We used what we\u2019ve learnt from this user research to inform the Generative AI Framework, the new AI Playbook for the UK Government, new learning resources on AI, as well as to understand if there are skills and roles missing from the Capability Framework that we need to add to support the use of AI.",
+                "tag": "p"
+            },
+            {
+                "content": "What we did",
+                "tag": "h3"
+            },
+            {
+                "content": "We ran two surveys and several rounds of interviews, across the public sector, over a six month period between 2023 and 2024. These involved over 150 participants from more than 20 government departments. Running the survey twice helped us to understand how things were changing.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To get a deeper understanding we interviewed colleagues in a variety of roles and departments including people already working on or leading AI and machine learning projects.",
+                "tag": "p"
+            },
+            {
+                "content": "When developing our findings we brought together our research data with industry analysis and conversations with subject matter experts from different parts of government.",
+                "tag": "p"
+            },
+            {
+                "content": "What we learned",
+                "tag": "h3"
+            },
+            {
+                "content": "People want to understand what AI is, what it can and cannot achieve, how it can be applied in government and how they can gain the skills and knowledge necessary to use AI safely, managing the associated risks.",
+                "tag": "p"
+            },
+            {
+                "content": "People have misconceptions of what AI is and what it might achieve",
+                "tag": "h4"
+            },
+            {
+                "content": "Understanding of AI technology in government is evolving. Over the six month period dividing our user research studies, the civil servants\u2019 awareness of AI has increased and people have become more familiar with tools like chatbots. However, the way they conceptualise AI has been shaped by the prominence of generative AI tools, with some participants associating AI primarily with generative AI.",
+                "tag": "p"
+            },
+            {
+                "content": "The misconception that AI means large language models and chatbots can make managing stakeholders\u2019 expectations complicated. Generative AI tools are not the solution to every problem and present issues of accuracy, potential bias, and, in some cases, sustainability. It is important that people implementing AI services demystify AI for their stakeholders, making sure that they understand the potential and limitations of different AI technologies when considering if AI is the right tool for the job.",
+                "tag": "p"
+            },
+            {
+                "content": "A partial understanding of AI can lead someone to think that AI can be successfully applied to most use cases, or, conversely, to worry about risks and block usage of AI tools. Both these attitudes may impact civil servants who want the opportunity to experiment and learn what AI can do for them safely, with guardrails in place.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "While AI is not new, there\u2019s still work to be done to help people get a realistic understanding of AI, its capabilities, applications and limitations. User research suggests that, in addition to training and guidance, sometimes a single example or case study can help demystify AI and change people\u2019s attitude. During interviews several people mentioned a specific presentation, conversation, or case study that got them excited about AI and prompted them to learn more.",
+                "tag": "p"
+            },
+            {
+                "content": "The emergence of AI provides government with an opportunity to rethink its approach to governing services",
+                "tag": "h4"
+            },
+            {
+                "content": "Survey respondents showed a good understanding of potential risks of AI. Their concerns broadly mirrored conversations about AI outside of government. Respondents were keen to understand how they should deal with things like privacy, bias, ethics, concerns around plagiarism, security, and potential for misuse.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Civil servants are aware that there are additional complications and responsibilities when using AI in government, due to the nature of the data used and the reach and impact of government services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Departments are implementing guidelines and the Government Digital Service (GDS) regularly reviews guidance on AI. However, teams who work on live AI services acknowledge that they need to regularly be kept informed on new guidance and good practice to build, test and monitor AI solutions. Currently, to make sure that AI services operate as expected, teams rely on existing frameworks and governance processes for assessing and monitoring data products.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across government, we are still learning what the impact of AI models is for service governance processes. With many teams exploring ways to validate, monitor and measure AI services, there's an opportunity to combine cross-government lessons learned into guidance that would be useful for anyone working in AI.",
+                "tag": "p"
+            },
+            {
+                "content": "How might we enable more public servants to make the most of AI\u00a0\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "AI changes the way we interact with technology, and the way we build digital products. This change can be scary: it might change how frontline staff deliver their services, what digital and data roles do or how they collaborate.",
+                "tag": "p"
+            },
+            {
+                "content": "A big part of change management is providing relevant, real examples, and opportunities to experiment with AI:",
+                "tag": "p"
+            },
+            {
+                "content": "In our research we uncovered a need for relevant examples and opportunities to share knowledge. Evolving capability, changes in attitude and more mature AI services are making this possible. Showcasing government use cases can help build awareness and inform good practice.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Participants also expressed a need to connect with others who are doing innovative work with AI to be inspired, avoid duplicating work and learn from each other. Networks such as the Artificial intelligence community of practice play a key role in this process, offering opportunities to share knowledge and make connections.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s next",
+                "tag": "h3"
+            },
+            {
+                "content": "There\u2019s work going on to address what we\u2019ve learnt in our user research.",
+                "tag": "p"
+            },
+            {
+                "content": "GDS has just published the AI Playbook for UK Government. The Playbook offers an introduction to AI technologies for government, an exploration of their capabilities and limitations, and guidance on how to buy, implement and use AI safely and responsibly. This also includes sections on governance, quality assurance of AI products and how to build AI teams. This Playbook will be regularly reviewed and updated.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are interested in gaining AI skills, you can also take free e-learning courses on Civil Service Learning and access off-the-shelf training on Government Campus via the learning frameworks. These courses range from short introductions to AI topics to detailed online courses on technical aspects of AI technologies and products.",
+                "tag": "p"
+            },
+            {
+                "content": "To understand how other departments are using AI and connect with the relevant teams, you can attend the monthly events organised by the AI Community of Practice. Moreover, you can review the projects presented in the Algorithmic Transparency Recording Standards (ATRS), which lists all the algorithmic tools deployed in decision making processes by public sector bodies.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://cddo.blog.gov.uk/2025/03/27/gdss-user-research-on-ai-in-government/",
+        "blog": "Government Digital and Data",
+        "blog_link": "https://cddo.blog.gov.uk",
+        "description": "Our user research into AI and generative AI across the public sector has helped us understand how colleagues view and interact with these technologies, including their aspirations, concerns and current usage patterns"
+    },
+    {
+        "title": "How merging creative design and futures at Defra led to collaborative strategic insights",
+        "authors": [
+            "mikeaskew"
+        ],
+        "posted_on": "2025-03-27T14:52:49",
+        "categories": [
+            "Trend Series"
+        ],
+        "content": [
+            {
+                "content": "By Emma Mutch, Defra",
+                "tag": "p"
+            },
+            {
+                "content": "Introduction",
+                "tag": "p"
+            },
+            {
+                "content": "Defra, in collaboration with Andthen, shares insights into how it developed a new horizon scanning capability and emerging trends and global megatrends outputs. Unique approaches and methods were used in this work, notably a highly diverse horizon scanning practice, the use of \u2018future artefacts\u2019 to bring emerging trends to life and developing a methodology for determining the origin points of global megatrends.",
+                "tag": "p"
+            },
+            {
+                "content": "Context",
+                "tag": "p"
+            },
+            {
+                "content": "Defra wanted to build their evidence base on weak signals of change, emerging trends, and global mega trends. This could then be used to provide actionable insights on emerging opportunities and risks to inform decision-making at both executive and programme levels. Another aim was to raise awareness and literacy around strategic futures work, embed long-term thinking into policy and strategy and enhance practices in horizon scanning and trend development.",
+                "tag": "p"
+            },
+            {
+                "content": "Defra procured Andthen\u2019s services via the GO-Science Futures Procurement Framework to deliver the following:",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond these products, the focus was on building a system for futures thinking that could evolve beyond Andthen\u2019s involvement and be sustained by Defra. The products needed to be memorable, engaging and policy-relevant.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Horizon scans",
+                "tag": "p"
+            },
+            {
+                "content": "The horizon scans were built from weak signals, identified by a diverse team of scanners covering various regions globally. Weak signals were captured daily, and each fortnight, six of the most novel signals were selected and developed into formal Horizon Scans with brief analysis.",
+                "tag": "p"
+            },
+            {
+                "content": "While scanning is a well-established futures method, this project intentionally aimed to significantly broaden the scope of its sources. Andthen brought together a team of scanners across three global regions and engaged additional scanners for focussed periods to source materials from places where information was more challenging to extract. The team also intentionally targeted fringe areas looking at subcultures, as well as the worlds of art and design to help source a diverse set of data.",
+                "tag": "p"
+            },
+            {
+                "content": "To make the insight effective and useable for Defra, scans were tagged with a key use case to help Defra colleagues quickly identify whether a scan was for information only, whether it spoke to an opportunity or risk, or whether it might give insight into an area for research prioritisation.",
+                "tag": "p"
+            },
+            {
+                "content": "Emerging Trends",
+                "tag": "p"
+            },
+            {
+                "content": "As the horizon scans were created, they were clustered and tagged with recurring topics on an ongoing basis. This created the foundation for the generation of a set of \u2018trends\u2019 every six months. These trends would be longlisted, researched further, and then shortlisted before a final set of six would be selected based on their relevance to Defra\u2019s priority outcomes and key active policy areas. These six trends were then developed into a six-monthly emerging trends publication.",
+                "tag": "p"
+            },
+            {
+                "content": "A crucial innovation was the use of futures artefacts \u2014objects, behaviours, or situations which made the (sometimes abstract) trends more tangible. Rather than simply describing the emerging trends through analysis and weak signals, these artefacts allowed people to visualise representations of what the future might hold, and reflect on how these trends might appear in their everyday experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "This was achieved through creatively extrapolating each emerging trend into future scenarios. The team identified opportunities and moments in these scenarios for future artefacts, and then often chose to visualise moments which might help a viewer consider key questions around the trend. This encouraged more active discussion about what these changes could mean for Defra\u2019s work.",
+                "tag": "p"
+            },
+            {
+                "content": "Global Megatrends",
+                "tag": "p"
+            },
+            {
+                "content": "The global megatrends (external version will be found on Science Search from mid-April 25) focussed on much larger drivers of change, orders of magnitudes larger than the emerging trends. These global megatrends were identified using a literature review (including Defra\u2019s past research into global megatrends) and then were refined through a series of 12 challenge sessions with 44 international subject matter experts. The emerging trends were mapped against each global megatrend, indicating whether they were likely to support (i.e. speed up) or oppose (i.e. slow down) the respective megatrends.",
+                "tag": "p"
+            },
+            {
+                "content": "Rather than simply mapping out where trends are heading, the team developed a new methodology to determine the \u2018origin points\u2019 of each. Using a tight definition of \u2018global megatrend\u2019 was key to this, as we were able to argue that the point of \u2018origin\u2019 for each megatrend was the point from which a sustained change over time was visible in at least two continents, across at least two sectors or systems. Through using this origin point methodology, we were surprised to find that many of the global megatrends weren\u2019t just measured in decades (as we expected), but in centuries or even millennia.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are a civil servant and want to know more about Defra\u2019s horizon scans, emerging trends and global megatrends, please reach out to futures.defra@defra.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://foresightprojects.blog.gov.uk/2025/03/27/how-merging-creative-design-and-futures-at-defra-led-to-collaborative-strategic-insights/",
+        "blog": "Futures, Foresight and Horizon Scanning",
+        "blog_link": "https://foresightprojects.blog.gov.uk",
+        "description": "By Emma Mutch, Defra Introduction Defra, in collaboration with Andthen, shares insights into how it developed a new horizon scanning capability and emerging trends and global megatrends outputs. Unique approaches and methods were used in this work, notably a highly \u2026"
+    },
+    {
+        "title": "The vital role of Quality Assurance in pensions calculations",
+        "authors": [
+            "Jemma Byrne - Senior Pensions Consultant"
+        ],
+        "posted_on": "2025-03-27T14:11:42",
+        "categories": [
+            "Analysis",
+            "Pensions",
+            "Pensions administration"
+        ],
+        "content": [
+            {
+                "content": " A pensions administration professional\u2019s perspective",
+                "tag": "h2"
+            },
+            {
+                "content": "In pensions administration, precision is paramount; errors can have a significant impact on someone\u2019s post-retirement life. In the battle to mitigate and reduce errors, the role of quality assurance (QA) cannot be overstated. ",
+                "tag": "p"
+            },
+            {
+                "content": "As a senior pensions administrator who has worked for several of the leading administration providers, I have experienced firsthand the positive impact that QA has.",
+                "tag": "p"
+            },
+            {
+                "content": "Mistakes can happen in anything that we do; they are an inevitable part of life. In the pensions world, they can arise through errors in numbers or in the way that we present and communicate information. They can be genuine errors or misinterpretations of data and information held on our administration systems. Some, due to poor or incomplete data, may be outside of the administrators\u2019 control while others arise from individual or systemic issues within pension systems and processes.",
+                "tag": "p"
+            },
+            {
+                "content": "Scheme administrators strive to get things right first time and work hard with their members and stakeholders to put things right when they go wrong. In the vast majority of cases, administrators provide good, clear and accurate information to their members. Very little is ever said about the considerable number of transactions and interactions that members have with their pension providers every day where things go right.",
+                "tag": "p"
+            },
+            {
+                "content": "However, when an error arises, for whatever reason, dealing with the fallout and rectifying the error can take effort, resources and time that administrators could spend focusing on other things. Reviewing quality control processes and mechanisms regularly can reduce risk and help to minimise errors recurring in the future.",
+                "tag": "p"
+            },
+            {
+                "content": "What is quality assurance?",
+                "tag": "h2"
+            },
+            {
+                "content": "QA is a systematic process of verifying and validating the accuracy and reliability of calculations, administrative processes and the member communications that go with them. ",
+                "tag": "p"
+            },
+            {
+                "content": "It acts as a safeguard, ensuring that calculations, communications and scheme processes are precise, compliant, and transparent, promoting trust amongst members, trustees and wider stakeholders alike. ",
+                "tag": "p"
+            },
+            {
+                "content": "QA encompasses a range of activities. This can range from reviewing individual calculations before issue (including the end-to-end calculation process from the receipt of data to the member communication) to auditing entire systems and processes on a regular basis.",
+                "tag": "p"
+            },
+            {
+                "content": "The ultimate goal is to identify and rectify errors before they reach scheme members.",
+                "tag": "p"
+            },
+            {
+                "content": "What are some of the benefits of undertaking quality assurance activities?",
+                "tag": "h2"
+            },
+            {
+                "content": "How can schemes implement effective quality assurance?",
+                "tag": "h2"
+            },
+            {
+                "content": "Implementing effective QA involves establishing systematic processes to ensure that all aspects of the scheme meet predefined quality standards.",
+                "tag": "p"
+            },
+            {
+                "content": "Some key strategies that schemes can follow to implement are:",
+                "tag": "p"
+            },
+            {
+                "content": "Conclusion",
+                "tag": "h2"
+            },
+            {
+                "content": "Quality assurance is not about ticking boxes; it is about safeguarding the future of scheme members and ensuring the integrity of the pension scheme. As we continue to navigate an ever-evolving regulatory landscape, the role of QA becomes more critical. ",
+                "tag": "p"
+            },
+            {
+                "content": "Pensions professionals are committed to ensuring that members receive the right benefits at the right time, first time, every time. By championing and prioritising QA within our individual schemes we can continue to build robust, trustworthy, and efficient pension systems that stand the test of time and foster a culture of excellence across our industry.",
+                "tag": "p"
+            },
+            {
+                "content": "Disclaimer",
+                "tag": "h3"
+            },
+            {
+                "content": "The views expressed are the author\u2019s own and the opinions in this blog post are not intended to provide specific advice. For our full disclaimer, please see the About this blog page.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://actuaries.blog.gov.uk/2025/03/27/the-vital-role-of-quality-assurance-in-pensions-calculations/",
+        "blog": "Actuaries in government",
+        "blog_link": "https://actuaries.blog.gov.uk",
+        "description": "Robust quality assurance (QA) processes are a crucial tool for administrators to help mitigate calculation and administrative error. This blog explores what QA is, the benefits to schemes in undertaking QA activity and some strategies schemes could implement to improve QA in their schemes. "
+    },
+    {
+        "title": "Uncorking innovation\u00a0",
+        "authors": [
+            "Sara Jones",
+            "Meg Davies"
+        ],
+        "posted_on": "2025-03-27T10:00:00",
+        "categories": [
+            "Patents"
+        ],
+        "content": [
+            {
+                "content": "As the nights get lighter and the weather gets a little warmer, perhaps your mind is starting to turn towards summer evenings spent outside enjoying a glass of white, red or ros\u00e9. Wine, like everything else, has plenty of hidden intellectual property (IP). From its branding, protected by trade marks, to ornate labels registered as designs, IP flows with each pour. My colleague Sara recently explored the origins of the corkscrew, the key that opens your favourite bottle, so today, we're diving into a key part of its IP and how it changed the game. It turns out that just like a good bottle, this invention has increased in value throughout time\u2026\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The man behind the bottle\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Believe it or not, the person wine enthusiasts have to thank for being able to open a bottle of their favourite tipple with ease this summer, is a member of the English clergy. Cheshire-born Reverend, Samuel Henshall, was granted the first patent for the corkscrew in 1795, and his patent, No. 2061 issued on 24 August 1795, represented a significant innovation in wine access technology.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Henshall's design wasn't the first corkscrew ever created - earlier versions had existed since the mid-17th century when cork became the standard bottle stopper, but his was the first to receive formal intellectual property protection. This was thanks to his clever addition of a disk that prevented the worm (spiral section) from going too far into the cork. This became known as the Henshall button, and the seemingly small invention made the device patentable, paving the way for the future of innovation in corkscrews.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From Georgian gamble to modern patent opportunity\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The patent system of the late 18th century differed significantly from today's IP landscape. The application process was less rigorous and considerably more expensive in relation to average incomes, and protection lasted for 14 years rather than the 20 that modern innovators receive. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This meant that for Henshall, securing a patent represented a substantial financial investment with uncertain returns, and for the Reverend, the patent for his corkscrew didn't lead to fortune. He dealt with financial debt throughout his life, and it's reported that upon his death in 1807, he was buried with the remaining stock of his corkscrews - a poignant symbol of an invention that, while revolutionary, failed to provide its creator with the financial rewards of his IP.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Although his patent may not have brought personal wealth, it certainly\u202faged well\u202fover the centuries. To this day, the Henshall corkscrew remains a rare and valuable culinary device, and it has helped to shape the future of wine innovation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The twists and turns of modern innovation\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Henshall's pioneering patent sparked a revolution in wine access technology that continues to this day. The simple button mechanism he introduced became the foundation for countless future innovations, including the double-helix \"waiter's friend\" corkscrew, patented in 1883 by Carl Wienke (US283731) \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In the modern day, wine opening technology showcases remarkable diversity, with designs ranging from electric models that remove corks at the touch of a button, to air-pressure systems that inject gas into bottles. One modern wine opening technology even allows users to pour wine from a sealed bottle without even popping the cork. The Coravin system, protected by a plethora of patents, including EP2844606, allows wine to be extracted without removing the cork at all - an innovation that may have seemed like pure magic to Henshall.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why IP protection matters \u2013 raising a glass to patents\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Next time you pop open a bottle of wine, spare a thought for Reverend Henshall. While his patent may not have brought him personal fortune, his IP has enriched wine culture worldwide for over two centuries, and his innovation demonstrates the profound impact that protected ideas can have across generations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Whether you're working on the next revolutionary corkscrew or an innovation in an entirely different field, protecting your IP is the first step toward ensuring your idea makes its mark on history.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So, raise a glass to the corkscrew and the power of patents \u2013 and consider how protecting your own innovations might change the future! You can read more about applying for a patent in our guidance Apply for a patent: File your initial application - GOV.UK\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ipo.blog.gov.uk/2025/03/27/uncorking-innovation/",
+        "blog": "Intellectual Property Office blog",
+        "blog_link": "https://ipo.blog.gov.uk",
+        "description": "Wine, like everything else, has plenty of hidden intellectual property (IP). Today, we're diving into a key part of its IP and how it changed the game. It turns out that just like a good bottle, this invention has increased in value throughout time\u2026\u00a0"
+    },
+    {
+        "title": "What are the 2024 Storm Overflow EDM Annual Returns?",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2025-03-27T09:30:47",
+        "categories": [
+            "Cleaner Seas",
+            "EDM",
+            "Environment Agency",
+            "Rivers",
+            "storm overflows",
+            "Water"
+        ],
+        "content": [
+            {
+                "content": "Today, we published water company Event Duration Monitoring (EDM) Annual Return data for 2024, which can also be viewed on a map via the Storm Overflow portal, showing the frequency and duration of spills from storm overflows in England.\u00a0EDM tracks the number of times a storm overflow is used (spill count) and for how long (spill duration).",
+                "tag": "p"
+            },
+            {
+                "content": "The data for 2024\u00a0shows:",
+                "tag": "p"
+            },
+            {
+                "content": "The data also shows that in 2024:\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s clear from this data is that storm overflow spill counts and duration remain at unacceptably high levels again in this year\u2019s EDM Annual Returns. This is a result of longstanding underinvestment and poor asset maintenance, but this year marks the start of positive long-term changes.",
+                "tag": "p"
+            },
+            {
+                "content": "Why do water companies have storm overflows?",
+                "tag": "p"
+            },
+            {
+                "content": "Without storm overflows, sewage and rainwater could back up into our homes through sinks, baths, showers and toilets.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s the Environment Agency\u2019s role?",
+                "tag": "p"
+            },
+            {
+                "content": "We put permits in place for storm overflow operation to ensure they are only used when they should be \u2013 during times of rainfall and snowmelt. If storm overflows operate when they shouldn\u2019t, they can affect the water quality in our rivers and coasts. EDM data helps to inform our inspections \u2013 we use it to identify which overflows have unusually high spill counts or durations to inform where to investigate.\u00a0\u00a0 When we find that water companies have broken the law, we take a wide range of actions \u2013 including prosecutions for the most serious offences.",
+                "tag": "p"
+            },
+            {
+                "content": "Our role is to take action which brings about the best outcome for the environment, and make sure those who pollute pay \u2013 depending on the severity and circumstances of a spill this can range from warnings to criminal prosecutions. For example, last year Severn Trent Water were fined \u00a32million for raw sewage discharges; and Yorkshire Water paid \u00a31million to two environmental and wildlife charities following an investigation by the Environment Agency.",
+                "tag": "p"
+            },
+            {
+                "content": "Crucially, we also always provide our expert advice and guidance to water companies on the issue to hold them accountable for their actions and to drive improvements. Take, for example, at a wastewater pumping station in Hampshire. Using EDM data, our officers could see that it was discharging an unusually high number of times. During their inspection of the station, they found that the site was breaching its permit and identified lots of other risks which could affect the storm overflow use.\u00a0Southern Water is now addressing the concerns and non-compliances during our inspection to reduce the impact on the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "What is EDM data used for?",
+                "tag": "p"
+            },
+            {
+                "content": "Through our requirement on water companies to install event duration monitors on storm overflows, there is more monitoring in place than ever before, more than any other country in the world \u2013 which means that we are uncovering more spills than ever. Undoubtedly, the results from this year\u2019s returns show that the current situation is far from where we want it to be; but what this data gives us is greater transparency, enabling greater scrutiny about the scale of the issue. It\u2019s the evidence we need to drive tougher actions and underpin future planning, which will ultimately see spill counts reduce and support wider economic growth.",
+                "tag": "p"
+            },
+            {
+                "content": "The water industry is at the starting point to move towards real, positive change. However, while the trajectory for improvement related to planned investment will be long-term, we expect water companies to work hard to ensure the assets they have now are maintained and operated properly. Looking to the future, landmark changes this year include:",
+                "tag": "p"
+            },
+            {
+                "content": "So, what does this all mean? From this year, water companies must ensure that they are prepared for changes which affect the pressure and demand on their sewage systems.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In order to do this, and make other environmental improvements, we have secured a record level of water company investment for storm overflow improvements.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the EA, we\u2019re tightening the rules around storm overflows so water companies must investigate poor performing overflows sooner. We will soon have increased legal powers which means we can take tougher actions against water companies which break the law.",
+                "tag": "p"
+            },
+            {
+                "content": "Reducing the use of storm overflows is vital to achieving cleaner, healthier waterways for both people and the environment. This is a long-term process, and we won\u2019t see effects from these improvement changes overnight; but we\u2019ve got the investment, mechanisms and legal powers in place to move closer towards a considerably better future.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2025/03/27/what-are-the-2024-edm-annual-returns/",
+        "blog": "Creating a better place",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Today, we published water company Event Duration Monitoring (EDM) Annual Return data for 2024, which can also be viewed on a map via the Storm Overflow portal, showing the frequency and duration of spills from storm overflows in England.\u00a0EDM tracks \u2026"
+    },
+    {
         "title": "Exploring AI in Healthcare: Insights from the AI Airlock Pilot",
         "authors": [
             "Jincy Robin"
