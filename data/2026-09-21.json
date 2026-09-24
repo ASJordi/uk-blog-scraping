@@ -1,5 +1,773 @@
 [
     {
+        "title": "Building cyber resilience in the UK one step at a time: a spotlight on a Defence Cyber Certification Certifying Body\u00a0",
+        "authors": [
+            "Defence Cyber Certification (DCC)"
+        ],
+        "posted_on": "2026-09-24T09:00:00",
+        "categories": [
+            "Cyber",
+            "Cyber Defence"
+        ],
+        "content": [
+            {
+                "content": "The Ministry of Defence have asked all industry partners to achieve Level 0 of the Defence Cyber Certification (DCC) by 31st December 2026, which includes a requirement for obtaining Cyber Essentials for all applicable business-critical systems within scope.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The cyber landscape is rapidly changing, and supply chain security has never been more important. The recently announced Cyber Resilience Pledge and the forthcoming National Cyber Action Plan (NCAP) and Cyber Security and Resilience Bill (CSRB) are asking all organisations to reassess their cyber resilience and harden their critical supply chains. The DCC is the next step to a more secure defence industry. The UK needs to ensure that Defence and its partners are protected.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To support this transition, suppliers must be encouraged to work towards this objective and to ensure that any subcontractor timescales are set appropriately, where higher levels of certification are required at lower tiers in the supply chain.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Ministry of Defence would like to give a spotlight to RightCue, a Certifying Body for IASME, who are helping organisations to achieve DCC.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "RightCue's biggest achievement is delivering the very first Level 1 certification.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "RightCue's Founder, Yogesh Agarwal, talks through his experience of becoming a Certifying Body for the DCC.",
+                "tag": "h3"
+            },
+            {
+                "content": "Our decision was driven by both the needs of our clients and a commitment to strengthening cyber resilience across the UK's defence supply chain. Having supported defence suppliers with Cyber Essentials, Cyber Essentials Plus and DCPP requirements for many years, we saw organisations seeking guidance when the MOD introduced DCC Levels 0 to 3.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The transition from CSMv3 to CSMv4 aligned closely with our expertise, with the focus expanding beyond protecting MOD Identifiable Information to improving organisational security, resilience, governance and risk management.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We were also involved in developing the DCC scheme alongside IASME, helping to ensure the controls and guidance reflected the practical challenges faced by defence suppliers. As an NCSC Assured Cyber Security Consultancy and Assured Service Provider, CREST accredited, ISO 27001 certified becoming a Certifying Body was a natural next step.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It enables us to help organisations strengthen their cyber resilience, meet defence sector requirements and contribute to the wider goal of protecting Defence, its supply chains and ultimately the UK's national security in an increasingly challenging cyber landscape.",
+                "tag": "p"
+            },
+            {
+                "content": "The first step is becoming an IASME Cyber Essentials Certification Body. The organisation and its assessors must be based in the UK or Crown Dependencies. Assessors must meet IASME's qualification requirements and complete DCC training and assessments for the levels they wish to deliver. The training covers Def Stan 05-138 Issue 4 and focuses heavily on assessment scoping, which is one of the most important aspects of the certification process.",
+                "tag": "p"
+            },
+            {
+                "content": "Once approved, IASME licenses and publishes the organisation as a Certifying Body for the levels it is qualified to assess.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "RightCue qualified across all four DCC levels.",
+                "tag": "p"
+            },
+            {
+                "content": "While the process is accessible to organisations of different sizes, success depends on having assessors who can apply the standard consistently and make evidence-based decisions with confidence.",
+                "tag": "p"
+            },
+            {
+                "content": "Although Level 0 contains only three controls, preparation can take longer than many organisations expect because Cyber Essentials is a prerequisite. The starting point should be ensuring Cyber Essentials is in place and that its scope aligns with the intended DCC scope. In our experience, scoping is the single biggest challenge for applicants and the most common cause of delays.",
+                "tag": "p"
+            },
+            {
+                "content": "Organisations should clearly identify the systems, processes and business functions that are essential for the organisation to operate securely and resiliently, not just those directly supporting MOD-related activities. This includes understanding where data is stored, who is responsible for managing key assets, and ensuring all critical business systems are considered within scope. Completing this exercise early makes the assessment process significantly smoother.",
+                "tag": "p"
+            },
+            {
+                "content": "We also recommend making use of the free guidance available from IASME. There is a wealth of information available to help organisations understand the requirements, define an appropriate scope, and prepare effectively before engaging a Certifying Body",
+                "tag": "p"
+            },
+            {
+                "content": "Most importantly, start early. With the MOD's Level 0 deadline approaching, organisations that leave preparation until the final months may struggle to secure assessment capacity and complete any remediation work required.",
+                "tag": "p"
+            },
+            {
+                "content": "Not necessarily. DCC is a risk-based framework and organisations should focus on achieving the level required by their contract and cyber risk profile.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There is a significant difference in effort between the certification levels, with higher levels requiring greater maturity, more evidence and additional assurance activities. While Level 3 demonstrates a high degree of cyber resilience, it may not represent the best investment for every organisation.",
+                "tag": "p"
+            },
+            {
+                "content": "We encourage businesses to view their assigned DCC level as a minimum requirement. If future contracts are likely to require higher levels, then building towards them through a planned security roadmap makes sense.",
+                "tag": "p"
+            },
+            {
+                "content": "The ultimate objective should be improving security and resilience, not simply obtaining the highest certification level available.",
+                "tag": "p"
+            },
+            {
+                "content": "Start with your assessors. DCC assessments require expertise in governance, risk management and organisational resilience as well as technical cyber security controls. It is also important to be realistic about which certification levels your organisation can support. Levels 1 to 3 are significantly more demanding than Level 0 and require greater assessor capacity, more evidence review and, in some cases, site visits and security-cleared personnel.",
+                "tag": "p"
+            },
+            {
+                "content": "Consistency is equally important. As a relatively new scheme, DCC relies on suppliers receiving the same outcome regardless of which Certifying Body conducts the assessment. Maintaining that consistency is critical to the credibility of the scheme.",
+                "tag": "p"
+            },
+            {
+                "content": "Finally, engage with industry. Building relationships with organisations, trade bodies and suppliers helps develop trust and provides valuable insight into the challenges facing the defence supply chain.",
+                "tag": "p"
+            },
+            {
+                "content": "One of our proudest achievements was delivering the UK's first DCC Level 1 certification. It demonstrated both our preparedness for the scheme and our ability to assess organisations against the more demanding certification levels.",
+                "tag": "p"
+            },
+            {
+                "content": "However, some of our most impactful work happens before an assessment even begins. We regularly help organisations identify and correct scoping issues that would otherwise result in delays, additional costs or failed assessments.",
+                "tag": "p"
+            },
+            {
+                "content": "We are particularly proud of the support we provide to SMEs. Many smaller suppliers start with limited cyber security resources and little experience of assurance frameworks. Helping them achieve certification and improve their cyber resilience is one of the most rewarding aspects of our work.",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately, our biggest success is making DCC practical and achievable for organisations across the defence supply chain, regardless of their size or level of cyber maturity.",
+                "tag": "p"
+            },
+            {
+                "content": "We will be sharing more of these DCC stories as the deadline approaches.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defencedigital.blog.gov.uk/2026/09/24/building-cyber-resilience-in-the-uk-one-step-at-a-time-a-spotlight-on-a-defence-cyber-certification-certifying-body/",
+        "blog": "Digital and Data",
+        "blog_link": "https://defencedigital.blog.gov.uk",
+        "description": "The Ministry of Defence have asked all industry partners to achieve Level 0 of the Defence Cyber Certification (DCC) by 31st December 2026, which includes a requirement for obtaining Cyber Essentials for all applicable business-critical systems within scope.\u00a0\u00a0 The cyber \u2026"
+    },
+    {
+        "title": "Why our forests matter to us more than ever before",
+        "authors": [
+            "Harry Joyce"
+        ],
+        "posted_on": "2026-09-24T08:00:00",
+        "categories": [
+            "Nature and biodiversity",
+            "Sector insight"
+        ],
+        "content": [
+            {
+                "content": "The UK is one of the least forested nations in Europe and one of the most nature depleted countries in the world. A recent report investigated the value of forest biodiversity in Great Britain, and found that creating and managing more woodland would bring huge economic benefits to society.",
+                "tag": "p"
+            },
+            {
+                "content": "The report also found that households in Great Britain strongly support increasing species diversity in the country\u2019s forests, deeming the benefits from creating new forests or improving existing forests as significant.",
+                "tag": "p"
+            },
+            {
+                "content": "The 2025 Value of Forest Biodiversity in Great Britain report",
+                "tag": "h2"
+            },
+            {
+                "content": "For over a decade, people making the case for woodlands have been working with outdated figures on the value of forest biodiversity. The 2025 Value of Forest Biodiversity in Great Britain report, commissioned by the Forestry Commission and funded by the Department for Environment, Food and Rural Affair\u2019s Nature for Climate Fund provides an up-to-date picture of the benefits our woodlands and forests deliver, reflecting today\u2019s woodlands, economy and public support.",
+                "tag": "p"
+            },
+            {
+                "content": "Measuring forest biodiversity",
+                "tag": "h2"
+            },
+            {
+                "content": "The report values the cultural benefit to society of improvements in forest biodiversity. Via surveys, focus groups and one-to-one interviews, the public were asked about their willingness to pay for improvements to forest biodiversity and woodland creation.",
+                "tag": "p"
+            },
+            {
+                "content": "The benefits include:",
+                "tag": "p"
+            },
+            {
+                "content": "Cultural benefits",
+                "tag": "h2"
+            },
+            {
+                "content": "The Climate Change Committee (CCC) established under the Climate Change Act 2008, set out targets of having approximately 1 million hectares of newly planted forests by 2050, and forests in improved condition.",
+                "tag": "p"
+            },
+            {
+                "content": "To achieve this, approximately 30,000 hectares of new woodland would need to be planted annually in the UK until 2050. For context, a forest cover of 17\u201319%, as suggested by the CCC, has not been seen in England since before the Domesday survey in 1086.",
+                "tag": "p"
+            },
+            {
+                "content": "This study finds that if we hit these targets, it would result in up to \u00a38.3 billion per year in cultural benefits to UK households. This value is in addition to the indirect benefits forests provide, including carbon sequestration, timber production, flood management, water filtration and air purification.",
+                "tag": "p"
+            },
+            {
+                "content": "Access to nature and landscapes",
+                "tag": "h2"
+            },
+            {
+                "content": "Since the COVID-19 pandemic, there has been a significant boost in awareness of the importance of access to nature and landscapes. In 2025, 70% of the public reported having visited forests or woodlands in the last few years, compared to 56% in 2015.1",
+                "tag": "p"
+            },
+            {
+                "content": "Greater concerns about environmental deterioration and increased understanding about the importance of nature were also cited by the public as reasons for wanting to see an improvement in forest biodiversity.",
+                "tag": "p"
+            },
+            {
+                "content": "A growing average value for general forest biodiversity improvement",
+                "tag": "h2"
+            },
+            {
+                "content": "The national average value set out for general forest biodiversity improvement has risen to approximately \u00a35,400 per hectare per year, applied over a 60-year period. This value includes the importance of public places and the enjoyment of spotting forest wildlife, as well as improvements to recreation and area amenities.",
+                "tag": "p"
+            },
+            {
+                "content": "When compared to previous studies, this represents a significant increase in value to the public of forest biodiversity over the past 20 years, despite cost-of-living challenges. Previous studies such as Willis et al. (2003) reported values of between \u00a3195 per hectare per year for conifer woodland, and \u00a32,040 per hectare per year for ancient woodland (in 2024 prices).",
+                "tag": "p"
+            },
+            {
+                "content": "This new report includes a household \u2018willingness to pay\u2019 figure of \u00a3304 per household, per year, for achieving a national forest cover increase of 1 million hectares. It also includes a range of combined non-use and use values for specific levels of forest biodiversity improvement ranging from \u00a33,400 per hectare per year for forest biodiversity improvement from \u2018minimal to low\u2019 species diversity, to \u00a38,600 per hectare per year, for \u2018minimal to high\u2019 species diversity improvement (applied over a 60-year time period).",
+                "tag": "p"
+            },
+            {
+                "content": "A view to plant more trees",
+                "tag": "h2"
+            },
+            {
+                "content": "The evidence is clear: the public wants more forests, and richer ones. This research gives us the most up-to-date and robust picture yet of just how much that ambition is worth \u2013 not only in pounds but in the \u2018connection\u2019 people feel to the natural world.",
+                "tag": "p"
+            },
+            {
+                "content": "For councils making planning decisions, land managers considering whether to pursue woodland creation schemes, and community groups wanting greener local spaces, this report provides the evidence. The values set out here can be used in a range of analyses including business cases and cost-benefit analysis, to demonstrate the social value that comes from investing in nature.",
+                "tag": "p"
+            },
+            {
+                "content": "The report provides clear economic evidence of public support and social value for increased woodland creation and forest biodiversity across the UK. The ambition to reverse the UK's status as one of the least forested and most nature-depleted nations in Europe will require action at every level: national policy, local planning and individual land management decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "This report equips everyone involved in that effort with the evidence to make the case so we can plant the right trees, in the right places, to benefit future generations.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://forestrycommission.blog.gov.uk/2026/09/24/why-our-forests-matter-to-us-more-than-ever-before/",
+        "blog": "Forestry Commission",
+        "blog_link": "https://forestrycommission.blog.gov.uk",
+        "description": "Harry Joyce, Economist at the Forestry Commission, reveals the latest findings of a report into the value of forest biodiversity in Great Britain."
+    },
+    {
+        "title": "SFI26 Window 2: an update",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-09-23T18:05:56",
+        "categories": [
+            "Sustainable Farming Incentive"
+        ],
+        "content": [
+            {
+                "content": "Farmers have had a difficult 2026: navigating the impact of extreme drought and hot weather, the ongoing rise in Bluetongue virus cases, and input price rises from the Middle East conflict.",
+                "tag": "p"
+            },
+            {
+                "content": "The exceptional demand for the Sustainable Farming Incentive (SFI) demonstrates farmers\u2019 desire to invest in the environment, because healthy soils and thriving habitats are fundamental for farm profitability, productivity, sustainability & resilience.",
+                "tag": "p"
+            },
+            {
+                "content": "In anticipation of high demand, Ministers decided to allocate an additional \u00a320m to Window 2, on top of the \u00a350m announced by the Prime Minister in August, so that we could fund as many agreements as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "We have therefore allocated a total of \u00a3310m to new agreements across both application windows in SFI26, \u00a3253m through Window 2. These agreements will invest a total of \u00a3930m in environmentally sustainable farming over the next 3 years.",
+                "tag": "p"
+            },
+            {
+                "content": "This year we ensured small farms and those new to Environmental Land Management (ELM) revenue schemes were prioritised - with an exclusive first window earlier in the summer.",
+                "tag": "p"
+            },
+            {
+                "content": "Previously a quarter of SFI funding headed to just 4% of farms making claims. That is why we capped SFI26 agreements at \u00a3100,000 per year. We also reduced some payment rates for a number of actions in order to ensure the available budget could stretch further.",
+                "tag": "p"
+            },
+            {
+                "content": "Still, we know some farmers who wanted to join SFI26 will be disappointed not to have secured an agreement this year.",
+                "tag": "p"
+            },
+            {
+                "content": "In keeping with the commitments made in the Farming Roadmap 2050, we plan to offer an SFI scheme in 2027.\u202fWe will look to open the 2027 offer as early as possible to ensure farmers can access funding.",
+                "tag": "p"
+            },
+            {
+                "content": "We are ready to look at how we can improve SFI for next year \u2013 continuing our close work with farmers and stakeholders by listening to experiences and learning lessons from this window. As part of this, we are exploring alternatives to a first come, first served application process for SFI in 2027.",
+                "tag": "p"
+            },
+            {
+                "content": "Farmers can still apply for Countryside Stewardship Higher Tier (CSHT) funding via the Expression of Interest (EOI) process. You can submit EOIs for woodland improvement and agroforestry, as well as new single-focus agreements for management of species rich grassland and scheduled monument management.",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps for SFI26",
+                "tag": "h2"
+            },
+            {
+                "content": "The RPA is working through queries from farmers and agents received via email as quickly as possible. They have already returned calls for anyone who rang yesterday before Window 2 closed for applications.",
+                "tag": "p"
+            },
+            {
+                "content": "Now Window 2 has closed, the Rural Payments Agency (RPA) will process applications as quickly and efficiently as possible.",
+                "tag": "p"
+            },
+            {
+                "content": "As a reminder, if you started an application but did not submit it before Window 2 closed, you will not be able to submit it. This is because we closed the window when we had enough applications to allocate the full Window 2 budget.",
+                "tag": "p"
+            },
+            {
+                "content": "We will allow two small \u2018exception groups\u2019, who contacted the RPA before Window 2 closed, to continue with their applications. They are:",
+                "tag": "p"
+            },
+            {
+                "content": "The RPA will contact \u2018started but not submitted\u2019 Window 2 farmers in due course to confirm whether their applications will be withdrawn, or if they\u2019re in an exception group and can continue with their application.",
+                "tag": "p"
+            },
+            {
+                "content": "Applications are processed in the order in which they were submitted. Some applications require additional checks and can therefore take longer to assess.",
+                "tag": "p"
+            },
+            {
+                "content": "We will provide an update on when successful applicants can expect to receive their agreement offer in due course.",
+                "tag": "p"
+            },
+            {
+                "content": "SFI26 Window 2 statistics at a glance",
+                "tag": "h2"
+            },
+            {
+                "content": "We are conducting a final analysis of Window 2 application statistics. We will publish an official statistics release at 9:30am on Friday 25 September.",
+                "tag": "p"
+            },
+            {
+                "content": "Numbers have been rounded to help illustrate the overall picture and should be treated as indicative rather than exact.",
+                "tag": "p"
+            },
+            {
+                "content": "These figures are based on the applications we received at the point we closed Window 2 for applications, and the information provided by applicants at the point of application. They do not reflect final agreement figures, as applications are still being processed and the RPA handles farmers in the exception groups. As a result, final contracted uptake, including the actions selected, areas covered and associated values, may differ from these initial figures.",
+                "tag": "p"
+            },
+            {
+                "content": "Applications",
+                "tag": "h3"
+            },
+            {
+                "content": "Approximately 12,200 applications were submitted during Window 2. Against our budget of \u00a3253 million, this means the average agreement value applied for was approximately \u00a320,700.",
+                "tag": "p"
+            },
+            {
+                "content": "More than 8,800 of those farmers have an ELM revenue agreement expiring on or before 28 February 2027. The new functionality in the SFI26 application service allowed farmers to start an application early for the full range of available SFI26 actions on land in an existing ELM revenue agreement before that agreement ends. Previously, these farmers would have had to wait until their existing agreement ended before being able to do this.",
+                "tag": "p"
+            },
+            {
+                "content": "Over 1,100 farmers who applied in Window 2 are farmers who don\u2019t have an existing ELM revenue agreement.",
+                "tag": "p"
+            },
+            {
+                "content": "Top 5 actions",
+                "tag": "h3"
+            },
+            {
+                "content": "Applicants selected actions across all 14 SFI26 action groups, reflecting the flexibility of the scheme and the diversity of farming businesses taking part. The most popular actions were:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "CLIG3: Manage grassland with very low nutrient inputs \u2013 over 7,400 applications",
+                "tag": "h4"
+            },
+            {
+                "content": "The benefits of this action extend beyond biodiversity. When established alongside cropped land, species-rich grasslands can support the natural processes that underpin resilient food production. Flower-rich habitats provide resources for pollinators and other beneficial insects, while diverse vegetation offers shelter for species that contribute to natural pest regulation. These areas can also slow surface water movement, reducing soil and nutrient losses and helping to retain valuable resources within the farmed landscape.",
+                "tag": "p"
+            },
+            {
+                "content": "CHRW2: Manage hedgerows \u2013 over 4,300 applications",
+                "tag": "h4"
+            },
+            {
+                "content": "Well-managed hedgerows can support the natural processes that contribute to resilient food production. Flowering hedgerows provide resources for pollinating insects, while their shelter and habitat benefits encourage populations of beneficial invertebrates that can contribute to natural pest regulation and integrated pest management. Hedgerows can also help reduce wind erosion, slow surface water movement and improve the retention of soil and nutrients within the farmed landscape.",
+                "tag": "p"
+            },
+            {
+                "content": "CSAM3: Herbal leys \u2013 over 3,300 applications",
+                "tag": "h4"
+            },
+            {
+                "content": "This action aims to maintain an established herbal ley containing a diverse mixture of grasses, legumes, herbs and wildflowers that provide varied root structures throughout the soil profile.",
+                "tag": "p"
+            },
+            {
+                "content": "The ley should include areas of flowering plants from late spring through the summer months, supporting biodiversity and providing valuable resources for pollinators and other wildlife. The purpose of this mixture is to produce a high volume of forage while minimising the need for inorganic fertilisers, improving resilience to drought, and helping to enhance and maintain the soil\u2019s structure, carbon content, biological activity and overall fertility.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "CAHL2: Winter bird food on arable and horticultural land \u2013 over 2,600 applications",
+                "tag": "h4"
+            },
+            {
+                "content": "This action supports the growth of a mix of seed-bearing crops that supply vital small seeds from late autumn through late winter for species like finches, buntings, sparrows, and partridges. The seed mix also encourages summer flowering plants that provide nectar and pollen for beneficial insects, including bumblebees, solitary bees, butterflies, and hoverflies. It also supports natural predators of crop pests through an integrated pest management (IPM) approach when strips or blocks are planted close to cropped areas.",
+                "tag": "p"
+            },
+            {
+                "content": "CIPM4: No use of insecticide on arable crops and permanent crops \u2013 over 2,600 applications",
+                "tag": "h4"
+            },
+            {
+                "content": "By encouraging no insecticide usage, this SFI action protects beneficial insects like bees, butterflies, and natural pest predators, stops chemical residues from running off into nearby streams, rivers, and groundwater or drifting into the air.",
+                "tag": "p"
+            },
+            {
+                "content": "Subscribe to the blog",
+                "tag": "h2"
+            },
+            {
+                "content": "We\u2019ll continue to publish updates on SFI and funding for farmers on the Farming Blog. To stay informed, click here to subscribe.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/09/23/sfi26-window-2-an-update/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "In this post we reflect on how we are looking to improve the Sustainable Farming Incentive (SFI) offer for next year. We also share some headline figures from Window 2 of SFI26."
+    },
+    {
+        "title": "Sewage detectives: how UKHSA is using wastewater to track common viruses and emerging threats",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-09-23T14:22:47",
+        "categories": [
+            "Science"
+        ],
+        "content": [
+            {
+                "content": "The wastewater that we send from our toilets towards sewage treatment plants every day is potentially rich in data about our health. For the past 4 years, UKHSA has been monitoring wastewater across England for signs of polio, and over the past year has been testing new technologies to detect other potential threats. The next phase of the programme \u2013 made possible by a \u00a33 million investment from the UK Integrated Security Fund (ISF) - will expand our capabilities and enable us to publish new data.",
+                "tag": "p"
+            },
+            {
+                "content": "What is PRISM, and why does it matter?",
+                "tag": "h2"
+            },
+            {
+                "content": "Pathogen Risk Intelligence through Surveillance and Modelling (PRISM) is UKHSA's expanding wastewater and environmental surveillance programme, designed to detect a wide range of pathogens that could affect public health.",
+                "tag": "p"
+            },
+            {
+                "content": "What makes PRISM different from traditional wastewater surveillance is that it isn't limited to a single pathogen. Instead, one sample of wastewater can be tested for many different threats at once. This gives significantly more value from every sample collected.",
+                "tag": "p"
+            },
+            {
+                "content": "What has the programme achieved over the past year?",
+                "tag": "h2"
+            },
+            {
+                "content": "The team's biggest achievement has been proving this multi-pathogen approach actually works. Before PRISM, wastewater testing in government tended to focus on one target at a time. Now, UKHSA has demonstrated that a single sample can support public health surveillance, biosecurity monitoring and tracking of antimicrobial resistance simultaneously.",
+                "tag": "p"
+            },
+            {
+                "content": "This proof of concept has opened doors that were previously closed. UKHSA is now working with government and academic partners to realise the vision of \u2018sample once \u2013 test many\u2019. Exploring how wastewater surveillance could support their specific needs, from targeted testing to detecting diseases arising from interactions between humans, animals\u00a0and the environment.",
+                "tag": "p"
+            },
+            {
+                "content": "The programme's surveillance network currently covers the wastewater of around 25 million people across England, a scale made possible by building on infrastructure already in place for the UK's polio elimination programme.",
+                "tag": "p"
+            },
+            {
+                "content": "What is currently being monitored?",
+                "tag": "h2"
+            },
+            {
+                "content": "Right now, PRISM is testing for a range of pathogens including norovirus, enterovirus, flu A, flu B, rhinovirus, RSV and COVID-19 identifiers. The current approach detects presence or absence, rather than tracking trends over time. In parallel, PRISM is also taking a less targeted approach that can detect any or all pathogens in a sample without needing to know beforehand what specific organism is present. This is vital if we are to better detect new or unusual pathogens.",
+                "tag": "p"
+            },
+            {
+                "content": "One area where PRISM is already delivering practical value is norovirus, the winter vomiting bug. The programme can track norovirus strains circulating across the country, helping build a clearer picture of the pressures facing the NHS each winter.",
+                "tag": "p"
+            },
+            {
+                "content": "What's changing in the coming year?",
+                "tag": "h2"
+            },
+            {
+                "content": "New investment is enabling the programme\u00a0to build new technology-driven capabilities, allowing for PRISM to unlock more value from wastewater. We are adding new sites, increasing our coverage and improving our ability to detect pathogens that were previously hard to detect. The programme - through new automation technologies - is now better able to scale to demands and make these new approaches more accessible to others. A key outcome for the programme, is bridging the gap between data and action. Using these new technologies, and data analytics, we can now build a system that goes from sample, to data, to insight and action.",
+                "tag": "p"
+            },
+            {
+                "content": "Before this data is used more widely, it will be tested and compared against other technologies to check its reliability and accuracy, since different pathogens behave differently in wastewater.",
+                "tag": "p"
+            },
+            {
+                "content": "What new pathogens will PRISM look for?",
+                "tag": "h2"
+            },
+            {
+                "content": "The programme has confirmed a set of new targets to prioritise for the coming year, taking advantage of one of our capabilities, chosen to reflect the range of threats the team wants to be ready for. These include diseases with existing elimination goals, such as mpox and measles, alongside emerging threats like avian influenza, Crimean-Congo haemorrhagic fever, West Nile virus, Lassa fever and Middle East respiratory syndrome coronavirus (MERS-CoV).",
+                "tag": "p"
+            },
+            {
+                "content": "The list also includes hepatitis A and hepatitis E, and 2 priorities in the fight against antimicrobial resistance: Candidozyma auris and hypervirulent Klebsiella pneumoniae, both of increasing concern to public health experts worldwide.",
+                "tag": "p"
+            },
+            {
+                "content": "These targets have been selected to strengthen preparedness and support earlier detection of potential public health threats, rather than because they are currently widespread in the UK.",
+                "tag": "p"
+            },
+            {
+                "content": "Building the capability to detect these targets earlier means the country will be better prepared for emerging threats.",
+                "tag": "p"
+            },
+            {
+                "content": "What does the future hold?",
+                "tag": "h2"
+            },
+            {
+                "content": "Beyond new pathogens, over the coming year PRISM will explore targeted surveillance in new environments such as targeted hospital wastewater sites and high-footfall locations, including transport hubs, alongside exploratory work on air surveillance. This work will help assess where environmental surveillance could add most value.",
+                "tag": "p"
+            },
+            {
+                "content": "The team is also exploring how this data could support hospitals directly, potentially helping to spot antimicrobial resistance outbreaks early and easing pressure on NHS beds.",
+                "tag": "p"
+            },
+            {
+                "content": "Longer term, the ambition is for PRISM to become a permanent, business-as-usual capability within UKHSA, integrated with existing public health surveillance systems so that findings can directly inform decisions and protect communities across England.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/09/23/sewage-detectives-how-ukhsa-is-using-wastewater-to-track-common-viruses-and-emerging-threats/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "The wastewater that we send from our toilets towards sewage treatment plants every day is potentially rich in data about our health. For the past 4 years, UKHSA has been monitoring wastewater across England for signs of polio, and over the past year has been testing new technologies to detect other potential threats. The next \u2026"
+    },
+    {
+        "title": "A postcard from Darlington",
+        "authors": [
+            "Beth Russell"
+        ],
+        "posted_on": "2026-09-23T13:23:49",
+        "categories": [
+            "UK Civil Service",
+            "Uncategorized"
+        ],
+        "content": [
+            {
+                "content": "As No10 North gathers momentum, I wanted to offer a perspective from the other side of the Pennines \u2013 the Darlington Economic Campus, or No11 North as the Chancellor recently put it.",
+                "tag": "p"
+            },
+            {
+                "content": "HMT has traditionally been one of the most London-centric of government departments so the move over the last five years to have a fifth of our staff based in Darlington has been a big change. But when we began creating the Darlington Economic Campus (DEC) in 2021, we wanted to do more than just establish a new government office outside London. Instead we had a vision to work differently with the other departments based here and with our external partners in the region.",
+                "tag": "p"
+            },
+            {
+                "content": "Since we launched, we have been co-located with eight other government departments and ALBs. We have deliberately organised ourselves as one campus rather than as a collection of separate organisations. We sit alongside one another, share events and communications, and bring together colleagues with different expertise to solve the country\u2019s thorniest policy issues.",
+                "tag": "p"
+            },
+            {
+                "content": "We have also forged new partnerships with local and regional government, local businesses and the third sector. Through initiatives like the Community Mission Challenge we have undertaken joint projects with Darlington Council; and every week we hold different events and workshops on key policy questions with external stakeholders.",
+                "tag": "p"
+            },
+            {
+                "content": "Partnership is how we get better results",
+                "tag": "h2"
+            },
+            {
+                "content": "The way we work isn\u2019t an accident. We work in partnership with other departments because the challenges we face do not fit neatly within departmental boundaries. Growth, skills, transport, housing\u2026 everything is connected. Bringing departments together helps us move beyond institutional silos and focus on the outcomes that matter.",
+                "tag": "p"
+            },
+            {
+                "content": "Just as importantly, our strong external relationships with mayors, local authorities, universities and public service providers give our policy makers direct access to experience on the ground: what is working, where barriers remain, and how national decisions are felt in different communities.",
+                "tag": "p"
+            },
+            {
+                "content": "We showed the difference this makes in the recent announcement that mayors would receive a share of income tax revenues. Thanks to our work in partnership with local stakeholders, we understand what will turn the dial for them in shifting power, funding and decision-making closer to their areas. As we work alongside No10 North and colleagues across the government on this agenda, these relationships will bear even more fruit.",
+                "tag": "p"
+            },
+            {
+                "content": "Hearing different voices",
+                "tag": "h2"
+            },
+            {
+                "content": "For us at HM Treasury, one of the campus\u2019s greatest strengths is the range of voices it has brought into the organisation. The vast majority of my colleagues in DEC have been recruited from the surrounding region, and most joined the civil service from other sectors having not worked in government before.",
+                "tag": "p"
+            },
+            {
+                "content": "DEC provides an opportunity for people who previously wouldn\u2019t have been able to work in policy roles in the civil service to do so. It brings in a much wider range of people, with different experiences and perspectives, to improve our advice to ministers and the services we provide the public and to make sure we better reflect the country we serve.",
+                "tag": "p"
+            },
+            {
+                "content": "I often hear from colleagues who grew up in the North East that previously they thought they would have to move to London to work on the complex and cross-cutting issues that they do currently. And now that the campus has been established for a few years, we\u2019re seeing that people can not only get a job where they are from thanks to DEC, they can build a career.",
+                "tag": "p"
+            },
+            {
+                "content": "On the launch day of No 10 North, the Prime Minister addressed critics by saying, \u201cit\u2019s not just a new office\u201d, and I agree. DEC - and No 10 North \u2013 may seem to the sceptical like surface level changes, but if we put the energy and commitment into building partnerships, empowering local colleagues, and getting everyone round the table, then we can change the way our country is wired.",
+                "tag": "p"
+            },
+            {
+                "content": "So whether you call us the Darlington Economic Campus or No 11 North, what we do is the same: delivering the best advice and action for ministers and the country we serve.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://civilservice.blog.gov.uk/2026/09/23/a-postcard-from-darlington/",
+        "blog": "Civil Service",
+        "blog_link": "https://civilservice.blog.gov.uk",
+        "description": "As No10 North gathers momentum, I wanted to offer a perspective from the other side of the Pennines \u2013 the Darlington Economic Campus, or No11 North as the Chancellor recently put it. HMT has traditionally been one of the most \u2026"
+    },
+    {
+        "title": "Build once, benefit many: driving business case transformation across government, one (agile) step at a time",
+        "authors": [
+            "Ellie Katona, Senior Interaction Designer, Digital Process Improvement team"
+        ],
+        "posted_on": "2026-09-23T11:45:18",
+        "categories": [
+            "Tools and processes"
+        ],
+        "content": [
+            {
+                "content": "A business case is a framework used by government to get approval to spend public money and ensure the delivery of public benefits. Our user research with people across several government departments showed that teams face similar challenges with business cases writing and approval. They are regarded as disproportionate, long-winded, unclear and difficult to both write and approve. Each department is investing time and resources into solving these same problems.",
+                "tag": "p"
+            },
+            {
+                "content": "We in the Digital Process Improvement team at the Ministry of Housing, Communities and Local Government (MHCLG) like solving problems, and it doesn\u2019t get more knotty than business cases (so far!). We\u2019re a friendly bunch from across different backgrounds and disciplines, driven by a common goal of helping people do their jobs better, at MHCLG and across government.",
+                "tag": "p"
+            },
+            {
+                "content": "Why reinvent the wheel when you can share the blueprint and the service? We have a huge opportunity here for proper, cross-government collaboration.",
+                "tag": "p"
+            },
+            {
+                "content": "Sharing is caring",
+                "tag": "h2"
+            },
+            {
+                "content": "From the start of the project to improve the business case process, in partnership with our Approvals and Assurance team, our goal was to build something based on our guiding principles of putting people first, joining the dots and understanding data. Something robust, that could be 'plug and play' for any department who wanted help with their business case process.",
+                "tag": "p"
+            },
+            {
+                "content": "We started with the triage service: a way for people to self-serve business case templates and guidance. People struggle to find the correct template, understand approvals and who to speak to, according to our discovery insights. In triage, people answer a few questions to find the template they need. They are also encouraged to partner with Finance and Commercial early on, fostering the idea that collaboration is key to a successful business case.",
+                "tag": "p"
+            },
+            {
+                "content": "The Department for Business, Innovation, Science and Trade (BIST) showed an interest in the work we were doing; there were many similarities with challenges but ultimately an appetite for change and exploration was welcome and we were able to share with policy and digital teams our triage service to 'steal with pride'.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s under the hood of the business case triage service?",
+                "tag": "h2"
+            },
+            {
+                "content": "Upshot",
+                "tag": "h2"
+            },
+            {
+                "content": "Sharing our journey so far with BIST has reinforced the value of collaboration across departments, particularly when tackling common challenges. By sharing approaches, lessons learned and reusable components, we can speed up delivery, focus resources where they add the greatest value and save time and money. Not just for MHCLG but across the entire government. Our work to transform the business case process continues as we build out the end-to-end service, and we\u2019ll aim to share more about our progress. Who next? Arm's-length bodies? Let\u2019s go!",
+                "tag": "p"
+            },
+            {
+                "content": "Want your own triage service or want to learn more?",
+                "tag": "h2"
+            },
+            {
+                "content": "Get in touch! Find us at businesscaseproject@communities.gov.uk.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgdigital.blog.gov.uk/2026/09/23/build-once-benefit-many-driving-business-case-transformation-across-government-one-agile-step-at-a-time/",
+        "blog": "MHCLG Digital",
+        "blog_link": "https://mhclgdigital.blog.gov.uk",
+        "description": "Business cases help government make decisions about spending public money and delivering public benefit. MHCLG\u2019s Digital Process Improvement team is applying user-centred design to make the business case process simpler, reduce duplication and support better collaboration across government, starting with a reusable triage service."
+    },
+    {
+        "title": "Success builds on success for newts and developers\u00a0",
+        "authors": [
+            "Stephanie Bird-Halton"
+        ],
+        "posted_on": "2026-09-23T11:01:07",
+        "categories": [
+            "Development",
+            "Licensing",
+            "Monitoring",
+            "Natural England",
+            "Nature",
+            "Wildlife"
+        ],
+        "content": [
+            {
+                "content": "By Stephanie Bird-Halton, Director - National Delivery at Natural England\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The 2025/26 Annual Monitoring Report for Natural England\u2019s District Level Licensing (DLL) for great crested newts has just been published. This blog explores the successes so far and shows that the scheme is creating high quality habitat for great crested newts, while giving developers more certainty and speeding up planning decisions. Through the scheme more than 51,500 new homes and more than 15,000 hectares of developments have been enabled and over 4,747 compensation ponds created or restored. Overall, it proves that development and nature recovery can successfully work hand-in-hand.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In England great crested newts, known for their striking orange and black spotted bellies and the male's wavy crest along his back, are very important in our pond landscape. In the last century, though, there has been a sharp decline in the species mainly due to pond loss and intensive agriculture. Great crested newt populations are estimated to have declined by more than 40% since the start of the 20th century, while around two-thirds of ponds have been lost from our landscapes.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This has led to great crested newts being protected, with environmental regulations put in place to support their long-term future. To enable developers to more efficiently and effectively meet these regulations and to facilitate nature recovery across entire landscapes, District Level Licensing (DLL) for great crested newts was launched.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have now published the 2025/26 Annual Monitoring Report for Natural England DLL and it demonstrates that the scheme continues to support nature recovery while giving developers greater certainty and helping local planning authorities (LPAs) progress planning applications more quickly.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "DLL for great crested newts provides an alternative to the traditional sitebysite approach. Instead of surveying and protecting newts on site, developers can offset the evidence based predicted harm of their development by funding the creation of new ponds in places where newts are most likely to thrive, and the monitoring and maintenance of these for 25 years. General information about the\u00a0 Natural England DLL scheme\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The scheme aims to:",
+                "tag": "p"
+            },
+            {
+                "content": "This Annual Monitoring Report sets out the outcomes of Natural England's DLL scheme for 2025 to 2026 and highlights key achievements since launch. Its findings are consistent with the first five-year evaluation report, published in early 2026. For more information on these results read our blog post: The First Five-Year Evaluations of Strategic Licensing for Great Crested Newts.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "High\u2011quality habitat for newts\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "By 31 July 2026 4,611 compensation ponds had been created or restored through DLL. That\u2019s 967,000 square meters of pond habit, with terrestrial habitat made available to newts by the ponds. The Annual Monitoring Report showed that:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Great crested newts use networks of ponds and the expectation of DLL is not for all compensation ponds to be used by newts at the same time. Some scheme areas are less than five years old and ponds have fewer than five-years monitoring data. We look forward to seeing outcomes of the scheme as the survey data grows.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Habitat delivery partners recall success\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Under DLL, developer compensation includes the monitoring and maintenance of ponds for 25 years by our Habitat Delivery Body partners, including Wildlife Trusts and Farming & Wildlife Advisory Groups (FWAGs). Ponds which are restored under DLL must be completely unsuitable for great crested newts in their current condition, meeting criteria to ensure additional habitat is delivered.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Jilly McNaughton of FWAG East said:",
+                "tag": "p"
+            },
+            {
+                "content": "You can watch a video about the restoration of this ghost pond and the pond revisited this year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Developer demand for strategic approaches continues\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "Customer demand for DLL continues, with:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A successful approach for nature and growth\u00a0",
+                "tag": "h4"
+            },
+            {
+                "content": "The Annual Monitoring Report 2025/26 shows that District Level Licensing is working for nature and development. Thousands of new and restored ponds and habitats are providing vital spaces for great crested newts and other wildlife across the landscape.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://naturalengland.blog.gov.uk/2026/09/23/success-builds-on-success-for-newts-and-developers/",
+        "blog": "Natural England",
+        "blog_link": "https://naturalengland.blog.gov.uk",
+        "description": "By Stephanie Bird-Halton, Director - National Delivery at Natural England\u00a0 The 2025/26 Annual Monitoring Report for Natural England\u2019s District Level Licensing (DLL) for great crested newts has just been published. This blog explores the successes so far and shows that \u2026"
+    },
+    {
         "title": "SFI26: Window 2 now closed",
         "authors": [
             "Tom Foster"
