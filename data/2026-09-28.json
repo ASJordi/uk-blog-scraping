@@ -1,5 +1,634 @@
 [
     {
+        "title": "Help us test the DVS register\u2019s machine-readable infrastructure\u00a0",
+        "authors": [
+            "Aniqa"
+        ],
+        "posted_on": "2026-09-29T17:02:50",
+        "categories": [
+            "OfDIA team"
+        ],
+        "content": [
+            {
+                "content": "The Office for Digital Identities and Attributes (OfDIA) is inviting digital verification service providers (DVSPs) to help test new infrastructure that will make the\u00a0digital verification services (DVS) register machine-readable.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the DVS market grows, it will become\u00a0increasingly important for organisations\u00a0to check that the services they use, rely on or connect with\u00a0are on the register. Machine-readable infrastructure will make it easier to check the register securely and at scale.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Technical testing will cover two models. The API model supports secure data exchange through direct connections between services, relying parties and public authorities. The credential model supports the verification of credentials presented through digital wallets. This post explains how each model works.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can find more detailed documentation about technical integration\u00a0on GitHub.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How the two technical models work\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "When organisations check the status of a service on the DVS register, the technical model they use will depend on the type of transaction taking place. We are building two models to support different transaction types.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "API model: establishing direct connections between services\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The API model supports transactions where one service connects directly to another service or organisation. For example, a DVSP might ask a public authority, such as DVLA, to validate an individual\u2019s data. Before sharing data, the public authority needs to check that the service trying to connect is registered. X.509 certificates and the OpenID Federation specification will enable this.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Credential model: verifying issuers, verifiers and credentials\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The credential model supports transactions where an individual presents a credential from a digital wallet. For example, a customer might need to prove their age at a supermarket checkout. Before sharing the credential, the wallet needs to confirm that the reader service is a registered verifier. The reader service also needs to confirm that the credential came from a registered issuer. Two signed lists, called a VICAL (Verifier Identity Certificate Authority List) and a RICAL (Reader Identity Certificate Authority List), will\u00a0enable this.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Using the new infrastructure ",
+                "tag": "h2"
+            },
+            {
+                "content": "Set up your service through the DVSP Portal\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "To support both models, we are developing a DVSP Portal. DVSPs will gain access to the portal when they join the DVS register. DVSPs that are already registered will receive instructions to create an account when the service is launched. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Submit information through the DVSP Portal\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "When a DVSP joins the register, they will use the portal to submit and manage information about their services. This includes technical information that will allow them to generate transport certificates and entity configurations.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Generate transport certificates\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Under the API model, each participating DVSP will generate\u00a0its own transport certificate bound to its identity. The DVSP will generate a key pair for each registered service and submit a certificate signing request to OfDIA via the DVSP Portal. The private key will remain under its control. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An appointed certificate authority will issue the certificate, and the certificate will chain back to an OfDIA root certificate authority. This creates a trust chain, so that when a DVSP presents a certificate, it can be\u00a0traced back to OfDIA.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Create and publish entity configurations\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Each service has\u00a0an entity identifier.\u00a0This is used to identify the service within the federation. The DVSP will publish a statement called an entity configuration\u00a0at a standard location under this entity identifier. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The entity configuration is a self-signed JSON Web Token (JWT), which contains metadata about the service, the public keys for verifying federation statements, and authority_hints pointing to OfDIA. It can also carry separately signed OpenID Federation trust marks attesting certification details. These are machine-readable assertions, separate to the UK CertifID trust mark.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Separately, OfDIA will publish a signed subordinate statement binding the service\u2019s entity identifier to its federation keys and applying the relevant metadata or policy. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How the API model establishes trust\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Check that a service is registered\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before relying on\u00a0a service, an organisation may want to check that it is on the DVS register. To do this under the API model, an organisation can:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "An organisation may use\u00a0mutual TLS (mTLS) to check certificates. During the handshake, the DVSP\u00a0presents its transport certificate and proves possession of the matching private key.\u00a0This establishes a protected connection. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The organisation receiving the connection checks that the certificate chains back to the OfDIA root certificate authority. It also checks that the certificate is within its validity period and has not been revoked.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OfDIA only issues transport certificates to registered services. Therefore, a valid transport certificate confirms that a service is on the DVS register. However, it does not confirm what the service is certified to do.",
+                "tag": "p"
+            },
+            {
+                "content": "An organisation or DVSP can check client identity\u00a0in two ways. They can use tls_client_auth, where a service proves its identity using a trusted certificate during the mutual TLS (mTLS) connection. Or they can use private_key_jwt, where it proves its identity by signing a JWT using a trusted private key.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Check what a service is certified to do\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Before relying on a service, an organisation may want to check its role types, GPG 44/45 profiles, and supplementary codes to confirm what it is certified to do. To do this under the API model,\u00a0an organisation can:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The organisation finds the service\u2019s entity identifier.\u00a0It then fetches the service\u2019s entity configuration from the standard location. The authority_hints value in the entity configuration points to OfDIA.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The service\u2019s entity configuration points to OfDIA\u2019s\u00a0fetch endpoint. The organisation will use the fetch endpoint to obtain the\u00a0service\u2019s subordinate statement. ",
+                "tag": "p"
+            },
+            {
+                "content": "An organisation will validate the complete trust chain using OpenID Federation rules. It will:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A service will not be trusted if the chain fails the required validation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OfDIA will also provide a resolve endpoint. The resolve endpoint will validate the trust chain and return\u00a0information about the DVSP including its metadata and trust marks. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The organisation applies the metadata and metadata policies from OfDIA\u2019s subordinate statement to the metadata in the service\u2019s entity configuration.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The resolved metadata reflects the service\u2019s certification details on the DVS register. This confirms the service\u2019s role types, GPG 44/45 profiles and supplementary codes. The service cannot claim certification details that OfDIA does not hold for it on the DVS register.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The organisation checks that the resolved metadata belongs to the same service that presented the transport certificate.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The organisation checks that the service\u2019s certification details meet its own authorisation requirements for the transaction. If they do, the two services can exchange information over the mTLS connection.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Removing a service\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Validated information can be cached to enable offline transactions and to\u00a0avoid a central register lookup during every transaction. However, cached chains are usable only within their validity period and the profile\u2019s refresh limits. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If a service is removed from the register, OfDIA will revoke its transport certificate and stop publishing subordinate statements about it. The removal takes effect when the organisation revalidates the trust chain and trust evidence, or when its cached statements expire, whichever happens first.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "How the credential model establishes trust \u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Before accepting credentials, an organisation may want to verify that the parties involved in a transaction can be trusted. In the credential model, trust is established using two signed lists, both defined in the international standard ISO/IEC 18013-5:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A VICAL lets a verifier, such as an orchestration service provider, check that a credential was issued by a registered issuer, such as an attribute service provider. A RICAL lets a wallet, such as a holder service provider, check that a verifier is registered before sharing data. Both lists are published by OfDIA. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Under the credential model, an organisation can:\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OfDIA publishes the VICAL and RICAL at an OfDIA URL. Each list includes information such as when it was issued and when it will next be updated.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Verifiers obtain the VICAL and wallets obtain\u00a0the RICAL. They check the list\u2019s signature and cache the list until its next update.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "OfDIA will specify how long wallets and verifiers can use a list after its update date. This stops a device which has been offline from trusting an old list.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Individuals can store digital credentials in wallets. To\u00a0initiate device connection\u00a0in person, an individual could show a QR code from their wallet or tap their phone to the verifier\u2019s NFC reader. The wallet and the verifier then establish session keys\u00a0and an encrypted channel.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The verifier sends a request for the data it needs. The request is signed with the verifier\u2019s private key and includes its certificate chain.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Before releasing any information, the wallet:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If the verifier passes these checks, the transaction continues. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The wallet may seek approval from the individual to share data with the verifier. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If the individual agrees, the wallet sends the data they have approved. This includes data signed by the issuer, and the issuer\u2019s document signer certificate.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The verifier then:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The verifier accepts the credential only if all checks pass.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Removing an issuer or verifier\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If an issuer or verifier is removed from the register, OfDIA will remove its root certificate from the next version of the VICAL or RICAL. The change takes effect when wallets and verifiers obtain\u00a0the updated list.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Next Steps\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In October 2026, we will be testing our machine-readable infrastructure onboarding process and starting to run interviews with DVSPs to understand readiness for integration testing.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We have\u00a0also published the technical document for machine-readable infrastructure integration on GitHub. We will begin testing both technical models later this year.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Take part in testing\u00a0\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "We need DVSPs to help us test the onboarding process and both technical models. To take part, email us digital.identity.register@dsit.gov.uk.\u00a0\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://enablingdigitalidentity.blog.gov.uk/2026/09/29/help-us-test-the-dvs-registers-machine-readable-infrastructure/",
+        "blog": "Enabling digital identity",
+        "blog_link": "https://enablingdigitalidentity.blog.gov.uk",
+        "description": "The Office for Digital Identities and Attributes (OfDIA) is inviting digital verification service providers (DVSPs) to help test new infrastructure that will make the\u00a0digital verification services (DVS) register machine-readable.\u00a0\u00a0 As the DVS market grows, it will become\u00a0increasingly important for organisations\u00a0to \u2026"
+    },
+    {
+        "title": "Building on the PSGA: better data, wider impact",
+        "authors": [
+            "Esther Oluwajana, Contract and Procurement Lead, Geospatial:GDS"
+        ],
+        "posted_on": "2026-09-29T15:06:22",
+        "categories": [
+            "Data",
+            "innovation",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "The Public Sector Geospatial Agreement has transformed access to Britain\u2019s national location data. We look at what GDS, Ordnance Survey and public-sector users have achieved together, how organisations are using the data and how the next phase can build on that progress.",
+                "tag": "p"
+            },
+            {
+                "content": "Britain\u2019s national location data has taken a significant step forward.The OS National Geographic Database (OS NGD) now contains 16 data collections and has received 70 major enhancements since its launch in 2022. Together, they form the most detailed and data-rich digital map of Britain produced by Ordnance Survey (OS).",
+                "tag": "p"
+            },
+            {
+                "content": "This is a significant milestone for the Public Sector Geospatial Agreement (PSGA), which GDS manages on behalf of government in partnership with OS. It also provides a strong foundation for the next phase of our work.",
+                "tag": "p"
+            },
+            {
+                "content": "Our emerging ambition is to build on the current agreement and develop a broader strategic partnership with OS. We want trusted, high-quality location data to reach more public services, digital platforms and users, while supporting innovation, the responsible use of data and AI, and economic growth.",
+                "tag": "p"
+            },
+            {
+                "content": "Delivering better data through partnership",
+                "tag": "h2"
+            },
+            {
+                "content": "The PSGA was launched in 2020, providing a common framework through which eligible public-sector organisations can access OS data and expertise.",
+                "tag": "p"
+            },
+            {
+                "content": "It has delivered more than access to established mapping products. The agreement has supported a wider transformation in how Britain\u2019s national location data is structured, accessed and used.",
+                "tag": "p"
+            },
+            {
+                "content": "One of its most significant achievements has been the launch and development of the OS National Geographic Database. The OS NGD brings authoritative and detailed geographic data about Great Britain together in one place.",
+                "tag": "p"
+            },
+            {
+                "content": "Its latest release includes:",
+                "tag": "p"
+            },
+            {
+                "content": "Users can access OS NGD data through application programming interfaces and OS Select+Build, which allows organisations to create customised datasets.",
+                "tag": "p"
+            },
+            {
+                "content": "These improvements give public bodies a stronger foundation for planning services, understanding communities and making better-informed decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "They are the result of sustained collaboration. GDS provides strategic oversight of the agreement, helping to ensure that investment reflects government and public-sector priorities. OS captures, maintains and improves Britain\u2019s national location data, while feedback from users helps identify where further improvements could deliver the greatest value.",
+                "tag": "p"
+            },
+            {
+                "content": "Putting the data to work",
+                "tag": "h2"
+            },
+            {
+                "content": "Around 6,500 public-sector organisations across England, Scotland and Wales currently access authoritative OS data and expertise through the PSGA. The value of the agreement can already be seen in how organisations are using the data.",
+                "tag": "p"
+            },
+            {
+                "content": "Newark and Sherwood District Council has adopted the full range of OS NGD products and integrated the data into its systems. This has strengthened its geospatial capability and supported work including safer walking routes, planning CCTV locations and analysing access to local health services.",
+                "tag": "p"
+            },
+            {
+                "content": "Torfaen County Borough Council has combined roads, water, land-cover and sites data to create a more detailed view of its green infrastructure. This supports public engagement, planning decisions, contract tenders and the future maintenance of parks, paths and blue spaces.",
+                "tag": "p"
+            },
+            {
+                "content": "OS data has also supported a tool developed with Transport for the North to help local authorities understand regional differences in access to electric vehicle charging infrastructure. Using machine learning, the tool identifies which of the region\u2019s 6.4 million households are likely to have access to off-street parking and therefore the potential to charge an electric vehicle at home.",
+                "tag": "p"
+            },
+            {
+                "content": "These examples show how trusted national data can be combined with local knowledge and new technology to address practical public-policy challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "David Ball, Head of Public Sector at Ordnance Survey, said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe delivery of the PSGA to date has been a real success story for the public sector and for users of authoritative location data across Britain. Working closely with GDS, we have strengthened access to the data, expertise and services that organisations need to make better decisions and deliver better outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe continued development of the OS National Geographic Database is a clear example of that progress, bringing richer, more detailed and more accessible location data together in one place, and helping public-sector organisations turn trusted geospatial information into practical impact.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Mapping of Southwell town centre and surrounding residential streets showing the locations of litter bins as blue circular markers - helping keep the area clean and tidy.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting growth and the UK\u2019s data economy",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK is home to a world-leading geospatial ecosystem. Our collaboration with OS through the PSGA is helping to ensure that this strength delivers real benefits for citizens, public services and the economy.",
+                "tag": "p"
+            },
+            {
+                "content": "By improving access to high-quality location data, the PSGA is enabling innovation, supporting the responsible use of data and AI, and creating foundations for future growth across sectors.",
+                "tag": "p"
+            },
+            {
+                "content": "An independent Economic Impact Report commissioned by OS estimates that every \u00a31 of public funding invested in OS generates \u00a39.50 in societal benefit. It estimates an economic impact of more than \u00a310 billion over 10 years, equivalent to around \u00a31 billion each year across a wide range of sectors.",
+                "tag": "p"
+            },
+            {
+                "content": "Building the next phase of the PSGA",
+                "tag": "h2"
+            },
+            {
+                "content": "The PSGA has created a strong national data foundation. Our focus now is on increasing the value and impact generated from it.",
+                "tag": "p"
+            },
+            {
+                "content": "The next phase will build on what has worked while responding to changing technology, user needs and government priorities. It provides an opportunity to broaden access to trusted location data, make it easier to use and help more organisations apply it to public services and wider economic challenges.",
+                "tag": "p"
+            },
+            {
+                "content": "This supports the ambition set out in GDS\u2019s roadmap for modern digital government, which explains how the public sector is using technology to make government work better for the citizens it serves. Trusted location data forms part of the digital public infrastructure needed to connect services, support responsible use of AI and make better-informed decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "Work under the current agreement will continue alongside planning for the future. GDS and OS will help organisations adopt OS NGD data and move from longstanding products to newer OS NGD-derived services. We will also continue listening to users and learning from their experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "The PSGA has demonstrated the value of investing in better data. The next phase is about ensuring that data reaches more users and delivers even greater impact for people, places and the economy.",
+                "tag": "p"
+            },
+            {
+                "content": "Help shape the future of location data services",
+                "tag": "h2"
+            },
+            {
+                "content": "GDS is undertaking engagement across the public sector to understand emerging challenges and opportunities that will shape the future iteration of the PSGA. If you haven't already done so, take this opportunity to provide your input and complete GDS's survey. ",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about PSGA at the PSGA autumn 2026 events register for a free place at one of the national or regional events.",
+                "tag": "p"
+            },
+            {
+                "content": "Read about the latest OS National Geographic Database release and data enhancements.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out how public-sector organisations can access OS data through the Public Sector Geospatial Agreement.",
+                "tag": "p"
+            },
+            {
+                "content": "You can\u00a0sign up\u202fto get an email notification every time we publish a new blog post. For more information on our work see the GDS gov.uk site, or follow us on\u202f\u00a0LinkedIn\u202f",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gdsgeospatial.blog.gov.uk/2026/09/29/building-on-the-psga-better-data-wider-impact/",
+        "blog": "Geospatial Insights",
+        "blog_link": "https://gdsgeospatial.blog.gov.uk",
+        "description": "The Public Sector Geospatial Agreement has transformed access to Britain\u2019s national location data. We look at what GDS, Ordnance Survey and public-sector users have achieved together, how organisations are using the data and how the next phase can build on \u2026"
+    },
+    {
+        "title": "Consultation opens on three joint UK pelagic FMPs",
+        "authors": [
+            "FMP team, Scottish Government's Marine Directorate"
+        ],
+        "posted_on": "2026-09-29T12:12:47",
+        "categories": [
+            "- Scotland led FMPs",
+            "Public consultation"
+        ],
+        "content": [
+            {
+                "content": "Today, the Scottish Government is opening a public consultation on three proposed joint UK fisheries management plans (FMPs).",
+                "tag": "p"
+            },
+            {
+                "content": "The plans cover:",
+                "tag": "p"
+            },
+            {
+                "content": "The North Sea horse mackerel FMP was developed jointly by Defra and the Scottish Government. The two greater silver smelt FMPs were developed jointly by Defra, the Department of Agriculture, Environment and Rural Affairs (DAERA) and the Scottish Government. The Scottish Government coordinated the development of all three plans. These are the last of the proposed joint UK FMPs to be consulted on.",
+                "tag": "p"
+            },
+            {
+                "content": "The plans bring together evidence on the current state of these pelagic fish stocks and how they are managed. They also set out policies and actions to restore stocks where needed and keep them healthy and sustainable for the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Share your views",
+                "tag": "h2"
+            },
+            {
+                "content": "Anyone with an interest in these stocks is invited to give feedback on the proposals, including fishermen, industry representatives, environmental groups and members of the public.",
+                "tag": "p"
+            },
+            {
+                "content": "Your feedback will help shape the final fisheries management plans.",
+                "tag": "p"
+            },
+            {
+                "content": "Read the consultation document and submit your response.",
+                "tag": "p"
+            },
+            {
+                "content": "You can respond:",
+                "tag": "p"
+            },
+            {
+                "content": "The consultation closes at 11:55pm on 10 November 2026.",
+                "tag": "p"
+            },
+            {
+                "content": "After the consultation closes, all responses will be reviewed and used to help finalise the plans before they are published.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafmp.blog.gov.uk/2026/09/29/consultation-opens-on-three-joint-uk-pelagic-fmps/",
+        "blog": "Fisheries Management Plans",
+        "blog_link": "https://defrafmp.blog.gov.uk",
+        "description": "Have your say on proposed joint UK fisheries management plans covering greater silver smelt and horse mackerel. Submit your response by 10 November 2026."
+    },
+    {
+        "title": "Wrong pipe, wrong place: the misconnection problem",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-09-29T11:37:59",
+        "categories": [
+            "Rivers",
+            "Water",
+            "Water Monitoring"
+        ],
+        "content": [
+            {
+                "content": "Elizabeth Maerz, Environment Officer for Cumbria",
+                "tag": "p"
+            },
+            {
+                "content": "Every day, our officers investigate pollution reports across the country's rivers and lakes. Surprisingly often, the cause is something quite ordinary: a household drainage system connected the wrong way round.",
+                "tag": "p"
+            },
+            {
+                "content": "Windermere, England's largest lake, has become one of the most visible examples of this hidden problem. Here's what misconnections are, why they matter, and how you can help us find and fix them.",
+                "tag": "p"
+            },
+            {
+                "content": "How do pipe misconnections happen?",
+                "tag": "p"
+            },
+            {
+                "content": "Most modern homes have two separate drainage systems. One carries wastewater from toilets, sinks and washing machines to a treatment works. The other carries rainwater from roofs and driveways straight to rivers and lakes.",
+                "tag": "p"
+            },
+            {
+                "content": "A misconnection happens when these get mixed up, usually during home improvements or renovations. When wastewater ends up in the surface water system, sewage, detergents and food waste flow directly into rivers and lakes, bypassing treatment entirely.",
+                "tag": "p"
+            },
+            {
+                "content": "You can sometimes spot one just by looking at the pipework outside a newer property: if a pipe from a bathroom or kitchen is connected to a rainwater downpipe, that's a red flag.",
+                "tag": "p"
+            },
+            {
+                "content": "These faults are surprisingly common and hard to trace. In 2019, Defra estimated that between 150,000 and 500,000 UK households may have a misconnection, and new ones keep appearing whenever drainage is altered during building work.",
+                "tag": "p"
+            },
+            {
+                "content": "Mill Beck: a case in point",
+                "tag": "p"
+            },
+            {
+                "content": "Mill Beck, which feeds into Windermere, shows just how tricky these faults can be to pin down. The beck has long had elevated phosphorus and bacteria levels, especially in dry summer months.",
+                "tag": "p"
+            },
+            {
+                "content": "We first investigated in 2018 and identified where pollution was entering the watercourse. United Utilities repaired nearby sewers, but monitoring by the Environment Agency, Windermere Town Council and the Big Windermere Survey showed the problem hadn't gone away.",
+                "tag": "p"
+            },
+            {
+                "content": "So, in summer 2025, we went back for more extensive monitoring, and found pollution was still entering at the same spot. That led to a joint investigation with United Utilities and Westmorland and Furness Council, using CCTV surveys and dye testing across the local sewer network. The evidence so far points to misconnections as a likely contributor.",
+                "tag": "p"
+            },
+            {
+                "content": "Next, we'll be working with residents to carry out further dye testing at properties in the area, to confirm whether domestic drainage is behind the pollution.",
+                "tag": "p"
+            },
+            {
+                "content": "How do I report a potential misconnection?",
+                "tag": "p"
+            },
+            {
+                "content": "Many of our investigations start with a member of the public noticing something odd while out walking or by the water. Around Windermere especially, local residents and visitors have been vital in flagging unusual smells, discoloured water and visible discharges.",
+                "tag": "p"
+            },
+            {
+                "content": "Watch out for:",
+                "tag": "p"
+            },
+            {
+                "content": "Not every discharge is a problem (garden watering run-off is harmless), but a persistent flow in dry weather is a warning sign.",
+                "tag": "p"
+            },
+            {
+                "content": "If you spot any of these, report it to the Environment Agency online or call our free 24-hour hotline: 0800 80 70 60. Your report could be the missing piece we need to track down a pollution source, whether that's at Windermere or a stream near you.",
+                "tag": "p"
+            },
+            {
+                "content": "How does the EA resolve misconnection problems?",
+                "tag": "p"
+            },
+            {
+                "content": "Once we've got a report, we investigate; water sampling, checking drainage systems, and working with water companies on dye testing and CCTV surveys to trace exactly where things have gone wrong. You might spot us doing this at Mill Beck in the coming weeks.",
+                "tag": "p"
+            },
+            {
+                "content": "Fixing a misconnection is legally the property owner's responsibility, and water companies provide guidance to help. Most people sort it out voluntarily; where they don't, local authorities can enforce action under the Building Act 1984.",
+                "tag": "p"
+            },
+            {
+                "content": "The good news: misconnections can be fixed, and each one we correct helps improve the health of our rivers and lakes.",
+                "tag": "p"
+            },
+            {
+                "content": "Working together for cleaner rivers",
+                "tag": "p"
+            },
+            {
+                "content": "Misconnections are hidden underground, but their impact is felt in every river, stream and lake we care about, from Windermere to the smallest local brook. Understand the problem, report what you see, and together we can help resolve it.",
+                "tag": "p"
+            },
+            {
+                "content": "Understand. Report. Resolve.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/09/29/wrong-pipe-wrong-place-the-misconnection-problem/",
+        "blog": "Environment Agency: For homes and habitats.",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "Elizabeth Maerz, Environment Officer for Cumbria Every day, our officers investigate pollution reports across the country's rivers and lakes. Surprisingly often, the cause is something quite ordinary: a household drainage system connected the wrong way round. Windermere, England's largest lake, \u2026"
+    },
+    {
         "title": "Latest statement in response to small boat crossings",
         "authors": [
             "Home Office news team"
