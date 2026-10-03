@@ -1,5 +1,115 @@
 [
     {
+        "title": "Testing how AI could help improve case readiness in the Crown Court",
+        "authors": [
+            "Amar Morjaria - Deputy Director Digital Delivery and AI"
+        ],
+        "posted_on": "2026-10-02T14:00:00",
+        "categories": [
+            "Crime",
+            "Digital services",
+            "General"
+        ],
+        "content": [
+            {
+                "content": "We want to use court time as effectively as possible. That means making sure that, where possible, cases are ready to proceed when they come before a judge.",
+                "tag": "p"
+            },
+            {
+                "content": "As part of our wider work to tackle delays and improve the way the justice system works, HMCTS and the Ministry of Justice are exploring where artificial intelligence (AI) could help.",
+                "tag": "p"
+            },
+            {
+                "content": "We are identifying specific problems where technology could support our people, make processes more efficient and ultimately help us provide a better service for everyone who uses our courts and tribunals.",
+                "tag": "p"
+            },
+            {
+                "content": "Our focus is on using AI where it can solve real problems, while making sure appropriate safeguards, human oversight and clear governance are in place. We test new tools carefully, learn from how they work in practice and only consider wider use where there is clear evidence of benefit.",
+                "tag": "p"
+            },
+            {
+                "content": "In October 2026, we will take another step in that work by beginning a pilot of an AI Case Readiness Assistant at Inner London Crown Court.",
+                "tag": "p"
+            },
+            {
+                "content": "Helping staff identify issues earlier",
+                "tag": "h2"
+            },
+            {
+                "content": "\u00a0A lot of work happens before a Crown Court case reaches trial.",
+                "tag": "p"
+            },
+            {
+                "content": "\u00a0For a trial to go ahead as planned, important steps must be completed and key information must be available at the right time. If problems or missing information are only identified shortly before a hearing, this can lead to delays or mean the hearing cannot go ahead.",
+                "tag": "p"
+            },
+            {
+                "content": "The AI Case Readiness Assistant is being tested to explore whether technology can help court staff identify and track these issues earlier.",
+                "tag": "p"
+            },
+            {
+                "content": "The tool uses AI to review case information and identify actions that may still need to be completed. By highlighting potential issues earlier, this could help staff focus on what needs attention and take action earlier to help get cases ready to proceed.",
+                "tag": "p"
+            },
+            {
+                "content": "Court staff will review the information identified by the tool and remain responsible for deciding what action, if any, needs to be taken. The Case Readiness Assistant will not make or recommend judicial decisions and will not determine the outcome of a case or how the law should be applied.",
+                "tag": "p"
+            },
+            {
+                "content": "As always, listing remains a judicial function.\u00a0The judiciary continues to engage closely with the development and use of AI across the justice system through the Criminal Courts Improvement Group (CCIG) AI\u00a0working group, chaired by Mr Justice Johnson, the Deputy Senior Presiding Judge. This group considers how emerging technologies can support efficiency and fairness while maintaining appropriate human oversight and ethical safeguards.",
+                "tag": "p"
+            },
+            {
+                "content": "This builds on the approach we have previously outlined for AI at HMCTS, which puts human oversight at the heart of how we develop and test the technology. ",
+                "tag": "p"
+            },
+            {
+                "content": "Starting small and learning from the pilot",
+                "tag": "h2"
+            },
+            {
+                "content": "Introducing new technology into the justice system requires care. That is why we are starting with a pilot at Inner London Crown Court rather than immediately introducing the tool more widely.",
+                "tag": "p"
+            },
+            {
+                "content": "Working with court staff, we will use the pilot to understand how the technology performs in a real operational environment.",
+                "tag": "p"
+            },
+            {
+                "content": "We want to understand whether it helps staff identify outstanding issues earlier, whether it supports more effective case preparation and whether, in practice, it can contribute to better use of court time.",
+                "tag": "p"
+            },
+            {
+                "content": "The pilot will also give us an opportunity to learn directly from the people using the tool and understand where it works well and where it may need to improve.",
+                "tag": "p"
+            },
+            {
+                "content": "We will use that evidence to inform what happens next. We will only consider taking the technology further if it demonstrates clear value and can be used safely and responsibly. ",
+                "tag": "p"
+            },
+            {
+                "content": "Our wider approach to AI",
+                "tag": "h2"
+            },
+            {
+                "content": "This pilot is one part of our wider work to understand how AI could support the administration of justice.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ve previously explained how HMCTS is exploring AI to address specific challenges, including work involving transcription and summarisation, anonymisation, and search and assistant capabilities within case management systems.",
+                "tag": "p"
+            },
+            {
+                "content": "Technology alone will not solve the pressures facing the justice system. Used carefully and responsibly, it has the potential to help our people to spend their time more effectively and to support the delivery of a justice system that is faster, simpler and easier to use.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidehmcts.blog.gov.uk/2026/10/02/testing-how-ai-could-help-improve-case-readiness-in-the-crown-court/",
+        "blog": "Inside HMCTS",
+        "blog_link": "https://insidehmcts.blog.gov.uk",
+        "description": "We want to use court time as effectively as possible. That means making sure that, where possible, cases are ready to proceed when they come before a judge. As part of our wider work to tackle delays and improve the way the justice system works, HMCTS and the Ministry of Justice are exploring where artificial \u2026"
+    },
+    {
         "title": "What owning land or property near a public highway can mean",
         "authors": [
             "Joel Roberts, Practice Adviser, Customer Engagement and Development"
