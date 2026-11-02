@@ -1,0 +1,287 @@
+[
+    {
+        "title": "Architecture is for everyone: designing better public services together",
+        "authors": [
+            "Phil Rumens, Government Chief Architect, Government Digital Service",
+            "Phil Rumens, Principal Technologist, GDS"
+        ],
+        "posted_on": "2026-11-02T10:47:50",
+        "categories": [
+            "Architecture",
+            "Digital transformation",
+            "Technology"
+        ],
+        "content": [
+            {
+                "content": "As I start my new role as Government Chief Architect, one of the questions I want us to think about is what it really means to be an architect for digital, data, or technology in the public sector and how architectural thinking can help us design better public services.",
+                "tag": "p"
+            },
+            {
+                "content": "What does it mean to be an architect in government?\u202f\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The official answer, from the Government Digital and Data Profession Capability Framework, is a professional role group focused on designing, structuring and aligning public sector capabilities, systems and data to deliver effective government services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In practice, that means looking beyond any one service or system and asking how the pieces fit together, whether the technology, data and ways of working we've inherited are still serving the people who use them, and what needs to change if they're not. This wider view helps people across public services make better informed decisions, avoid solving problems in isolation and design services that work more effectively together.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Redesign, not renovate\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Public services have often grown incrementally and without a joined-up design. A new system here, a workaround there, another layer added to keep things running. Renovating to deliver short-term improvements can only take us so far.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Like a building that's outlived the purpose it was designed for, the structure itself can often be the problem.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In some cases, redesign means knocking down walls to create a more joined-up approach, for example to share data, which is something the National Data Library is working on.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Data locked in unconnected systems, held under individual arrangements and described in separate ways makes it harder to deliver services that work for people, and harder to make good decisions. A more open plan approach but still locked in the confines of a secure environment works better.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In other cases, it means designing something new from the ground up, which is the approach of CustomerFirst. Starting from what people need, rather than from what the existing architecture can do, opens up different choices.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In both examples, this isn't about improving within the constraints of the current constructs. It\u2019s about redesigning them so they can support joined-up public services that are simpler to access, easier to navigate and better able to respond to people\u2019s needs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Architecture is for everyone\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "In September we ran our first cross public sector architects community event,\u00a0 \u201cArchitects Assemble\u201d, hosted by the Local Government association, and one thing came across loud and clear; the design of new architecture isn't limited to people with \u201cArchitect\" in their job title.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Service designers, developers, product managers, data specialists, delivery leads and policy colleagues all make decisions that shape how a service fits together.\u00a0 Frontline workers also have an important part to play, bringing real-world insight into where the connections between technology, data and services could be improved.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Every choice about how data is stored, which components to reuse or how a service connects to others is an architectural decision, whether or not it happens to be labelled as one.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This the approach GDS Local is taking with co-creating the Local Government Architecture Model, with people working in councils, government departments and the private sector all contributing, and we continue to build out and iterate it, to make it even more useful for those who use it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Working in this way also gives practitioners the opportunity to learn from others facing similar challenges, share approaches that have worked, build connections across organisational boundaries and contribute to how architecture practice develops across the public sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So, architecture works best as a shared responsibility, with a common language and a shared understanding of what good looks like, not something done by a specialist team alone and handed over but co-created with the teams that use it.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Shared responsibility, specialist expertise\u00a0\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "None of this means the specialist roles go away. We'll always need people whose job is to see the big picture and build firm foundations.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Enterprise, solution and technical architects and others in the profession, who can see across organisational boundaries, spot dependencies and duplication, and make the case for long-term coherence when short-term pressures pull the other way.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Specialists help teams apply architectural thinking consistently and effectively.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "They can provide the patterns, standards and guidance that make good decisions easier, and challenge and support teams on the trade-offs, and it\u2019s why the Government Digital Service published an Architectural Decision Record Framework, to establish the practice of documenting architectural decisions across teams, programmes, and organisations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Making architecture everyone's business needs strong specialists to help it work. That's what we mean by \u201cArchitects Assemble\u201d: bringing together the people who contribute to architectural thinking, with the expertise and leadership of the architecture profession at its heart.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Help shape architecture across government\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "If we're serious about designing better, more joined-up public services, we need to bring together the people who shape the services, technology and data they rely on.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That's why we're building Architects Assemble, a community bringing together architects and others involved in architectural thinking from across the public sector. Whether you're an architect by profession or your work contributes to architectural decisions, the community is a place to connect with others facing similar challenges, share experience and expertise, and learn from approaches being developed across government.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through events, webinars and other opportunities to connect, the community will help practitioners build stronger relationships across organisational boundaries, discuss common challenges and contribute to how architecture practice develops across the public sector.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our next webinar takes place on Tuesday 3 November 2026, 11am to 12.30pm, providing an opportunity to hear more, connect with others and get involved in the conversation.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you'd like to be part of the community and help shape what comes next, register your interest in joining Architects Assemble.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://technology.blog.gov.uk/2026/11/02/architecture-is-for-everyone-designing-better-public-services-together/",
+        "blog": "Technology in government",
+        "blog_link": "https://technology.blog.gov.uk",
+        "description": "Architecture is for everyone. Whether you're a developer, service designer, policymaker or architect by profession, the decisions you make help shape how public services work. By bringing people together across disciplines, we can share expertise, challenge assumptions and build the foundations for better, more joined-up public services."
+    },
+    {
+        "title": "Building major infrastructure that leaves nature better off",
+        "authors": [
+            "Environment blog team"
+        ],
+        "posted_on": "2026-11-02T10:02:12",
+        "categories": [
+            "Biodiversity net gain",
+            "Land use",
+            "Planning"
+        ],
+        "content": [
+            {
+                "content": "New reservoirs, energy networks, roads and railways will help shape the co1untry for decades to come. They also offer an opportunity to restore habitats and create more space for wildlife \u2013 from new wetlands to connected corridors where nature can thrive.",
+                "tag": "p"
+            },
+            {
+                "content": "Biodiversity Net Gain (BNG) turns that opportunity into a measurable commitment.",
+                "tag": "p"
+            },
+            {
+                "content": "From today, 2 November 2026, developers applying for a Development Consent Order (DCO) for nationally significant infrastructure projects (NSIPs) in England must ensure their project delivers at least a 10% net gain in biodiversity.",
+                "tag": "p"
+            },
+            {
+                "content": "For NSIP developers, this brings a consistent framework for building nature recovery into these much needed infrastructure projects from the outset. For nature, it means major infrastructure will contribute to lasting landscape-scale habitat improvements.",
+                "tag": "p"
+            },
+            {
+                "content": "A consistent framework with flexibility for NSIP developers",
+                "tag": "h3"
+            },
+            {
+                "content": "The framework builds on the experience of infrastructure providers already delivering BNG voluntarily. It gives developers a consistent set of requirements to plan against, with flexibility to deliver biodiversity gains on site, off site or through a combination of both.",
+                "tag": "p"
+            },
+            {
+                "content": "The approach is tailored to major infrastructure. Requirements focus on habitats affected by development, rather than the whole development site, with a simpler approach for qualifying temporary impacts. It delivers on recommendations from the Nuclear Regulatory Taskforce Review, led by John Fingleton, for a streamlined BNG framework that supports infrastructure delivery and nature recovery.",
+                "tag": "p"
+            },
+            {
+                "content": "Developed through extensive engagement with industry and the environmental sector, the BNG framework is supported by guidance to help applicants, advisers and decision-makers apply the requirements.",
+                "tag": "p"
+            },
+            {
+                "content": "What NSIP developers need to do",
+                "tag": "h3"
+            },
+            {
+                "content": "NSIP developers should consider BNG from the earliest stages of project design, alongside other environmental requirements, and engage early with ecologists and relevant stakeholders.",
+                "tag": "p"
+            },
+            {
+                "content": "Early planning helps developers identify opportunities to avoid habitat loss, incorporate improvements into scheme design and plan the long-term management needed to deliver them.",
+                "tag": "p"
+            },
+            {
+                "content": "DCO applications must include an outline biodiversity gain plan explaining how the project will achieve at least 10% BNG, supported by a biodiversity metric calculation.",
+                "tag": "p"
+            },
+            {
+                "content": "Developers must follow the biodiversity gain statement relevant to their project, to meet the mandatory requirements. Our guidance for NSIP developers provides further detail on the steps to take through design, consenting and delivery.",
+                "tag": "p"
+            },
+            {
+                "content": "Lasting benefits for nature and communities",
+                "tag": "h3"
+            },
+            {
+                "content": "For major infrastructure, BNG offers opportunities to restore land, create wetlands and connect habitats so wildlife can move through the landscape. These improvements can contribute to wider nature recovery ambitions and the government\u2019s environmental targets.",
+                "tag": "p"
+            },
+            {
+                "content": "To ensure lasting benefits for wildlife, significant on-site habitat gains and off-site gains must be legally secured, managed and monitored for at least 30 years. On-site gains can be secured through DCO requirements, planning obligations or conservation covenants.",
+                "tag": "p"
+            },
+            {
+                "content": "Depending on how they are designed and managed, habitat improvements can also help manage flood risk, store carbon, improve air and water quality, and provide greener surroundings for communities.",
+                "tag": "p"
+            },
+            {
+                "content": "Extending mandatory BNG to NSIPs is also expected to generate additional demand for biodiversity units, supporting the off-site market.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Industry voices welcome mandatory BNG for NSIPs",
+                "tag": "h3"
+            },
+            {
+                "content": "Julia Baker, Global Submarket Lead for Biodiversity and Nature at Mott MacDonald, said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cMandatory biodiversity net gain is a once-in-a-generation opportunity for major infrastructure to help restore nature while delivering lasting benefits for communities. The focus now must be on making BNG an integral part of infrastructure design and long-term management, rather than simply a requirement to meet\u201d.",
+                "tag": "p"
+            },
+            {
+                "content": "Kat Stanhope, Strategic BNG Manager at National Grid, said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201c[This] is an important step forward for both nature recovery and the delivery of critical infrastructure.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cAs we build the network Britain needs for its energy future, which will include a large number of Nationally Significant Infrastructure Projects, BNG offers an opportunity to create lasting value for people and the environment, at scale, supporting more resilient landscapes, thriving habitats and benefits for local communities alongside the infrastructure the country needs.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Sally Hayns, CEO of the Chartered Institute of Ecology and Environmental Management (CIEEM), said:\u00a0\u201cFrom today, leaving nature better off becomes a condition of consent for major infrastructure projects.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis is a 'build once, benefit twice' approach we welcome: wildlife corridors alongside power lines, new wetlands at reservoirs and rich habitats along new railways.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThis is the future of nature restoration at scale, and ecologists across the country are on the ground ready to apply Biodiversity Net Gain to our biggest builds - where the biggest gains lie.",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cEarly ecological input will be essential to seize the opportunities: more climate-resilient development, thriving nature markets, better flood management and greener surroundings for local communities.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Tom Clancy, Head of Environmental Delivery, National Highways, said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cWe welcome the introduction of mandatory biodiversity net gain for Nationally Significant Infrastructure Projects. Implementing voluntary BNG across our major enhancement portfolio to date has resulted in improved optioneering and design decisions that have better outcomes for nature and communities.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Next steps",
+                "tag": "h3"
+            },
+            {
+                "content": "We will continue working with Natural England, the Planning Inspectorate, the Planning Advisory Service, local authorities and other stakeholders to support a smooth transition to mandatory BNG for NSIPs and help developers put the framework into practice.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/11/02/building-major-infrastructure-that-leaves-nature-better-off/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "From today, developers of nationally significant infrastructure projects in England must ensure their project delivers at least a 10% net gain in biodiversity."
+    }
+]
