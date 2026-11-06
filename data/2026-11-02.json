@@ -1,5 +1,704 @@
 [
     {
+        "title": "How can collaboration across user-centred design teams support complex digital delivery?\u00a0",
+        "authors": [
+            "Kate Charles"
+        ],
+        "posted_on": "2026-11-06T12:09:30",
+        "categories": [
+            "Design",
+            "Our services",
+            "User Centred Design",
+            "User research"
+        ],
+        "content": [
+            {
+                "content": "People do not experience justice services as fragmented products or user flows. The experience of the end user does not mirror the team divides and product boundaries we create to deliver those services. In real life, people\u2019s journeys cross several systems and processes, so improving one part in isolation is rarely enough.",
+                "tag": "p"
+            },
+            {
+                "content": "Beneath that cohesive experience, at the heart of MoJ service transformation, is complexity. How can digital service delivery at its best simplify complexity at a strategic level and create smooth, unified experiences?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What Really is Complexity?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "According to systems thinking, complexity describes interconnected systems. The difference between a complex system and a complicated one is predictability. Interconnectivity is complicated when connected parts impact each other predictably. Contrastingly, the behaviour of complex elements and how they will affect each other is often unpredictable, with change emerging over time. Outcomes can never be entirely known.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Let\u2019s Get Strategic: Smarter not Harder\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There is a principle in UX law that systems come to mirror the team structures that build them, known colloquially as the \u2018pants over trousers\u2019 rule. Similarly, it\u2019s easy for this to occur in reverse: methods come to mirror system complexity. Teams introduce many varied, tactical solutions with a whack-a-mole effect, rather than stepping back and looking at wider strategy.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Thanks to their brilliance, our teams tackle this complexity skilfully and willingly. However, we understand that it\u2019s inevitable among proactive teams that solutions-at-speed pop up that are tactical, rather than strategic: Localised, short-term improvements in isolated areas can lead to the creation of new issues, potentially taking a toll on efficiency and even wellbeing.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "So, which strategic initiatives support complexity? Here are a few we have found work well\u2026\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "End-to-End Research Benefits All\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Historically, the Crime Applications service consisted of several, siloed product teams, some on legacy and some on newly transformed parts of the product. User researchers from four teams collaborated to design usability testing for the entire end-to-end journey across both legacy and transformed services.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "End-to-end insight revealed previously unseen offline tasks, which were then prioritised and incorporated into the digital journey.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately, this uncovered how the products work together as one, rather than in isolation, replicating how they are really experienced. The result was not only a more cohesive and consistent experience. The initiative encouraged closer ways of working between teams, who continue to develop a shared strategy to improve the end-to-end journey holistically.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dig a Little Deeper: root-causes\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bringing teams together can take different shapes and forms. When challenges and blockers have come to seem intractable, we have found the Five Why workshop format allows us to come together and collectively uncover root causes. The format moves beyond the obvious issue by repeatedly asking \u2018why?\u2019 to get closer to the underlying cause. It follows basic if/then logic, applying cause-and-effect thinking.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We recently joined two teams together, where one team represented user submissions and the other represented users assessing submissions. Merging the teams meant both sides of the service interaction could be considered as one whole and allowed for closer collaboration. During the merger, we ran a Five Whys workshop to better understand the root causes where collaboration had created delays or uncertainty. This helped us understand where the real gaps were and how they connected across the service, rather than looking for a solution within a single team.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Single-Source-of-Truth\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Wherever possible, we try to create a single source of truth to support collective understanding at a higher-level.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Recently within Legal Aid Agency Digital (LAAD), we collaborated with policy colleagues to create detailed journey maps of the crime and civil end-to-end. This has supported conversations between policy, digital and operations to decide which steps in the process are ripe for 'simplification', change that requires not just a new digital skin but changes to the rules that govern things. Our researchers and service designers combined our disparate insights into one map, which they shared among different disciplines across the business to both validate and discuss implications.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Creating a \u2018visual map\u2019 like this enables us to demonstrate impact on users more effectively than written reports. Senior stakeholders can see the \u2018headlines\u2019 at a glance. Similarly, a single service blueprint is invaluable, even more so when it includes issues experienced by users. A single log of user needs allows strategic needs (those that shape real product change) to be highlighted.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Powerful Insights\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Justice Research team is creating a central research repository, using AI to bring insights from across the organisation together. The aim is to enable us to look across services, agencies and teams to understand common, powerful themes and issues across the justice system.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "However sometimes holistic insight is a happy side-effect. Wherever possible we have tried to centre cross-cutting activities around knowledge-share that actively strengthens collective insight, which in turn enhances cohesive product quality.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cross-cutting Justice Design Crits, for example, have the incidental benefit of requiring people to share why they would suggest certain improvements, whether it\u2019s due to previously little-known caseworker way-of-working or a provider need. As a result, group understanding of justice users grows together, as well as embedding that group intelligence into the product. People become a guardrail for quality.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beyond Artificial Siloes\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To get a complex usable product across the line it\u2019s necessary to be product orientated. However, this can lead us to overlook the fact that digital products play only a small - and hopefully supportive - part in rich, real experiences.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "To combat this, over the last nine months in LAAD, we have established a small working group whose aim is to understand how the LAAD product is experienced, as a whole. The group consists of one service designer and two user researchers with the benefit of working primarily outside product teams. Their insights are not constrained to product silos and instead reflect the holistic way end users truly access a product.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "This helps us think beyond product boundaries and identify opportunities for service transformation that we may not have previously identified. The team is identifying gaps in our understanding as an organisation, prioritising those discovery opportunities with the greatest potential for impact.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Beta\u2019 is Better than Never (and Sooner is Best!)\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Kicking off these types of initiatives sooner rather than later has several perks. Discovery is exponentially richer, more insightful and impactful. Teams grow together and are more adaptable to change.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Laying down a stable foundation ensures quality later. Activities like exploratory end-too-end research and root cause analysis give teams the opportunity to think slow, as well as fast. Implementing them from the start creates cohesion of both insight and people.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s the golden thread across these examples? A holistic view is invaluable.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It is a common sentiment that simplifying complexity is part of user-centred design; but we cannot do that without stepping out of the weeds to identify how parts of the user experience connect and to scan for what is being overlooked. It is often only a bird\u2019s eye view that allows you to see the most impactful, simple solutions that align with the daily lives of users.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mojdigital.blog.gov.uk/2026/11/06/how-can-collaboration-across-user-centred-design-teams-support-complex-digital-delivery/",
+        "blog": "Justice Digital, Data and Science ",
+        "blog_link": "https://mojdigital.blog.gov.uk",
+        "description": "People do not experience justice services as fragmented products or user flows. The experience of the end user does not mirror the team divides and product boundaries we create to deliver those services. In real life, people\u2019s journeys cross several \u2026"
+    },
+    {
+        "title": "From the classroom to code - Why it is never too late to be curious",
+        "authors": [
+            "karlharvey1"
+        ],
+        "posted_on": "2026-11-06T08:06:47",
+        "categories": [
+            "#GFIEsuccessstory",
+            "Break down barriers to opportunity",
+            "Life Chance Recruitment",
+            "National STEM Day",
+            "Pathway to STEM"
+        ],
+        "content": [
+            {
+                "content": "National STEM (Science, Technology, Engineering and Mathematics) Day 2026 takes place on 8th November and the focus is on innovation\u2014challenging us to ask questions, solve problems, and build something new.",
+                "tag": "p"
+            },
+            {
+                "content": "For Lauren, curiosity and the willingness to try something completely new have taken her from primary school teaching and running her own photography business, to starting a new career in technology through the GFiE Pathways to STEM scheme at the Intellectual Property Office (IPO).",
+                "tag": "p"
+            },
+            {
+                "content": "Lauren\u2019s journey shows that there is no single route into STEM, and that you do not need to have started your career in technology to build a future in it.",
+                "tag": "p"
+            },
+            {
+                "content": ".",
+                "tag": "p"
+            },
+            {
+                "content": "About Pathways to STEM",
+                "tag": "h3"
+            },
+            {
+                "content": "Pathways to STEM is a GFiE-accredited Pathway designed to help address STEM skills shortages across the Civil Service, while breaking down barriers to employment for people from underrepresented groups. Working with partners, the pathway creates accessible, skills-focused routes into STEM for people whose potential may not always be recognised through traditional recruitment routes.",
+                "tag": "p"
+            },
+            {
+                "content": "Lauren\u2019s journey is one example of the difference these opportunities can make. By focusing on potential and a willingness to learn, Pathways to STEM helps people from different backgrounds access opportunities, develop new skills and build careers in STEM that they may once have thought were out of reach.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are interested in using Pathways to STEM to recruit talented individuals into STEM roles for your department, please contact the Pathway to STEM Lead on GFiE@ipo.gov.uk",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gfie.blog.gov.uk/2026/11/06/from-the-classroom-to-code-why-it-is-never-too-late-to-be-curious/",
+        "blog": "Life Chance Recruitment - Going Forward into Employment (GFiE)",
+        "blog_link": "https://gfie.blog.gov.uk",
+        "description": "National STEM (Science, Technology, Engineering and Mathematics) Day 2026 takes place on 8th November and the focus is on innovation\u2014challenging us to ask questions, solve problems, and build something new. For Lauren, curiosity and the willingness to try something completely \u2026"
+    },
+    {
+        "title": "Inside our AI and Data accelerator: what we are learning from test and learn work in Barnsley",
+        "authors": [
+            "Ashna Devaprasad - Government Outcomes Lab",
+            "Clare Holden - Product and Strategy Lead for Test, Learn and Grow, Cabinet Office"
+        ],
+        "posted_on": "2026-11-06T07:30:00",
+        "categories": [
+            "Test, Learn and Grow programme"
+        ],
+        "content": [
+            {
+                "content": "Rarely a day goes by without hearing the words \u2018artificial intelligence\u2019. From news reports to boardroom strategies to conversations during the daily commute, AI seems to be everywhere. And a day in government is no different.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Policymakers in Whitehall want to scale up AI adoption to transform public services. The Prime Minister's new AI Taskforce is the latest sign of this ambition. But we still know very little about what it actually takes to deploy and evaluate these technologies in the public sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Our Test, Learn and Grow (TLG) accelerator on AI and data for children\u2019s services is trying to change that by working directly with local authorities to \u2018test\u2019 how AI can improve services before committing to rolling anything out at scale. The Government Outcomes Lab works as TLG\u2019s independent learning and evaluation partner.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Clare and Ashna both work on the accelerator. Clare oversees the accelerators work day-to-day with Barnsley partners and Ashna brings her evaluation expertise - observing how the work evolves and feeding back learnings that could help others adapt and scale similar projects elsewhere. In this blog, they share three early learnings from Wave 1 of the accelerator\u2019s work.",
+                "tag": "p"
+            },
+            {
+                "content": "To see this work in action watch this video.",
+                "tag": "p"
+            },
+            {
+                "content": "Why Barnsley, why now?",
+                "tag": "h2"
+            },
+            {
+                "content": "A local authority is where most citizens engage tangibly with the state. It is where families access essential services; from housing, education, health and social care, to benefits, tax, and safeguarding. But local authorities are busy, complex, multi-layered organisations.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The number of looked after children has increased 70% in 30 years, now consuming a quarter of Local Authority service budgets. In 2025, Barnsley had 56 children in external residential care placements, costing \u00a30.5m per child a year in April 2026.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We know we want to improve public services so they work more efficiently, are better connected to local communities and improve lives. However, without testing an idea or plan using a prototype, it becomes impossible to know whether AI might play a valuable role, and the risks it might pose for residents accessing public services.",
+                "tag": "p"
+            },
+            {
+                "content": "This accelerator is working closely with partners in Barnsley to explore whether council teams can use data and technology to take a more prevention-focused approach to service delivery, so that at-risk children and families in Barnsley receive the right support, at the right time and avoid care placements.",
+                "tag": "p"
+            },
+            {
+                "content": "This work is also taking place as Barnsley becomes the UK\u2019s first government-backed Tech Town. Tech Town is a partnership between central government, Barnsley Council and local organisations, set up to explore practical, AI use cases that originate in place. The ambition is for Barnsley to act as a trailblazer, testing how AI can tackle bespoke challenges in different sectors, and as a result, improve everyday life while keeping change rooted in local priorities, institutions and residents\u2019 perspectives.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "That work is already underway: from new AI skills and training programmes for residents, workers and businesses, including the AI Upskilling Challenge Fund and the AI Career Launchpad. Barnsley Council is also developing The Seam Digital Campus and National Centre for Digital Technologies, and offering programmes such as Ignite AI and Meld AI to help local businesses build the confidence and capability to use AI. Together, these Tech Town initiatives make up the wider context and local conditions in which the TLG Accelerator is working. For evaluation, it is important to monitor how this wider activity may influence the accelerator\u2019s progress.",
+                "tag": "p"
+            },
+            {
+                "content": "Three early lessons",
+                "tag": "h2"
+            },
+            {
+                "content": "After starting in December 2025, most of the accelerator\u2019s early work involved conducting sessions with Barnsley Council and frontline services to understand the issue and design a clear roadmap for this work.",
+                "tag": "p"
+            },
+            {
+                "content": "Learning 1: Defining the right problem to focus on takes time, and involves a lot of people and decision making\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "Working out the exact scope of the problem and finding the right people to talk to at different levels of a local authority is crucial. Before testing anything, the accelerator has recognised the value of doing relational work first:",
+                "tag": "p"
+            },
+            {
+                "content": "The learning generated from this \u2018discovery\u2019 process has opened up more questions, such as:",
+                "tag": "p"
+            },
+            {
+                "content": "Learning 2: Being willing to change course is a good thing, and perhaps the very essence of doing \u2018test and learn\u2019",
+                "tag": "h3"
+            },
+            {
+                "content": "A couple of months in, the accelerator made a deliberate decision to change focus and pivot from their original plans, which was improving productivity for frontline staff in the council.",
+                "tag": "p"
+            },
+            {
+                "content": "This happened after several conversations and brainstorming exercises with place partners, who understood that frontline teams in Barnsley often work in crisis mode. The question became: could a more targeted, strategic intervention create change in an organisation constantly trapped in crisis?",
+                "tag": "p"
+            },
+            {
+                "content": "They used this insight to shift the focus to strategic-level stakeholders, to help develop a shared \u2018service delivery transformation ambition\u2019 for the council.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Although this decision to pivot caused a temporary drop in confidence levels for the accelerator team, having this insight from frontline teams meant that this was valuable learning and a useful course-correction early in the process.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Learning 3: Data and AI solutions can\u2019t be adopted in isolation from the wider institution\u00a0",
+                "tag": "h3"
+            },
+            {
+                "content": "The accelerator\u2019s own pace of technology adoption can only move as fast as the local authority - as an institution and system - is able to absorb it. Institutional practice and organisational culture matter just as much as the technology itself. For this accelerator, this has meant understanding:",
+                "tag": "p"
+            },
+            {
+                "content": "Without understanding how their \u2018test and learn\u2019 work interacts with these local conditions, it is hard to say what is working and what needs to change.",
+                "tag": "p"
+            },
+            {
+                "content": "Evaluating a moving target",
+                "tag": "h2"
+            },
+            {
+                "content": "As a team of evaluators, we are in a unique and unusual position. In traditional government evaluation, findings are often published at the end of a programme. The Government Outcomes Lab is part of a live TLG partnership, so we can share learning as we go, and the programme can act on it in real time.",
+                "tag": "p"
+            },
+            {
+                "content": "This also makes us think carefully about our role in a programme where the work keeps evolving. What counts as good evidence? How do we balance the flexibility an agile accelerator needs with the rigour a robust evaluation demands? What outcomes should we hold a reform programme accountable for, when it's built on learning from failure as much as success? We'll return to this in a future post.",
+                "tag": "p"
+            },
+            {
+                "content": "What\u2019s coming next",
+                "tag": "h2"
+            },
+            {
+                "content": "A lot of what we have seen so far is likely to change as the accelerator\u2019s work progresses.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "We expect that insights from Barnsley will help us understand how to approach AI implementation in other regions and types of services.",
+                "tag": "p"
+            },
+            {
+                "content": "Want to learn more or get involved?",
+                "tag": "h2"
+            }
+        ],
+        "link": "https://testlearnandgrow.blog.gov.uk/2026/11/06/inside-our-ai-and-data-accelerator-what-we-are-learning-from-test-and-learn-work-in-barnsley/",
+        "blog": "Test, Learn and Grow",
+        "blog_link": "https://testlearnandgrow.blog.gov.uk",
+        "description": "As government interest in AI grows, using it in local public services is still very new. Discover key lessons from the Test, Learn and Grow project in Barnsley\u2014including why building strong relationships early matters, how to adapt when plans change, and why AI must fit into existing council processes."
+    },
+    {
+        "title": "UK providing specialist care to aid worker with Ebola",
+        "authors": [
+            "Blog Editor"
+        ],
+        "posted_on": "2026-11-05T21:00:55",
+        "categories": [
+            "Global health"
+        ],
+        "content": [
+            {
+                "content": "This post relates to an emerging incident and will be updated as new information becomes available",
+                "tag": "p"
+            },
+            {
+                "content": "A British person has been diagnosed with Ebola after helping with the outbreak response in the DRC and has been brought to the UK for specialist treatment.",
+                "tag": "p"
+            },
+            {
+                "content": "They have been safely transported back to the UK via medevac - a specialist flight during which an individual receives detailed medical care, and are now in one of the UK's High Consequence Infectious Disease (HCID) units at the Royal Free Hospital, London. HCID units are specialist NHS units designed to safely treat people diagnosed with rare and serious infections.",
+                "tag": "p"
+            },
+            {
+                "content": "Large infectious disease outbreaks like the current Ebola outbreak in the Democratic Republic of the Congo (DRC) require a large scale, international response. Specialists from countries around the world are assisting on the ground in DRC. Outbreak responses like this one always carry risk of the infection spreading to those who are responding.",
+                "tag": "p"
+            },
+            {
+                "content": "The risk to the UK public remains low. The UK has well-established systems, specialist facilities and highly trained staff for managing infectious diseases like Ebola. This post explains what is happening, how Ebola spreads and what you need to do.",
+                "tag": "p"
+            },
+            {
+                "content": "Why is this person being medically evacuated and why can\u2019t they remain in DRC for treatment?",
+                "tag": "h2"
+            },
+            {
+                "content": "The medical evacuation of a British worker with a high consequence infectious disease such as Ebola is part of our duty of care to those serving in challenging and high-risk environments overseas. This ensures the individual has access to specialist care within the UK health system, while being closer to family and other support networks during treatment and recovery.",
+                "tag": "p"
+            },
+            {
+                "content": "This approach reflects the UK's commitment to supporting humanitarian workers who undertake difficult and important work on behalf of vulnerable communities around the world.",
+                "tag": "p"
+            },
+            {
+                "content": "Due to the precautions taken, this medical evacuation will not increase the risk to the UK public.",
+                "tag": "p"
+            },
+            {
+                "content": "Do I need to take any extra precautions?",
+                "tag": "h2"
+            },
+            {
+                "content": "No. The overall risk to the UK has not changed, and the patient is being treated in isolation. You do not need to take any extra precautions.",
+                "tag": "p"
+            },
+            {
+                "content": "How is the specialist unit at the Royal Free Hospital different from an ordinary hospital ward?",
+                "tag": "h2"
+            },
+            {
+                "content": "The Royal Free Hospital has specialist high-level isolation beds and some of the best facilities in the world for treating unusual infectious diseases. The patient is being treated in isolation. This means there is minimal risk of Ebola spreading as a result of this case.",
+                "tag": "p"
+            },
+            {
+                "content": "Staff in these units are highly trained and follow strict protocols to protect themselves, other NHS staff and the public.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Can Ebola spread to other people during a medevac transfer to the UK?",
+                "tag": "h2"
+            },
+            {
+                "content": "This is extremely unlikely. The patient was transported by highly trained specialists who wear full personal protective equipment (PPE) and follow strict infection control procedures throughout the journey.",
+                "tag": "p"
+            },
+            {
+                "content": "How does Ebola spread?",
+                "tag": "h2"
+            },
+            {
+                "content": "Ebola spreads through direct contact with the body fluids of a person who is sick with the virus, such as vomit, diarrhoea or blood. It is not airborne, so it cannot be caught from particles in the air. This makes it very different from infections such as flu and COVID-19, which spread much more easily through coughs and sneezes.",
+                "tag": "p"
+            },
+            {
+                "content": "Healthcare workers caring for patients with Ebola wear full protective equipment when they are in close contact with a patient. This prevents the infection spreading by creating a barrier between the healthcare worker and the bodily fluids of an infected person.",
+                "tag": "p"
+            },
+            {
+                "content": "What are the symptoms of Ebola, and how long do they take to appear?",
+                "tag": "h2"
+            },
+            {
+                "content": "Symptoms can appear between 2 and 21 days after coming into contact with the infection, and on average after 8 to 10 days. Illness usually starts suddenly with a fever, headache, tiredness, muscle pain and a sore throat. After a few days, symptoms such as nausea, diarrhoea and vomiting often follow.",
+                "tag": "p"
+            },
+            {
+                "content": "Many other illnesses, such as malaria, cause similar symptoms which is much more common in returning travellers.",
+                "tag": "p"
+            },
+            {
+                "content": "Is the NHS prepared?",
+                "tag": "h2"
+            },
+            {
+                "content": "The NHS has well-established processes for managing an Ebola case, including rapid testing and strict infection prevention and control in healthcare settings. The UK Health Security Agency (UKHSA) provides clinical advice and testing to the NHS for viral haemorrhagic fevers, including Ebola, and has a test for the strain causing this outbreak in the DRC.",
+                "tag": "p"
+            },
+            {
+                "content": "What should I do if I think I might have Ebola?",
+                "tag": "h2"
+            },
+            {
+                "content": "Unless you have visited an affected country and been in contact with the body fluids of an infected person, there is very little chance that you have Ebola.",
+                "tag": "p"
+            },
+            {
+                "content": "If you have visited the DRC or other affected surrounding areas in the last 21 days and you become unwell with symptoms such as fever, chills, muscle aches, vomiting, diarrhoea or a sore throat, you should:",
+                "tag": "p"
+            },
+            {
+                "content": "You should not go to a GP surgery or hospital without calling first.",
+                "tag": "p"
+            },
+            {
+                "content": "Is there a vaccine or treatment?",
+                "tag": "h2"
+            },
+            {
+                "content": "There are currently no licensed vaccines or treatments for most species of Ebola virus, including the Bundibugyo strain causing the current outbreak. Vaccines and treatments exist for a different species of Ebola virus. Specialist teams will provide the patient with the best available supportive care.",
+                "tag": "p"
+            },
+            {
+                "content": "I'm planning to travel to an affected area. What should I do?",
+                "tag": "h2"
+            },
+            {
+                "content": "If you are planning to visit an area affected by the current outbreak, think carefully about your plans and speak to a travel health specialist. You can find advice on the NaTHNaC Ebola disease page and from the FCDO.",
+                "tag": "p"
+            },
+            {
+                "content": "Organisations sending workers to affected areas, where they may be exposed to Ebola through their work, should register them with the UKHSA Returning Workers Scheme. The scheme has been activated to protect and monitor the health of these workers. UKHSA is closely monitoring the situation and will provide updates if anything changes. A dedicated page on GOV.UK lists outbreaks and case locations of haemorrhagic fevers Ebola and Marburg.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://ukhsa.blog.gov.uk/2026/11/05/uk-providing-specialist-care-to-aid-worker-with-ebola/",
+        "blog": "UK Health Security Agency",
+        "blog_link": "https://ukhsa.blog.gov.uk",
+        "description": "A British person has been diagnosed with Ebola after helping with the outbreak response in the DRC and has been brought to the UK for specialist treatment."
+    },
+    {
+        "title": "Misleading reporting on the Overnight Visitor Levy",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-11-05T15:48:51",
+        "categories": [
+            "Council finance",
+            "Devolution",
+            "Local government"
+        ],
+        "content": [
+            {
+                "content": "This week the government introduced the Visitor Levy Bill in Parliament, bringing local leaders a step closer to new powers to invest in the high streets, cultural sites and attractions that make communities great places to live, work and visit.",
+                "tag": "p"
+            },
+            {
+                "content": "This was welcomed by almost a dozen mayors, as well as cultural organisations and academics.",
+                "tag": "p"
+            },
+            {
+                "content": "However, there has been some misleading media reports claiming that accommodation providers face 14 years in jail for not paying the Overnight Visitor Levy and could have to repay it for up to 20 years.",
+                "tag": "p"
+            },
+            {
+                "content": "The fact is, no one will go to prison for an honest mistake or a minor breach like an occasional error when collecting the levy.",
+                "tag": "p"
+            },
+            {
+                "content": "Just as is the case for other charges, like VAT, prison would only be considered in the most serious cases, including where the levy has been deliberately evaded. And only in serious cases could money be recovered over a longer period as long as 20 years.",
+                "tag": "p"
+            },
+            {
+                "content": "Sentencing decisions are always a matter for the courts.",
+                "tag": "p"
+            },
+            {
+                "content": "Suggesting accommodation providers could be jailed for anything less is simply wrong \u2013 that is the last resort. The strategic authorities introducing the levy will focus on helping providers get it right. ",
+                "tag": "p"
+            },
+            {
+                "content": "The Bill will now go through Parliament, after which mayors and local leaders will consult businesses and local people in their areas and be able to set out their plans by March 2028, should they wish to bring a levy in",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/11/05/misleading-reporting-on-the-overnight-visitor-levy/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "This week the government introduced the Visitor Levy Bill in Parliament, bringing local leaders a step closer to new powers to invest in the high streets, cultural sites and attractions that make communities great places to live, work and visit. \u2026"
+    },
+    {
+        "title": "One year as Commissioner for the Tenant Farming Sector",
+        "authors": [
+            "Alan Laidlaw"
+        ],
+        "posted_on": "2026-11-05T13:02:20",
+        "categories": [
+            "Guest post",
+            "Tenant Farming Sector"
+        ],
+        "content": [
+            {
+                "content": "In September 2025, I took on the role of Commissioner for the Tenant Farming Sector because I believe a thriving tenant farming sector is essential to the future of English agriculture.",
+                "tag": "p"
+            },
+            {
+                "content": "Over the past year, my office has brought tenants, landlords and advisers together through regional roundtables. We launched our first sector survey and shared key insights with sector stakeholders and Defra policy colleagues. These conversations and findings have helped us better understand the challenges people face and the importance of raising concerns before relationships break down.",
+                "tag": "p"
+            },
+            {
+                "content": "In this post, I\u2019ll explain how we support the whole tenant farming sector, what we\u2019ve heard and how it informs policy. I\u2019ll also share why early contact matters, and our priorities for the next 12 months.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting the whole tenant farming sector",
+                "tag": "h2"
+            },
+            {
+                "content": "The role was created as recommended in Baroness Rock\u2019s review of the tenant farming sector. The Commissioner\u2019s purpose is to encourage fair working relationships across the tenanted sector, guided by the Agricultural Landlord and Tenant Code of Practice for England, which I\u2019ll refer to as the Code.",
+                "tag": "p"
+            },
+            {
+                "content": "One point I have been keen to emphasise since my appointment is that my role covers the whole tenant farming sector, not just tenants.",
+                "tag": "p"
+            },
+            {
+                "content": "That distinction matters.",
+                "tag": "p"
+            },
+            {
+                "content": "Good tenancy relationships depend on everyone involved working constructively together, including tenants, landlords, agents and solicitors. My office helps encourage constructive conversations and relationships.",
+                "tag": "p"
+            },
+            {
+                "content": "Listening is central to this role, and I have been encouraged by how willing people have been to share their experiences.",
+                "tag": "p"
+            },
+            {
+                "content": "By listening during our casework, engagements and conversations, we have gained a deeper understanding of the challenges facing tenants, landlords and advisers across the sector.",
+                "tag": "p"
+            },
+            {
+                "content": "Several consistent themes have emerged from these conversations including:",
+                "tag": "p"
+            },
+            {
+                "content": "With more farmers taking part in Sustainable Farming Incentive and Countryside Stewardship Higher Tier agreements, Landscape Recovery projects, biodiversity initiatives and emerging private markets for nature, people want to understand how tenants can take part fairly and how benefits and responsibilities are shared.",
+                "tag": "p"
+            },
+            {
+                "content": "These are often complex issues with no simple answers. Open and constructive dialogue between all parties helps us understand the detail of each issue and identify insights that my team can share anonymously with relevant colleagues in Defra and delivery bodies to inform future policy design.",
+                "tag": "p"
+            },
+            {
+                "content": "Helping your experiences shape policy",
+                "tag": "h2"
+            },
+            {
+                "content": "Turning what we hear into evidence for policy is an important part of our work alongside investigations. Much of this takes place behind the scenes, helping to strengthen understanding of tenant farming issues in wider policy discussions.",
+                "tag": "p"
+            },
+            {
+                "content": "We have worked closely with Defra policy colleagues, sharing insights from the sector and contributing evidence through the joint Defra and industry-led \u2018Farm Tenancy Forum\u2019. This helps ensure the lived experiences of those involved in agricultural tenancies are better understood by policymakers.",
+                "tag": "p"
+            },
+            {
+                "content": "We also launched our first anonymous survey of the tenant farming sector. The results show respondents\u2019 views on relationships, their experiences and their awareness of the Commissioner and the Code. They\u2019ve helped us identify areas for future work.",
+                "tag": "p"
+            },
+            {
+                "content": "We shared our findings with representative bodies to highlight the sentiment and challenges reported. We\u2019ll use these results as a starting point to assess our progress in future years.",
+                "tag": "p"
+            },
+            {
+                "content": "Our regional roundtables have brought people from across the sector together to discuss common challenges and opportunities. The most recent, in Cornwall, showed the value of creating space for frank, constructive conversations. These discussions can reveal insights formal consultations could miss.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "My team and I have also attended industry conferences, agricultural shows, representative body meetings and other events across the country. In the last 6 months, we have:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Our regular regional roundtables have been among the most effective ways to bring people together.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why raising concerns early matters\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "One of the clearest lessons from our first year is the value of raising concerns early.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Investigating individual cases of relationship or contractual problems is a major part of our work. Each case is different, but together they help us identify recurring concerns and build a broader picture of the issues affecting the sector.",
+                "tag": "p"
+            },
+            {
+                "content": "In a significant number of cases, people contact us only after relationships have broken down or legal proceedings, arbitration or notices to quit are already underway. By then, options become limited, positions become harder to change, trust more difficult to rebuild, and solutions more costly for all parties.",
+                "tag": "p"
+            },
+            {
+                "content": "My advice is simple: do not wait until a disagreement becomes a crisis. Raising concerns with my office early gives us more opportunity to identify constructive solutions that may work for both sides.",
+                "tag": "p"
+            },
+            {
+                "content": "Even if you are not sure you have a formal case, my office is available to everyone in the sector to raise questions and concerns.",
+                "tag": "p"
+            },
+            {
+                "content": "You can contact us through the GOV.UK service or via our mailbox at ctfs@defra.gov.uk.",
+                "tag": "p"
+            },
+            {
+                "content": "Looking ahead",
+                "tag": "h2"
+            },
+            {
+                "content": "Thank you to everyone who has spoken with us, responded to our survey, attended an event or shared experiences, ideas and concerns. I\u2019m also grateful to colleagues across Defra and the wider policy community who have helped establish and develop the office.",
+                "tag": "p"
+            },
+            {
+                "content": "There is still much to do. Over the next year, we\u2019ll focus on strengthening the evidence available to the sector. By sharing lessons, case studies and examples of good practice, alongside positive and negative experiences, we want to help people understand what good tenancy relationships look like and how to achieve better outcomes.",
+                "tag": "p"
+            },
+            {
+                "content": "We\u2019ll continue to raise awareness of the Commissioner and the Code through more regional roundtables and new ways of sharing our work and findings. A follow-up survey will help us understand what difference our first year\u2019s work has made.",
+                "tag": "p"
+            },
+            {
+                "content": "We also want to keep hearing from people across England. We welcome invitations to visit farms and organisations\u2019 offices or join meetings online. These conversations help strengthen collaboration and identify emerging issues early.",
+                "tag": "p"
+            },
+            {
+                "content": "I remain committed to supporting a thriving, professional and resilient tenant farming sector. That means promoting the Code, encouraging open discussion and helping people build stronger working relationships.",
+                "tag": "p"
+            },
+            {
+                "content": "The sector faces considerable challenges, but it also has significant opportunities through food production, environmental work and its contribution to rural economies. Working together will help tenants, landlords and advisers make the most of those opportunities.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/11/05/one-year-as-commissioner-for-the-tenant-farming-sector/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "In this post, the Commissioner for the Tenant Farming Sector reflects on his first year in the role. He shares how his role supports the whole tenant farming sector, what he\u2019s heard and how it informs policy, and his priorities for the year ahead."
+    },
+    {
         "title": "Prepare for gear changes",
         "authors": [
             "Steve Johnston, Compliance Impact Manager"
