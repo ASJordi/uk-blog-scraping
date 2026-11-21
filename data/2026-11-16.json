@@ -1,5 +1,560 @@
 [
     {
+        "title": "Meet the bacteria-eating viruses helping fight antibiotic resistance in poultry",
+        "authors": [
+            "Conor Graham"
+        ],
+        "posted_on": "2026-11-21T09:00:00",
+        "categories": [
+            "Antimicrobial Resistance",
+            "Bacterial diseases"
+        ],
+        "content": [
+            {
+                "content": "APHA molecular microbiologist Conor Graham reveals how research into bacteria-eating viruses is uncovering promising ways to tackle antibiotic resistance in poultry.",
+                "tag": "p"
+            },
+            {
+                "content": "My name is Conor, and I am a microbiologist at the Animal and Plant Health Agency (APHA), where I work on developing alternative ways to control bacteria on farms.",
+                "tag": "p"
+            },
+            {
+                "content": "One area of my work that I find particularly exciting, is bacteriophage research. The idea that we can use viruses to selectively target harmful bacteria, while potentially leaving beneficial bacteria unaffected, offers an interesting alternative to conventional antimicrobial treatments. My current work is exploring exactly how effective these treatments could be, and how we can investigate them without relying entirely on experiments in live animals.",
+                "tag": "p"
+            },
+            {
+                "content": "Why One Health matters",
+                "tag": "h2"
+            },
+            {
+                "content": "The health of people, animals and the environment is closely connected, a principle known as One Health. Antimicrobial resistance (AMR) is a clear example of why this matters. Every time we use antibiotics, we create opportunities for bacteria to develop resistance. These bacteria can spread between animals, people and the environment, making infections potentially more difficult to treat.",
+                "tag": "p"
+            },
+            {
+                "content": "Reducing reliance on antibiotics in livestock is therefore important not just for animal health, but for protecting the effectiveness of these medicines for everyone. Finding alternative ways to control bacterial infections is an important part of this effort.",
+                "tag": "p"
+            },
+            {
+                "content": "Using viruses to fight bacteria",
+                "tag": "h2"
+            },
+            {
+                "content": "Bacteriophages, or phages for short, are viruses that specifically infect bacteria. They attach to the surface of a bacterial cell, inject their genetic material and use the bacterium to produce more phages. Eventually, the bacterial cell bursts, releasing new phages that can infect other bacteria.",
+                "tag": "p"
+            },
+            {
+                "content": "Unlike many antibiotics, which can affect a broad range of bacteria, individual phages generally have a much narrower host range. This selectivity is particularly interesting because it means we could potentially target harmful bacteria without disrupting the beneficial microorganisms that make up the gut microbiome.",
+                "tag": "p"
+            },
+            {
+                "content": "With antimicrobial resistance becoming an increasing global concern, there is renewed interest in understanding how we might use these viruses in modern veterinary medicine.",
+                "tag": "p"
+            },
+            {
+                "content": "Targeting Salmonella Infantis in poultry",
+                "tag": "h2"
+            },
+            {
+                "content": "My main research focus has been a project investigating bacteriophage treatment against multidrug-resistant Salmonella Infantis in poultry. This work forms part of an international collaboration through the Joint Programming Initiative on Antimicrobial Resistance (JPIAMR), bringing together researchers with expertise in bacteriophages, microbiology and animal health.",
+                "tag": "p"
+            },
+            {
+                "content": "Salmonella Infantisis a bacterial pathogen associated with poultry production that can cause illness in people. Some strains carry a large section of additional DNA, called a plasmid, which can be transferred between bacteria. Plasmids can contain genes that make bacteria resistant to multiple antibiotics, including some important antibiotics used to treat infections in hospitals.",
+                "tag": "p"
+            },
+            {
+                "content": "Our aim was to investigate whether bacteriophages could effectively control this pathogen, particularly strains carrying these antimicrobial resistance genes.",
+                "tag": "p"
+            },
+            {
+                "content": "Initially, potentially useful phages were identified using plaque assays. These are relatively simple laboratory tests that allow us to see whether a phage can infect and kill a particular bacterial strain. However, bacteria do not exist in isolation in the gut. They are part of a complex community of microorganisms, and the surrounding environment can influence how effectively a treatment works.",
+                "tag": "p"
+            },
+            {
+                "content": "This is where our work at APHA became particularly important. Our role was to take promising phages identified by the wider research consortium, and investigate their effectiveness in a much more complex system that is more representative of real life.",
+                "tag": "p"
+            },
+            {
+                "content": "Recreating the chicken gut without infecting live animals",
+                "tag": "h2"
+            },
+            {
+                "content": "To do this, we used an in vitro chicken gut model. Rather than experimentally infecting live chickens, this system uses material collected from the caecum, a part of the chicken intestine that contains a diverse community of microorganisms.",
+                "tag": "p"
+            },
+            {
+                "content": "The model recreates important features of the chicken gut environment, including its temperature, acidity and lack of oxygen. We introduce bacteria and phages into small vessels containing the chicken gut material, allowing us to monitor how their populations change over time.",
+                "tag": "p"
+            },
+            {
+                "content": "The system also uses continuous culture, meaning that fresh nutrients are supplied while waste products are removed. This helps maintain a more stable environment and allows us to study interactions between bacteria, phages and the wider microbiome over several days.",
+                "tag": "p"
+            },
+            {
+                "content": "One of the biggest advantages of this approach is that we can investigate potential treatments in a complex biological environment without needing to carry out experimental infections in live animals. We can also collect samples at different time points to investigate not just whether a treatment works, but how it affects the wider bacterial community.",
+                "tag": "p"
+            },
+            {
+                "content": "What did we find?",
+                "tag": "h2"
+            },
+            {
+                "content": "The results were encouraging. Following a single phage cocktail treatment, we observed an approximately 99.9% reduction in Salmonella Infantis. Importantly, this reduction was maintained throughout the remaining three days of the experiment.",
+                "tag": "p"
+            },
+            {
+                "content": "We also used DNA sequencing to investigate what was happening to the wider gut microbiome. This allowed us to examine hundreds of different bacterial groups rather than focusing solely on Salmonella.",
+                "tag": "p"
+            },
+            {
+                "content": "We found no significant changes in overall microbial diversity following treatment. Although some individual bacterial groups increased or decreased, the broader microbial community remained relatively stable.",
+                "tag": "p"
+            },
+            {
+                "content": "This is particularly interesting when compared with conventional broad-spectrum antibiotics, which can affect many different bacterial groups, including those that are beneficial to gut health.",
+                "tag": "p"
+            },
+            {
+                "content": "Our findings demonstrate the potential of targeted phage treatment to control an important antibiotic-resistant pathogen while limiting disruption to the wider gut microbiome. They also demonstrate the usefulness of the gut model as a tool for evaluating potential treatments before progressing to animal studies.",
+                "tag": "p"
+            },
+            {
+                "content": "Where next?",
+                "tag": "h2"
+            },
+            {
+                "content": "This research is part of a much wider effort to develop alternatives to conventional antimicrobial treatments. At APHA, we are continuing to explore ways of improving our experimental gut models and incorporating complementary approaches, including intestinal tissue culture, to better understand how treatments interact with the host and its microbiome.",
+                "tag": "p"
+            },
+            {
+                "content": "I am also involved in collaborative research through the European Partnership on Animal Health and Welfare, which brings together research institutions across Europe to investigate ways of improving animal health while reducing antimicrobial use. This includes further work investigating bacteriophages against bacterial pathogens such as enterotoxigenic Escherichia coli, a type of E. coli that produces toxins in the gut and can cause diarrhoea.",
+                "tag": "p"
+            },
+            {
+                "content": "Phages are not a universal replacement for antibiotics. Bacteria can develop resistance to them, and their narrow host range means that treatments need to be carefully matched to the bacteria being targeted. However, I believe they could become a valuable addition to our approach to controlling bacterial infections.",
+                "tag": "p"
+            },
+            {
+                "content": "Ultimately, the aim is not simply to replace one treatment with another, but to develop better ways of preventing and controlling disease. Combining targeted treatments with surveillance, vaccination and improved farm management could help reduce antimicrobial use, improve animal welfare and tackle antimicrobial resistance as part of a wider One Health strategy.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://aphascience.blog.gov.uk/2026/11/21/meet-the-bacteria-eating-viruses-helping-fight-antibiotic-resistance-in-poultry/",
+        "blog": "APHA Science Blog",
+        "blog_link": "https://aphascience.blog.gov.uk",
+        "description": "APHA molecular microbiologist Conor Graham reveals how research into bacteria-eating viruses is uncovering promising ways to tackle antibiotic resistance in poultry."
+    },
+    {
+        "title": "What the new UK-EU SPS agreement means for food and feed safety and food businesses",
+        "authors": [
+            "Katie Pettifer, Chief Executive"
+        ],
+        "posted_on": "2026-11-20T17:02:46",
+        "categories": [
+            "Our mission"
+        ],
+        "content": [
+            {
+                "content": "Cymraeg",
+                "tag": "p"
+            },
+            {
+                "content": "Today, it was announced that the UK and EU have agreed a new deal for trading food, agricultural goods, animals and plants between the UK and EU, at a joint Summit in Brussels.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "It\u2019s called the UK-EU Sanitary and Phytosanitary Agreement, or SPS Agreement, and was negotiated by the UK Government, led by the Cabinet Office and Department for Environment, Food and Rural Affairs (Defra). You can read the government's full announcement on GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "As the SPS agreement is implemented, the FSA\u2019s priority remains the same as it has always been: protecting public health and protecting consumers, by upholding the high food and feed safety standards in the UK.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The agreement will make trade with the EU simpler and smoother, and open up new opportunities to access EU markets for businesses in the future. It will also make it quicker to get fresh produce on the shelves for shoppers.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "All sectors in scope of the agreement will need to ensure their products meet EU rules, so food and feed businesses may need to make some changes, even if they don\u2019t currently trade with the EU.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "I want to take this opportunity to explain what this agreement means and what businesses should do now.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What is changing?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Right now, food, agricultural goods, animals and plants are subject to controls such as checks or inspections when they cross the border between Great Britain (GB) and the EU. The new agreement will remove most of these controls, making it easier and cheaper for businesses to trade between GB and the EU. Changes to the Windsor Framework will also make it easier for goods to move between GB and Northern Ireland.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The application date for the SPS agreement will be 1 March 2028. From this date, most food and animal feed in GB will need to comply with EU rules. Businesses operating in these sectors may need to make changes, even if they don\u2019t currently trade with the EU.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Food and feed already on the GB market (including stock in storage awaiting sale) before 1 March 2028 can still be sold and used in GB until stocks run out, even if they don\u2019t meet EU rules. This stock must not enter the EU \u2013 we will provide further guidance to help businesses and local authorities keep this stock in the GB market.\u202f\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What does it mean for novel foods and precision-bred plants?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "As part of the deal, the UK and EU have agreed:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Further information on these arrangements can be found in the business guidance published on GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Will food be as safe as before?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "The FSA's role is, and continues to be, to protect public health and protect the interests of consumers. We will continue to make decisions based on evidence, and support safe, new and innovative technologies so that the high food and feed safety standards in the UK are maintained.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The UK has one of the safest food systems in the world, and the agreement will maintain our ability to protect it by giving us access to information, expertise and cooperation.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "From a food safety perspective, one of the biggest benefits is closer cooperation with European scientific and regulatory networks. This includes access to relevant EU agencies, systems and databases for food and feed safety. UK experts will be able to participate in agencies such as the European Food Safety Authority (EFSA), contributing in the same way as Member State scientists. UK evidence will inform EU risk assessments.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Access to EU systems and databases, such as the interactive Rapid Alert System for Food and Feed (iRASFF), will give us the latest information on emerging risks and help us trace and resolve problems faster, across the UK and the EU.\u00a0\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What should businesses do now?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Many businesses will see real benefits, but the impact will differ between sectors.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Even businesses that do not trade with the EU may need to make changes, because rules on food, agricultural goods, animal and plant health will need to align with EU rules. This may mean changing ingredients, recipes or labels, for example, and will affect businesses of all sizes, from bakeries and butchers to large retailers such as supermarkets.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These are the things businesses can do now:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The FSA will continue to work closely with Defra, other government departments, devolved governments, Food Standards Scotland, and the EU as these changes are put in place. Our work will continue to be evidence-led and will reflect the needs of the UK public, businesses and stakeholders.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Cyhoeddwyd heddiw fod y DU a\u2019r UE, mewn Uwchgynhadledd ar y cyd ym Mrwsel, wedi dod i gytundeb newydd ar fasnachu bwyd, nwyddau amaethyddol, anifeiliaid a phlanhigion rhwng y DU a\u2019r UE.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "\u2018Cytundeb Iechydol a Ffytoiechydol rhwng y DU a\u2019r UE\u2019, neu \u2018Cytundeb SPS\u2019, yw\u2019r enw ar y cytundeb newydd hwn. Llywodraeth y DU oedd yn negodi\u2019r cytundeb, dan arweiniad Swyddfa\u2019r Cabinet ac Adran yr Amgylchedd, Bwyd a Materion Gwledig (Defra). Gallwch ddarllen cyhoeddiad llawn y llywodraeth ar GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Wrth i\u2019r Cytundeb SPS gael ei roi ar waith, bydd blaenoriaeth yr ASB yn aros yr un fath ag erioed: diogelu iechyd y cyhoedd a diogelu defnyddwyr, drwy gynnal safonau diogelwch uchel ar gyfer bwyd a bwyd anifeiliaid yn y DU.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bydd y cytundeb yn gwneud masnachu \u00e2\u2019r UE yn symlach ac yn rhwyddach, a bydd yn cynnig cyfleoedd newydd i fusnesau gael mynediad i farchnadoedd yr UE yn y dyfodol. Bydd hefyd yn ei gwneud hi\u2019n gyflymach cael cynnyrch ffres ar y silffoedd i siopwyr.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bydd angen i bob sector o fewn cwmpas y cytundeb sicrhau fod ei gynhyrchion yn bodloni rheolau\u2019r UE, felly efallai y bydd angen i fusnesau bwyd a bwyd anifeiliaid wneud rhai newidiadau, hyd yn oed os nad ydyn nhw\u2019n masnachu \u00e2\u2019r UE ar hyn o bryd.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Hoffwn fanteisio ar y cyfle hwn i egluro beth mae\u2019r cytundeb hwn yn ei olygu a beth y dylai busnesau ei wneud nawr.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beth sy\u2019n newid?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Ar hyn o bryd, mae bwyd, nwyddau amaethyddol, anifeiliaid a phlanhigion yn destun rheolaethau fel gwiriadau neu arolygiadau wrth iddyn nhw groesi\u2019r ffin rhwng Prydain Fawr a\u2019r UE. Bydd y cytundeb newydd yn cael gwared ar y rhan fwyaf o\u2019r rheolaethau hyn, gan ei gwneud hi\u2019n haws ac yn rhatach i fusnesau fasnachu rhwng Prydain Fawr a\u2019r UE. Bydd newidiadau i Fframwaith Windsor hefyd yn ei gwneud hi\u2019n haws i nwyddau symud rhwng Prydain Fawr a Gogledd Iwerddon.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dyddiad rhoi\u2019r Cytundeb SPS ar waith fydd 1 Mawrth 2028. O\u2019r dyddiad hwnnw ymlaen, bydd angen i\u2019r rhan fwyaf o fwyd a bwyd anifeiliaid ym Mhrydain Fawr gydymffurfio \u00e2 Rheolau\u2019r UE. Efallai y bydd angen i fusnesau sy\u2019n gweithredu yn y sectorau hyn wneud newidiadau, hyd yn oed os nad ydyn nhw\u2019n masnachu \u00e2\u2019r UE ar hyn o bryd.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bydd bwyd a bwyd anifeiliaid, sydd eisoes ar farchnad Prydain Fawr (gan gynnwys stoc mewn storfeydd sy\u2019n aros i gael ei gwerthu) cyn 1 Mawrth 2028, yn dal i allu cael eu gwerthu a\u2019u defnyddio ym Mhrydain Fawr, hyd nes bo\u2019r stociau\u2019n dod i ben, hyd yn oed os nad ydyn nhw\u2019n bodloni rheolau\u2019r UE. Ni ddylai\u2019r stoc hon fynd i mewn i\u2019r UE \u2013 byddwn ni\u2019n darparu canllawiau pellach i helpu busnesau ac awdurdodau lleol i gadw\u2019r stoc hon ym marchnad Prydain Fawr.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beth mae\u2019n ei olygu i fwydydd newydd a phlanhigion wedi\u2019u bridio\u2019n fanwl?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Fel rhan o\u2019r cytundeb, mae\u2019r DU a\u2019r UE wedi cytuno ar y canlynol:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae mwy o wybodaeth ar gael am y trefniadau hyn yn y canllawiau busnes a gyhoeddwyd ar GOV.UK.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A fydd bwyd yr un mor ddiogel ag o\u2019r blaen?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Diogelu iechyd y cyhoedd a buddiannau defnyddwyr yw r\u00f4l yr ASB, ac mae hynny\u2019n wir o hyd. Byddwn ni\u2019n parhau i wneud penderfyniadau ar sail tystiolaeth, a chefnogi technolegau newydd ac arloesol sy\u2019n ddiogel, fel bod safonau diogelwch uchel ar gyfer bwyd a bwyd anifeiliaid yn y DU yn cael eu cynnal.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Mae gan y DU un o\u2019r systemau bwyd mwyaf diogel yn y byd, a bydd y cytundeb yn cynnal ein gallu i ddiogelu ein system fwyd drwy roi mynediad i ni at wybodaeth, arbenigedd, a chyfleoedd cydweithio.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "O safbwynt diogelwch bwyd, un o\u2019r manteision mwyaf yw\u2019r gallu i gydweithio\u2019n agosach \u00e2 rhwydweithiau gwyddonol a rheoleiddiol Ewrop. Mae hyn yn cynnwys mynediad at asiantaethau, systemau a chronfeydd data perthnasol yr UE ar gyfer diogelwch bwyd a bwyd anifeiliaid. Bydd arbenigwyr y DU yn gallu bod yn rhan o asiantaethau fel Awdurdod Diogelwch Bwyd Ewrop (EFSA), gan gyfrannu yn yr un modd \u00e2 gwyddonwyr aelod-wladwriaethau. Bydd tystiolaeth y DU yn llywio asesiadau risg yr UE.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bydd mynediad at systemau a chronfeydd data\u2019r UE, fel y System Rhybuddio Cyflym ar gyfer Bwyd a Bwyd Anifeiliaid rhyngweithiol (iRASFF), yn rhoi\u2019r wybodaeth ddiweddaraf i ni am risgiau sy\u2019n dod i\u2019r amlwg ac yn ein helpu i olrhain a datrys problemau\u2019n gyflymach, ar draws y DU a\u2019r UE.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Beth y dylai busnesau ei wneud nawr?\u00a0",
+                "tag": "h2"
+            },
+            {
+                "content": "Bydd llawer o fusnesau\u2019n gweld manteision, ond bydd yr effaith yn amrywio rhwng sectorau.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Efallai y bydd angen i fusnesau wneud newidiadau, hyd yn oed os nad ydyn nhw\u2019n masnachu \u00e2\u2019r UE, oherwydd y bydd angen i reolau gyd-fynd \u00e2 rheolau\u2019r UE mewn perthynas \u00e2 bwyd, nwyddau amaethyddol, ac iechyd anifeiliaid a phlanhigion. Gallai hyn olygu bod angen newid cynhwysion, ryseitiau neu labeli, er enghraifft, a bydd yn effeithio ar fusnesau o bob maint, o gigyddion a siopau bara i fanwerthwyr mawr fel archfarchnadoedd.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Dyma\u2019r pethau y gall busnesau eu gwneud nawr:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Bydd yr ASB yn parhau i weithio\u2019n agos gyda Defra, adrannau eraill y llywodraeth, y llywodraethau datganoledig, Safonau Bwyd yr Alban, a\u2019r UE, wrth i\u2019r newidiadau hyn gael eu rhoi ar waith. Bydd ein gwaith yn parhau i gael ei arwain gan dystiolaeth a bydd yn adlewyrchu anghenion busnesau, rhanddeiliaid a chyhoedd y DU.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://food.blog.gov.uk/2026/11/20/what-the-new-uk-eu-sps-agreement-means-for-food-and-feed-safety-and-food-businesses/",
+        "blog": "Food Standards Agency",
+        "blog_link": "https://food.blog.gov.uk",
+        "description": "The UK and EU reached a UK-EU Sanitary and Phytosanitary (SPS) Agreement on 20 November 2026. This means that rules may change for your business. FSA pages will be updated in due course with more information, find out what this means for your business and how to prepare for the change."
+    },
+    {
+        "title": "UK-EU SPS Agreement: what farmers and growers need to know",
+        "authors": [
+            "The Team"
+        ],
+        "posted_on": "2026-11-20T16:48:10",
+        "categories": [
+            "Farming across the UK",
+            "Farming and Countryside Team"
+        ],
+        "content": [
+            {
+                "content": "Today (Friday 20 November), at a summit in Brussels, the UK agreed a new Sanitary and Phytosanitary (SPS) Agreement with the European Union (EU).",
+                "tag": "p"
+            },
+            {
+                "content": "For many businesses, the Agreement will make trade in plants, animals, food and related products between the UK and EU easier, cheaper and more predictable. It aims to reduce the paperwork, certification costs and border delays that can make trading with the EU difficult. It could add up to \u00a35.1bn to the UK economy.",
+                "tag": "p"
+            },
+            {
+                "content": "The Agreement will apply from 1 March 2028. Farms and businesses may need to make changes ahead of this date to prepare and make the most of the opportunities it presents.",
+                "tag": "p"
+            },
+            {
+                "content": "In this post, we explain what the Agreement is, what this could mean for farmers and growers, how to prepare and where to get updates.",
+                "tag": "p"
+            },
+            {
+                "content": "Overview",
+                "tag": "h2"
+            },
+            {
+                "content": "The UK and EU have agreed to align on sanitary and phytosanitary (SPS) rules covering food and feed, plants, animals and other agri-food goods. This alignment is intended to make trade with our biggest market cheaper and easier, cutting costs on red tape for British producers and retailers.",
+                "tag": "p"
+            },
+            {
+                "content": "To support these trade opportunities, the Agreement will simplify the movement of goods between Great Britain and the EU. The main changes include:",
+                "tag": "p"
+            },
+            {
+                "content": "But the Agreement is not just about imports and exports. It will also affect some of the rules that apply domestically. This means your farm or business could be affected even if you do not trade with the EU.",
+                "tag": "p"
+            },
+            {
+                "content": "The Agreement includes a range of rules affecting farming and food production, including:",
+                "tag": "p"
+            },
+            {
+                "content": "What this means for you",
+                "tag": "h2"
+            },
+            {
+                "content": "What these changes mean for your business will depend on what you produce, the products you use and where you trade.",
+                "tag": "p"
+            },
+            {
+                "content": "For more information on the changes outlined below, read our updated guidance. It explains what the Agreement could mean for your sector and how you can start preparing for 1 March 2028.",
+                "tag": "p"
+            },
+            {
+                "content": "More detailed guidance will be published for affected sectors throughout 2027.",
+                "tag": "p"
+            },
+            {
+                "content": "If you trade with the EU",
+                "tag": "h4"
+            },
+            {
+                "content": "Importing and exporting agri-food goods between Great Britain and the EU will become simpler, with fewer routine checks and reduced paperwork and certification for some goods. This will be particularly beneficial for imports and exports of fresh or time-sensitive goods between the UK and the EU.",
+                "tag": "p"
+            },
+            {
+                "content": "If you are an arable farmer or grower",
+                "tag": "h4"
+            },
+            {
+                "content": "Changes to rules on pesticides, pesticide residue limits and treated seed could affect crop protection choices and the treated seeds you can use.",
+                "tag": "p"
+            },
+            {
+                "content": "If you keep livestock",
+                "tag": "h4"
+            },
+            {
+                "content": "Changes will affect animal identification, holding registration, animal movements and disease reporting, control and eradication programmes. They will affect the use of veterinary medicines, including antimicrobials, as well as feed additives, disinfectants and other products used on farms. We will retain our high animal welfare standards.",
+                "tag": "p"
+            },
+            {
+                "content": "If you supply farms and food producers",
+                "tag": "h4"
+            },
+            {
+                "content": "You could be affected if you produce, process, supply or move goods used in farming and food supply chains. These include animals and animal products, plants and plant products, food, feed, pesticides, biocides and other inputs.",
+                "tag": "p"
+            },
+            {
+                "content": "Businesses supplying the UK market and those trading with countries outside the EU may also be affected.",
+                "tag": "p"
+            },
+            {
+                "content": "Get ready and stay informed",
+                "tag": "h2"
+            },
+            {
+                "content": "There are no immediate changes to the rules you need to follow. Continue to follow current UK requirements until new rules take effect on 1 March 2028. To help you prepare:",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defrafarming.blog.gov.uk/2026/11/20/uk-eu-sps-agreement-what-farmers-and-growers-need-to-know/",
+        "blog": "Farming",
+        "blog_link": "https://defrafarming.blog.gov.uk",
+        "description": "At the UK-EU summit, a new Agreement was reached on food, animal and plant health. This could mean changes for your business, even if you only operate domestically and don\u2019t export to the EU. In this post, we explain what this could mean for farmers and growers, how to prepare and where to get updates."
+    },
+    {
+        "title": "Your school, your region: help us make every pound go further",
+        "authors": [
+            "Communications Team"
+        ],
+        "posted_on": "2026-11-20T14:58:14",
+        "categories": [
+            "News and Updates",
+            "Programme annoucements"
+        ],
+        "content": [
+            {
+                "content": "We're looking for school and trust leaders to apply to become Regional Value Leads. These are volunteers who speak up for their region, champion maximising value and help shape what comes next for Maximising Value for Pupils.",
+                "tag": "p"
+            },
+            {
+                "content": "Every pound a school saves on everyday costs is a pound it can spend on pupils.",
+                "tag": "p"
+            },
+            {
+                "content": "That's the idea behind Maximising Value for Pupils (Max VP). We help schools and trusts get the most from their money, buildings and staff. Tools like DfE Energy for Schools, the Banking Comparison Tool and the Supply Teachers and Education Recruitment (STeER) framework are already helping.",
+                "tag": "p"
+            },
+            {
+                "content": "Now we want your help to shape what comes next.",
+                "tag": "p"
+            },
+            {
+                "content": "We need your expertise at a regional level",
+                "tag": "p"
+            },
+            {
+                "content": "We're looking for senior leaders from schools and trusts across England to become Regional Value Leads. You'd join our National Advisory Group (part of Universal RISE) and be the voice of your region.",
+                "tag": "p"
+            },
+            {
+                "content": "You'd help us:",
+                "tag": "p"
+            },
+            {
+                "content": "What's in it for you?",
+                "tag": "p"
+            },
+            {
+                "content": "What would you need to do?",
+                "tag": "p"
+            },
+            {
+                "content": "It's a voluntary role. We'll give you briefing materials and a named contact. We'll also agree a level of activity that fits around your day job, and we'll tell you about any expenses available for agreed activity before you start.",
+                "tag": "p"
+            },
+            {
+                "content": "The group is advisory. You'll share insight and recommendations, but you won't make policy or funding decisions.",
+                "tag": "p"
+            },
+            {
+                "content": "Are you right for this?",
+                "tag": "p"
+            },
+            {
+                "content": "You don't need any experience of national groups. We want people with:",
+                "tag": "p"
+            },
+            {
+                "content": "We are keen to hear from a range of leaders including smaller schools and trusts, and from rural and coastal areas.",
+                "tag": "p"
+            },
+            {
+                "content": "How to apply",
+                "tag": "p"
+            },
+            {
+                "content": "Apply to become a Regional Value Lead",
+                "tag": "p"
+            },
+            {
+                "content": "Applications close on 5 January 2027.",
+                "tag": "p"
+            },
+            {
+                "content": "Need more information before you apply? Please contact us at: Maximising.VALUE@education.gov.uk",
+                "tag": "p"
+            },
+            {
+                "content": "Not for you? Please share this with a colleague who'd be great at it.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://buyingforschools.blog.gov.uk/2026/11/20/your-school-your-region-help-us-make-every-pound-go-further/",
+        "blog": "Maximising Value for Pupils (Max VP)",
+        "blog_link": "https://buyingforschools.blog.gov.uk",
+        "description": "We're looking for school and trust leaders to apply to become Regional Value Leads. These are volunteers who speak up for their region, champion maximising value and help shape what comes next for Maximising Value for Pupils. Every pound a \u2026"
+    },
+    {
         "title": "Exhibiting at the UK Chamber of Shipping's bi-annual conference\u00a0",
         "authors": [
             "Leanne Cassidy"
