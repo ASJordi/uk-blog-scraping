@@ -1,5 +1,586 @@
 [
     {
+        "title": "Looking Ahead at Quantum: A Futures Perspective",
+        "authors": [
+            "melissajanec"
+        ],
+        "posted_on": "2026-11-27T11:49:50",
+        "categories": [
+            "Co-funding",
+            "Futures Procurement Framework"
+        ],
+        "content": [
+            {
+                "content": "By Hannah Penn, Home Office",
+                "tag": "p"
+            },
+            {
+                "content": "Quantum technologies are moving rapidly from the lab into real-world applications. Governments around the world are investing in quantum computing, sensing and communications because of the opportunities they offer for scientific discovery, economic growth and national security.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "But what happens when those same technologies are misused?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Through the Government Office for Science\u2019s Co-funding initiative, the Home Office commissioned SAMI Consulting using the Futures Procurement Framework to explore a question that is often left unexamined: how might criminals exploit quantum technologies over the next 10+ years, and what does government need to do now to stay ahead of the risk?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why look at quantum through a malicious lens?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Much of the existing quantum discourse focuses on technical readiness or legitimate use cases. That is essential, but it can also leave a blind spot. History shows that criminals and hostile actors often adopt new technologies creatively, opportunistically and faster than institutions expect.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Rather than asking \u201cWhen will quantum arrive?\u201d, this project set out to ask:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What the project delivered\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The project produced four core outputs designed to support strategic planning.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A library of 20 detailed future scenarios, spanning cybercrime, fraud, organised crime, trafficking, surveillance and coercion. These scenarios range from incremental changes (such as quantum assisted fraud) to more disruptive possibilities (such as the selective unlocking of historic encrypted data for blackmail or influence).\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "These scenarios show how quantum capabilities could blend into existing criminal ecosystems, often amplifying familiar crimes rather than replacing them.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A visual timeline mapping different quantum capabilities against likely points of criminal use over the next 10+ years. A key finding is that criminal risk does not align neatly with headline quantum breakthroughs.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A structured framework linking types of crime, modes of access to quantum capability and families of quantum technology. This will help identify where risks are credible, where they are overstated and where government attention would add the most value.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "A short myth\u2011busting paper designed for non\u2011specialist audiences. It tackles persistent misconceptions such as, \u201cQuantum is just a faster computer\u201d.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Addressing these myths matters. Overhyping quantum risks can be just as damaging as underestimating them, leading to poor investment decisions, misplaced fear or vulnerability.",
+                "tag": "p"
+            },
+            {
+                "content": "What did we learn?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Across the project, several themes stood out:\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Above all, the project reinforced the importance of early, structured futures work. By exploring plausible futures before they fully materialise, government can make more proportionate, resilient and informed choices today across policy, procurement and capability planning for the future.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you would like to hear more about Futures and Foresight in the Home Office, please contact futuresandforesight@homeoffice.gov.uk.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Home Office presented this work to the Government Futures Network, a community of futures practitioners and policy makers. If you\u2019re in government and interested in joining the network contact the GO-Science Futures team at futures@go-science.gov.uk.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "There are also more case studies about using futures on our website and if you\u2019d like to find out more about commissioning your own futures project take a look here Futures Procurement Framework.\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://foresightprojects.blog.gov.uk/2026/11/27/looking-ahead-at-quantum-a-futures-perspective/",
+        "blog": "Futures, Foresight and Horizon Scanning",
+        "blog_link": "https://foresightprojects.blog.gov.uk",
+        "description": "By Hannah Penn, Home Office Quantum technologies are moving rapidly from the lab into real-world applications. Governments around the world are investing in quantum computing, sensing and communications because of the opportunities they offer for scientific discovery, economic growth and \u2026"
+    },
+    {
+        "title": "Architects of Tomorrow Hackathon inspires future digital talent",
+        "authors": [
+            "Tom Collins"
+        ],
+        "posted_on": "2026-11-27T10:59:49",
+        "categories": [
+            "Features"
+        ],
+        "content": [
+            {
+                "content": "One of the most rewarding parts of working in digital is seeing young people discover what they're capable of. That's exactly what happened at the recent Architects of Tomorrow Hackathon, which was delivered in partnership with the Government Digital Service (GDS) and Version 1. The event gave students the opportunity to explore digital careers, solve problems and use artificial intelligence (AI) to develop their ideas.",
+                "tag": "p"
+            },
+            {
+                "content": "Fifty students from 6 schools worked in teams to design and develop website prototypes that tackle real-world challenges. What impressed me most was how quickly they turned ideas into reality when given the right tools and encouragement.",
+                "tag": "p"
+            },
+            {
+                "content": "A hackathon with a difference",
+                "tag": "h2"
+            },
+            {
+                "content": "The Architects of Tomorrow Hackathon encouraged students to think differently about careers in technology. Rather than focusing solely on traditional coding skills, students were introduced to modern software development approaches using AI tools and Specification Driven Development (SDD). Dimitris Perdikou, Digital Advisor at Version 1, explained that SDD encourages people to focus on the problem they are trying to solve before creating a solution.",
+                "tag": "p"
+            },
+            {
+                "content": "Putting this knowledge to the test, students explored how to meet user needs for an online driving licence application, then used AI tools to turn their ideas into working code. By reducing the need for coding knowledge, the event showed that technology careers are accessible to people from a wide range of backgrounds.",
+                "tag": "p"
+            },
+            {
+                "content": "Celebrating success",
+                "tag": "h2"
+            },
+            {
+                "content": "After a day of workshops, collaboration and problem solving, students presented their AI-powered solutions to the judging panel. Pentrehafod Comprehensive School was named the overall winner. The high standard of entries across all teams made choosing a winner a difficult decision for the judges.",
+                "tag": "p"
+            },
+            {
+                "content": "A standout moment was watching the confidence in the room grow as the day progressed. Many participants had never experienced an event like this before, yet quickly began collaborating, testing ideas and presenting solutions.",
+                "tag": "p"
+            },
+            {
+                "content": "We also had great feedback from the attendees. For example, Gillian Hesse from Ysgol Penrhyn Dewi said:",
+                "tag": "p"
+            },
+            {
+                "content": "\"It was an excellent experience for the students. They were really pleased with what they created and surprised by what they were able to achieve.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "We saw that sense of surprise throughout the day. Students who arrived unsure of what to expect were presenting working solutions by the afternoon.",
+                "tag": "p"
+            },
+            {
+                "content": "Supporting future digital talent",
+                "tag": "h2"
+            },
+            {
+                "content": "At every STEM event I've been involved in, I\u2019ve seen the positive influence role models can have on young people. My colleagues at DVLA, alongside GDS and Version 1 colleagues, volunteered as mentors to help students develop ideas and learn more about digital careers. Their support went beyond answering technical questions, helping students build confidence and see technology as a realistic career option.",
+                "tag": "p"
+            },
+            {
+                "content": "One volunteer said:",
+                "tag": "p"
+            },
+            {
+                "content": "\u201cThe best part of volunteering was helping students turn an idea into something they could demonstrate and talk about. Answering questions and offering encouragement helped them build confidence and see that a career in technology could be for them.\u201d",
+                "tag": "p"
+            },
+            {
+                "content": "Days like this show why investing in future digital talent matters. As technology continues to evolve, it's more important than ever that young people have opportunities to explore digital careers and develop the confidence to pursue them.",
+                "tag": "p"
+            },
+            {
+                "content": "Following the success of the Architects of Tomorrow Hackathon, DVLA will continue supporting opportunities that promote digital skills and careers for young people. Sometimes all that's needed is an opportunity to help future talent flourish.",
+                "tag": "p"
+            },
+            {
+                "content": "Find out more about digital careers at DVLA and explore our latest opportunities on Civil Service Jobs.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://insidedvla.blog.gov.uk/2026/11/27/architects-of-tomorrow-hackathon-inspires-future-digital-talent/",
+        "blog": "Inside DVLA",
+        "blog_link": "https://insidedvla.blog.gov.uk",
+        "description": "Secondary school students recently joined us for the Architects of Tomorrow Hackathon to learn how creativity, teamwork and AI can help turn ideas into real digital solutions. Tom Collins, Head of Service Creation, reflects on the day\u2019s events."
+    },
+    {
+        "title": "Explainer: Rough Sleeping Pledge and October Programme Statistics\u00a0",
+        "authors": [
+            "mhclgpress"
+        ],
+        "posted_on": "2026-11-27T10:21:20",
+        "categories": [
+            "Homelessness"
+        ],
+        "content": [
+            {
+                "content": "The Government has set an ambitious goal to end rough sleeping. That challenge will not be solved overnight, but the new Rough Sleeping Programme marks an important step towards achieving it.",
+                "tag": "p"
+            },
+            {
+                "content": "The Prime Minister\u2019s pledge for this winter is clear: everyone sleeping rough should have the offer of a route off the streets before Christmas.",
+                "tag": "p"
+            },
+            {
+                "content": "That matters because no one can be forced to accept an offer of accommodation or support. The Government\u2019s job is to make sure that route is there when people are ready to take it, and to give local areas the resources they need to make meaningful offers to people sleeping rough.",
+                "tag": "p"
+            },
+            {
+                "content": "That is why we have put \u00a3874 million behind the Rough Sleeping Programme, with councils and mayors beginning to increase routes off the streets and open new accommodation and support.",
+                "tag": "p"
+            },
+            {
+                "content": "These figures are the start of the programme, not an assessment of its final impact.",
+                "tag": "p"
+            },
+            {
+                "content": "The first figures are an early picture of a programme that is still mobilising.",
+                "tag": "p"
+            },
+            {
+                "content": "Payments to local areas were made on 30 September. That means wider rough sleeping figures covering July to September also published today relate to the period immediately before councils received Programme funding and cannot be used to judge its impact.",
+                "tag": "p"
+            },
+            {
+                "content": "The new statistics are designed to provide more timely information about delivery. They show measures including:",
+                "tag": "p"
+            },
+            {
+                "content": "Local authorities are also implementing new monitoring arrangements, and Government is continuing to work closely with them to collect and improve the data.",
+                "tag": "p"
+            },
+            {
+                "content": "These figures provide the best available early picture of how the programme is mobilising and will become more informative as delivery and data collection develop.",
+                "tag": "p"
+            },
+            {
+                "content": "The Christmas pledge is about making sure an offer is there",
+                "tag": "p"
+            },
+            {
+                "content": "The pledge is to ensure everyone sleeping rough has the offer of a route off the streets. It is not a claim that ensures every person accepted that offer, nor that everyone will immediately move into permanent accommodation.",
+                "tag": "p"
+            },
+            {
+                "content": "An offer could include accommodation or support that gives someone a clear and accessible route away from the street. Funded bedspaces are one part of delivering that, but offers and bedspaces are not the same measure. This could also include things like mental health or substance misuse support to help people into settled accommodation.",
+                "tag": "p"
+            },
+            {
+                "content": "The data covering December will be published in the new year and will provide a fuller picture of delivery against the Christmas ambition. It would therefore be premature to use figures from the opening stages of the Programme to reach conclusions about whether that pledge has been delivered.",
+                "tag": "p"
+            },
+            {
+                "content": "Early indications from advisers show new beds and support beginning to open up, while local areas are putting in place the services needed to provide routes away from the",
+                "tag": "p"
+            },
+            {
+                "content": "The work does not end at Christmas.",
+                "tag": "p"
+            },
+            {
+                "content": "The Rough Sleeping Programme combines immediate action with investment in more settled homes and intensive support for people experiencing long-term rough sleeping.",
+                "tag": "p"
+            },
+            {
+                "content": "Further funding will give local areas greater certainty to plan and commission services so that support continues beyond this winter and through to the end of the Parliament.",
+                "tag": "p"
+            },
+            {
+                "content": "Overall, the \u00a3874 million Rough Sleeping Programme forms part of more than \u00a34.4 billion of Government investment in homelessness and rough sleeping services overall.",
+                "tag": "p"
+            },
+            {
+                "content": "Rough sleeping remains far too high. That is exactly why the Government has set an ambitious goal and backed it with substantial investment.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://mhclgmedia.blog.gov.uk/2026/11/27/explainer-rough-sleeping-pledge-and-october-programme-statistics/",
+        "blog": "MHCLG in the Media",
+        "blog_link": "https://mhclgmedia.blog.gov.uk",
+        "description": "The Government has set an ambitious goal to end rough sleeping. That challenge will not be solved overnight, but the new Rough Sleeping Programme marks an important step towards achieving it. The Prime Minister\u2019s pledge for this winter is clear: \u2026"
+    },
+    {
+        "title": "National Tree Week: why trees near you matter",
+        "authors": [
+            "Richard Chapman"
+        ],
+        "posted_on": "2026-11-27T09:44:57",
+        "categories": [
+            "Access and engagement",
+            "Climate change",
+            "Community",
+            "Forestry"
+        ],
+        "content": [
+            {
+                "content": "National Tree Week, led by The Tree Council, is a chance to celebrate the trees around us.",
+                "tag": "p"
+            },
+            {
+                "content": "There's plenty to appreciate about trees. They bring our landscapes to life, clean our air, and help keep our rivers healthy. Trees also help us cope with extreme weather, provide homes for wildlife, and support a greener economy.",
+                "tag": "p"
+            },
+            {
+                "content": "The Tree Council\u2019s Chief Executive, Sara Lom, said:",
+                "tag": "p"
+            },
+            {
+                "content": "\"National Tree Week is an invitation to reconnect with the trees near you. Whether that\u2019s planting a tree, joining a local event, exploring a nearby park, discovering a tree-story trail or simply spending a few minutes appreciating a favourite tree, every connection helps build a healthier, greener future.\"",
+                "tag": "p"
+            },
+            {
+                "content": "This week we published the Trees Action Plan for England, which sets out how we will grow, protect, improve and look after England's trees over the next 4 years and beyond.",
+                "tag": "p"
+            },
+            {
+                "content": "And it was also the week the Defra Secretary of State, Angela Eagle, planted the first tree in our second new national forest \u2013 part of our programme to plant three new national forests around the country between 2024 and 2029. We are planting trees at a pace not seen in decades.",
+                "tag": "p"
+            },
+            {
+                "content": "By working together with our partners, we\u2019ve achieved some incredible things for trees this year, and have even more to come.",
+                "tag": "p"
+            },
+            {
+                "content": "Our new Trees Action Plan, with over 80 ways to grow a greener England",
+                "tag": "p"
+            },
+            {
+                "content": "The new Trees Action Plan for England sets out how we will work with industry and stakeholders over the next four years to create a bigger, more resilient, nature-rich and productive national treescape that everyone can enjoy.",
+                "tag": "p"
+            },
+            {
+                "content": "Over 80 policy actions will help us meet our Environment Act target to increase woodland cover to at least 16.5% of England's land area by 2050. They will also contribute to other important Environment Act targets, such as creating or restoring wildlife-rich habitat.",
+                "tag": "p"
+            },
+            {
+                "content": "Investing in trees is an investment in our future. The plan will support thousands of green jobs, invest in skills and training, and help put our forestry, arboriculture and timber sectors on the sustainable footing needed for a greener future.",
+                "tag": "p"
+            },
+            {
+                "content": "Under the plan, we will:",
+                "tag": "p"
+            },
+            {
+                "content": "The Trees Action Plan is backed by over \u00a31 billion between 2024 and 2029, the largest investment in tree planting and forestry support England has ever seen.",
+                "tag": "p"
+            },
+            {
+                "content": "This includes \u00a321 million investment in research and development, ensuring our work is informed by the best available evidence and science long into the future.",
+                "tag": "p"
+            },
+            {
+                "content": "Through programmes such as the Natural Capital and Ecosystem Assessment, we\u2019re improving how we map and understand trees and woodlands across England, while strengthening the National Forest Inventory and our understanding of how people use our woodlands.",
+                "tag": "p"
+            },
+            {
+                "content": "Planting Three New National Forests",
+                "tag": "p"
+            },
+            {
+                "content": "Between 2024-2029 we are planting three new national forests across the country, providing new woodland for local communities and to help us store more carbon to fight climate change.",
+                "tag": "p"
+            },
+            {
+                "content": "These new and healthier woodlands will also create more space for nature to thrive, helping communities and the economy over a huge area of land, covering at least 50,000 hectares.",
+                "tag": "p"
+            },
+            {
+                "content": "They will benefit the communities around them for generations, providing a place to spend time outdoors, which can significantly improve both mental and physical wellbeing.",
+                "tag": "p"
+            },
+            {
+                "content": "To help us deliver these new forests, we're working with the National Forest Company, which has spent the last 30 years bringing the country\u2019s first National Forest in the heart of the Midlands to life. In March the National Forest Company hit a huge milestone by planting their 10 millionth tree.",
+                "tag": "p"
+            },
+            {
+                "content": "We're planting the new national forests where they can make the biggest difference",
+                "tag": "p"
+            },
+            {
+                "content": "This week planting began in the second of our new national forests, which is located between Oxford and Cambridge. It will give the Oxford-Cambridge corridor vital green infrastructure, as well as benefits for nature and communities.",
+                "tag": "p"
+            },
+            {
+                "content": "This new national forest spans 700 square miles, centred on the Great Ouse River and East West Rail corridors. Milton Keynes, Bedford and the new town at Tempsford will all fall within it.",
+                "tag": "p"
+            },
+            {
+                "content": "The forest will show how woodland can support large-scale economic growth and help create attractive places to live. It will also help nature recover faster, improve air and water quality and reduce flood risk.",
+                "tag": "p"
+            },
+            {
+                "content": "The forest will link up with Local Nature Recovery Strategies. That means local authorities can consider tree planting within strong local partnerships, and local leaders will have more say over the results for their residents.",
+                "tag": "p"
+            },
+            {
+                "content": "Keep the momentum going: help plant a greener future",
+                "tag": "p"
+            },
+            {
+                "content": "National Tree Week may be ending, but there\u2019s plenty to look forward to. By planting more trees and caring for existing ones, we can keep our progress growing and make a lasting difference to the places we call home. It\u2019s something we can all be part of.",
+                "tag": "p"
+            },
+            {
+                "content": "So why not carry on the celebration? Volunteer with your local tree planting project and help create a greener future for your community. Find out more about how to get involved.",
+                "tag": "p"
+            }
+        ],
+        "link": "https://defraenvironment.blog.gov.uk/2026/11/27/national-tree-week-why-trees-near-you-matter/",
+        "blog": "Environment",
+        "blog_link": "https://defraenvironment.blog.gov.uk",
+        "description": "Millions more trees are on the way for communities across the country, as a new tree action plan takes root."
+    },
+    {
+        "title": "Winter slurry spreading rules and risks - is your farm winter ready?\u00a0\u00a0",
+        "authors": [
+            "Environment Agency"
+        ],
+        "posted_on": "2026-11-27T09:36:21",
+        "categories": [
+            "agriculture",
+            "Environment Agency",
+            "Regulated industry",
+            "Rivers",
+            "Water"
+        ],
+        "content": [
+            {
+                "content": "With cattle being brought into sheds and increased rainfall, winter can mean pressure on slurry storage, leading to some people spreading slurry on land during the winter. This can cause problems for their business and the environment.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Spreading slurry on wet, waterlogged or frozen land in winter breaches the Farming Rules for Water. By checking drainage and guttering, making contingency plans and contacting us early if storage is nearly full, winter spreading can be avoided.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Find out how to protect your business and the environment during the winter months below.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Why shouldn\u2019t slurry be spread in winter? \u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What action can I take to avoid slurry spreading in winter?\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Quick fixes include making sure all your drainage and guttering is functioning as it should (to stop rainwater mixing with manure) and getting contingency plans in place in case your stores start to fill up. Consider whether you can use slurry bags or find additional storage off-farm.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What do I do with excess slurry?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "If you\u2019re concerned that your storage is at or nearing capacity, contact us to discuss your options. We can advise on low-risk options for spreading and how you can make longer term plans to manage your storage.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "What does the law say on slurry storage and when I can spread?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "The Silage, Slurry and Agricultural Fuel Oil (SSAFO) Regulations state that you must have a minimum of 4 months slurry storage capacity to comply with the SSAFO regulations \u00a0- rising to 5 months or more in Nitrate Vulnerable Zones depending on the type of livestock you keep. \u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "You can use the AHDB slurry wizard to calculate your storage requirements.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Farming Rules for Water: All applications of nutrients must be planned to not exceed the needs of soil and crop at the time of application. In most cases there is no requirement for nutrients during the winter months. You must also not create a significant risk of pollution.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "In Nitrate Vulnerable Zones closed periods apply in autumn and winter months, during which spreading is not permitted under any circumstances.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "During the winter months our officers will be conducting checks for winter spreading. If you are spreading where there is no soil or crop need, or are creating a significant pollution risk, you could face enforcement action.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Where can I get help with slurry storage?\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "For help with slurry storage issues, ask to be put in touch with your area agriculture regulation team.\u00a0\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Tel. 03708 506 506 (Monday to Friday, 8am to 6pm)\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Email: enquiries@environment-agency.gov.uk\u00a0",
+                "tag": "p"
+            }
+        ],
+        "link": "https://environmentagency.blog.gov.uk/2026/11/27/winter-slurry-spreading-rules-and-risks-is-your-farm-winter-ready/",
+        "blog": "Environment Agency: For homes and habitats.",
+        "blog_link": "https://environmentagency.blog.gov.uk",
+        "description": "With cattle being brought into sheds and increased rainfall, winter can mean pressure on slurry storage, leading to some people spreading slurry on land during the winter. This can cause problems for their business and the environment.\u00a0 Spreading slurry on \u2026"
+    },
+    {
+        "title": "Leading the Way: How GFiE Turns Experience Into Empowerment",
+        "authors": [
+            "karlharvey1"
+        ],
+        "posted_on": "2026-11-26T15:59:39",
+        "categories": [
+            "#GFIEsuccessstory",
+            "Break down barriers to opportunity",
+            "Care Experienced",
+            "Care Leavers",
+            "Life Chance Recruitment",
+            "National Care Leavers Month"
+        ],
+        "content": [
+            {
+                "content": "Every journey brings unique insights, but for care-experienced individuals, turning lived experience into a career path can often feel like an uphill battle. That\u2019s exactly where Going Forward into Employment (GFiE) steps in.",
+                "tag": "p"
+            },
+            {
+                "content": "Aligned with this year\u2019s \u2018National Care Leavers Month\u2019\u00a0 theme, \"Leading the Way: From Experience to Empowerment,\" GFiE is dedicated to unlocking potential, removing traditional hiring obstacles, and creating real opportunities for growth within public service.\u00a0 ",
+                "tag": "p"
+            },
+            {
+                "content": "Through a series of thoughtful initiatives, GFiE translates this theme into meaningful action and ensures every candidate is supported from application to career progression.",
+                "tag": "p"
+            },
+            {
+                "content": "How GFiE Removes Barriers",
+                "tag": "h3"
+            },
+            {
+                "content": "Traditional job applications can feel overwhelming, GFiE breaks down these hurdles by focusing on potential rather than academic credentials or complex competency frameworks.",
+                "tag": "p"
+            },
+            {
+                "content": "GFiE emphasises care-experienced individuals as self-determined leaders rather than passive recipients of care and acknowledges them as key advocates championing meaningful transformation throughout the care system.",
+                "tag": "p"
+            },
+            {
+                "content": "Making It Happen",
+                "tag": "h3"
+            },
+            {
+                "content": "When GFiE received some roles in DWP, based in Leeds, we were keen to work with Leeds City Council's Employment and Skills team, who are delivering the newly formed Healthy Working Lives Skills and Employment (Connect to Work) service. Having spoken to the team, we knew that their remit involved providing up to 12 months of personalised, one-to-one support with an employment specialist. The programme focuses on:",
+                "tag": "p"
+            },
+            {
+                "content": "Our experience of the service demonstrated the above - we were able to arrange a drop in session with some of the care-experienced young people to demystify the role and answer any questions. The team at Leeds City Council supported the young people to write applications that clearly outlined their transferable skills and strengths.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Going forward to interviews, the candidates described themselves as feeling at ease, and the vacancy holders were able to see their potential and alignment to DWP\u2019s values.\u00a0",
+                "tag": "p"
+            },
+            {
+                "content": "Local partners working in this way led to successful offers for all of the roles, and we hope this will be just the start of some fantastic careers for the care-experienced young people.",
+                "tag": "p"
+            },
+            {
+                "content": "Get Involved & Learn More",
+                "tag": "h3"
+            },
+            {
+                "content": "Whether you\u2019re a care leaver ready to begin your career journey or a manager looking to host a placement, GFiE provides the guidance, network, and tools to help you succeed. Head over to the GFiE blog to explore candidate stories, access support resources, and find out how you can get involved today!",
+                "tag": "p"
+            }
+        ],
+        "link": "https://gfie.blog.gov.uk/2026/11/26/leading-the-way-how-gfie-turns-experience-into-empowerment/",
+        "blog": "Life Chance Recruitment - Going Forward into Employment (GFiE)",
+        "blog_link": "https://gfie.blog.gov.uk",
+        "description": "Every journey brings unique insights, but for care-experienced individuals, turning lived experience into a career path can often feel like an uphill battle. That\u2019s exactly where Going Forward into Employment (GFiE) steps in. Aligned with this year\u2019s \u2018National Care Leavers \u2026"
+    },
+    {
         "title": "Five practical foundations for artificial intelligence (AI) readiness",
         "authors": [
             "Victoria McKinney, Senior Data Engineer",
